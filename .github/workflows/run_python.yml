@@ -7,7 +7,7 @@ on:
     paths-ignore:
       - 'lista_de_sismos.txt' # Avoid re-trigger loop from bot commit of this file
   schedule:
-    - cron: '*/30 * * * *'    # Runs every 30 minutes on GitHub servers
+    - cron: '*/17 * * * *'    # Runs every 17 minutes on GitHub servers
   workflow_dispatch:          # Allows you to click a "Run workflow" button manually
 
 permissions:
