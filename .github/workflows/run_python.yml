@@ -16,15 +16,17 @@ permissions:
 jobs:
   run-script:
     runs-on: ubuntu-latest    # Uses the latest Linux runner environment
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       # 1. Download the repository files onto the runner
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       # 2. Install Python on the runner
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.10' # Specify your preferred Python version
 
