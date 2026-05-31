@@ -8498,3 +8498,4 @@
 26/05/31 09:00:18 11.960 -88.309  18 3.7 C 125 Km al suroeste de Mechapa, Chinandega, Nicaragua
 26/05/31 09:04:31 11.928 -88.311  24 3.9 C 128 Km al suroeste de Mechapa, Chinandega, Nicaragua
 26/05/31 11:14:00 11.108 -86.694  22 4.6 C  69 Km al suroeste de Huehuete, Nicaragua
+26/05/31 11:13:59 11.106 -86.696  21 4.6 C  70 Km al suroeste de Huehuete, Nicaragua
