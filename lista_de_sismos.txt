@@ -8485,3 +8485,4 @@
 26/05/30 07:27:04 13.230 -89.668  35 2.8 C  44 Km al sureste de Acajutla, El Salvador
 26/05/30 09:25:10 13.093 -89.306  28 2.9 C  44 Km al sur de La Libertad, El Salvador
 26/05/30 13:10:58 13.839 -81.596   2 3.9 C  59 Km al noroeste de Isla Providencia, Colombia
+26/05/30 19:05:23 13.103 -87.977 122 2.5 C  13 Km al sureste de Intipucá, El Salvador
