@@ -8494,3 +8494,4 @@
 26/05/31 01:13:33 12.419 -87.837  35 2.5 C  54 Km al suroeste de Mechapa, Chinandega, Nicaragua
 26/05/31 02:18:43 11.957 -88.311  10 2.9 C 126 Km al suroeste de Mechapa, Chinandega, Nicaragua
 26/05/31 04:51:49 12.134 -88.156  74 4.0 C 100 Km al suroeste de Mechapa, Chinandega, Nicaragua
+26/05/31 07:10:24 10.640 -85.393  45 2.4 C   5 Km al norte de Liberia, Costa Rica
