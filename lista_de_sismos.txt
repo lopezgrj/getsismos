@@ -8508,3 +8508,5 @@
 26/06/01 02:55:00 13.204 -90.255  19 4.5 C  63 Km al suroeste de Acajutla, El Salvador
 26/06/01 05:18:23 12.082 -88.330  18 3.0 C 115 Km al suroeste de Punta Cosigüina, Nicaragua
 26/06/01 06:08:41 13.840 -89.704   6 2.1 C  14 Km al norte de Sonsonate, El Salvador
+26/06/01 06:08:41 13.852 -89.697   6 2.2 C  16 Km al norte de Sonsonate, El Salvador
+26/06/01 08:08:03 11.904 -88.343  19 3.2 C 132 Km al suroeste de Mechapa, Chinandega, Nicaragua
