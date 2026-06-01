@@ -8513,3 +8513,5 @@
 26/06/01 08:08:04 11.921 -88.317  20 3.2 C 129 Km al suroeste de Mechapa, Chinandega, Nicaragua
 26/06/01 09:58:58 12.318 -88.191  47 3.9 C  85 Km al suroeste de Punta Cosigüina, Nicaragua
 26/06/01 13:35:46 12.516 -87.040 163 2.0 C  14 Km al norte de El Realejo, Nicaragua
+26/06/01 14:42:47 15.819 -88.113   2 4.8 C  10 Km al noroeste de Omoa, Honduras
+26/06/01 15:28:07 12.525 -86.684  24 1.4 C   3 Km al noreste de Volcán Cerro Negro, Nicaragua
