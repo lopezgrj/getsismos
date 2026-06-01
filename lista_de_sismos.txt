@@ -8510,3 +8510,5 @@
 26/06/01 06:08:41 13.840 -89.704   6 2.1 C  14 Km al norte de Sonsonate, El Salvador
 26/06/01 06:08:41 13.852 -89.697   6 2.2 C  16 Km al norte de Sonsonate, El Salvador
 26/06/01 08:08:03 11.904 -88.343  19 3.2 C 132 Km al suroeste de Mechapa, Chinandega, Nicaragua
+26/06/01 08:08:04 11.921 -88.317  20 3.2 C 129 Km al suroeste de Mechapa, Chinandega, Nicaragua
+26/06/01 09:58:58 12.318 -88.191  47 3.9 C  85 Km al suroeste de Punta Cosigüina, Nicaragua
