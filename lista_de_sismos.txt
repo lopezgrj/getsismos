@@ -8502,3 +8502,6 @@
 26/05/31 16:43:35 13.245 -89.541  48 2.9 C  35 Km al suroeste de La Libertad, El Salvador
 26/05/31 16:43:36 13.309 -89.557  49 2.9 C  32 Km al suroeste de La Libertad, El Salvador
 26/05/31 21:26:14 12.490 -88.185  27 3.5 C  71 Km al suroeste de Punta Cosigüina, Nicaragua
+26/05/31 21:26:14 12.490 -88.185  27 3.6 C  71 Km al suroeste de Punta Cosigüina, Nicaragua
+26/05/31 22:21:19 12.717 -88.731  26 2.8 C  61 Km al sur de Delta del Rio Lempa, El Salvador
+26/05/31 22:55:15 13.750 -90.065 163 2.4 C  23 Km al norte de Las Brisas, Guatemala
