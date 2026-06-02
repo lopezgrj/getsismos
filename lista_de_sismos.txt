@@ -8524,3 +8524,4 @@
 26/06/02 03:50:56 15.981 -87.490   1 4.4 C  23 Km al norte de Tela, Honduras
 26/06/02 04:06:26 14.288 -92.647  22 3.4 C  52 Km al suroeste de El Gancho México
 26/06/02 06:38:36 13.884 -91.441  39 3.2 C  13 Km al suroeste de Tecojate, Guatemala
+26/06/02 07:39:07 12.641 -88.296  28 2.7 C  63 Km al sur de Playa El Cuco, El Salvador
