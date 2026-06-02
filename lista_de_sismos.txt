@@ -8520,3 +8520,6 @@
 26/06/01 22:05:50 12.214 -86.303   8 1.9 C   5 Km al sureste de Laguna de Apoyeque, Nicaragua
 26/06/02 02:07:53 12.931 -88.775  45 3.2 C  37 Km al sur de Delta del Rio Lempa, El Salvador
 26/06/02 02:27:48 11.962 -87.815  10 3.4 C  91 Km al suroeste de Corinto, Nicaragua
+26/06/02 03:32:23 13.193 -88.111 112 2.4 C   2 Km al norte de Playa El Cuco, El Salvador
+26/06/02 03:50:56 15.981 -87.490   1 4.4 C  23 Km al norte de Tela, Honduras
+26/06/02 04:06:26 14.288 -92.647  22 3.4 C  52 Km al suroeste de El Gancho México
