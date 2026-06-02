@@ -8516,3 +8516,4 @@
 26/06/01 14:42:47 15.819 -88.113   2 4.8 C  10 Km al noroeste de Omoa, Honduras
 26/06/01 15:28:07 12.525 -86.684  24 1.4 C   3 Km al noreste de Volcán Cerro Negro, Nicaragua
 26/06/01 19:35:53 13.335 -87.896   9 2.1 C   6 Km al oeste de La Union, El Salvador
+26/06/01 22:05:50 12.214 -86.303   8 1.8 C   5 Km al sureste de Laguna de Apoyeque, Nicaragua
