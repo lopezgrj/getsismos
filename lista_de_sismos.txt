@@ -8535,3 +8535,4 @@
 26/06/03 00:40:04 14.177 -90.253   8 2.3 C  12 Km al sureste de Cuilapa, Guatemala
 26/06/03 03:01:56 12.740 -88.477  31 2.7 C  62 Km al suroeste de Playa El Cuco, El Salvador
 26/06/03 04:44:14 13.438 -90.490  21 2.6 C  49 Km al suroeste de Las Brisas, Guatemala
+26/06/02 22:07:38 11.899 -88.193  26 3.4 C 123 Km al suroeste de Mechapa, Chinandega, Nicaragua
