@@ -8532,3 +8532,4 @@
 26/06/02 20:30:02 13.751 -89.405   8 2.1 C  15 Km al noroeste de Santa Tecla, El Salvador
 26/06/02 22:07:38 11.872 -88.190  22 3.4 C 125 Km al suroeste de Jiquilillo, Nicaragua
 26/06/02 22:53:54 12.935 -89.998  11 2.9 C  75 Km al sur de Acajutla, El Salvador
+26/06/03 00:40:04 14.177 -90.253   8 2.3 C  12 Km al sureste de Cuilapa, Guatemala
