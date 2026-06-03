@@ -8526,3 +8526,5 @@
 26/06/02 06:38:36 13.884 -91.441  39 3.2 C  13 Km al suroeste de Tecojate, Guatemala
 26/06/02 07:39:07 12.641 -88.296  28 2.7 C  63 Km al sur de Playa El Cuco, El Salvador
 26/06/02 14:23:28 10.333 -84.121  56 2.8 C  19 Km al norte de Vara Blanca, Costa Rica
+26/06/02 18:41:44  7.359 -80.559  47 5.0 C  14 Km al oeste de Tonosí, Panamá
+26/06/02 19:15:50 12.069 -87.985  25 2.9 C  94 Km al suroeste de Jiquilillo, Nicaragua
