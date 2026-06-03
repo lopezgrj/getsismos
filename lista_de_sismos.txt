@@ -8530,3 +8530,4 @@
 26/06/02 19:15:50 12.069 -87.985  25 2.9 C  94 Km al suroeste de Jiquilillo, Nicaragua
 26/06/02 19:42:58 12.904 -88.955  35 3.4 C  41 Km al sur de Delta del Rio Lempa, El Salvador
 26/06/02 20:30:02 13.751 -89.405   8 2.1 C  15 Km al noroeste de Santa Tecla, El Salvador
+26/06/02 22:07:38 11.872 -88.190  22 3.4 C 125 Km al suroeste de Jiquilillo, Nicaragua
