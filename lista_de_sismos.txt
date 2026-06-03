@@ -8534,3 +8534,4 @@
 26/06/02 22:53:54 12.935 -89.998  11 2.9 C  75 Km al sur de Acajutla, El Salvador
 26/06/03 00:40:04 14.177 -90.253   8 2.3 C  12 Km al sureste de Cuilapa, Guatemala
 26/06/03 03:01:56 12.740 -88.477  31 2.7 C  62 Km al suroeste de Playa El Cuco, El Salvador
+26/06/03 04:44:14 13.438 -90.490  21 2.6 C  49 Km al suroeste de Las Brisas, Guatemala
