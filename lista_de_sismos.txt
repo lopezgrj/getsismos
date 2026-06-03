@@ -8539,3 +8539,4 @@
 26/06/03 10:31:54 13.093 -89.284  14 3.1 C  44 Km al sur de La Libertad, El Salvador
 26/06/03 11:59:35 12.077 -86.162  11 2.5 C   8 Km al noreste de Ticuantepe, Nicaragua
 26/06/03 12:08:39 12.628 -87.973  28 2.9 C  44 Km al suroeste de Punta Cosigüina, Nicaragua
+26/05/31 04:51:48 12.079 -88.183  25 4.0 C 106 Km al suroeste de Mechapa, Chinandega, Nicaragua
