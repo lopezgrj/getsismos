@@ -8550,3 +8550,4 @@
 26/06/04 01:43:58 13.083 -89.534  32 2.5 C  50 Km al suroeste de La Libertad, El Salvador
 26/06/04 02:41:11 12.669 -88.381  28 3.1 C  63 Km al suroeste de Playa El Cuco, El Salvador
 26/06/04 04:08:24 13.461 -90.704  36 2.9 C  52 Km al sur de Iztapa, Guatemala
+26/06/04 06:57:06 12.615 -88.246  26 2.5 C  64 Km al sur de Playa El Cuco, El Salvador
