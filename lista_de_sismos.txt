@@ -8542,3 +8542,5 @@
 26/05/31 04:51:48 12.079 -88.183  25 4.0 C 106 Km al suroeste de Mechapa, Chinandega, Nicaragua
 26/06/03 16:14:06 12.170 -87.885  24 3.5 C  79 Km al suroeste de Jiquilillo, Nicaragua
 26/06/03 19:14:29 12.314 -87.676  32 2.4 C  53 Km al suroeste de Jiquilillo, Nicaragua
+26/06/03 19:52:21 13.861 -91.947  38 3.1 C  42 Km al suroeste de Tulate, Guatemala
+26/06/03 19:55:15  8.533 -83.704   6 5.0 C  23 Km al noroeste de Playa Madrigal, Costa Rica
