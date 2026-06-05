@@ -8555,3 +8555,6 @@
 26/06/04 17:43:48 12.821 -86.086  10 3.0 C  22 Km al suroeste de Matagalpa, Nicaragua
 26/06/04 17:43:48 12.823 -86.087   7 3.0 C  22 Km al suroeste de Matagalpa, Nicaragua
 26/06/04 19:30:18 13.306 -89.950  20 2.5 C  34 Km al sur de Acajutla, El Salvador
+26/06/04 23:39:15 13.278 -87.758   6 2.5 C  11 Km al sureste de La Union, El Salvador
+26/06/05 00:24:58 12.118 -86.800 118 2.1 C  10 Km al suroeste de Puerto Sandino, Nicaragua
+26/06/05 00:38:00 13.287 -87.766   7 2.7 C  10 Km al sureste de La Union, El Salvador
