@@ -8563,3 +8563,4 @@
 26/06/05 05:25:28 15.505 -94.666   5 4.9 C  95 Km al sureste de Salina Cruz, México
 26/06/05 06:27:24 12.983 -89.268  26 5.2 C  56 Km al sur de La Libertad, El Salvador
 26/06/05 11:59:39 12.073 -86.114  18 2.0 C  12 Km al noreste de Volcán Masaya, Nicaragua
+26/06/05 14:55:02 16.245 -98.605   1 5.9 C  45 Km al sureste de Casa de Piedra, México
