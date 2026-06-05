@@ -8564,3 +8564,5 @@
 26/06/05 06:27:24 12.983 -89.268  26 5.2 C  56 Km al sur de La Libertad, El Salvador
 26/06/05 11:59:39 12.073 -86.114  18 2.0 C  12 Km al noreste de Volcán Masaya, Nicaragua
 26/06/05 14:55:02 16.245 -98.605   1 5.9 C  45 Km al sureste de Casa de Piedra, México
+26/06/05 14:55:04 16.143 -98.659  27 5.9 C  51 Km al sureste de Casa de Piedra, México
+26/06/05 15:07:20 13.857 -91.196  24 3.2 C   8 Km al sur de San Jose, Guatemala
