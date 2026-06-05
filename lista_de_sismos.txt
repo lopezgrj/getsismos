@@ -8561,3 +8561,4 @@
 26/06/05 01:12:31 13.283 -87.765   4 2.3 C  10 Km al sureste de La Union, El Salvador
 26/06/05 04:08:43 12.474 -87.782  31 2.9 C  46 Km al suroeste de Mechapa, Chinandega, Nicaragua
 26/06/05 05:25:28 15.505 -94.666   5 4.9 C  95 Km al sureste de Salina Cruz, México
+26/06/05 06:27:24 12.983 -89.268  26 5.2 C  56 Km al sur de La Libertad, El Salvador
