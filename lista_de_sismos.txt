@@ -8569,3 +8569,4 @@
 26/06/05 14:55:05 16.849 -98.373  45 5.3 C  66 Km al noreste de Casa de Piedra, México
 26/06/05 16:51:16 10.235 -86.305  33 3.4 C  35 Km al oeste de Rosario, Costa Rica
 26/06/05 18:21:23 10.472 -86.227   7 2.8 C  31 Km al noroeste de Rosario, Costa Rica
+26/06/05 20:06:06 13.882 -89.784  14 1.7 C   8 Km al sureste de Ahuachapan, El Salvador
