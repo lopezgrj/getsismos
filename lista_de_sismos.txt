@@ -8575,3 +8575,4 @@
 26/06/05 20:44:53 12.001 -87.881   1 2.7 C  94 Km al suroeste de Corinto, Nicaragua
 26/06/05 23:32:40 13.249 -90.005  26 2.6 C  42 Km al suroeste de Acajutla, El Salvador
 26/06/05 23:57:45 12.893 -89.058  32 3.3 C  47 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/06/06 01:45:29 11.601 -85.682  13 2.1 C   7 Km al norte de Moyogalpa, Nicaragua
