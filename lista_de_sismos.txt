@@ -8577,3 +8577,4 @@
 26/06/05 23:57:45 12.893 -89.058  32 3.3 C  47 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/06/06 01:45:29 11.601 -85.682  13 2.1 C   7 Km al norte de Moyogalpa, Nicaragua
 26/06/06 03:20:13 11.081 -86.711  32 3.0 C  73 Km al suroeste de Huehuete, Nicaragua
+26/06/06 05:55:34 13.176 -89.841  24 2.9 C  46 Km al sur de Acajutla, El Salvador
