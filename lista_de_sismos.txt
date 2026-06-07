@@ -8586,3 +8586,4 @@
 26/06/06 20:43:12 12.872 -90.279  12 2.9 C  93 Km al suroeste de Acajutla, El Salvador
 26/06/06 22:35:02 12.826 -90.283  11 4.0 C  98 Km al suroeste de Acajutla, El Salvador
 26/06/07 00:13:51 12.756 -88.593  27 2.9 C  61 Km al sureste de Delta del Rio Lempa, El Salvador
+26/06/07 04:55:15 11.837 -86.884 151 2.2 C  31 Km al suroeste de El Transito, Nicaragua
