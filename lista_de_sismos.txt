@@ -8588,3 +8588,4 @@
 26/06/07 00:13:51 12.756 -88.593  27 2.9 C  61 Km al sureste de Delta del Rio Lempa, El Salvador
 26/06/07 04:55:15 11.837 -86.884 151 2.2 C  31 Km al suroeste de El Transito, Nicaragua
 26/06/07 09:33:51 14.179 -92.455  29 4.7 C  46 Km al suroeste de San Marcos, Guatemala
+26/06/07 10:42:11 13.027 -89.179  20 3.0 C  46 Km al suroeste de Delta del Rio Lempa, El Salvador
