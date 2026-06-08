@@ -8592,3 +8592,4 @@
 26/06/07 12:22:10  2.206 -84.432   5 5.2 C 372 Km al suroeste de Isla de Malpelo, Colombia
 26/06/07 13:01:57 10.879 -86.423  18 2.8 C  52 Km al oeste de Caba Santa Elena, Costa Rica
 26/06/07 18:40:31 10.921 -86.909  31 3.3 C 100 Km al suroeste de Huehuete, Nicaragua
+26/06/07 19:34:56 12.376 -87.774  31 3.0 C  54 Km al suroeste de Jiquilillo, Nicaragua
