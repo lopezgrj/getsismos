@@ -8596,3 +8596,5 @@
 26/06/07 23:30:29 11.660 -86.537  59 2.9 C  13 Km al sur de Pochomil, Nicaragua
 26/06/07 23:36:10 12.911 -88.972  31 3.5 C  41 Km al sur de Delta del Rio Lempa, El Salvador
 26/06/08 00:58:56 12.742 -90.487  11 3.1 C 118 Km al suroeste de Acajutla, El Salvador
+26/06/08 00:58:57 12.761 -90.427  23 3.1 C 112 Km al suroeste de Acajutla, El Salvador
+26/06/08 05:15:02 14.843 -91.720  31 3.0 C  16 Km al sureste de San Marcos, Guatemala
