@@ -8613,3 +8613,4 @@
 26/06/09 12:59:19 12.242 -88.079  33 3.0 C  85 Km al suroeste de Mechapa, Chinandega, Nicaragua
 26/06/09 14:39:12 12.551 -87.961  29 3.5 C  50 Km al suroeste de Punta Cosigüina, Nicaragua
 26/06/09 15:49:34 11.726 -87.297  19 3.3 C  74 Km al suroeste de El Transito, Nicaragua
+26/06/09 15:49:34 11.756 -87.300  19 3.3 C  73 Km al suroeste de El Transito, Nicaragua
