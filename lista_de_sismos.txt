@@ -8601,3 +8601,4 @@
 26/06/08 03:36:35 13.119 -84.721  12 2.6 C  69 Km al sur de Siuna, Nicaragua
 26/06/08 14:51:33 12.267 -87.452  37 3.4 C  39 Km al suroeste de Corinto, Nicaragua
 26/06/08 17:21:27  8.518 -83.073  32 2.3 C  20 Km al noroeste de Laurel, Costa Rica
+26/06/08 19:47:42 12.206 -86.556 138 2.1 C   7 Km al sur de Nagarote, Nicaragua
