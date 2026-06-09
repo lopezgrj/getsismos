@@ -8611,3 +8611,4 @@
 26/06/09 10:06:31 11.140 -85.673 156 3.6 C  10 Km al norte de El Ostional, San Juan del Sur, Nicaragua
 26/06/09 11:43:08 12.769 -90.454  10 3.2 C 113 Km al suroeste de Acajutla, El Salvador
 26/06/09 12:59:19 12.242 -88.079  33 3.0 C  85 Km al suroeste de Mechapa, Chinandega, Nicaragua
+26/06/09 14:39:12 12.551 -87.961  29 3.5 C  50 Km al suroeste de Punta Cosigüina, Nicaragua
