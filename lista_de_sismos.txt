@@ -8607,3 +8607,4 @@
 26/06/09 01:57:17 14.849 -90.162   8 2.6 C  15 Km al oeste de El Progreso, Guatemala
 26/06/09 02:46:17 12.710 -88.858  59 2.9 C  61 Km al sur de Delta del Rio Lempa, El Salvador
 26/06/09 06:08:06 12.824 -88.716  39 3.3 C  50 Km al sur de Delta del Rio Lempa, El Salvador
+26/06/09 07:42:53 12.608 -87.845  32 3.0 C  38 Km al suroeste de Punta Cosigüina, Nicaragua
