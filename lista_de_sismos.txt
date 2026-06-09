@@ -8609,3 +8609,4 @@
 26/06/09 06:08:06 12.824 -88.716  39 3.3 C  50 Km al sur de Delta del Rio Lempa, El Salvador
 26/06/09 07:42:53 12.608 -87.845  32 3.0 C  38 Km al suroeste de Punta Cosigüina, Nicaragua
 26/06/09 10:06:31 11.140 -85.673 156 3.6 C  10 Km al norte de El Ostional, San Juan del Sur, Nicaragua
+26/06/09 11:43:08 12.769 -90.454  10 3.2 C 113 Km al suroeste de Acajutla, El Salvador
