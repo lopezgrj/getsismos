@@ -8614,3 +8614,5 @@
 26/06/09 14:39:12 12.551 -87.961  29 3.5 C  50 Km al suroeste de Punta Cosigüina, Nicaragua
 26/06/09 15:49:34 11.726 -87.297  19 3.3 C  74 Km al suroeste de El Transito, Nicaragua
 26/06/09 15:49:34 11.756 -87.300  19 3.3 C  73 Km al suroeste de El Transito, Nicaragua
+26/06/09 17:17:24 15.569 -94.766  28 4.3 C  83 Km al sureste de Salina Cruz, México
+26/06/09 17:41:40 10.579 -86.423   8 3.6 C  55 Km al noroeste de Rosario, Costa Rica
