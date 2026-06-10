@@ -8616,3 +8616,4 @@
 26/06/09 15:49:34 11.756 -87.300  19 3.3 C  73 Km al suroeste de El Transito, Nicaragua
 26/06/09 17:17:24 15.569 -94.766  28 4.3 C  83 Km al sureste de Salina Cruz, México
 26/06/09 17:41:40 10.579 -86.423   8 3.6 C  55 Km al noroeste de Rosario, Costa Rica
+26/06/09 19:13:48 10.239 -84.406   8 3.0 C  29 Km al oeste de Vara Blanca, Costa Rica
