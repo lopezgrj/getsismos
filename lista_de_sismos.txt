@@ -8634,3 +8634,4 @@
 26/06/10 09:13:12 11.884 -87.245  18 2.9 C  58 Km al suroeste de Las Penitas, Nicaragua
 26/06/10 11:37:19  9.620 -84.077  27 3.5 C  15 Km al norte de Naranjito, Costa Rica
 26/06/10 11:46:27 11.794 -87.516  22 3.8 C  83 Km al suroeste de Las Penitas, Nicaragua
+26/06/10 12:39:14 12.505 -87.866  31 2.5 C  48 Km al suroeste de Mechapa, Chinandega, Nicaragua
