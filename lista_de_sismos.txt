@@ -8639,3 +8639,4 @@
 26/06/05 20:39:25 11.621 -87.707  21 3.5 C 111 Km al suroeste de Las Penitas, Nicaragua
 26/06/10 14:37:04 13.444 -88.272   2 2.6 C  11 Km al oeste de San Miguel, El Salvador
 26/06/10 15:21:43 11.250 -85.741 180 4.0 C  14 Km al sur de La Virgen, Nicaragua
+26/06/10 16:47:31 13.063 -89.264  27 3.0 C  47 Km al sur de La Libertad, El Salvador
