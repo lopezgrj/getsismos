@@ -8621,3 +8621,5 @@
 26/06/09 21:25:19 12.490 -87.824  32 2.4 C  46 Km al suroeste de Mechapa, Chinandega, Nicaragua
 26/06/10 00:05:50 12.987 -88.959  54 3.0 C  33 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/06/10 03:08:05 11.802 -87.583  11 2.8 C  87 Km al suroeste de Poneloya, Nicaragua
+26/06/10 03:08:06 11.812 -87.573  12 2.7 C  85 Km al suroeste de Poneloya, Nicaragua
+26/06/10 07:28:26 13.095 -89.240  28 3.2 C  44 Km al sur de La Libertad, El Salvador
