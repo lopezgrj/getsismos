@@ -8649,3 +8649,5 @@
 26/06/11 00:50:22 14.766 -92.950  39 4.2 C  64 Km al suroeste de Pueblo Nuevo, México
 26/06/11 01:55:37 13.327 -90.200  29 2.7 C  49 Km al suroeste de Acajutla, El Salvador
 26/06/11 02:22:24 12.494 -87.395  58 1.8 C  21 Km al oeste de Pasocaballos, El Realejo, Nicaragua
+26/06/11 03:23:40 11.040 -86.464  22 2.5 C  59 Km al oeste de Caba Santa Elena, Costa Rica
+26/06/11 03:33:06 12.894 -88.783  40 3.3 C  41 Km al sur de Delta del Rio Lempa, El Salvador
