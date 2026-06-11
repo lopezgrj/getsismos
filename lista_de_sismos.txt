@@ -8643,3 +8643,6 @@
 26/06/10 17:12:07 14.298 -92.206  37 3.4 C  23 Km al sur de San Marcos, Guatemala
 26/06/10 18:41:33 13.536 -90.004  32 2.3 C  20 Km al oeste de Acajutla, El Salvador
 26/06/10 22:29:34 12.181 -87.316  39 2.4 C  37 Km al suroeste de Poneloya, Nicaragua
+26/06/10 23:58:36 14.425 -90.696   4 2.9 C  15 Km al sur de Antigua Guatemala, Guatemala
+26/06/10 23:59:02 14.421 -90.714   1 3.0 C  15 Km al sur de Antigua Guatemala, Guatemala
+26/06/11 00:50:22 14.766 -92.950  39 3.8 C  64 Km al suroeste de Pueblo Nuevo, México
