@@ -8641,3 +8641,4 @@
 26/06/10 15:21:43 11.250 -85.741 180 4.0 C  14 Km al sur de La Virgen, Nicaragua
 26/06/10 16:47:31 13.063 -89.264  27 3.0 C  47 Km al sur de La Libertad, El Salvador
 26/06/10 17:12:07 14.298 -92.206  37 3.4 C  23 Km al sur de San Marcos, Guatemala
+26/06/10 18:41:33 13.536 -90.004  32 2.3 C  20 Km al oeste de Acajutla, El Salvador
