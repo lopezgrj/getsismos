@@ -8655,3 +8655,4 @@
 26/06/11 08:30:36 12.778 -88.696  33 3.2 C  55 Km al sur de Delta del Rio Lempa, El Salvador
 26/06/11 10:30:25 14.080 -92.077  54 3.9 C  30 Km al suroeste de Champerico, Guatemala
 26/06/11 10:30:25 14.089 -92.060  50 3.9 C  28 Km al suroeste de Champerico, Guatemala
+26/06/11 11:14:05 10.036 -83.449  10 3.0 C  32 Km al sur de Parismina, Costa Rica
