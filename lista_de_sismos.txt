@@ -8660,3 +8660,6 @@
 26/06/11 19:35:10 13.239 -89.940  27 3.4 C  41 Km al sur de Acajutla, El Salvador
 26/06/11 19:40:40  9.675 -84.818   5 3.4 C  17 Km al oeste de Herradura, Costa Rica
 26/06/11 21:30:44 13.784 -89.090 201 2.9 C   6 Km al oeste de San Pedro Perulapán, El Salvador
+26/06/11 22:42:38 13.303 -89.666  35 2.6 C  36 Km al sureste de Acajutla, El Salvador
+26/06/11 23:16:11 13.145 -88.101 120 1.9 C   3 Km al sur de Playa El Cuco, El Salvador
+26/06/11 23:55:55 13.711 -84.762   5 2.1 C   4 Km al sureste de Siuna, Nicaragua
