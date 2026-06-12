@@ -8663,3 +8663,4 @@
 26/06/11 22:42:38 13.303 -89.666  35 2.6 C  36 Km al sureste de Acajutla, El Salvador
 26/06/11 23:16:11 13.145 -88.101 120 1.9 C   3 Km al sur de Playa El Cuco, El Salvador
 26/06/11 23:55:55 13.711 -84.762   5 2.1 C   4 Km al sureste de Siuna, Nicaragua
+26/06/12 01:48:38 13.114 -89.404  33 3.7 C  42 Km al sur de La Libertad, El Salvador
