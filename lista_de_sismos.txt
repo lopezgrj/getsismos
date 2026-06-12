@@ -8672,3 +8672,4 @@
 26/06/12 08:06:35 13.014 -89.283  23 2.9 C  53 Km al sur de La Libertad, El Salvador
 26/06/12 09:59:01 11.134 -85.637 182 2.8 C  14 Km al norte de El Ostional, San Juan del Sur, Nicaragua
 26/06/12 11:59:37 12.067 -86.162  35 2.1 C   7 Km al noreste de Ticuantepe, Nicaragua
+26/06/12 12:34:23 13.305 -89.628  37 2.8 C  38 Km al suroeste de La Libertad, El Salvador
