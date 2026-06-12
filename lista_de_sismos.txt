@@ -8664,3 +8664,4 @@
 26/06/11 23:16:11 13.145 -88.101 120 1.9 C   3 Km al sur de Playa El Cuco, El Salvador
 26/06/11 23:55:55 13.711 -84.762   5 2.1 C   4 Km al sureste de Siuna, Nicaragua
 26/06/12 01:48:38 13.114 -89.404  33 3.7 C  42 Km al sur de La Libertad, El Salvador
+26/06/12 02:08:41 13.427 -90.858  15 3.4 C  58 Km al sur de Iztapa, Guatemala
