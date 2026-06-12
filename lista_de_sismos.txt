@@ -8667,3 +8667,5 @@
 26/06/12 02:08:41 13.427 -90.858  15 3.4 C  58 Km al sur de Iztapa, Guatemala
 26/06/12 04:16:42 12.431 -87.021 138 2.1 C   6 Km al norte de Poneloya, Nicaragua
 26/06/12 04:31:01  0.825 -79.052  43 3.2 A  70 Km al norte de Esmeraldas, Ecuador
+26/06/12 04:31:01  0.825 -79.052  43 3.3 A  70 Km al norte de Esmeraldas, Ecuador
+26/06/12 04:55:33 13.195 -90.035  26 4.3 C  49 Km al suroeste de Acajutla, El Salvador
