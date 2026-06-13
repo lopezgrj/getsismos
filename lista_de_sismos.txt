@@ -8685,3 +8685,5 @@
 26/06/13 01:19:26 14.954 -92.250  85 3.2 C   6 Km al norte de Tapachula, México
 26/06/13 01:19:26 14.952 -92.248  84 3.2 C   6 Km al norte de Tapachula, México
 26/06/13 07:27:22 13.853 -89.699   7 2.2 C  16 Km al norte de Sonsonate, El Salvador
+26/06/13 07:47:54 13.461 -90.788   9 3.1 C  53 Km al sur de Iztapa, Guatemala
+26/06/13 08:08:43 13.672 -90.923  28 3.6 C  37 Km al suroeste de Iztapa, Guatemala
