@@ -8680,3 +8680,4 @@
 26/06/12 19:18:44 13.580 -89.482  18 1.6 C  20 Km al noroeste de La Libertad, El Salvador
 26/06/12 20:51:01  8.366 -82.778  14 2.9 C   4 Km al norte de Olivo Civil, Panamá
 26/06/12 21:13:19 14.388 -87.407   2 2.7 C  27 Km al norte de Comayagua, Honduras
+26/06/12 21:59:27 10.537 -84.834  10 2.4 C  58 Km al sureste de Cuatro Bocas, Costa Rica
