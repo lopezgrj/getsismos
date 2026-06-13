@@ -8676,3 +8676,5 @@
 26/06/12 04:31:01  0.825 -79.052  43 3.3 C  70 Km al norte de Esmeraldas, Ecuador
 26/06/12 15:26:44 13.171 -89.606  30 3.4 C  46 Km al suroeste de La Libertad, El Salvador
 26/06/12 17:59:43 13.516 -90.681  17 3.1 C  46 Km al sur de Iztapa, Guatemala
+26/06/12 17:59:43 13.521 -90.693  17 3.1 C  46 Km al sur de Iztapa, Guatemala
+26/06/12 19:18:44 13.580 -89.482  18 1.6 C  20 Km al noroeste de La Libertad, El Salvador
