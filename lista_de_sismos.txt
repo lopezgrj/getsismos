@@ -8690,3 +8690,5 @@
 26/06/13 08:34:40 12.127 -88.637  22 3.8 C 127 Km al sur de Delta del Rio Lempa, El Salvador
 26/06/13 11:25:11 12.182 -88.584  24 4.0 C 122 Km al suroeste de Playa El Cuco, El Salvador
 26/06/13 11:56:56 12.163 -88.607  12 3.8 C 124 Km al sur de Delta del Rio Lempa, El Salvador
+26/06/13 12:17:29 12.141 -88.664  29 3.8 C 125 Km al sur de Delta del Rio Lempa, El Salvador
+26/06/13 12:43:33 12.697 -86.961   5 2.1 C   4 Km al norte de Volcán San Cristóbal, Nicaragua
