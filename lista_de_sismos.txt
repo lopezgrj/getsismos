@@ -8682,3 +8682,4 @@
 26/06/12 21:13:19 14.388 -87.407   2 2.7 C  27 Km al norte de Comayagua, Honduras
 26/06/12 21:59:27 10.537 -84.834  10 2.4 C  58 Km al sureste de Cuatro Bocas, Costa Rica
 26/06/13 00:20:50 11.225 -86.712  25 3.0 C  61 Km al suroeste de Casares, Nicaragua
+26/06/13 01:19:26 14.954 -92.250  85 3.2 C   6 Km al norte de Tapachula, México
