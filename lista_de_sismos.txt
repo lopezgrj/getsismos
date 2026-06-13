@@ -8678,3 +8678,5 @@
 26/06/12 17:59:43 13.516 -90.681  17 3.1 C  46 Km al sur de Iztapa, Guatemala
 26/06/12 17:59:43 13.521 -90.693  17 3.1 C  46 Km al sur de Iztapa, Guatemala
 26/06/12 19:18:44 13.580 -89.482  18 1.6 C  20 Km al noroeste de La Libertad, El Salvador
+26/06/12 20:51:01  8.366 -82.778  14 2.9 C   4 Km al norte de Olivo Civil, Panamá
+26/06/12 21:13:19 14.388 -87.407   2 2.7 C  27 Km al norte de Comayagua, Honduras
