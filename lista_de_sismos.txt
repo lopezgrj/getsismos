@@ -8701,3 +8701,4 @@
 26/06/13 21:52:26 13.627 -90.060  68 2.3 C  25 Km al oeste de Acajutla, El Salvador
 26/06/13 22:40:07 13.739 -92.570  11 3.2 C  94 Km al suroeste de Champerico, Guatemala
 26/06/13 23:25:20 13.708 -87.515   5 2.9 C  20 Km al norte de Nacaome, Honduras
+26/06/14 01:11:36 13.048 -89.399  24 2.5 C  49 Km al sur de La Libertad, El Salvador
