@@ -8696,3 +8696,5 @@
 26/06/13 15:12:17 10.337 -86.355   7 3.0 C  40 Km al oeste de Rosario, Costa Rica
 26/06/13 18:39:44 13.031 -89.083  35 2.7 C  37 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/06/13 19:11:45 12.043 -86.201   5 1.5 C   2 Km al norte de Ticuantepe, Nicaragua
+26/06/13 20:49:55 12.108 -88.611  30 3.0 C 130 Km al sur de Delta del Rio Lempa, El Salvador
+26/06/13 21:16:18 12.505 -87.854  33 3.4 C  47 Km al suroeste de Mechapa, Chinandega, Nicaragua
