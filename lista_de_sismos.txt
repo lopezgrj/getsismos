@@ -8702,3 +8702,7 @@
 26/06/13 22:40:07 13.739 -92.570  11 3.2 C  94 Km al suroeste de Champerico, Guatemala
 26/06/13 23:25:20 13.708 -87.515   5 2.9 C  20 Km al norte de Nacaome, Honduras
 26/06/14 01:11:36 13.048 -89.399  24 2.5 C  49 Km al sur de La Libertad, El Salvador
+26/06/14 02:38:31 12.938 -89.055  33 2.8 C  43 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/06/14 02:51:19 13.888 -89.793   7 1.9 C   7 Km al sureste de Ahuachapan, El Salvador
+26/06/14 03:26:28 12.206 -86.241  10 2.0 C   6 Km al norte de Managua, Nicaragua
+26/06/14 03:33:18 14.043 -90.102   6 2.2 C  30 Km al noreste de Las Brisas, Guatemala
