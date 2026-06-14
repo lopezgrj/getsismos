@@ -8712,3 +8712,4 @@
 26/06/14 03:33:18 14.035 -90.099   6 2.2 C  30 Km al noreste de Las Brisas, Guatemala
 26/06/14 07:28:59 13.310 -89.641  28 2.9 C  37 Km al sureste de Acajutla, El Salvador
 26/06/14 08:34:34 10.138 -83.989   9 2.3 C  18 Km al norte de Vara Blanca, Costa Rica
+26/06/14 10:40:18 12.862 -88.658  37 3.5 C  48 Km al sureste de Delta del Rio Lempa, El Salvador
