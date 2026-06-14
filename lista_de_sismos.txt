@@ -8698,3 +8698,6 @@
 26/06/13 19:11:45 12.043 -86.201   5 1.5 C   2 Km al norte de Ticuantepe, Nicaragua
 26/06/13 20:49:55 12.108 -88.611  30 3.0 C 130 Km al sur de Delta del Rio Lempa, El Salvador
 26/06/13 21:16:18 12.505 -87.854  33 3.4 C  47 Km al suroeste de Mechapa, Chinandega, Nicaragua
+26/06/13 21:52:26 13.627 -90.060  68 2.3 C  25 Km al oeste de Acajutla, El Salvador
+26/06/13 22:40:07 13.739 -92.570  11 3.2 C  94 Km al suroeste de Champerico, Guatemala
+26/06/13 23:25:20 13.708 -87.515   5 2.9 C  20 Km al norte de Nacaome, Honduras
