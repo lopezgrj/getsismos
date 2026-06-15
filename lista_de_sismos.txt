@@ -8721,3 +8721,5 @@
 26/06/14 19:34:31  8.452 -83.134  16 2.7 C  25 Km al oeste de Laurel, Costa Rica
 26/06/14 23:22:00  8.620 -83.232   8 3.2 C  37 Km al noreste de Playa Madrigal, Costa Rica
 26/06/15 00:17:06 10.103 -84.244  74 3.1 C  10 Km al norte de Alajuela, Costa Rica
+26/06/15 00:30:33 12.435 -87.753  38 3.4 C  47 Km al suroeste de Boca del Padre Ramos, Nicaragua
+26/06/15 00:58:27 15.341 -86.826   1 4.1 C  40 Km al noreste de Yoro, Honduras
