@@ -8730,3 +8730,5 @@
 26/06/15 08:27:00 15.001 -85.034   5 3.5 C 107 Km al suroeste de Tusi, Honduras
 26/06/15 09:37:38  8.741 -83.371   6 3.6 C  36 Km al noreste de Playa Madrigal, Costa Rica
 26/06/15 09:46:50  8.731 -83.367  19 2.8 C  35 Km al noreste de Playa Madrigal, Costa Rica
+26/06/15 12:35:24 13.731 -89.261   7 1.9 C   6 Km al noreste de Santa Tecla, El Salvador
+26/06/15 12:52:33 14.065 -89.848   5 2.9 C  16 Km al norte de Ahuachapan, El Salvador
