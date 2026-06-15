@@ -8732,3 +8732,4 @@
 26/06/15 09:46:50  8.731 -83.367  19 2.8 C  35 Km al noreste de Playa Madrigal, Costa Rica
 26/06/15 12:35:24 13.731 -89.261   7 1.9 C   6 Km al noreste de Santa Tecla, El Salvador
 26/06/15 12:52:33 14.065 -89.848   5 2.9 C  16 Km al norte de Ahuachapan, El Salvador
+26/06/15 15:00:35 12.592 -87.040 130 1.4 C  10 Km al norte de Chinandega, Nicaragua
