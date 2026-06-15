@@ -8723,3 +8723,6 @@
 26/06/15 00:17:06 10.103 -84.244  74 3.1 C  10 Km al norte de Alajuela, Costa Rica
 26/06/15 00:30:33 12.435 -87.753  38 3.4 C  47 Km al suroeste de Boca del Padre Ramos, Nicaragua
 26/06/15 00:58:27 15.341 -86.826   1 4.1 C  40 Km al noreste de Yoro, Honduras
+26/06/15 02:59:59 12.505 -87.635  38 2.7 C  33 Km al suroeste de Jiquilillo, Nicaragua
+26/06/15 03:44:22 13.235 -89.665  30 3.1 C  43 Km al sureste de Acajutla, El Salvador
+26/06/15 04:01:46 12.619 -88.637  24 2.9 C  74 Km al sur de Delta del Rio Lempa, El Salvador
