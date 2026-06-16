@@ -8735,3 +8735,4 @@
 26/06/15 15:00:35 12.592 -87.040 130 1.4 C  10 Km al norte de Chinandega, Nicaragua
 26/06/15 16:55:21 13.118 -89.299  31 3.0 C  41 Km al sur de La Libertad, El Salvador
 26/06/15 17:05:32 14.060 -89.845   6 2.5 C  16 Km al norte de Ahuachapan, El Salvador
+26/06/15 18:13:45 11.153 -87.256  13 3.5 C 107 Km al suroeste de Pochomil, Nicaragua
