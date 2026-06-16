@@ -8737,3 +8737,5 @@
 26/06/15 17:05:32 14.060 -89.845   6 2.5 C  16 Km al norte de Ahuachapan, El Salvador
 26/06/15 18:13:45 11.153 -87.256  13 3.5 C 107 Km al suroeste de Pochomil, Nicaragua
 26/06/15 20:12:35 11.480 -85.571   7 2.7 C   8 Km al noroeste de Volcán Maderas, Nicaragua
+26/06/15 21:18:51 11.467 -85.574   5 1.7 C   7 Km al noroeste de Volcán Maderas, Nicaragua
+26/06/15 21:36:41 11.331 -87.585  10 2.7 C 125 Km al suroeste de El Transito, Nicaragua
