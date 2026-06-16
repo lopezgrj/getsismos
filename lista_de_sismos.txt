@@ -8743,3 +8743,5 @@
 26/06/15 23:27:24 12.598 -87.969  29 2.9 C  46 Km al suroeste de Punta Cosigüina, Nicaragua
 26/06/15 23:31:41 11.454 -85.589   7 1.8 C   7 Km al sureste de San Jose del Sur, Nicaragua
 26/06/16 01:41:27 11.703 -87.359   5 2.8 C  81 Km al suroeste de El Transito, Nicaragua
+26/06/16 01:41:27 11.700 -87.354   7 2.7 C  81 Km al suroeste de El Transito, Nicaragua
+26/06/16 02:31:24 14.027 -92.596  43 4.2 C  69 Km al suroeste de San Marcos, Guatemala
