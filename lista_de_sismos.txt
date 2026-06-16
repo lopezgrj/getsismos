@@ -8747,3 +8747,4 @@
 26/06/16 02:31:24 14.027 -92.596  43 4.2 C  69 Km al suroeste de San Marcos, Guatemala
 26/06/16 04:43:14 11.390 -86.509  20 3.2 C  32 Km al suroeste de Huehuete, Nicaragua
 26/06/16 06:09:41 13.896 -92.618  26 4.5 C  82 Km al suroeste de San Marcos, Guatemala
+26/06/16 06:59:27 13.263 -89.982  26 3.2 C  40 Km al suroeste de Acajutla, El Salvador
