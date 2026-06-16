@@ -8739,3 +8739,6 @@
 26/06/15 20:12:35 11.480 -85.571   7 2.7 C   8 Km al noroeste de Volcán Maderas, Nicaragua
 26/06/15 21:18:51 11.467 -85.574   5 1.7 C   7 Km al noroeste de Volcán Maderas, Nicaragua
 26/06/15 21:36:41 11.331 -87.585  10 2.7 C 125 Km al suroeste de El Transito, Nicaragua
+26/06/15 22:48:56  8.132 -83.308   4 2.8 C  42 Km al sureste de Playa Madrigal, Costa Rica
+26/06/15 23:27:24 12.598 -87.969  29 2.9 C  46 Km al suroeste de Punta Cosigüina, Nicaragua
+26/06/15 23:31:41 11.454 -85.589   7 1.8 C   7 Km al sureste de San Jose del Sur, Nicaragua
