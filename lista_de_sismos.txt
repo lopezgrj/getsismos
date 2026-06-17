@@ -8757,3 +8757,5 @@
 26/06/17 03:28:00 12.998 -89.561  25 3.6 C  60 Km al suroeste de La Libertad, El Salvador
 26/06/17 03:33:10 12.516 -88.690  25 3.3 C  84 Km al sur de Delta del Rio Lempa, El Salvador
 26/06/17 08:53:27 12.064 -88.293  16 3.1 C 115 Km al suroeste de Punta Cosigüina, Nicaragua
+26/06/17 10:04:33 12.668 -88.827  29 3.3 C  65 Km al sur de Delta del Rio Lempa, El Salvador
+26/06/17 10:42:55 13.295 -87.943   5 2.0 C  11 Km al oeste de La Union, El Salvador
