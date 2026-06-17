@@ -8756,3 +8756,4 @@
 26/06/17 03:09:01 12.007 -87.838  19 3.1 C  90 Km al suroeste de Corinto, Nicaragua
 26/06/17 03:28:00 12.998 -89.561  25 3.6 C  60 Km al suroeste de La Libertad, El Salvador
 26/06/17 03:33:10 12.516 -88.690  25 3.3 C  84 Km al sur de Delta del Rio Lempa, El Salvador
+26/06/17 08:53:27 12.064 -88.293  16 3.1 C 115 Km al suroeste de Punta Cosigüina, Nicaragua
