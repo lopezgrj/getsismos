@@ -8760,3 +8760,5 @@
 26/06/17 10:04:33 12.668 -88.827  29 3.3 C  65 Km al sur de Delta del Rio Lempa, El Salvador
 26/06/17 10:42:55 13.295 -87.943   5 2.0 C  11 Km al oeste de La Union, El Salvador
 26/06/17 11:49:01 12.565 -88.187  34 3.0 C  66 Km al suroeste de Punta Cosigüina, Nicaragua
+26/06/17 13:14:12 13.015 -89.489  20 2.9 C  55 Km al sur de La Libertad, El Salvador
+26/06/17 13:19:48 12.659 -90.657  11 3.7 C 136 Km al sur de Las Brisas, Guatemala
