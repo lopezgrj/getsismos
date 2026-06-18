@@ -8773,3 +8773,4 @@
 26/06/18 04:35:39 13.526 -88.457   4 1.9 C  11 Km al sureste de Vista Hermosa, El Salvador
 26/06/18 05:14:21 12.898 -88.964  33 2.9 C  42 Km al sur de Delta del Rio Lempa, El Salvador
 26/06/18 08:44:00 13.496 -91.989  30 3.5 C  79 Km al suroeste de El Semillero, Guatemala
+26/06/18 11:40:17 12.147 -88.008  20 3.5 C  89 Km al suroeste de Mechapa, Chinandega, Nicaragua
