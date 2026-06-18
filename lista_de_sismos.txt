@@ -8769,3 +8769,4 @@
 26/06/17 17:47:18 12.821 -90.379   2 3.1 C 104 Km al suroeste de Acajutla, El Salvador
 26/06/17 19:44:30 14.420 -93.205  11 4.3 C 103 Km al oeste de El Gancho México
 26/06/17 20:42:24 13.156 -87.768  31 2.4 C  20 Km al suroeste de Amapala, Honduras
+26/06/17 22:54:53 14.502 -93.180   6 3.2 C 100 Km al oeste de El Gancho México
