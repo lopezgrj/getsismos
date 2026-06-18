@@ -8774,3 +8774,5 @@
 26/06/18 05:14:21 12.898 -88.964  33 2.9 C  42 Km al sur de Delta del Rio Lempa, El Salvador
 26/06/18 08:44:00 13.496 -91.989  30 3.5 C  79 Km al suroeste de El Semillero, Guatemala
 26/06/18 11:40:17 12.147 -88.008  20 3.5 C  89 Km al suroeste de Mechapa, Chinandega, Nicaragua
+26/06/18 14:41:46 11.976 -87.673  18 2.8 C  79 Km al suroeste de Corinto, Nicaragua
+26/06/18 15:04:32 13.183 -90.412  23 3.5 C  73 Km al sur de Las Brisas, Guatemala
