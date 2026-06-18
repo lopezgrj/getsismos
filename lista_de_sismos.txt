@@ -8765,3 +8765,5 @@
 26/06/17 13:58:25 10.459 -86.338  12 3.5 C  41 Km al oeste de Rosario, Costa Rica
 26/06/17 13:59:56 12.674 -90.701  16 3.7 C 136 Km al sur de Las Brisas, Guatemala
 26/06/17 16:38:03  8.242 -82.822  14 3.1 C   5 Km al sureste de Puerto Armuelles, Panamá
+26/06/17 17:43:37 13.162 -89.984  21 3.0 C  50 Km al sur de Acajutla, El Salvador
+26/06/17 17:47:18 12.821 -90.379   2 3.1 C 104 Km al suroeste de Acajutla, El Salvador
