@@ -8770,3 +8770,5 @@
 26/06/17 19:44:30 14.420 -93.205  11 4.3 C 103 Km al oeste de El Gancho México
 26/06/17 20:42:24 13.156 -87.768  31 2.4 C  20 Km al suroeste de Amapala, Honduras
 26/06/17 22:54:53 14.502 -93.180   6 3.2 C 100 Km al oeste de El Gancho México
+26/06/18 04:35:39 13.526 -88.457   4 1.9 C  11 Km al sureste de Vista Hermosa, El Salvador
+26/06/18 05:14:21 12.898 -88.964  33 2.9 C  42 Km al sur de Delta del Rio Lempa, El Salvador
