@@ -8785,3 +8785,4 @@
 26/06/19 02:46:57 11.946 -86.458 111 2.3 C  17 Km al oeste de El Crucero, Nicaragua
 26/06/19 05:07:27  8.850 -84.455   1 4.0 C  72 Km al suroeste de Puerto Quepos, Costa Rica
 26/06/19 05:08:53 13.211 -88.110   1 1.6 C   4 Km al norte de Playa El Cuco, El Salvador
+26/06/19 05:07:27  8.844 -84.458   2 4.0 C  73 Km al suroeste de Puerto Quepos, Costa Rica
