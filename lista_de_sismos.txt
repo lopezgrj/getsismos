@@ -8778,3 +8778,4 @@
 26/06/18 15:04:32 13.183 -90.412  23 3.5 C  73 Km al sur de Las Brisas, Guatemala
 26/06/18 07:23:07 13.835 -91.621  22 2.9 C  25 Km al suroeste de El Semillero, Guatemala
 26/06/18 18:52:32 12.786 -88.670  38 3.3 C  55 Km al sur de Delta del Rio Lempa, El Salvador
+26/06/18 21:45:25 13.792 -92.210  32 3.4 C  64 Km al suroeste de Champerico, Guatemala
