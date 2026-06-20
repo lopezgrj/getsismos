@@ -8806,3 +8806,4 @@
 26/06/20 11:15:00 11.208 -86.776   6 3.3 C  67 Km al suroeste de Casares, Nicaragua
 26/06/20 11:51:46 13.019 -90.395  33 4.4 C  88 Km al suroeste de Acajutla, El Salvador
 26/06/20 12:01:03 12.907 -90.352  12 3.1 C  95 Km al suroeste de Acajutla, El Salvador
+26/06/20 13:51:46 13.733 -91.138  40 4.0 C  22 Km al sur de Sipacate, Guatemala
