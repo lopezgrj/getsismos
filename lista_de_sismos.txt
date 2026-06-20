@@ -8797,3 +8797,4 @@
 26/06/20 02:33:47 13.739 -89.108 181 3.5 C   5 Km al norte de Ilopango, El Salvador
 26/06/20 05:30:46 13.095 -90.086  17 3.2 C  61 Km al suroeste de Acajutla, El Salvador
 26/06/20 06:53:57 13.102 -90.152  12 3.1 C  64 Km al suroeste de Acajutla, El Salvador
+26/06/20 00:33:20 12.047 -86.187   8 2.1 C   4 Km al noreste de Ticuantepe, Nicaragua
