@@ -8800,3 +8800,6 @@
 26/06/20 00:33:20 12.047 -86.187   8 2.1 C   4 Km al noreste de Ticuantepe, Nicaragua
 26/06/20 08:29:32 10.322 -86.476  11 3.1 C  53 Km al oeste de Rosario, Costa Rica
 26/06/20 09:14:31 13.616 -90.726  26 2.9 C  35 Km al sur de Iztapa, Guatemala
+26/06/20 10:29:49 13.073 -90.281  28 3.4 C  75 Km al suroeste de Acajutla, El Salvador
+26/06/20 10:44:58 12.850 -90.474   9 3.0 C 108 Km al suroeste de Acajutla, El Salvador
+26/06/20 10:58:56 13.775 -90.713  78 2.7 C  17 Km al sur de Iztapa, Guatemala
