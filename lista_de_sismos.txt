@@ -8812,3 +8812,4 @@
 26/06/20 15:47:36 13.689 -91.920  38 4.6 C  57 Km al suroeste de Tulate, Guatemala
 26/06/20 15:54:00 13.692 -92.045  28 2.9 C  63 Km al suroeste de Tulate, Guatemala
 26/06/20 16:31:04 13.711 -91.946  37 3.5 C  56 Km al suroeste de Tulate, Guatemala
+26/06/20 17:39:15 13.107 -90.138  22 2.7 C  63 Km al suroeste de Acajutla, El Salvador
