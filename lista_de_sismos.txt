@@ -8788,3 +8788,5 @@
 26/06/19 05:07:27  8.844 -84.458   2 4.0 C  73 Km al suroeste de Puerto Quepos, Costa Rica
 26/06/19 11:15:24 12.648 -88.196  29 3.2 C  59 Km al sur de Playa El Cuco, El Salvador
 26/06/19 12:19:38 12.733 -90.404  33 3.6 C 114 Km al suroeste de Acajutla, El Salvador
+26/06/19 22:16:31 14.069 -89.817   8 2.4 C  17 Km al norte de Ahuachapan, El Salvador
+26/06/19 23:06:19 12.045 -86.614  85 2.3 C  10 Km al norte de El Transito, Nicaragua
