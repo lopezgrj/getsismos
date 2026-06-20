@@ -8808,3 +8808,5 @@
 26/06/20 12:01:03 12.907 -90.352  12 3.1 C  95 Km al suroeste de Acajutla, El Salvador
 26/06/20 13:51:46 13.733 -91.138  40 4.0 C  22 Km al sur de Sipacate, Guatemala
 26/06/20 14:32:33 13.352 -90.539  15 3.2 C  60 Km al suroeste de Las Brisas, Guatemala
+26/06/20 15:42:53 12.887 -90.476  24 3.7 C 105 Km al suroeste de Acajutla, El Salvador
+26/06/20 15:47:36 13.689 -91.920  38 4.6 C  57 Km al suroeste de Tulate, Guatemala
