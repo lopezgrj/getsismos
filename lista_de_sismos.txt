@@ -8792,3 +8792,4 @@
 26/06/19 23:06:19 12.045 -86.614  85 2.3 C  10 Km al norte de El Transito, Nicaragua
 26/06/20 00:20:43 12.765 -88.673  33 2.4 C  57 Km al sur de Delta del Rio Lempa, El Salvador
 26/06/20 00:33:21 12.053 -86.199   8 2.2 C   4 Km al norte de Ticuantepe, Nicaragua
+26/06/20 00:50:48 10.343 -83.267   8 2.9 C  10 Km al noreste de Parismina, Costa Rica
