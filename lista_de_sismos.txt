@@ -8803,3 +8803,4 @@
 26/06/20 10:29:49 13.073 -90.281  28 3.4 C  75 Km al suroeste de Acajutla, El Salvador
 26/06/20 10:44:58 12.850 -90.474   9 3.0 C 108 Km al suroeste de Acajutla, El Salvador
 26/06/20 10:58:56 13.775 -90.713  78 2.7 C  17 Km al sur de Iztapa, Guatemala
+26/06/20 11:15:00 11.208 -86.776   6 3.3 C  67 Km al suroeste de Casares, Nicaragua
