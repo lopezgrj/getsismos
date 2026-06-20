@@ -8796,3 +8796,4 @@
 26/06/20 02:32:36 12.579 -88.057  22 2.5 C  54 Km al suroeste de Punta Cosigüina, Nicaragua
 26/06/20 02:33:47 13.739 -89.108 181 3.5 C   5 Km al norte de Ilopango, El Salvador
 26/06/20 05:30:46 13.095 -90.086  17 3.2 C  61 Km al suroeste de Acajutla, El Salvador
+26/06/20 06:53:57 13.102 -90.152  12 3.1 C  64 Km al suroeste de Acajutla, El Salvador
