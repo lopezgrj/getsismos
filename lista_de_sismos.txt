@@ -8815,3 +8815,4 @@
 26/06/20 17:39:15 13.107 -90.138  22 2.7 C  63 Km al suroeste de Acajutla, El Salvador
 26/06/20 18:19:11 12.552 -89.089  18 3.0 C  83 Km al sur de Delta del Rio Lempa, El Salvador
 26/06/20 18:26:48 12.536 -89.116  30 3.5 C  86 Km al sur de Delta del Rio Lempa, El Salvador
+26/06/20 23:10:58 14.223 -92.122  28 2.6 C  24 Km al oeste de Champerico, Guatemala
