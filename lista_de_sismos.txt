@@ -8839,3 +8839,5 @@
 26/06/21 13:52:22 13.387 -90.873  22 3.1 C  63 Km al sur de Iztapa, Guatemala
 26/06/21 14:39:47 14.082 -90.459 116 3.5 C  27 Km al suroeste de Cuilapa, Guatemala
 26/06/21 14:53:18 11.906 -88.213   7 3.2 C 124 Km al suroeste de Mechapa, Chinandega, Nicaragua
+26/06/21 15:08:47 15.778 -88.352   3 3.5 C  25 Km al norte de Puerto Barrios, Guatemala
+26/06/21 15:09:35 15.733 -88.277   3 3.0 C  27 Km al oeste de Omoa, Honduras
