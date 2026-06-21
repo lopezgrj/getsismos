@@ -8830,3 +8830,4 @@
 26/06/21 06:47:14 11.601 -86.061 144 2.6 C  16 Km al noreste de El Astillero, Nicaragua
 26/06/21 07:26:58 13.397 -90.829   1 4.7 C  61 Km al sur de Iztapa, Guatemala
 26/06/21 07:38:18 13.386 -90.822   3 3.4 C  62 Km al sur de Iztapa, Guatemala
+26/06/21 09:15:30 12.139 -86.851 119 2.7 C  12 Km al suroeste de Puerto Sandino, Nicaragua
