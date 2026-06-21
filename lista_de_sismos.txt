@@ -8820,3 +8820,5 @@
 26/06/21 00:30:45 13.434 -90.943   3 4.4 C  59 Km al sur de Sipacate, Guatemala
 26/06/21 01:28:21  8.039 -82.523  20 3.3 C  38 Km al sureste de Desembocadura de Río Chiriqui Viejo, Panamá
 26/06/21 03:01:17 15.040 -89.525  26 2.8 A   8 Km al norte de Zacapa, Guatemala
+26/06/21 03:00:10 19.594 -87.519  16 4.8 C 161 Km al noreste de Corozal, Belice
+26/06/21 04:41:02 13.812 -90.865  93 3.2 A  21 Km al suroeste de Iztapa, Guatemala
