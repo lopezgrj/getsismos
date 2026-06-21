@@ -8837,3 +8837,5 @@
 26/06/21 12:31:28 13.322 -90.848   2 3.1 C  69 Km al sur de Iztapa, Guatemala
 26/06/21 12:48:22 13.004 -89.253  21 2.9 C  54 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/06/21 13:52:22 13.387 -90.873  22 3.1 C  63 Km al sur de Iztapa, Guatemala
+26/06/21 14:39:47 14.082 -90.459 116 3.5 C  27 Km al suroeste de Cuilapa, Guatemala
+26/06/21 14:53:18 11.906 -88.213   7 3.2 C 124 Km al suroeste de Mechapa, Chinandega, Nicaragua
