@@ -8825,3 +8825,6 @@
 26/06/21 04:41:01 13.848 -90.943  80 3.2 C  24 Km al sureste de Sipacate, Guatemala
 26/06/21 05:12:59 13.229 -89.834  25 2.5 C  40 Km al sur de Acajutla, El Salvador
 26/06/21 06:20:39 14.336 -91.283  28 3.1 A  32 Km al sureste de Mazatenango, Guatemala
+26/06/21 06:20:37 13.942 -91.577  29 3.2 C  12 Km al suroeste de El Semillero, Guatemala
+26/06/21 06:45:42 13.328 -90.884   5 3.3 C  69 Km al sur de Iztapa, Guatemala
+26/06/21 06:47:14 11.601 -86.061 144 2.6 C  16 Km al noreste de El Astillero, Nicaragua
