@@ -8816,3 +8816,6 @@
 26/06/20 18:19:11 12.552 -89.089  18 3.0 C  83 Km al sur de Delta del Rio Lempa, El Salvador
 26/06/20 18:26:48 12.536 -89.116  30 3.5 C  86 Km al sur de Delta del Rio Lempa, El Salvador
 26/06/20 23:10:58 14.223 -92.122  28 2.6 C  24 Km al oeste de Champerico, Guatemala
+26/06/21 00:21:03  2.170 -79.617   5 4.2 A 131 Km al norte de Esmeraldas, Ecuador
+26/06/21 00:30:45 13.434 -90.943   3 4.4 C  59 Km al sur de Sipacate, Guatemala
+26/06/21 01:28:21  8.039 -82.523  20 3.3 C  38 Km al sureste de Desembocadura de Río Chiriqui Viejo, Panamá
