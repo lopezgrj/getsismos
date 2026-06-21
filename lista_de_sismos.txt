@@ -8822,3 +8822,5 @@
 26/06/21 03:01:17 15.040 -89.525  26 2.8 A   8 Km al norte de Zacapa, Guatemala
 26/06/21 03:00:10 19.594 -87.519  16 4.8 C 161 Km al noreste de Corozal, Belice
 26/06/21 04:41:02 13.812 -90.865  93 3.2 A  21 Km al suroeste de Iztapa, Guatemala
+26/06/21 04:41:01 13.848 -90.943  80 3.2 C  24 Km al sureste de Sipacate, Guatemala
+26/06/21 05:12:59 13.229 -89.834  25 2.5 C  40 Km al sur de Acajutla, El Salvador
