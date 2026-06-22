@@ -8849,3 +8849,7 @@
 26/06/21 23:39:58 13.028 -89.244  34 2.8 C  52 Km al sur de La Libertad, El Salvador
 26/06/21 23:54:48  8.044 -83.457   1 3.8 C  45 Km al sur de Playa Madrigal, Costa Rica
 26/06/21 23:56:50 11.984 -88.151  14 3.4 C 113 Km al suroeste de Mechapa, Chinandega, Nicaragua
+26/06/21 23:56:50 11.984 -88.151  14 3.6 C 113 Km al suroeste de Mechapa, Chinandega, Nicaragua
+26/06/22 00:22:02  8.104 -83.356   9 3.1 C  42 Km al sureste de Playa Madrigal, Costa Rica
+26/06/22 00:24:52 11.910 -88.205   8 2.7 C 123 Km al suroeste de Mechapa, Chinandega, Nicaragua
+26/06/22 01:41:15 10.180 -84.038  75 3.2 C  13 Km al norte de Vara Blanca, Costa Rica
