@@ -8862,3 +8862,7 @@
 26/06/22 07:01:06 12.929 -89.661  20 2.9 C  72 Km al suroeste de La Libertad, El Salvador
 26/06/22 08:10:39  8.463 -82.956  11 3.5 C   6 Km al noroeste de Laurel, Costa Rica
 26/06/22 09:55:26 14.248 -89.981 243 2.6 C  10 Km al oeste de Jutiapa, Guatemala
+26/06/22 08:08:51 13.297 -90.915   8 2.8 C  74 Km al sur de Iztapa, Guatemala
+26/06/22 10:25:30  8.326 -82.770  23 2.3 C   2 Km al sureste de Olivo Civil, Panamá
+26/06/22 10:48:51 10.663 -84.970   8 1.8 C  37 Km al sureste de Cuatro Bocas, Costa Rica
+26/06/22 11:51:34 12.297 -88.939  26 4.5 C 107 Km al sur de Delta del Rio Lempa, El Salvador
