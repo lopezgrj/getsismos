@@ -8842,3 +8842,6 @@
 26/06/21 15:08:47 15.778 -88.352   3 3.5 C  25 Km al norte de Puerto Barrios, Guatemala
 26/06/21 15:09:35 15.733 -88.277   3 3.0 C  27 Km al oeste de Omoa, Honduras
 26/06/21 17:31:00 13.386 -90.590  13 2.7 C  60 Km al suroeste de Las Brisas, Guatemala
+26/06/21 21:19:20 10.135 -84.019  82 3.4 C  15 Km al norte de Vara Blanca, Costa Rica
+26/06/21 22:00:22 13.315 -90.884   4 5.2 C  71 Km al sur de Iztapa, Guatemala
+26/06/21 22:05:06 13.414 -90.820  11 3.6 C  59 Km al sur de Iztapa, Guatemala
