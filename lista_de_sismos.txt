@@ -8868,3 +8868,4 @@
 26/06/22 11:51:34 12.297 -88.939  26 4.5 C 107 Km al sur de Delta del Rio Lempa, El Salvador
 26/06/22 12:24:51 12.060 -86.158  21 1.9 C   7 Km al noreste de Ticuantepe, Nicaragua
 26/06/22 13:09:02 12.629 -87.955  24 2.6 C  42 Km al suroeste de Punta Cosigüina, Nicaragua
+26/06/22 09:55:26 14.381 -89.973 242 3.1 C  14 Km al noroeste de Jutiapa, Guatemala
