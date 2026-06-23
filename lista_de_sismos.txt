@@ -8870,3 +8870,4 @@
 26/06/22 13:09:02 12.629 -87.955  24 2.6 C  42 Km al suroeste de Punta Cosigüina, Nicaragua
 26/06/22 09:55:26 14.381 -89.973 242 3.1 C  14 Km al noroeste de Jutiapa, Guatemala
 26/06/22 18:25:17 13.292 -89.969  26 2.7 C  36 Km al suroeste de Acajutla, El Salvador
+26/06/22 19:24:59 12.802 -88.955  24 3.1 C  52 Km al sur de Delta del Rio Lempa, El Salvador
