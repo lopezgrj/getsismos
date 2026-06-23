@@ -8875,3 +8875,4 @@
 26/06/22 19:54:30 12.420 -87.514  63 2.4 C  35 Km al sur de Jiquilillo, Nicaragua
 26/06/22 20:05:17 12.638 -87.944  32 2.9 C  41 Km al suroeste de Punta Cosigüina, Nicaragua
 26/06/22 22:04:39 13.011 -87.781 171 2.5 C  14 Km al noroeste de Punta Ñata, Chinandega, Nicaragua
+26/06/23 00:53:26  9.459 -84.095  25 2.8 A   4 Km al suroeste de Naranjito, Costa Rica
