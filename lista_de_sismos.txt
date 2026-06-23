@@ -8878,3 +8878,4 @@
 26/06/23 00:53:26  9.459 -84.095  25 2.8 A   4 Km al suroeste de Naranjito, Costa Rica
 26/06/23 00:53:24  9.326 -84.141  29 2.7 C  12 Km al sur de Puerto Quepos, Costa Rica
 26/06/23 02:25:51 13.110 -89.286  31 4.3 C  42 Km al sur de La Libertad, El Salvador
+26/06/23 04:57:04 13.182 -89.355  34 2.5 C  34 Km al sur de La Libertad, El Salvador
