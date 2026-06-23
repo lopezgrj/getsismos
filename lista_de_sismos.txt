@@ -8876,3 +8876,5 @@
 26/06/22 20:05:17 12.638 -87.944  32 2.9 C  41 Km al suroeste de Punta Cosigüina, Nicaragua
 26/06/22 22:04:39 13.011 -87.781 171 2.5 C  14 Km al noroeste de Punta Ñata, Chinandega, Nicaragua
 26/06/23 00:53:26  9.459 -84.095  25 2.8 A   4 Km al suroeste de Naranjito, Costa Rica
+26/06/23 00:53:24  9.326 -84.141  29 2.7 C  12 Km al sur de Puerto Quepos, Costa Rica
+26/06/23 02:25:51 13.110 -89.286  31 4.3 C  42 Km al sur de La Libertad, El Salvador
