@@ -8882,3 +8882,4 @@
 26/06/23 04:57:04 13.196 -89.347  36 2.8 C  32 Km al sur de La Libertad, El Salvador
 26/06/23 07:58:31 13.338 -89.938  24 2.8 C  30 Km al suroeste de Acajutla, El Salvador
 26/06/23 10:26:02 13.144 -89.278  29 2.8 C  38 Km al sur de La Libertad, El Salvador
+26/06/23 11:31:23 13.222 -89.888  31 4.7 C  41 Km al sur de Acajutla, El Salvador
