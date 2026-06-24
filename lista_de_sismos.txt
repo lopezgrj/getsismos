@@ -8889,3 +8889,8 @@
 26/06/23 13:55:57 12.391 -87.638  38 2.8 C  43 Km al suroeste de Jiquilillo, Nicaragua
 26/06/23 15:56:32 12.652 -88.380  29 3.0 C  65 Km al suroeste de Playa El Cuco, El Salvador
 26/06/23 17:31:23 13.024 -90.215  20 4.4 C  75 Km al suroeste de Acajutla, El Salvador
+26/06/23 13:45:12 11.728 -87.306  27 2.7 C  75 Km al suroeste de El Transito, Nicaragua
+26/06/23 13:55:57 12.401 -87.632  38 2.7 C  42 Km al suroeste de Jiquilillo, Nicaragua
+26/06/23 15:56:32 12.642 -88.399  32 3.0 C  67 Km al suroeste de Playa El Cuco, El Salvador
+26/06/23 17:31:23 13.060 -90.168  20 4.4 C  69 Km al suroeste de Acajutla, El Salvador
+26/06/23 18:33:05 14.175 -93.233  13 4.3 C 114 Km al oeste de El Gancho México
