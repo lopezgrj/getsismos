@@ -8908,3 +8908,5 @@
 26/06/24 12:38:16 10.870 -85.987  20 3.7 C   5 Km al suroeste de Caba Santa Elena, Costa Rica
 26/06/24 12:38:33 10.300 -86.322   5 4.0 C  36 Km al oeste de Rosario, Costa Rica
 26/06/24 14:51:44 12.815 -89.030  32 3.5 C  54 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/06/24 15:19:31 12.129 -88.592  19 3.0 C 127 Km al suroeste de Playa El Cuco, El Salvador
+26/06/24 16:11:53 13.092 -90.179  13 3.9 C  67 Km al suroeste de Acajutla, El Salvador
