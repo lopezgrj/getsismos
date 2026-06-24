@@ -8894,3 +8894,5 @@
 26/06/23 15:56:32 12.642 -88.399  32 3.0 C  67 Km al suroeste de Playa El Cuco, El Salvador
 26/06/23 17:31:23 13.060 -90.168  20 4.4 C  69 Km al suroeste de Acajutla, El Salvador
 26/06/23 18:33:05 14.175 -93.233  13 4.3 C 114 Km al oeste de El Gancho México
+26/06/24 03:19:25 13.412 -90.790  10 3.2 C  58 Km al sur de Iztapa, Guatemala
+26/06/24 03:33:51 13.294 -89.973  31 2.9 C  36 Km al suroeste de Acajutla, El Salvador
