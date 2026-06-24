@@ -8905,3 +8905,5 @@
 26/06/22 11:51:33 12.279 -88.925  16 4.4 C 109 Km al sur de Delta del Rio Lempa, El Salvador
 26/06/23 13:45:12 11.738 -87.314  27 2.7 C  75 Km al suroeste de El Transito, Nicaragua
 26/06/23 13:55:57 12.411 -87.627  37 2.7 C  41 Km al suroeste de Jiquilillo, Nicaragua
+26/06/24 12:38:16 10.870 -85.987  20 3.7 C   5 Km al suroeste de Caba Santa Elena, Costa Rica
+26/06/24 12:38:33 10.300 -86.322   5 4.0 C  36 Km al oeste de Rosario, Costa Rica
