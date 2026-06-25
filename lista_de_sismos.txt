@@ -8919,3 +8919,4 @@
 26/06/25 00:42:05 12.573 -88.161  26 2.7 C  63 Km al suroeste de Punta Cosigüina, Nicaragua
 26/06/25 00:47:57 11.264 -85.897 127 2.5 C   3 Km al noroeste de San Juan del Sur, Nicaragua
 26/06/25 01:04:32 13.418 -90.920  20 3.1 C  61 Km al sur de Iztapa, Guatemala
+26/06/25 05:18:45 12.608 -88.465  31 3.9 C  74 Km al suroeste de Playa El Cuco, El Salvador
