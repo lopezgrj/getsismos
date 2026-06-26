@@ -8938,3 +8938,4 @@
 26/06/26 05:57:26 11.950 -86.539  99 5.0 C  19 Km al norte de Masachapa, Nicaragua
 26/06/26 06:41:16 11.948 -86.511  99 2.3 C  18 Km al norte de Masachapa, Nicaragua
 26/06/26 12:48:46 11.247 -86.163  54 2.9 C  21 Km al suroeste de El Gigante, Tola, Nicaragua
+26/06/26 12:48:47 11.358 -86.136  52 3.0 C  12 Km al oeste de El Gigante, Tola, Nicaragua
