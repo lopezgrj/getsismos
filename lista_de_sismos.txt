@@ -8934,3 +8934,6 @@
 26/06/26 02:41:46 14.413 -91.290   5 3.1 C  26 Km al sureste de Mazatenango, Guatemala
 26/06/26 03:11:08 12.040 -87.106  38 2.4 C  37 Km al sur de Las Penitas, Nicaragua
 26/06/26 03:46:43 12.125 -86.926  67 1.9 C  20 Km al suroeste de Puerto Sandino, Nicaragua
+26/06/26 05:18:40 12.436 -87.825  36 2.5 C  51 Km al suroeste de Mechapa, Chinandega, Nicaragua
+26/06/26 05:57:26 11.950 -86.539  99 5.0 C  19 Km al norte de Masachapa, Nicaragua
+26/06/26 06:41:16 11.948 -86.511  99 2.3 C  18 Km al norte de Masachapa, Nicaragua
