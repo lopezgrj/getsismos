@@ -8946,3 +8946,4 @@
 26/06/27 05:43:30 10.559 -86.685  12 3.3 C  80 Km al oeste de Rosario, Costa Rica
 26/06/27 05:52:28 13.327 -89.680  43 2.6 C  33 Km al sureste de Acajutla, El Salvador
 26/06/27 12:04:10 11.280 -85.595 177 2.2 C  13 Km al noroeste de Cárdenas, Nicaragua
+26/06/27 18:45:49 13.534 -91.190   5 2.8 C  44 Km al sur de San Jose, Guatemala
