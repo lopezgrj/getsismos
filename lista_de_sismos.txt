@@ -8956,3 +8956,5 @@
 26/06/28 07:28:16 13.305 -90.145  27 3.1 C  46 Km al suroeste de Acajutla, El Salvador
 26/06/28 09:45:38 13.067 -89.278  29 3.3 C  47 Km al sur de La Libertad, El Salvador
 26/06/28 12:20:49 13.214 -89.775  35 2.5 C  42 Km al sur de Acajutla, El Salvador
+26/06/28 06:48:05 10.875 -86.946  10 3.0 C 107 Km al suroeste de Huehuete, Nicaragua
+26/06/28 12:20:49 13.219 -89.744  26 2.6 C  42 Km al sur de Acajutla, El Salvador
