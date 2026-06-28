@@ -8959,3 +8959,4 @@
 26/06/28 06:48:05 10.875 -86.946  10 3.0 C 107 Km al suroeste de Huehuete, Nicaragua
 26/06/28 12:20:49 13.219 -89.744  26 2.6 C  42 Km al sur de Acajutla, El Salvador
 26/06/28 04:39:55 11.000 -86.937  12 3.0 C  96 Km al suroeste de Casares, Nicaragua
+26/06/28 14:55:42 13.935 -92.332  34 3.9 C  60 Km al suroeste de Champerico, Guatemala
