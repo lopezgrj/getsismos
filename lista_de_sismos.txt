@@ -8948,3 +8948,4 @@
 26/06/27 12:04:10 11.280 -85.595 177 2.2 C  13 Km al noroeste de Cárdenas, Nicaragua
 26/06/27 18:45:49 13.534 -91.190   5 2.8 C  44 Km al sur de San Jose, Guatemala
 26/06/27 21:16:39 15.363 -91.246   1 3.1 C  25 Km al norte de Huehuetenango, Guatemala
+26/06/28 01:49:19 12.251 -87.422  40 2.2 C  38 Km al suroeste de Corinto, Nicaragua
