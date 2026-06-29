@@ -8961,3 +8961,4 @@
 26/06/28 04:39:55 11.000 -86.937  12 3.0 C  96 Km al suroeste de Casares, Nicaragua
 26/06/28 14:55:42 13.935 -92.332  34 3.9 C  60 Km al suroeste de Champerico, Guatemala
 26/06/28 17:08:42 14.539 -89.112   3 2.6 C  14 Km al noreste de Nueva Ocotepeque, Honduras
+26/06/28 17:08:42 14.532 -89.110   3 2.6 C  14 Km al noreste de Nueva Ocotepeque, Honduras
