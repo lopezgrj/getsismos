@@ -8968,3 +8968,4 @@
 26/06/29 01:38:28  2.055 -84.739  31 5.1 C 410 Km al suroeste de Isla de Malpelo, Colombia
 26/06/29 02:09:51  9.096 -84.196  10 3.1 C  37 Km al sur de Puerto Quepos, Costa Rica
 26/06/29 02:44:43 13.123 -89.622  28 3.5 C  51 Km al suroeste de La Libertad, El Salvador
+26/06/29 13:04:08 11.562 -87.067  17 3.7 C  65 Km al oeste de Masachapa, Nicaragua
