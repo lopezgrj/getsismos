@@ -8962,3 +8962,5 @@
 26/06/28 14:55:42 13.935 -92.332  34 3.9 C  60 Km al suroeste de Champerico, Guatemala
 26/06/28 17:08:42 14.539 -89.112   3 2.6 C  14 Km al noreste de Nueva Ocotepeque, Honduras
 26/06/28 17:08:42 14.532 -89.110   3 2.6 C  14 Km al noreste de Nueva Ocotepeque, Honduras
+26/06/28 22:02:42 13.903 -89.777   5 2.3 C   8 Km al norte de Ahuachapan, El Salvador
+26/06/28 22:33:09 11.488 -87.632  40 3.4 C 117 Km al suroeste de Las Penitas, Nicaragua
