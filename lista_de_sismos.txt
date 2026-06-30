@@ -8975,3 +8975,6 @@
 26/06/29 21:21:06 13.518 -90.223  39 2.8 C  34 Km al sur de Las Brisas, Guatemala
 26/06/29 22:54:41  8.247 -82.768   8 3.2 C   7 Km al sur de Manglares de Majagual, Panamá
 26/06/30 00:03:13 10.932 -85.610  82 2.3 C  26 Km al sureste de El Ostional, San Juan del Sur, Nicaragua
+26/06/30 00:37:46 12.934 -89.927   6 2.9 C  74 Km al sur de Acajutla, El Salvador
+26/06/30 00:48:12 15.990 -92.470 189 3.6 C  78 Km al noreste de Mapastepec, México
+26/06/30 01:09:32 11.119 -87.086  88 3.2 C  96 Km al suroeste de Pochomil, Nicaragua
