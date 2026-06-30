@@ -8989,3 +8989,4 @@
 26/06/30 13:52:32  1.996 -78.290   5 3.5 A 189 Km al noreste de Esmeraldas, Ecuador
 26/06/30 13:52:32  1.996 -78.290   5 3.5 C 189 Km al noreste de Esmeraldas, Ecuador
 26/06/30 15:59:03 10.926 -87.246   5 0.0 1 4   0 al  uroeste de Pochomil, Nicaragua
+26/06/30 15:59:12 11.172 -86.833  30 3.2 C  74 Km al suroeste de Casares, Nicaragua
