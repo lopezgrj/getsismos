@@ -8987,3 +8987,5 @@
 26/06/30 10:22:17 12.065 -88.635  12 2.9 C 134 Km al sur de Delta del Rio Lempa, El Salvador
 26/06/30 13:38:01 13.882 -89.786  13 1.9 C   8 Km al sureste de Ahuachapan, El Salvador
 26/06/30 13:52:32  1.996 -78.290   5 3.5 A 189 Km al noreste de Esmeraldas, Ecuador
+26/06/30 13:52:32  1.996 -78.290   5 3.5 C 189 Km al noreste de Esmeraldas, Ecuador
+26/06/30 15:59:03 10.926 -87.246   5 0.0 1 4   0 al  uroeste de Pochomil, Nicaragua
