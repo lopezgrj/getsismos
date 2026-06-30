@@ -8978,3 +8978,5 @@
 26/06/30 00:37:46 12.934 -89.927   6 2.9 C  74 Km al sur de Acajutla, El Salvador
 26/06/30 00:48:12 15.990 -92.470 189 3.6 C  78 Km al noreste de Mapastepec, México
 26/06/30 01:09:32 11.119 -87.086  88 3.2 C  96 Km al suroeste de Pochomil, Nicaragua
+26/06/30 02:22:27 12.918 -88.956  27 2.7 C  40 Km al sur de Delta del Rio Lempa, El Salvador
+26/06/30 02:40:20 12.958 -89.170  34 2.9 C  50 Km al suroeste de Delta del Rio Lempa, El Salvador
