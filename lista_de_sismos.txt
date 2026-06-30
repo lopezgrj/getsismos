@@ -8973,3 +8973,4 @@
 26/06/29 15:59:42 13.889 -91.487  50 3.8 C  17 Km al suroeste de Tecojate, Guatemala
 26/06/29 21:06:46 13.727 -89.286   5 2.3 C   5 Km al norte de Santa Tecla, El Salvador
 26/06/29 21:21:06 13.518 -90.223  39 2.8 C  34 Km al sur de Las Brisas, Guatemala
+26/06/29 22:54:41  8.247 -82.768   8 3.2 C   7 Km al sur de Manglares de Majagual, Panamá
