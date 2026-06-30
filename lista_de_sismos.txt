@@ -8981,3 +8981,4 @@
 26/06/30 02:22:27 12.918 -88.956  27 2.7 C  40 Km al sur de Delta del Rio Lempa, El Salvador
 26/06/30 02:40:20 12.958 -89.170  34 2.9 C  50 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/06/30 04:17:20 13.695 -89.044   5 3.0 C   7 Km al norte de Ilopango, El Salvador
+26/06/30 06:35:01 13.089 -89.578  25 3.9 C  52 Km al suroeste de La Libertad, El Salvador
