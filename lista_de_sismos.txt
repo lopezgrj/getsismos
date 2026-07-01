@@ -8991,3 +8991,4 @@
 26/06/30 15:59:03 10.926 -87.246   5 0.0 1 4   0 al  uroeste de Pochomil, Nicaragua
 26/06/30 15:59:12 11.172 -86.833  30 3.2 C  74 Km al suroeste de Casares, Nicaragua
 26/06/30 18:44:10 12.861 -87.409 171 2.6 C   7 Km al sur de Desembocadura del Río Estero Real, Nicaragua
+26/06/30 20:17:08 13.287 -90.240  18 2.9 C  56 Km al suroeste de Acajutla, El Salvador
