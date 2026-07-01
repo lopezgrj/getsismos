@@ -8996,3 +8996,7 @@
 26/06/30 21:06:05 12.628 -88.636  37 3.8 C  73 Km al sur de Delta del Rio Lempa, El Salvador
 26/06/30 22:34:05 13.205 -89.631  28 2.7 C  45 Km al suroeste de La Libertad, El Salvador
 26/06/30 22:42:10 13.534 -91.911  51 3.7 C  70 Km al suroeste de El Semillero, Guatemala
+26/06/30 23:49:56 12.921 -88.740  41 3.4 C  38 Km al sur de Delta del Rio Lempa, El Salvador
+26/07/01 00:35:32 12.829 -90.260  11 2.8 C  96 Km al suroeste de Acajutla, El Salvador
+26/07/01 00:40:36 12.912 -88.851  34 2.5 C  38 Km al sur de Delta del Rio Lempa, El Salvador
+26/07/01 00:51:35 12.855 -90.275   8 2.9 C  95 Km al suroeste de Acajutla, El Salvador
