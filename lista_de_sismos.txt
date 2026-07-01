@@ -9002,3 +9002,4 @@
 26/07/01 00:51:35 12.855 -90.275   8 2.9 C  95 Km al suroeste de Acajutla, El Salvador
 26/07/01 01:32:01 12.939 -89.062  29 3.0 C  43 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/07/01 01:33:53 12.929 -89.077  31 2.7 C  45 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/07/01 07:41:15  8.750 -83.385  16 4.5 C  36 Km al noreste de Playa Madrigal, Costa Rica
