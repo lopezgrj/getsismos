@@ -8994,3 +8994,5 @@
 26/06/30 20:17:08 13.287 -90.240  18 2.9 C  56 Km al suroeste de Acajutla, El Salvador
 26/06/30 20:26:45 12.752 -88.485  35 2.4 C  62 Km al suroeste de Playa El Cuco, El Salvador
 26/06/30 21:06:05 12.628 -88.636  37 3.8 C  73 Km al sur de Delta del Rio Lempa, El Salvador
+26/06/30 22:34:05 13.205 -89.631  28 2.7 C  45 Km al suroeste de La Libertad, El Salvador
+26/06/30 22:42:10 13.534 -91.911  51 3.7 C  70 Km al suroeste de El Semillero, Guatemala
