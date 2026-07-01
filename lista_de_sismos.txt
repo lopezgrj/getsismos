@@ -9007,3 +9007,4 @@
 26/07/01 11:43:31 12.613 -88.267  29 2.9 C  65 Km al sur de Playa El Cuco, El Salvador
 26/07/01 13:46:07 13.074 -89.298  28 3.6 C  46 Km al sur de La Libertad, El Salvador
 26/07/01 16:36:36 11.863 -87.294  13 3.8 C  63 Km al suroeste de Las Penitas, Nicaragua
+26/07/01 16:54:29  1.062 -82.595   5 4.8 A 303 Km al oeste de Pedernales, Ecuador
