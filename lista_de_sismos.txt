@@ -9011,3 +9011,5 @@
 26/07/01 16:54:56  1.060 -80.561  30 4.0 C 101 Km al oeste de Esmeraldas, Ecuador
 26/07/01 19:43:28 11.798 -87.010  34 3.3 C  44 Km al suroeste de El Transito, Nicaragua
 26/07/01 23:03:40 12.995 -89.032  34 3.3 C  36 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/07/01 23:24:36 11.874 -87.237  25 4.0 C  59 Km al suroeste de Las Penitas, Nicaragua
+26/07/02 01:22:55 11.567 -87.596  18 3.0 C 108 Km al suroeste de Las Penitas, Nicaragua
