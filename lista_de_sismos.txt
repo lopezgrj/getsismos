@@ -9013,3 +9013,6 @@
 26/07/01 23:03:40 12.995 -89.032  34 3.3 C  36 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/07/01 23:24:36 11.874 -87.237  25 4.0 C  59 Km al suroeste de Las Penitas, Nicaragua
 26/07/02 01:22:55 11.567 -87.596  18 3.0 C 108 Km al suroeste de Las Penitas, Nicaragua
+26/07/02 04:17:17 12.791 -88.281  37 2.7 C  46 Km al suroeste de Playa El Cuco, El Salvador
+26/07/02 04:27:55 13.133 -90.376  17 4.6 C  77 Km al sur de Las Brisas, Guatemala
+26/07/02 05:03:06 11.840 -87.265  26 3.3 C  64 Km al suroeste de Las Penitas, Nicaragua
