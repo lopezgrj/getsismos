@@ -9023,3 +9023,4 @@
 26/07/02 12:34:08 14.794 -88.685   4 3.3 C  11 Km al norte de Santa Rosa de Copan, Honduras
 26/07/02 13:08:03 12.232 -87.375  38 3.4 C  36 Km al suroeste de Corinto, Nicaragua
 26/07/02 13:29:56 13.452 -90.819   1 3.4 C  54 Km al sur de Iztapa, Guatemala
+26/07/02 14:10:47 10.641 -85.234  11 2.6 C  23 Km al norte de Liberia, Costa Rica
