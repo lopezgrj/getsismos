@@ -9027,3 +9027,6 @@
 26/07/02 22:18:07  9.805 -84.310  37 4.2 C   3 Km al norte de Candelarita, Puriscal, Costa Rica
 26/07/03 00:24:33 12.942 -89.213  35 3.2 C  54 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/07/03 00:39:21 13.299 -89.935  25 3.0 C  34 Km al sur de Acajutla, El Salvador
+26/07/03 03:18:57 13.701 -91.443  13 2.9 C  32 Km al sur de Tecojate, Guatemala
+26/07/03 04:06:04 12.661 -88.286  33 3.4 C  60 Km al sur de Playa El Cuco, El Salvador
+26/07/03 05:07:15  4.465 -76.236 121 3.8 A 211 Km al sur de Medellin, Colombia
