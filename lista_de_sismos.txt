@@ -9030,3 +9030,5 @@
 26/07/03 03:18:57 13.701 -91.443  13 2.9 C  32 Km al sur de Tecojate, Guatemala
 26/07/03 04:06:04 12.661 -88.286  33 3.4 C  60 Km al sur de Playa El Cuco, El Salvador
 26/07/03 05:07:15  4.465 -76.236 121 3.8 A 211 Km al sur de Medellin, Colombia
+26/07/03 05:07:15  4.465 -76.236 121 4.0 A 211 Km al sur de Medellin, Colombia
+26/07/03 09:45:36 11.212 -86.797  27 3.0 C  68 Km al suroeste de Casares, Nicaragua
