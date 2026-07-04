@@ -9050,3 +9050,5 @@
 26/07/04 10:07:05  3.179 -84.380   1 5.2 C 321 Km al oeste de Isla de Malpelo, Colombia
 26/07/04 13:05:30 12.475 -87.848  31 3.4 C  49 Km al suroeste de Mechapa, Chinandega, Nicaragua
 26/07/04 15:00:14 12.966 -88.957  29 3.3 C  35 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/07/04 13:05:30 12.478 -87.843  28 3.4 C  49 Km al suroeste de Mechapa, Chinandega, Nicaragua
+26/07/04 16:03:41 12.824 -88.950  57 3.0 C  50 Km al sur de Delta del Rio Lempa, El Salvador
