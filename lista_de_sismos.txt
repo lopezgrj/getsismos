@@ -9046,3 +9046,4 @@
 26/07/04 02:26:45  8.575 -82.759  40 2.2 A   6 Km al noreste de Celmira, Panamá
 26/07/04 02:26:39  8.296 -83.534  26 2.8 C  17 Km al sur de Playa Madrigal, Costa Rica
 26/07/04 07:26:11 13.236 -89.897  32 2.8 A  40 Km al sur de Acajutla, El Salvador
+26/07/04 07:26:11 13.252 -89.778  25 2.8 C  38 Km al sur de Acajutla, El Salvador
