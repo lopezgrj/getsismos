@@ -9035,3 +9035,4 @@
 26/07/03 14:19:02 13.448 -91.204   2 3.1 C  53 Km al sur de San Jose, Guatemala
 26/07/03 15:50:36 13.045 -89.214  30 2.9 C  48 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/07/03 16:34:25 11.626 -88.452  13 3.8 C 164 Km al suroeste de Mechapa, Chinandega, Nicaragua
+26/07/03 16:34:24 11.583 -88.475  15 3.5 C 170 Km al suroeste de Mechapa, Chinandega, Nicaragua
