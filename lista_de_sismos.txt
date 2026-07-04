@@ -9043,3 +9043,4 @@
 26/07/04 00:09:19 12.558 -88.598  44 2.6 C  81 Km al sur de Delta del Rio Lempa, El Salvador
 26/07/04 01:36:11 13.736 -89.270   4 1.9 C   6 Km al norte de Santa Tecla, El Salvador
 26/07/04 01:40:18 14.437 -90.619   3 2.4 C  18 Km al sureste de Antigua Guatemala, Guatemala
+26/07/04 02:26:45  8.575 -82.759  40 2.2 A   6 Km al noreste de Celmira, Panamá
