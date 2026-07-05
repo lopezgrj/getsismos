@@ -9052,3 +9052,9 @@
 26/07/04 15:00:14 12.966 -88.957  29 3.3 C  35 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/07/04 13:05:30 12.478 -87.843  28 3.4 C  49 Km al suroeste de Mechapa, Chinandega, Nicaragua
 26/07/04 16:03:41 12.824 -88.950  57 3.0 C  50 Km al sur de Delta del Rio Lempa, El Salvador
+26/07/04 19:58:04 12.913 -88.747  36 3.6 C  39 Km al sur de Delta del Rio Lempa, El Salvador
+26/07/04 20:25:33  8.331 -82.798  11 3.2 C   1 Km al oeste de Olivo Civil, Panamá
+26/07/04 20:35:48 12.720 -87.013  10 1.1 C   2 Km al noroeste de Volcán San Cristóbal, Nicaragua
+26/07/04 22:01:10 13.102 -90.081  16 3.2 C  61 Km al suroeste de Acajutla, El Salvador
+26/07/04 22:37:26 11.305 -85.924 192 2.3 C   8 Km al noroeste de San Juan del Sur, Nicaragua
+26/07/04 23:25:18  9.494 -84.138   5 3.1 A   7 Km al norte de Puerto Quepos, Costa Rica
