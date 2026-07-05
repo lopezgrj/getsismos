@@ -9063,3 +9063,7 @@
 26/07/05 01:01:04 12.923 -88.851  35 2.9 C  37 Km al sur de Delta del Rio Lempa, El Salvador
 26/07/05 01:32:57 12.937 -88.945  34 3.2 C  38 Km al sur de Delta del Rio Lempa, El Salvador
 26/07/05 02:27:13 10.905 -86.480  11 2.9 C  58 Km al oeste de Caba Santa Elena, Costa Rica
+26/07/05 02:43:23 12.055 -86.823  98 2.5 C  13 Km al oeste de El Transito, Nicaragua
+26/07/05 03:17:32 12.118 -86.765 111 2.1 C   9 Km al sur de Puerto Sandino, Nicaragua
+26/07/05 03:25:15 12.861 -88.922  23 2.7 C  45 Km al sur de Delta del Rio Lempa, El Salvador
+26/07/05 04:01:24 15.831 -90.019   3 3.6 C  55 Km al noreste de Coban, Guatemala
