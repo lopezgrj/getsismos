@@ -9082,3 +9082,5 @@
 26/07/05 21:01:07 12.988 -88.941  29 3.1 C  32 Km al sur de Delta del Rio Lempa, El Salvador
 26/07/05 21:24:56 11.774 -87.303  18 3.3 C  72 Km al suroeste de Las Penitas, Nicaragua
 26/07/05 22:17:21 10.385 -87.071   1 3.1 C 118 Km al oeste de Rosario, Costa Rica
+26/07/06 02:03:57 13.905 -91.350  29 3.4 C   8 Km al sur de Tecojate, Guatemala
+26/07/06 02:29:46 12.062 -86.759  84 2.5 C   6 Km al oeste de El Transito, Nicaragua
