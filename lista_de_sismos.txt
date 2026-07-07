@@ -9111,3 +9111,5 @@
 26/07/07 11:47:26 11.450 -86.007  68 3.0 C   7 Km al noreste de El Gigante, Tola, Nicaragua
 26/07/07 12:11:27  9.453 -84.835   4 5.3 C  29 Km al suroeste de Jacó, Costa Rica
 26/07/07 12:22:25  9.477 -84.838   2 3.2 C  27 Km al suroeste de Jacó, Costa Rica
+26/07/07 12:24:52  9.464 -84.843   3 3.0 C  29 Km al suroeste de Jacó, Costa Rica
+26/07/07 13:55:35  9.457 -84.874   9 3.4 C  32 Km al suroeste de Jacó, Costa Rica
