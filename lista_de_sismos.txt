@@ -9097,3 +9097,6 @@
 26/07/06 22:17:55  9.802 -84.788  19 3.1 C  18 Km al oeste de Tarcoles, Costa Rica
 26/07/06 22:32:43 12.134 -87.901  23 2.9 C  83 Km al suroeste de Jiquilillo, Nicaragua
 26/07/06 23:19:15 10.768 -86.462   7 3.2 C  58 Km al oeste de Caba Santa Elena, Costa Rica
+26/07/07 01:15:58  8.608 -82.720  33 2.4 C   7 Km al sureste de Salitral, Panamá
+26/07/07 01:52:11 14.213 -91.894   6 2.7 C   9 Km al sur de Champerico, Guatemala
+26/07/07 02:19:04 14.133 -89.701   9 2.4 C  22 Km al noroeste de Santa Ana, El Salvador
