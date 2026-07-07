@@ -9100,3 +9100,6 @@
 26/07/07 01:15:58  8.608 -82.720  33 2.4 C   7 Km al sureste de Salitral, Panamá
 26/07/07 01:52:11 14.213 -91.894   6 2.7 C   9 Km al sur de Champerico, Guatemala
 26/07/07 02:19:04 14.133 -89.701   9 2.4 C  22 Km al noroeste de Santa Ana, El Salvador
+26/07/07 03:15:47 11.974 -84.946  10 2.4 C  18 Km al oeste de La Gateada, Nicaragua
+26/07/07 03:29:22  8.619 -83.285  21 2.2 C  32 Km al noreste de Playa Madrigal, Costa Rica
+26/07/07 05:08:36 12.769 -88.784  28 3.1 C  54 Km al sur de Delta del Rio Lempa, El Salvador
