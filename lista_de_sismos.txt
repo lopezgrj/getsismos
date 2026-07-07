@@ -9108,3 +9108,6 @@
 26/07/07 06:52:03 12.616 -88.047  27 2.5 C  51 Km al suroeste de Punta Cosigüina, Nicaragua
 26/07/07 07:28:57 11.071 -86.583   7 3.3 C  66 Km al suroeste de El Astillero, Nicaragua
 26/07/07 08:56:54 12.349 -86.497   8 2.6 C   9 Km al sureste de Volcán Momotombo, Nicaragua
+26/07/07 11:47:26 11.450 -86.007  68 3.0 C   7 Km al noreste de El Gigante, Tola, Nicaragua
+26/07/07 12:11:27  9.453 -84.835   4 5.3 C  29 Km al suroeste de Jacó, Costa Rica
+26/07/07 12:22:25  9.477 -84.838   2 3.2 C  27 Km al suroeste de Jacó, Costa Rica
