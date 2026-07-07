@@ -9090,3 +9090,10 @@
 26/07/06 08:51:34 12.507 -87.799  34 2.9 C  43 Km al suroeste de Mechapa, Chinandega, Nicaragua
 26/07/06 09:30:03 15.368 -92.060 141 3.3 C  53 Km al noroeste de San Marcos, Guatemala
 26/07/06 10:34:31 13.911 -91.353  36 3.4 C   7 Km al sur de Tecojate, Guatemala
+26/07/06 20:13:29  8.476 -83.014  20 2.8 C  12 Km al oeste de Laurel, Costa Rica
+26/07/06 20:49:51 12.906 -90.392   4 3.0 C  97 Km al suroeste de Acajutla, El Salvador
+26/07/06 21:35:46 12.365 -86.808 152 2.1 C  11 Km al sureste de León, Nicaragua
+26/07/06 21:56:40 12.707 -88.282  31 3.0 C  55 Km al sur de Playa El Cuco, El Salvador
+26/07/06 22:17:55  9.802 -84.788  19 3.1 C  18 Km al oeste de Tarcoles, Costa Rica
+26/07/06 22:32:43 12.134 -87.901  23 2.9 C  83 Km al suroeste de Jiquilillo, Nicaragua
+26/07/06 23:19:15 10.768 -86.462   7 3.2 C  58 Km al oeste de Caba Santa Elena, Costa Rica
