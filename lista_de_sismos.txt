@@ -9120,3 +9120,6 @@
 26/07/07 21:55:35 13.696 -90.887  28 2.8 C  32 Km al suroeste de Iztapa, Guatemala
 26/07/07 22:12:11  6.747 -82.481   5 3.7 C  94 Km al suroeste de Isla Jicarón, Panamá
 26/07/07 23:40:05 13.574 -90.045  84 2.6 C  23 Km al oeste de Acajutla, El Salvador
+26/07/08 00:10:28 13.279 -89.955  25 2.5 C  37 Km al sur de Acajutla, El Salvador
+26/07/08 01:16:48 13.601 -90.550  62 2.7 C  39 Km al suroeste de Las Brisas, Guatemala
+26/07/08 02:56:25 12.885 -88.749  35 2.8 C  42 Km al sur de Delta del Rio Lempa, El Salvador
