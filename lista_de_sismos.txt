@@ -9134,3 +9134,4 @@
 26/06/30 01:09:31 11.151 -87.154  10 3.1 C  99 Km al suroeste de Pochomil, Nicaragua
 26/07/05 02:43:24 12.074 -86.798  94 2.5 C  10 Km al oeste de El Transito, Nicaragua
 26/07/06 02:29:46 12.081 -86.730  84 2.4 C   4 Km al noroeste de El Transito, Nicaragua
+26/07/08 12:56:28 11.746 -87.252  25 2.9 C  69 Km al suroeste de El Transito, Nicaragua
