@@ -9135,3 +9135,8 @@
 26/07/05 02:43:24 12.074 -86.798  94 2.5 C  10 Km al oeste de El Transito, Nicaragua
 26/07/06 02:29:46 12.081 -86.730  84 2.4 C   4 Km al noroeste de El Transito, Nicaragua
 26/07/08 12:56:28 11.746 -87.252  25 2.9 C  69 Km al suroeste de El Transito, Nicaragua
+26/07/05 05:41:26 12.397 -87.560  39 2.2 C  39 Km al sur de Jiquilillo, Nicaragua
+26/07/05 20:37:33 10.669 -86.532  29 4.6 C  68 Km al oeste de Caba Santa Elena, Costa Rica
+26/07/07 08:56:54 12.350 -86.498   8 2.6 C   9 Km al sureste de Volcán Momotombo, Nicaragua
+26/07/08 14:23:59 11.427 -87.548  20 3.1 C 115 Km al suroeste de El Transito, Nicaragua
+26/07/08 15:26:48 12.566 -88.487  28 4.3 A  79 Km al suroeste de Playa El Cuco, El Salvador
