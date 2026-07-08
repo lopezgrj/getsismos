@@ -9140,3 +9140,5 @@
 26/07/07 08:56:54 12.350 -86.498   8 2.6 C   9 Km al sureste de Volcán Momotombo, Nicaragua
 26/07/08 14:23:59 11.427 -87.548  20 3.1 C 115 Km al suroeste de El Transito, Nicaragua
 26/07/08 15:26:48 12.566 -88.487  28 4.3 A  79 Km al suroeste de Playa El Cuco, El Salvador
+26/07/08 15:26:48 12.587 -88.507  32 4.3 C  78 Km al suroeste de Playa El Cuco, El Salvador
+26/07/08 16:12:41 12.472 -87.867  33 2.5 C  51 Km al suroeste de Mechapa, Chinandega, Nicaragua
