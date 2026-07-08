@@ -9131,3 +9131,6 @@
 26/07/08 06:53:23 10.621 -85.124   7 2.8 C  33 Km al sur de Cuatro Bocas, Costa Rica
 26/07/08 08:10:30  8.243 -82.780   7 3.3 C   7 Km al sur de Manglares de Majagual, Panamá
 26/07/07 19:37:14 12.459 -87.856  29 4.7 C  51 Km al suroeste de Mechapa, Chinandega, Nicaragua
+26/06/30 01:09:31 11.151 -87.154  10 3.1 C  99 Km al suroeste de Pochomil, Nicaragua
+26/07/05 02:43:24 12.074 -86.798  94 2.5 C  10 Km al oeste de El Transito, Nicaragua
+26/07/06 02:29:46 12.081 -86.730  84 2.4 C   4 Km al noroeste de El Transito, Nicaragua
