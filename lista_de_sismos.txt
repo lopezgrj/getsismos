@@ -9142,3 +9142,5 @@
 26/07/08 15:26:48 12.566 -88.487  28 4.3 A  79 Km al suroeste de Playa El Cuco, El Salvador
 26/07/08 15:26:48 12.587 -88.507  32 4.3 C  78 Km al suroeste de Playa El Cuco, El Salvador
 26/07/08 16:12:41 12.472 -87.867  33 2.5 C  51 Km al suroeste de Mechapa, Chinandega, Nicaragua
+26/07/08 17:51:28 13.432 -90.379  20 2.9 C  45 Km al sur de Las Brisas, Guatemala
+26/07/08 19:08:42 14.133 -89.701   9 2.3 C  22 Km al noroeste de Santa Ana, El Salvador
