@@ -9144,3 +9144,5 @@
 26/07/08 16:12:41 12.472 -87.867  33 2.5 C  51 Km al suroeste de Mechapa, Chinandega, Nicaragua
 26/07/08 17:51:28 13.432 -90.379  20 2.9 C  45 Km al sur de Las Brisas, Guatemala
 26/07/08 19:08:42 14.133 -89.701   9 2.3 C  22 Km al noroeste de Santa Ana, El Salvador
+26/07/08 19:38:36  8.257 -82.797   4 3.6 C   6 Km al sur de Manglares de Majagual, Panamá
+26/07/08 21:49:18 12.666 -88.390  30 2.8 C  64 Km al suroeste de Playa El Cuco, El Salvador
