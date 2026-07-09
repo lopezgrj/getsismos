@@ -9155,3 +9155,4 @@
 26/07/09 06:55:01 13.300 -84.229   5 2.8 C  71 Km al sur de Rosita, Nicaragua
 26/07/09 10:40:18 14.159 -91.396  80 3.0 C  19 Km al noreste de El Semillero, Guatemala
 26/07/09 13:44:06 11.766 -86.397 153 2.6 C  10 Km al norte de La Boquita, Nicaragua
+26/07/09 14:45:53 13.138 -90.167  13 3.0 C  62 Km al suroeste de Acajutla, El Salvador
