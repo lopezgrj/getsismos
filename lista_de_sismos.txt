@@ -9146,3 +9146,4 @@
 26/07/08 19:08:42 14.133 -89.701   9 2.3 C  22 Km al noroeste de Santa Ana, El Salvador
 26/07/08 19:38:36  8.257 -82.797   4 3.6 C   6 Km al sur de Manglares de Majagual, Panamá
 26/07/08 21:49:18 12.666 -88.390  30 2.8 C  64 Km al suroeste de Playa El Cuco, El Salvador
+26/07/09 00:58:19  9.634 -84.003  60 2.9 A  13 Km al suroeste de Tres de Junio, Costa Rica
