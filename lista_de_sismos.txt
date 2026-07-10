@@ -9160,3 +9160,4 @@
 26/07/10 01:51:17  9.012 -82.912  10 3.4 C  18 Km al noroeste de La Tigra, Costa Rica
 26/07/10 04:59:17 12.515 -87.833  31 2.7 C  45 Km al suroeste de Mechapa, Chinandega, Nicaragua
 26/07/10 05:18:59  8.219 -82.679  13 3.2 C  12 Km al sur de Desembocadura de Río Chiriqui Viejo, Panamá
+26/07/10 06:47:55 12.300 -87.127  76 2.9 C  13 Km al suroeste de Poneloya, Nicaragua
