@@ -9156,3 +9156,5 @@
 26/07/09 10:40:18 14.159 -91.396  80 3.0 C  19 Km al noreste de El Semillero, Guatemala
 26/07/09 13:44:06 11.766 -86.397 153 2.6 C  10 Km al norte de La Boquita, Nicaragua
 26/07/09 14:45:53 13.138 -90.167  13 3.0 C  62 Km al suroeste de Acajutla, El Salvador
+26/07/09 21:58:45 13.170 -89.345  35 2.9 C  35 Km al sur de La Libertad, El Salvador
+26/07/10 01:51:17  9.012 -82.912  10 3.4 C  18 Km al noroeste de La Tigra, Costa Rica
