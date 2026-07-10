@@ -9158,3 +9158,5 @@
 26/07/09 14:45:53 13.138 -90.167  13 3.0 C  62 Km al suroeste de Acajutla, El Salvador
 26/07/09 21:58:45 13.170 -89.345  35 2.9 C  35 Km al sur de La Libertad, El Salvador
 26/07/10 01:51:17  9.012 -82.912  10 3.4 C  18 Km al noroeste de La Tigra, Costa Rica
+26/07/10 04:59:17 12.515 -87.833  31 2.7 C  45 Km al suroeste de Mechapa, Chinandega, Nicaragua
+26/07/10 05:18:59  8.219 -82.679  13 3.2 C  12 Km al sur de Desembocadura de Río Chiriqui Viejo, Panamá
