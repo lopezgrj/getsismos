@@ -9163,3 +9163,4 @@
 26/07/10 06:47:55 12.300 -87.127  76 2.9 C  13 Km al suroeste de Poneloya, Nicaragua
 26/07/08 03:12:03 12.739 -87.382 177 1.6 C   6 Km al norte de Jiquilillo, Nicaragua
 26/07/10 14:59:35 15.777 -92.102 201 4.1 C  81 Km al noreste de Pueblo Nuevo, México
+26/07/10 16:07:25 13.125 -88.078 101 2.7 C   7 Km al sureste de Playa El Cuco, El Salvador
