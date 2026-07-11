@@ -9170,3 +9170,4 @@
 26/07/11 03:25:42  8.360 -82.855  19 2.6 C   4 Km al noroeste de Rodolfo Aguilar Delgado, Panamá
 26/07/11 03:34:37 12.703 -87.976  49 2.5 C  39 Km al suroeste de Punta Cosigüina, Nicaragua
 26/07/11 07:12:12 11.942 -86.129  11 1.8 C   5 Km al suroeste de Masaya, Nicaragua
+26/07/11 08:01:15 12.327 -87.533  35 4.3 C  42 Km al suroeste de Pasocaballos, El Realejo, Nicaragua
