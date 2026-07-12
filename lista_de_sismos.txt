@@ -9174,3 +9174,7 @@
 26/07/11 11:03:19 12.315 -87.558  35 3.2 C  46 Km al suroeste de Pasocaballos, El Realejo, Nicaragua
 26/07/11 11:59:45 14.612 -87.107   5 3.2 C  33 Km al sureste de Minas de Oro, Comayagua, Honduras
 26/07/11 17:33:03  9.497 -84.878   4 3.1 C  29 Km al suroeste de Herradura, Costa Rica
+26/07/11 19:20:59 12.348 -87.527  41 2.1 C  41 Km al suroeste de Pasocaballos, El Realejo, Nicaragua
+26/07/11 20:19:38 13.968 -91.988  42 4.0 C  36 Km al suroeste de Tulate, Guatemala
+26/07/11 21:24:51 13.286 -89.967  28 2.5 C  37 Km al suroeste de Acajutla, El Salvador
+26/07/11 21:38:53 12.633 -88.279  30 2.5 C  63 Km al sur de Playa El Cuco, El Salvador
