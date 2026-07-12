@@ -9185,3 +9185,5 @@
 26/07/12 01:55:19 12.635 -88.219  28 2.4 C  61 Km al sur de Playa El Cuco, El Salvador
 26/07/12 02:00:47 14.636 -87.093   1 2.9 C  33 Km al sureste de Minas de Oro, Comayagua, Honduras
 26/07/12 05:27:50  8.450 -82.911  19 2.3 C   1 Km al norte de Laurel, Costa Rica
+26/07/12 06:02:40 12.827 -87.300 161 1.6 C  15 Km al oeste de Puerto Morazán, Nicaragua
+26/07/12 06:24:45 13.005 -89.216  29 3.1 C  50 Km al suroeste de Delta del Rio Lempa, El Salvador
