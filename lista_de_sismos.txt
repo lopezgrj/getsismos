@@ -9196,3 +9196,5 @@
 26/07/13 05:42:45 13.896 -90.060  33 2.2 C  23 Km al oeste de Ahuachapan, El Salvador
 26/07/13 06:21:16 13.619 -90.834  50 3.4 C  37 Km al sur de Iztapa, Guatemala
 26/07/13 07:03:12 13.146 -89.636  24 3.9 C  50 Km al suroeste de La Libertad, El Salvador
+26/07/13 08:24:04 13.119 -90.004  13 2.8 C  55 Km al sur de Acajutla, El Salvador
+26/07/13 08:51:29 13.777 -91.399  48 3.8 C  22 Km al sur de Tecojate, Guatemala
