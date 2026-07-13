@@ -9201,3 +9201,7 @@
 26/07/05 21:24:56 11.737 -87.304  23 3.0 C  74 Km al suroeste de El Transito, Nicaragua
 26/07/13 11:21:35 13.473 -90.344  24 3.2 C  40 Km al sur de Las Brisas, Guatemala
 26/07/13 14:57:09  9.488 -84.686   5 4.3 C  15 Km al sur de Jacó, Costa Rica
+26/07/05 21:24:56 11.742 -87.301  24 3.1 C  74 Km al suroeste de El Transito, Nicaragua
+26/07/08 12:56:28 11.759 -87.246  26 2.9 C  67 Km al suroeste de El Transito, Nicaragua
+26/07/08 14:24:00 11.423 -87.542  23 3.1 C 115 Km al suroeste de El Transito, Nicaragua
+26/07/13 16:17:50 10.674 -86.838  16 2.9 C 100 Km al oeste de Caba Santa Elena, Costa Rica
