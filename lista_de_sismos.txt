@@ -9192,3 +9192,4 @@
 26/07/12 22:47:05 12.942 -89.057  39 2.6 C  43 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/07/13 01:25:58 15.199 -92.146 134 3.3 C  35 Km al norte de Tapachula, México
 26/07/13 01:52:13 13.101 -90.110  17 2.9 C  62 Km al suroeste de Acajutla, El Salvador
+26/07/13 01:52:13 13.112 -90.096  14 2.9 C  60 Km al suroeste de Acajutla, El Salvador
