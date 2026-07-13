@@ -9193,3 +9193,6 @@
 26/07/13 01:25:58 15.199 -92.146 134 3.3 C  35 Km al norte de Tapachula, México
 26/07/13 01:52:13 13.101 -90.110  17 2.9 C  62 Km al suroeste de Acajutla, El Salvador
 26/07/13 01:52:13 13.112 -90.096  14 2.9 C  60 Km al suroeste de Acajutla, El Salvador
+26/07/13 05:42:45 13.896 -90.060  33 2.2 C  23 Km al oeste de Ahuachapan, El Salvador
+26/07/13 06:21:16 13.619 -90.834  50 3.4 C  37 Km al sur de Iztapa, Guatemala
+26/07/13 07:03:12 13.146 -89.636  24 3.9 C  50 Km al suroeste de La Libertad, El Salvador
