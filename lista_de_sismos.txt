@@ -9220,3 +9220,4 @@
 26/07/14 01:56:19 13.255 -89.802  25 2.8 C  37 Km al sur de Acajutla, El Salvador
 26/07/14 03:28:12 14.539 -92.558  27 3.4 C  33 Km al oeste de El Gancho México
 26/07/14 04:06:17  9.527 -83.946   9 3.3 C  14 Km al norte de Naranjito, Costa Rica
+26/07/14 04:57:56 13.252 -90.421   6 2.9 C  65 Km al sur de Las Brisas, Guatemala
