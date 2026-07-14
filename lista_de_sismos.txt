@@ -9224,3 +9224,4 @@
 26/07/14 05:53:25 10.987 -86.458  13 2.8 C  57 Km al oeste de Caba Santa Elena, Costa Rica
 26/07/14 05:53:25 11.000 -86.448  16 2.8 C  56 Km al oeste de Caba Santa Elena, Costa Rica
 26/07/14 07:50:33  9.676 -84.909   7 3.3 C  27 Km al oeste de Herradura, Costa Rica
+26/07/14 11:55:40 12.008 -88.213  13 2.8 C 115 Km al suroeste de Mechapa, Chinandega, Nicaragua
