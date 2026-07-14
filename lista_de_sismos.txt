@@ -9211,3 +9211,7 @@
 26/07/13 16:17:51 10.671 -86.851  29 2.9 C 101 Km al oeste de Caba Santa Elena, Costa Rica
 26/07/13 18:02:02  9.716 -85.166  11 3.5 C  34 Km al sureste de Porvenir, Costa Rica
 26/07/13 18:04:26 14.165 -87.494   3 3.8 C  27 Km al sureste de La Paz, Honduras
+26/07/13 18:58:56 14.077 -89.848   7 2.4 C  18 Km al norte de Ahuachapan, El Salvador
+26/07/13 19:19:57 14.543 -92.640  39 5.7 C  41 Km al oeste de El Gancho México
+26/07/13 20:12:56 14.546 -92.447  37 4.1 C  21 Km al oeste de El Gancho México
+26/07/13 21:24:32 12.899 -88.964  29 3.4 C  42 Km al sur de Delta del Rio Lempa, El Salvador
