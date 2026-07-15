@@ -9234,3 +9234,5 @@
 26/07/14 20:11:29  5.202 -76.512   5 3.6 A 155 Km al suroeste de Medellin, Colombia
 26/07/14 22:29:03  8.884 -84.259   1 3.9 C  60 Km al suroeste de Dominical, Costa Rica
 26/07/14 23:04:58 11.338 -87.008  26 3.2 C  73 Km al suroeste de Pochomil, Nicaragua
+26/07/15 01:33:09 11.155 -87.178  27 3.4 C 100 Km al suroeste de Pochomil, Nicaragua
+26/07/15 01:54:54 10.330 -86.297  26 2.7 C  33 Km al oeste de Rosario, Costa Rica
