@@ -9241,3 +9241,4 @@
 26/07/15 10:49:56 13.038 -89.611  20 3.4 C  58 Km al suroeste de La Libertad, El Salvador
 26/07/15 12:23:13 13.517 -90.731  37 4.3 C  46 Km al sur de Iztapa, Guatemala
 26/07/15 12:23:13 13.519 -90.735  37 4.3 C  46 Km al sur de Iztapa, Guatemala
+26/07/15 14:50:28 12.696 -87.134   7 2.6 C   8 Km al norte de Chinandega, Nicaragua
