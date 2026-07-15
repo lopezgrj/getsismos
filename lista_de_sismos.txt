@@ -9236,3 +9236,4 @@
 26/07/14 23:04:58 11.338 -87.008  26 3.2 C  73 Km al suroeste de Pochomil, Nicaragua
 26/07/15 01:33:09 11.155 -87.178  27 3.4 C 100 Km al suroeste de Pochomil, Nicaragua
 26/07/15 01:54:54 10.330 -86.297  26 2.7 C  33 Km al oeste de Rosario, Costa Rica
+26/07/15 01:54:54 10.325 -86.300  27 2.8 C  34 Km al oeste de Rosario, Costa Rica
