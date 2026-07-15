@@ -9238,3 +9238,4 @@
 26/07/15 01:54:54 10.330 -86.297  26 2.7 C  33 Km al oeste de Rosario, Costa Rica
 26/07/15 01:54:54 10.325 -86.300  27 2.8 C  34 Km al oeste de Rosario, Costa Rica
 26/07/15 08:37:36 12.762 -88.611  38 4.4 C  60 Km al sureste de Delta del Rio Lempa, El Salvador
+26/07/15 10:49:56 13.038 -89.611  20 3.4 C  58 Km al suroeste de La Libertad, El Salvador
