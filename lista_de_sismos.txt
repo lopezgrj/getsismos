@@ -9231,3 +9231,4 @@
 26/07/14 17:23:12 14.431 -93.184  13 3.6 C 101 Km al oeste de El Gancho México
 26/07/14 17:45:16 14.339 -93.265  25 4.4 C 112 Km al oeste de El Gancho México
 26/07/14 18:42:53 13.234 -89.753  40 4.1 C  40 Km al sur de Acajutla, El Salvador
+26/07/14 20:11:29  5.202 -76.512   5 3.6 A 155 Km al suroeste de Medellin, Colombia
