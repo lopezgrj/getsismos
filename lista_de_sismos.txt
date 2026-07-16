@@ -9248,3 +9248,4 @@
 26/07/15 17:50:18 15.167 -89.224   2 3.0 C  40 Km al noreste de Zacapa, Guatemala
 26/07/15 17:56:32 15.171 -89.212   2 3.8 C  42 Km al noreste de Zacapa, Guatemala
 26/07/15 18:01:13 13.319 -89.924  24 2.6 C  32 Km al sur de Acajutla, El Salvador
+26/07/15 21:01:40 10.396 -86.308  10 3.0 C  36 Km al oeste de Rosario, Costa Rica
