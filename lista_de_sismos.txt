@@ -9253,3 +9253,4 @@
 26/07/16 00:13:12 12.933 -89.145  28 2.8 C  50 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/07/16 02:17:11 15.851 -92.822 131 4.0 C  46 Km al noreste de Pijijiapan, México
 26/07/16 04:33:32  8.466 -82.973   7 4.6 C   8 Km al oeste de Laurel, Costa Rica
+26/07/16 05:55:54  8.382 -82.796  20 2.5 C   5 Km al norte de Olivo Civil, Panamá
