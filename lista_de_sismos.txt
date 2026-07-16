@@ -9245,3 +9245,6 @@
 26/07/14 23:04:59 11.376 -87.036  27 3.2 C  73 Km al suroeste de Pochomil, Nicaragua
 26/07/15 01:33:09 11.166 -87.150  29 3.3 C  97 Km al suroeste de Pochomil, Nicaragua
 26/07/15 14:50:28 12.698 -87.133   6 2.6 C   8 Km al norte de Chinandega, Nicaragua
+26/07/15 17:50:18 15.167 -89.224   2 3.0 C  40 Km al noreste de Zacapa, Guatemala
+26/07/15 17:56:32 15.171 -89.212   2 3.8 C  42 Km al noreste de Zacapa, Guatemala
+26/07/15 18:01:13 13.319 -89.924  24 2.6 C  32 Km al sur de Acajutla, El Salvador
