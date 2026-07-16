@@ -9261,3 +9261,4 @@
 26/07/16 12:45:23 13.555 -90.567  30 4.0 C  44 Km al suroeste de Las Brisas, Guatemala
 26/07/16 12:45:23 13.558 -90.563  30 4.0 C  43 Km al suroeste de Las Brisas, Guatemala
 26/07/16 13:02:47 14.965 -92.361  98 4.4 C  12 Km al noroeste de Tapachula, México
+26/07/16 14:17:42 10.879 -86.972   6 3.0 C 108 Km al suroeste de Huehuete, Nicaragua
