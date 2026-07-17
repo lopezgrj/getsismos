@@ -9295,3 +9295,13 @@
 26/07/17 09:57:14 13.910 -93.324  53 5.7 C 136 Km al suroeste de El Gancho México
 26/07/17 10:00:50 13.443 -92.646  20 5.4 C 123 Km al suroeste de Champerico, Guatemala
 26/07/17 10:25:42 12.081 -88.417  10 3.5 C 121 Km al suroeste de Punta Cosigüina, Nicaragua
+26/07/17 10:42:28 14.086 -92.994  11 4.5 C  96 Km al suroeste de El Gancho México
+26/07/17 10:44:53 14.145 -92.866  79 4.8 C  81 Km al suroeste de El Gancho México
+26/07/17 11:00:57 13.663 -93.172   5 4.8 C 141 Km al suroeste de El Gancho México
+26/07/17 11:03:39 13.398 -92.929   9 5.2 C 147 Km al suroeste de San Marcos, Guatemala
+26/07/17 11:11:00 13.757 -91.588  34 3.7 C  32 Km al sur de El Semillero, Guatemala
+26/07/17 11:15:19 14.199 -93.169  17 5.5 C 106 Km al oeste de El Gancho México
+26/07/17 11:15:20 13.274 -92.895   1 5.3 C 155 Km al suroeste de Champerico, Guatemala
+26/07/17 11:23:27 14.336 -93.004  89 5.5 C  84 Km al oeste de El Gancho México
+26/07/17 11:23:29 14.322 -92.969  77 5.5 C  81 Km al oeste de El Gancho México
+26/07/17 11:32:11 13.561 -92.527   1 4.6 C 105 Km al suroeste de Champerico, Guatemala
