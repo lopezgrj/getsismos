@@ -9305,3 +9305,6 @@
 26/07/17 11:23:27 14.336 -93.004  89 5.5 C  84 Km al oeste de El Gancho México
 26/07/17 11:23:29 14.322 -92.969  77 5.5 C  81 Km al oeste de El Gancho México
 26/07/17 11:32:11 13.561 -92.527   1 4.6 C 105 Km al suroeste de Champerico, Guatemala
+26/07/17 12:12:46 14.265 -93.290  30 5.2 C 116 Km al oeste de El Gancho México
+26/07/17 12:17:21 14.331 -93.241  76 5.0 C 109 Km al oeste de El Gancho México
+26/07/17 12:26:44 13.830 -92.989  22 5.4 C 114 Km al suroeste de El Gancho México
