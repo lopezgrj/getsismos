@@ -9268,3 +9268,4 @@
 26/07/16 17:38:48  8.272 -82.659  31 3.6 A   8 Km al sureste de Desembocadura de Río Chiriqui Viejo, Panamá
 26/07/16 17:38:53  8.374 -82.978   4 3.3 C  11 Km al suroeste de Laurel, Costa Rica
 26/07/16 17:42:42 12.230 -88.011  26 3.9 C  82 Km al suroeste de Mechapa, Chinandega, Nicaragua
+26/07/16 21:16:17 12.941 -89.059  30 2.9 C  43 Km al suroeste de Delta del Rio Lempa, El Salvador
