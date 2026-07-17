@@ -9310,3 +9310,7 @@
 26/07/17 12:26:44 13.830 -92.989  22 5.4 C 114 Km al suroeste de El Gancho México
 26/07/17 13:09:44 14.801 -92.835   5 4.4 A  53 Km al suroeste de Pueblo Nuevo, México
 26/07/17 13:23:14 14.837 -91.845  22 3.1 A  15 Km al sur de San Marcos, Guatemala
+26/07/17 13:09:41 13.997 -93.088   9 4.6 C 110 Km al suroeste de El Gancho México
+26/07/17 13:22:58 14.047 -92.808   1 3.8 C  83 Km al suroeste de El Gancho México
+26/07/17 13:58:34 12.070 -86.139   2 2.6 C   9 Km al noreste de Ticuantepe, Nicaragua
+26/07/17 14:02:23 14.012 -93.123   5 5.3 C 112 Km al suroeste de El Gancho México
