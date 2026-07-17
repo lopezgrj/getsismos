@@ -9282,3 +9282,16 @@
 26/07/17 06:07:29 11.622 -87.205  32 4.4 C  73 Km al suroeste de El Transito, Nicaragua
 26/07/17 07:19:37 12.111 -88.444  22 3.4 C 121 Km al suroeste de Punta Cosigüina, Nicaragua
 26/07/17 07:20:31 14.349 -93.140   7 5.2 C  98 Km al oeste de El Gancho México
+26/07/17 06:36:32 11.659 -87.174  28 2.7 C  67 Km al suroeste de El Transito, Nicaragua
+26/07/17 07:19:37 12.111 -88.444  22 3.5 C 121 Km al suroeste de Punta Cosigüina, Nicaragua
+26/07/17 08:29:42 13.305 -89.236  29 3.0 C  22 Km al sureste de La Libertad, El Salvador
+26/07/17 08:48:35 14.363 -93.451  12 7.4 C 131 Km al oeste de El Gancho México
+26/07/17 09:14:58 13.713 -92.963 160 5.4 C 121 Km al suroeste de San Marcos, Guatemala
+26/07/17 09:20:07 14.130 -93.303  25 6.3 C 123 Km al suroeste de El Gancho México
+26/07/17 09:22:40 12.604 -88.219  29 4.5 C  64 Km al sur de Playa El Cuco, El Salvador
+26/07/17 09:26:35 14.130 -93.354   5 5.5 C 128 Km al oeste de El Gancho México
+26/07/17 09:30:35 14.227 -92.973   8 5.1 C  86 Km al suroeste de El Gancho México
+26/07/17 09:51:07 13.244 -89.962  26 3.6 C  41 Km al sur de Acajutla, El Salvador
+26/07/17 09:57:14 13.910 -93.324  53 5.7 C 136 Km al suroeste de El Gancho México
+26/07/17 10:00:50 13.443 -92.646  20 5.4 C 123 Km al suroeste de Champerico, Guatemala
+26/07/17 10:25:42 12.081 -88.417  10 3.5 C 121 Km al suroeste de Punta Cosigüina, Nicaragua
