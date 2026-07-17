@@ -9269,3 +9269,6 @@
 26/07/16 17:38:53  8.374 -82.978   4 3.3 C  11 Km al suroeste de Laurel, Costa Rica
 26/07/16 17:42:42 12.230 -88.011  26 3.9 C  82 Km al suroeste de Mechapa, Chinandega, Nicaragua
 26/07/16 21:16:17 12.941 -89.059  30 2.9 C  43 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/07/16 23:00:00 12.264 -87.420  37 3.8 C  37 Km al suroeste de Corinto, Nicaragua
+26/07/16 23:22:41 10.201 -86.378  10 3.2 C  44 Km al oeste de Rosario, Costa Rica
+26/07/17 00:19:33 12.518 -88.052  25 2.9 C  59 Km al suroeste de Punta Cosigüina, Nicaragua
