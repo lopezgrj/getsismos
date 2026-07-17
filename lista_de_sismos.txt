@@ -9272,3 +9272,6 @@
 26/07/16 23:00:00 12.264 -87.420  37 3.8 C  37 Km al suroeste de Corinto, Nicaragua
 26/07/16 23:22:41 10.201 -86.378  10 3.2 C  44 Km al oeste de Rosario, Costa Rica
 26/07/17 00:19:33 12.518 -88.052  25 2.9 C  59 Km al suroeste de Punta Cosigüina, Nicaragua
+26/07/17 01:21:02 13.889 -89.410   4 1.8 C  20 Km al sureste de Santa Ana, El Salvador
+26/07/17 01:25:07  7.010 -82.563   1 4.3 C  89 Km al oeste de Isla Jicarón, Panamá
+26/07/17 01:46:45 12.701 -86.933   6 1.3 C   7 Km al norte de Volcán San Cristóbal, Nicaragua
