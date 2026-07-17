@@ -9319,3 +9319,5 @@
 26/07/17 15:20:18 13.710 -92.607  20 4.0 C  99 Km al suroeste de Champerico, Guatemala
 26/07/17 15:38:30 14.427 -92.908  19 4.5 C  72 Km al oeste de El Gancho México
 26/07/17 15:43:29 13.773 -93.131  13 4.4 C 129 Km al suroeste de El Gancho México
+26/07/17 16:13:19 14.845 -91.888  27 4.5 C  17 Km al suroeste de San Marcos, Guatemala
+26/07/17 16:51:44 14.058 -92.985  47 4.3 C  97 Km al suroeste de El Gancho México
