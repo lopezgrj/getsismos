@@ -9321,3 +9321,9 @@
 26/07/17 15:43:29 13.773 -93.131  13 4.4 C 129 Km al suroeste de El Gancho México
 26/07/17 16:13:19 14.845 -91.888  27 4.5 C  17 Km al suroeste de San Marcos, Guatemala
 26/07/17 16:51:44 14.058 -92.985  47 4.3 C  97 Km al suroeste de El Gancho México
+26/07/17 17:35:03 13.135 -92.854   1 5.0 C 164 Km al suroeste de Champerico, Guatemala
+26/07/17 17:47:57 14.064 -93.176  30 5.1 C 114 Km al suroeste de El Gancho México
+26/07/17 18:12:22 12.665 -88.294  30 2.9 C  60 Km al sur de Playa El Cuco, El Salvador
+26/07/17 18:21:02 14.126 -93.513  21 4.8 C 144 Km al oeste de El Gancho México
+26/07/17 18:45:35 14.026 -90.289  21 3.1 C  23 Km al norte de Las Brisas, Guatemala
+26/07/17 18:47:46 14.093 -90.150  11 2.9 C  26 Km al sureste de Cuilapa, Guatemala
