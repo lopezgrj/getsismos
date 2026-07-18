@@ -9348,3 +9348,8 @@
 26/07/17 23:29:48 14.326 -93.350  58 4.4 C 121 Km al oeste de El Gancho México
 26/07/17 23:37:59 14.313 -93.251  17 4.3 C 111 Km al oeste de El Gancho México
 26/07/17 23:41:24 12.842 -87.176   7 1.8 C   4 Km al sur de Puerto Morazán, Nicaragua
+26/07/18 00:10:33 13.988 -91.790  57 4.4 C  21 Km al suroeste de Tulate, Guatemala
+26/07/18 00:14:43 14.030 -93.106  68 4.4 C 109 Km al suroeste de El Gancho México
+26/07/18 00:22:43 11.742 -86.549  59 3.3 C   6 Km al suroeste de Pochomil, Nicaragua
+26/07/18 00:52:12 13.916 -91.560  47 4.4 C  14 Km al sur de El Semillero, Guatemala
+26/07/18 01:20:42 14.080 -93.157  10 4.6 C 111 Km al suroeste de El Gancho México
