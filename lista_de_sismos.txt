@@ -9339,3 +9339,12 @@
 26/07/17 20:08:19 14.399 -93.108  21 4.3 C  94 Km al oeste de El Gancho México
 26/07/17 20:29:34 14.063 -93.015  15 4.9 C  99 Km al suroeste de El Gancho México
 26/07/17 21:12:04 14.315 -92.810  22 4.0 C  66 Km al suroeste de El Gancho México
+26/07/17 22:09:53 14.386 -93.086  16 3.6 C  92 Km al oeste de El Gancho México
+26/07/17 22:28:48 14.426 -93.209   2 5.6 C 104 Km al oeste de El Gancho México
+26/07/17 22:40:32 14.076 -93.095 106 4.7 C 105 Km al suroeste de El Gancho México
+26/07/17 22:50:34 10.947 -85.745  49 2.7 C  18 Km al sur de El Ostional, San Juan del Sur, Nicaragua
+26/07/17 23:26:24 14.358 -93.298   6 4.8 C 115 Km al oeste de El Gancho México
+26/07/17 23:28:32 11.925 -86.416  99 2.5 C  14 Km al suroeste de El Crucero, Nicaragua
+26/07/17 23:29:48 14.326 -93.350  58 4.4 C 121 Km al oeste de El Gancho México
+26/07/17 23:37:59 14.313 -93.251  17 4.3 C 111 Km al oeste de El Gancho México
+26/07/17 23:41:24 12.842 -87.176   7 1.8 C   4 Km al sur de Puerto Morazán, Nicaragua
