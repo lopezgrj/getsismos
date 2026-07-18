@@ -9385,3 +9385,6 @@
 26/07/18 06:42:37 14.429 -93.167  14 4.5 C  99 Km al oeste de El Gancho México
 26/07/18 07:28:39 14.404 -93.291   1 4.8 C 113 Km al oeste de El Gancho México
 26/07/18 09:38:38 13.506 -92.348  22 4.0 C  99 Km al suroeste de Champerico, Guatemala
+26/07/18 10:08:45 17.929 -81.535  30 5.3 C 153 Km al sur de George Town, Islas Caimán
+26/07/18 10:55:54 14.110 -93.552  68 4.7 C 149 Km al oeste de El Gancho México
+26/07/18 11:01:27 14.106 -93.346   4 4.9 C 128 Km al suroeste de El Gancho México
