@@ -9379,3 +9379,8 @@
 26/07/18 05:49:20 14.169 -92.913   7 4.2 C  83 Km al suroeste de El Gancho México
 26/07/18 06:27:36 14.179 -93.176  17 4.2 C 108 Km al suroeste de El Gancho México
 26/07/18 06:34:32 14.442 -92.803   5 4.3 A  60 Km al oeste de El Gancho México
+26/07/18 02:29:52 14.106 -92.976  18 3.9 C  93 Km al suroeste de El Gancho México
+26/07/18 06:34:31 14.403 -92.972  17 4.5 C  79 Km al oeste de El Gancho México
+26/07/18 06:40:11 14.129 -93.181  10 4.5 C 111 Km al suroeste de El Gancho México
+26/07/18 06:42:37 14.429 -93.167  14 4.5 C  99 Km al oeste de El Gancho México
+26/07/18 07:28:39 14.404 -93.291   1 4.8 C 113 Km al oeste de El Gancho México
