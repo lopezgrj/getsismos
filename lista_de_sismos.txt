@@ -9370,3 +9370,8 @@
 26/07/18 03:59:22 14.209 -92.956  20 4.9 C  85 Km al suroeste de El Gancho México
 26/07/18 04:08:05 14.135 -93.041  63 4.5 C  97 Km al suroeste de El Gancho México
 26/07/18 04:28:53 13.554 -90.698  24 4.3 C  42 Km al sur de Iztapa, Guatemala
+26/07/18 04:56:04 13.503 -90.710  21 4.1 C  48 Km al sur de Iztapa, Guatemala
+26/07/18 05:03:12 14.305 -93.202  14 4.4 C 106 Km al oeste de El Gancho México
+26/07/18 05:13:35 14.318 -93.273  11 4.1 C 113 Km al oeste de El Gancho México
+26/07/18 05:22:40 14.602 -93.394   6 4.3 C 106 Km al suroeste de Mapastepec, México
+26/07/18 05:30:14 14.016 -92.562  10 4.2 C  68 Km al suroeste de San Marcos, Guatemala
