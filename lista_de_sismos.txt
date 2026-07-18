@@ -9327,3 +9327,15 @@
 26/07/17 18:21:02 14.126 -93.513  21 4.8 C 144 Km al oeste de El Gancho México
 26/07/17 18:45:35 14.026 -90.289  21 3.1 C  23 Km al norte de Las Brisas, Guatemala
 26/07/17 18:47:46 14.093 -90.150  11 2.9 C  26 Km al sureste de Cuilapa, Guatemala
+26/07/17 18:12:23 12.676 -88.277  30 3.0 C  58 Km al sur de Playa El Cuco, El Salvador
+26/07/17 18:53:53 14.528 -93.285  49 4.3 C 107 Km al suroeste de Pueblo Nuevo, México
+26/07/17 19:10:29 14.315 -93.108  14 4.4 C  96 Km al oeste de El Gancho México
+26/07/17 19:34:56 14.091 -90.134   5 3.5 C  28 Km al sureste de Cuilapa, Guatemala
+26/07/17 19:42:01 14.077 -90.151  11 2.1 C  28 Km al sureste de Cuilapa, Guatemala
+26/07/17 19:49:01 14.129 -93.410   6 5.3 C 133 Km al oeste de El Gancho México
+26/07/17 19:55:52 12.587 -87.426 151 3.1 C  16 Km al sur de Jiquilillo, Nicaragua
+26/07/17 20:00:42 14.163 -93.037  10 4.2 C  95 Km al suroeste de El Gancho México
+26/07/17 20:04:12  9.731 -83.971   9 2.9 C   9 Km al noroeste de Tres de Junio, Costa Rica
+26/07/17 20:08:19 14.399 -93.108  21 4.3 C  94 Km al oeste de El Gancho México
+26/07/17 20:29:34 14.063 -93.015  15 4.9 C  99 Km al suroeste de El Gancho México
+26/07/17 21:12:04 14.315 -92.810  22 4.0 C  66 Km al suroeste de El Gancho México
