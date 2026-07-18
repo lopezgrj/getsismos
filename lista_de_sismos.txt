@@ -9353,3 +9353,14 @@
 26/07/18 00:22:43 11.742 -86.549  59 3.3 C   6 Km al suroeste de Pochomil, Nicaragua
 26/07/18 00:52:12 13.916 -91.560  47 4.4 C  14 Km al sur de El Semillero, Guatemala
 26/07/18 01:20:42 14.080 -93.157  10 4.6 C 111 Km al suroeste de El Gancho México
+26/07/18 01:20:42 14.080 -93.157  10 4.5 C 111 Km al suroeste de El Gancho México
+26/07/18 01:27:14 14.256 -93.427  10 4.3 C 131 Km al oeste de El Gancho México
+26/07/18 01:30:31 14.056 -93.110  10 4.4 C 108 Km al suroeste de El Gancho México
+26/07/18 01:45:11 14.146 -92.953  12 4.4 C  88 Km al suroeste de El Gancho México
+26/07/18 01:46:11 14.143 -93.348  14 4.6 C 127 Km al oeste de El Gancho México
+26/07/18 01:54:23 14.188 -93.217  13 4.7 C 112 Km al oeste de El Gancho México
+26/07/18 01:55:11 14.050 -93.183  10 4.7 C 115 Km al suroeste de El Gancho México
+26/07/18 02:29:52 14.116 -92.898  10 3.9 C  85 Km al suroeste de El Gancho México
+26/07/18 02:40:29  3.338 -79.415  28 4.5 C 255 Km al norte de Isla de Malpelo, Colombia
+26/07/18 02:53:56 14.122 -93.240  10 4.4 C 117 Km al suroeste de El Gancho México
+26/07/18 02:59:34 14.300 -93.225  10 4.5 C 108 Km al oeste de El Gancho México
