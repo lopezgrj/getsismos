@@ -9392,3 +9392,6 @@
 26/07/18 15:35:23 13.990 -93.155  61 4.7 C 116 Km al suroeste de El Gancho México
 26/07/18 16:31:25 13.373 -90.408  22 3.4 C  52 Km al sur de Las Brisas, Guatemala
 26/07/18 16:49:24 14.235 -93.511  88 5.2 C 140 Km al oeste de El Gancho México
+26/07/18 17:26:38 13.049 -88.722  60 3.4 C  26 Km al sureste de Delta del Rio Lempa, El Salvador
+26/07/18 17:31:18 11.181 -87.208  39 4.5 C 101 Km al suroeste de Pochomil, Nicaragua
+26/07/18 17:37:53 13.908 -92.922  14 4.5 C 102 Km al suroeste de El Gancho México
