@@ -9395,3 +9395,11 @@
 26/07/18 17:26:38 13.049 -88.722  60 3.4 C  26 Km al sureste de Delta del Rio Lempa, El Salvador
 26/07/18 17:31:18 11.181 -87.208  39 4.5 C 101 Km al suroeste de Pochomil, Nicaragua
 26/07/18 17:37:53 13.908 -92.922  14 4.5 C 102 Km al suroeste de El Gancho México
+26/07/18 18:33:44 14.207 -93.265   5 5.0 C 116 Km al oeste de El Gancho México
+26/07/18 19:03:52 14.385 -93.016  12 4.5 C  84 Km al oeste de El Gancho México
+26/07/18 19:47:23 13.825 -93.134  19 5.4 C 125 Km al suroeste de El Gancho México
+26/07/18 20:01:27 13.915 -93.072  14 4.8 C 114 Km al suroeste de El Gancho México
+26/07/18 20:18:50 13.880 -93.082   4 5.4 C 117 Km al suroeste de El Gancho México
+26/07/18 21:18:35 14.131 -92.790  99 3.8 C  75 Km al suroeste de El Gancho México
+26/07/18 21:27:15 14.089 -93.170  25 4.5 C 112 Km al suroeste de El Gancho México
+26/07/18 21:48:09 12.758 -87.519 155 2.5 C   5 Km al oeste de Boca del Padre Ramos, Nicaragua
