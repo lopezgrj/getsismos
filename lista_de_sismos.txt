@@ -9416,3 +9416,5 @@
 26/07/19 02:55:18 14.181 -93.192   7 4.2 C 109 Km al suroeste de El Gancho México
 26/07/19 03:01:34 14.308 -93.166   7 4.0 C 102 Km al oeste de El Gancho México
 26/07/19 03:39:01 11.447 -87.037  28 3.3 C  68 Km al suroeste de Masachapa, Nicaragua
+26/07/19 04:39:39 14.360 -92.999   6 4.1 C  83 Km al oeste de El Gancho México
+26/07/19 04:51:25 13.762 -93.225   5 3.8 A 137 Km al suroeste de El Gancho México
