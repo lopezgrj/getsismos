@@ -9426,3 +9426,5 @@
 26/07/19 06:24:41 13.845 -89.761   6 2.1 C  12 Km al sureste de Ahuachapan, El Salvador
 26/07/18 17:31:17 11.161 -87.247  25 4.5 C 106 Km al suroeste de Pochomil, Nicaragua
 26/07/19 06:46:24 13.853 -89.759   6 2.1 C  12 Km al sureste de Ahuachapan, El Salvador
+26/07/19 08:01:11 14.154 -93.254  20 4.4 C 117 Km al suroeste de El Gancho México
+26/07/19 08:21:49 14.438 -93.109  30 4.8 C  93 Km al oeste de El Gancho México
