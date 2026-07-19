@@ -9433,3 +9433,4 @@
 26/07/19 10:05:12 14.596 -92.151   5 3.7 A  11 Km al noreste de San Marcos, Guatemala
 26/07/19 10:04:59 14.224 -93.275  28 4.4 C 116 Km al oeste de El Gancho México
 26/07/19 10:32:00 13.936 -92.664  20 4.3 C  81 Km al suroeste de San Marcos, Guatemala
+26/07/19 11:45:14 13.831 -93.144  30 5.7 C 126 Km al suroeste de El Gancho México
