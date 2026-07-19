@@ -9438,3 +9438,4 @@
 26/07/19 12:53:53 11.177 -87.208   7 3.6 C 101 Km al suroeste de Pochomil, Nicaragua
 26/07/19 10:31:59 13.951 -92.703  20 4.3 C  83 Km al suroeste de San Marcos, Guatemala
 26/07/19 13:38:24 14.016 -93.091   8 4.0 C 109 Km al suroeste de El Gancho México
+26/07/19 14:31:37 12.618 -88.294  28 2.5 C  65 Km al sur de Playa El Cuco, El Salvador
