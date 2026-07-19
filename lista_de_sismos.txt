@@ -9412,3 +9412,7 @@
 26/07/19 00:17:44 14.365 -93.212 118 4.2 C 105 Km al oeste de El Gancho México
 26/07/19 00:45:53 12.978 -89.591  24 3.0 C  63 Km al suroeste de La Libertad, El Salvador
 26/07/19 01:07:47 13.502 -91.931  52 3.8 C  74 Km al suroeste de El Semillero, Guatemala
+26/07/19 02:51:16 14.116 -93.208  10 3.9 C 114 Km al suroeste de El Gancho México
+26/07/19 02:55:18 14.181 -93.192   7 4.2 C 109 Km al suroeste de El Gancho México
+26/07/19 03:01:34 14.308 -93.166   7 4.0 C 102 Km al oeste de El Gancho México
+26/07/19 03:39:01 11.447 -87.037  28 3.3 C  68 Km al suroeste de Masachapa, Nicaragua
