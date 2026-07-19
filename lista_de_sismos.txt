@@ -9418,3 +9418,9 @@
 26/07/19 03:39:01 11.447 -87.037  28 3.3 C  68 Km al suroeste de Masachapa, Nicaragua
 26/07/19 04:39:39 14.360 -92.999   6 4.1 C  83 Km al oeste de El Gancho México
 26/07/19 04:51:25 13.762 -93.225   5 3.8 A 137 Km al suroeste de El Gancho México
+26/07/19 04:51:31 14.113 -92.962  13 3.6 C  91 Km al suroeste de El Gancho México
+26/07/19 05:33:06 13.838 -89.746   5 2.2 C  14 Km al sureste de Ahuachapan, El Salvador
+26/07/19 05:45:17 13.851 -89.757   5 2.4 C  12 Km al sureste de Ahuachapan, El Salvador
+26/07/19 06:10:17 13.845 -89.751   5 2.8 C  13 Km al sureste de Ahuachapan, El Salvador
+26/07/19 06:16:05 13.844 -89.756   6 2.2 C  13 Km al sureste de Ahuachapan, El Salvador
+26/07/19 06:24:41 13.845 -89.761   6 2.1 C  12 Km al sureste de Ahuachapan, El Salvador
