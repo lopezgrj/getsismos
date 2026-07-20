@@ -9445,3 +9445,12 @@
 26/07/19 17:48:45 14.169 -92.986  22 4.0 C  90 Km al suroeste de El Gancho México
 26/07/19 18:32:06 14.365 -93.476  18 4.4 C 133 Km al oeste de El Gancho México
 26/07/19 18:38:44 13.834 -89.758   4 2.1 C  13 Km al sureste de Ahuachapan, El Salvador
+26/07/19 19:53:37 14.251 -93.361   4 5.2 C 124 Km al oeste de El Gancho México
+26/07/19 20:10:53 12.781 -88.315  37 2.8 C  49 Km al suroeste de Playa El Cuco, El Salvador
+26/07/19 21:02:15 11.019 -86.484  20 3.1 C  60 Km al oeste de Caba Santa Elena, Costa Rica
+26/07/19 21:09:56 11.163 -87.227  26 3.4 C 104 Km al suroeste de Pochomil, Nicaragua
+26/07/19 21:25:02 12.457 -87.820  34 3.1 C  49 Km al suroeste de Mechapa, Chinandega, Nicaragua
+26/07/19 21:50:21 14.378 -93.160   9 4.2 C 100 Km al oeste de El Gancho México
+26/07/19 21:56:34 14.907 -93.102  42 3.2 C  62 Km al sur de Mapastepec, México
+26/07/19 22:00:15 14.254 -93.162  11 3.8 C 104 Km al oeste de El Gancho México
+26/07/19 22:22:23 12.874 -88.729  40 3.3 C  44 Km al sur de Delta del Rio Lempa, El Salvador
