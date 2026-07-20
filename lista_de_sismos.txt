@@ -9441,3 +9441,7 @@
 26/07/19 14:31:37 12.618 -88.294  28 2.5 C  65 Km al sur de Playa El Cuco, El Salvador
 26/07/19 16:55:11 12.532 -88.158  28 3.2 C  66 Km al suroeste de Punta Cosigüina, Nicaragua
 26/07/19 17:22:05 13.657 -88.690   9 2.2 C  10 Km al norte de San Vicente, El Salvador
+26/07/19 17:35:20 11.289 -87.267  14 3.3 C  99 Km al suroeste de Masachapa, Nicaragua
+26/07/19 17:48:45 14.169 -92.986  22 4.0 C  90 Km al suroeste de El Gancho México
+26/07/19 18:32:06 14.365 -93.476  18 4.4 C 133 Km al oeste de El Gancho México
+26/07/19 18:38:44 13.834 -89.758   4 2.1 C  13 Km al sureste de Ahuachapan, El Salvador
