@@ -9454,3 +9454,13 @@
 26/07/19 21:56:34 14.907 -93.102  42 3.2 C  62 Km al sur de Mapastepec, México
 26/07/19 22:00:15 14.254 -93.162  11 3.8 C 104 Km al oeste de El Gancho México
 26/07/19 22:22:23 12.874 -88.729  40 3.3 C  44 Km al sur de Delta del Rio Lempa, El Salvador
+26/07/19 23:06:47 12.786 -90.446  15 4.2 C 111 Km al suroeste de Acajutla, El Salvador
+26/07/19 23:13:44 13.079 -90.077  17 3.2 C  63 Km al suroeste de Acajutla, El Salvador
+26/07/19 23:20:25 13.848 -89.763   5 2.0 C  12 Km al sureste de Ahuachapan, El Salvador
+26/07/19 23:57:57 13.197 -81.298   7 3.5 C  19 Km al sureste de Providencia, Colombia
+26/07/19 23:58:15 12.552 -88.004  27 2.2 C  52 Km al suroeste de Punta Cosigüina, Nicaragua
+26/07/20 00:08:10 13.873 -92.933  12 3.5 C 106 Km al suroeste de El Gancho México
+26/07/20 00:19:15  8.162 -82.703  20 2.7 C  18 Km al sur de Desembocadura de Río Chiriqui Viejo, Panamá
+26/07/20 00:22:33 14.043 -92.908  16 3.6 C  91 Km al suroeste de El Gancho México
+26/07/20 01:19:37 14.124 -93.297   4 4.4 C 122 Km al suroeste de El Gancho México
+26/07/20 01:41:28 14.351 -93.033   5 3.7 A  87 Km al oeste de El Gancho México
