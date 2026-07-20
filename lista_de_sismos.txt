@@ -9464,3 +9464,8 @@
 26/07/20 00:22:33 14.043 -92.908  16 3.6 C  91 Km al suroeste de El Gancho México
 26/07/20 01:19:37 14.124 -93.297   4 4.4 C 122 Km al suroeste de El Gancho México
 26/07/20 01:41:28 14.351 -93.033   5 3.7 A  87 Km al oeste de El Gancho México
+26/07/20 01:41:27 14.323 -93.121   6 3.8 C  97 Km al oeste de El Gancho México
+26/07/20 02:07:41 12.952 -89.162  39 2.8 C  50 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/07/20 02:14:39 14.146 -93.667  10 4.3 C 159 Km al oeste de El Gancho México
+26/07/20 03:40:10 13.832 -89.751   5 1.9 C  14 Km al norte de Sonsonate, El Salvador
+26/07/20 03:52:18 13.096 -90.114  15 3.2 C  63 Km al suroeste de Acajutla, El Salvador
