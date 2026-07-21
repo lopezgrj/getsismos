@@ -9487,3 +9487,4 @@
 26/07/20 16:52:05 12.237 -89.066   9 3.8 C 116 Km al sur de Delta del Rio Lempa, El Salvador
 26/07/20 17:02:16 14.280 -93.123   9 4.5 C  99 Km al oeste de El Gancho México
 26/07/20 17:17:25 13.985 -92.924   2 4.2 C  97 Km al suroeste de El Gancho México
+26/07/20 18:48:25 14.016 -93.023  11 4.4 C 103 Km al suroeste de El Gancho México
