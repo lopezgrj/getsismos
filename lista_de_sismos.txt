@@ -9515,3 +9515,8 @@
 26/07/21 04:56:52 13.421 -88.956 191 2.6 C  13 Km al suroeste de Zacatecoluca, El Salvador
 26/07/21 05:14:44 11.236 -87.183  35 3.7 C  95 Km al suroeste de Pochomil, Nicaragua
 26/07/21 06:42:06 12.595 -87.977  31 2.9 C  47 Km al suroeste de Punta Cosigüina, Nicaragua
+26/07/21 02:38:46 12.303 -89.067  13 3.2 C 109 Km al sur de Delta del Rio Lempa, El Salvador
+26/07/21 07:44:18 12.433 -87.738  39 2.8 C  46 Km al suroeste de Boca del Padre Ramos, Nicaragua
+26/07/21 07:47:24 12.979 -89.021  18 2.9 C  37 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/07/21 08:11:50 13.990 -93.188  15 3.7 C 119 Km al suroeste de El Gancho México
+26/07/21 08:38:08 13.667 -91.407  32 3.1 C  35 Km al sur de Tecojate, Guatemala
