@@ -9488,3 +9488,8 @@
 26/07/20 17:02:16 14.280 -93.123   9 4.5 C  99 Km al oeste de El Gancho México
 26/07/20 17:17:25 13.985 -92.924   2 4.2 C  97 Km al suroeste de El Gancho México
 26/07/20 18:48:25 14.016 -93.023  11 4.4 C 103 Km al suroeste de El Gancho México
+26/07/20 18:44:12 14.144 -93.071  30 4.2 C  99 Km al suroeste de El Gancho México
+26/07/20 19:10:31 14.036 -93.195  10 4.2 C 117 Km al suroeste de El Gancho México
+26/07/20 20:40:59 14.026 -92.952  28 4.0 C  96 Km al suroeste de El Gancho México
+26/07/20 21:14:14 12.865 -88.874  45 2.9 C  44 Km al sur de Delta del Rio Lempa, El Salvador
+26/07/20 21:48:26 11.718 -87.812  13 3.4 C 111 Km al suroeste de Corinto, Nicaragua
