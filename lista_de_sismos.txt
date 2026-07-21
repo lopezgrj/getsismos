@@ -9504,3 +9504,10 @@
 26/07/21 00:29:36 13.843 -89.755   6 2.2 C  13 Km al sureste de Ahuachapan, El Salvador
 26/07/21 00:35:44 14.667 -87.083   2 3.1 C  32 Km al sureste de Minas de Oro, Comayagua, Honduras
 26/07/21 00:43:13 14.132 -93.082  92 4.9 C 101 Km al suroeste de El Gancho México
+26/07/21 01:12:59 14.443 -82.925  13 5.0 C  67 Km al noreste de Bilwi, Nicaragua
+26/07/21 01:23:54 12.055 -87.838  27 2.6 C  87 Km al suroeste de Jiquilillo, Nicaragua
+26/07/21 01:44:38 12.347 -88.985  14 3.2 C 102 Km al sur de Delta del Rio Lempa, El Salvador
+26/07/21 02:54:18 13.171 -87.363   5 2.1 C  23 Km al suroeste de Choluteca, Honduras
+26/07/21 02:56:11 14.464 -92.791  18 3.3 C  59 Km al oeste de El Gancho México
+26/07/21 03:01:48 14.045 -93.154  20 4.0 C 113 Km al suroeste de El Gancho México
+26/07/21 03:09:56 13.988 -92.867  10 4.5 C  92 Km al suroeste de El Gancho México
