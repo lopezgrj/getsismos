@@ -9559,3 +9559,5 @@
 26/07/22 12:13:03 14.522 -93.200   7 4.2 C 102 Km al oeste de El Gancho México
 26/07/22 12:13:02 14.434 -93.203   2 4.3 C 103 Km al oeste de El Gancho México
 26/07/22 12:14:56 13.025 -89.496  30 3.0 C  54 Km al sur de La Libertad, El Salvador
+26/07/22 15:04:05  8.309 -83.269  19 3.3 C  31 Km al sureste de Playa Madrigal, Costa Rica
+26/07/22 16:20:45  8.377 -82.835  22 2.7 C   5 Km al norte de Rodolfo Aguilar Delgado, Panamá
