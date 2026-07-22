@@ -9554,3 +9554,6 @@
 26/07/22 09:11:12 12.260 -89.066   5 3.2 C 114 Km al sur de Delta del Rio Lempa, El Salvador
 26/07/22 10:20:37 13.387 -90.843  15 4.0 C  62 Km al sur de Iztapa, Guatemala
 26/07/22 11:03:25 13.947 -92.909   9 4.5 C  98 Km al suroeste de El Gancho México
+26/07/22 11:59:59 12.077 -86.135  18 2.3 C  10 Km al noreste de Ticuantepe, Nicaragua
+26/07/22 12:07:10  8.510 -82.915  22 2.4 C   8 Km al norte de Laurel, Costa Rica
+26/07/22 12:13:03 14.522 -93.200   7 4.2 C 102 Km al oeste de El Gancho México
