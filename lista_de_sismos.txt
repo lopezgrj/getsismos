@@ -9557,3 +9557,5 @@
 26/07/22 11:59:59 12.077 -86.135  18 2.3 C  10 Km al noreste de Ticuantepe, Nicaragua
 26/07/22 12:07:10  8.510 -82.915  22 2.4 C   8 Km al norte de Laurel, Costa Rica
 26/07/22 12:13:03 14.522 -93.200   7 4.2 C 102 Km al oeste de El Gancho México
+26/07/22 12:13:02 14.434 -93.203   2 4.3 C 103 Km al oeste de El Gancho México
+26/07/22 12:14:56 13.025 -89.496  30 3.0 C  54 Km al sur de La Libertad, El Salvador
