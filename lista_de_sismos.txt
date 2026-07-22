@@ -9547,3 +9547,6 @@
 26/07/22 03:53:05 14.130 -92.802  25 4.5 C  76 Km al suroeste de El Gancho México
 26/07/22 04:24:52 14.098 -93.012  49 4.9 C  97 Km al suroeste de El Gancho México
 26/07/22 04:54:07 13.992 -92.850  54 3.8 C  90 Km al suroeste de El Gancho México
+26/07/22 05:29:30 13.462 -90.855   3 3.2 C  54 Km al sur de Iztapa, Guatemala
+26/07/22 05:30:54 13.125 -90.057  14 3.0 C  57 Km al suroeste de Acajutla, El Salvador
+26/07/22 05:39:32 14.122 -93.223   5 4.4 C 115 Km al suroeste de El Gancho México
