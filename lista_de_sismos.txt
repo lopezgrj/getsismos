@@ -9569,3 +9569,5 @@
 26/07/23 06:04:50 13.825 -92.156  78 4.4 C  58 Km al suroeste de Champerico, Guatemala
 26/07/23 07:14:00 13.653 -92.489  66 4.8 C  94 Km al suroeste de Champerico, Guatemala
 26/07/23 07:28:09 14.510 -93.572   5 4.1 C 125 Km al suroeste de Mapastepec, México
+26/07/23 09:29:54 14.332 -93.633  15 4.6 C 145 Km al suroeste de Mapastepec, México
+26/07/23 09:49:16  9.937 -84.897   9 3.2 C   9 Km al suroeste de Puntarenas, Costa Rica
