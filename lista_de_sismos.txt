@@ -9572,3 +9572,7 @@
 26/07/23 09:29:54 14.332 -93.633  15 4.6 C 145 Km al suroeste de Mapastepec, México
 26/07/23 09:49:16  9.937 -84.897   9 3.2 C   9 Km al suroeste de Puntarenas, Costa Rica
 26/07/23 14:53:57 14.116 -93.327  40 4.1 C 126 Km al suroeste de El Gancho México
+26/07/23 16:39:02 14.186 -93.386   5 4.6 C 129 Km al oeste de El Gancho México
+26/07/23 17:03:58 14.289 -93.264  10 4.2 C 113 Km al oeste de El Gancho México
+26/07/23 17:11:11 14.184 -92.980  18 4.0 C  89 Km al suroeste de El Gancho México
+26/07/23 17:21:07 14.063 -93.095  26 4.2 C 106 Km al suroeste de El Gancho México
