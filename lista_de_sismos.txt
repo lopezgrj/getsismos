@@ -9566,3 +9566,6 @@
 26/07/23 00:47:21 14.789 -93.148 183 4.0 C  76 Km al sur de Mapastepec, México
 26/07/23 05:57:44 12.176 -87.290  41 2.9 C  35 Km al suroeste de Poneloya, Nicaragua
 26/07/23 06:04:49 13.799 -92.214  81 4.4 C  64 Km al suroeste de Champerico, Guatemala
+26/07/23 06:04:50 13.825 -92.156  78 4.4 C  58 Km al suroeste de Champerico, Guatemala
+26/07/23 07:14:00 13.653 -92.489  66 4.8 C  94 Km al suroeste de Champerico, Guatemala
+26/07/23 07:28:09 14.510 -93.572   5 4.1 C 125 Km al suroeste de Mapastepec, México
