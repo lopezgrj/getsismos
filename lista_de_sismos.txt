@@ -9595,3 +9595,5 @@
 26/07/24 08:33:22 12.844 -88.551  37 2.6 C  55 Km al sureste de Delta del Rio Lempa, El Salvador
 26/07/24 08:55:27 12.235 -86.975  38 3.2 C  15 Km al sur de Las Penitas, Nicaragua
 26/07/24 09:49:51 14.208 -93.205  10 3.5 C 110 Km al oeste de El Gancho México
+26/07/24 12:26:46 14.059 -93.142  15 4.4 C 111 Km al suroeste de El Gancho México
+26/07/24 12:43:20 14.074 -93.152  28 4.3 C 111 Km al suroeste de El Gancho México
