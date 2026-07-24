@@ -9586,3 +9586,7 @@
 26/07/24 01:25:51 13.694 -90.947  53 2.8 C  34 Km al sureste de Sipacate, Guatemala
 26/07/24 01:50:49 13.883 -89.707   7 1.6 C  15 Km al norte de Ahuachapan, El Salvador
 26/07/24 02:24:50 13.058 -89.280  33 2.7 C  48 Km al sur de La Libertad, El Salvador
+26/07/24 03:32:01 14.224 -93.239  29 4.4 C 112 Km al oeste de El Gancho México
+26/07/24 03:36:57 14.803 -93.793   1 4.5 C 114 Km al sur de Buenavista, México
+26/07/24 04:25:27 11.523 -85.976 143 4.1 C  16 Km al noreste de El Gigante, Tola, Nicaragua
+26/07/24 04:38:38 11.086 -87.492   1 2.9 C 132 Km al suroeste de Masachapa, Nicaragua
