@@ -9578,3 +9578,6 @@
 26/07/23 17:21:07 14.063 -93.095  26 4.2 C 106 Km al suroeste de El Gancho México
 26/07/23 18:37:48 12.986 -89.051  27 2.7 C  39 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/07/23 22:19:34 14.114 -92.715  18 3.6 C  70 Km al suroeste de El Gancho México
+26/07/23 22:51:06 11.803 -87.672  18 3.0 C  94 Km al suroeste de Poneloya, Nicaragua
+26/07/23 23:41:43 12.373 -87.538  45 2.8 C  40 Km al suroeste de Pasocaballos, El Realejo, Nicaragua
+26/07/24 01:02:37 13.893 -89.701   5 1.6 C  16 Km al norte de Ahuachapan, El Salvador
