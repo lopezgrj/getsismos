@@ -9581,3 +9581,8 @@
 26/07/23 22:51:06 11.803 -87.672  18 3.0 C  94 Km al suroeste de Poneloya, Nicaragua
 26/07/23 23:41:43 12.373 -87.538  45 2.8 C  40 Km al suroeste de Pasocaballos, El Realejo, Nicaragua
 26/07/24 01:02:37 13.893 -89.701   5 1.6 C  16 Km al norte de Ahuachapan, El Salvador
+26/07/24 01:11:47 13.890 -89.707   5 1.5 C  15 Km al norte de Ahuachapan, El Salvador
+26/07/24 01:18:33 13.892 -89.707   6 1.5 C  15 Km al norte de Ahuachapan, El Salvador
+26/07/24 01:25:51 13.694 -90.947  53 2.8 C  34 Km al sureste de Sipacate, Guatemala
+26/07/24 01:50:49 13.883 -89.707   7 1.6 C  15 Km al norte de Ahuachapan, El Salvador
+26/07/24 02:24:50 13.058 -89.280  33 2.7 C  48 Km al sur de La Libertad, El Salvador
