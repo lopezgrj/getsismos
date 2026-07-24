@@ -9598,3 +9598,4 @@
 26/07/24 12:26:46 14.059 -93.142  15 4.4 C 111 Km al suroeste de El Gancho México
 26/07/24 12:43:20 14.074 -93.152  28 4.3 C 111 Km al suroeste de El Gancho México
 26/07/24 14:42:01  9.505 -84.855  19 2.7 A  27 Km al suroeste de Herradura, Costa Rica
+26/07/24 14:42:00  9.443 -84.900  12 2.9 C  35 Km al suroeste de Jacó, Costa Rica
