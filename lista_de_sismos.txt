@@ -9617,3 +9617,4 @@
 26/07/25 04:18:47 12.887 -88.862  36 3.6 C  41 Km al sur de Delta del Rio Lempa, El Salvador
 26/07/25 04:28:21 13.518 -90.998  11 3.4 C  49 Km al sur de Sipacate, Guatemala
 26/07/25 04:42:24 13.221 -90.002  14 2.6 C  45 Km al suroeste de Acajutla, El Salvador
+26/07/25 06:00:17 13.585 -90.878  10 3.9 C  42 Km al suroeste de Iztapa, Guatemala
