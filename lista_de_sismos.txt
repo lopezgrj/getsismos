@@ -9620,3 +9620,5 @@
 26/07/25 06:00:17 13.585 -90.878  10 3.9 C  42 Km al suroeste de Iztapa, Guatemala
 26/07/25 06:04:49 12.447 -87.915  32 2.8 C  56 Km al suroeste de Mechapa, Chinandega, Nicaragua
 26/07/25 07:47:17 14.798 -92.991  12 4.3 C  64 Km al suroeste de Pueblo Nuevo, México
+26/07/25 09:06:21 14.139 -89.720   6 2.5 C  24 Km al noroeste de Santa Ana, El Salvador
+26/07/25 09:25:18  8.539 -82.570  18 2.9 C  20 Km al noroeste de Chiriqui, Panamá
