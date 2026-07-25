@@ -9618,3 +9618,5 @@
 26/07/25 04:28:21 13.518 -90.998  11 3.4 C  49 Km al sur de Sipacate, Guatemala
 26/07/25 04:42:24 13.221 -90.002  14 2.6 C  45 Km al suroeste de Acajutla, El Salvador
 26/07/25 06:00:17 13.585 -90.878  10 3.9 C  42 Km al suroeste de Iztapa, Guatemala
+26/07/25 06:04:49 12.447 -87.915  32 2.8 C  56 Km al suroeste de Mechapa, Chinandega, Nicaragua
+26/07/25 07:47:17 14.798 -92.991  12 4.3 C  64 Km al suroeste de Pueblo Nuevo, México
