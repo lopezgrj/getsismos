@@ -9603,3 +9603,6 @@
 26/07/24 17:38:55 14.125 -89.717   8 2.1 C  23 Km al noroeste de Santa Ana, El Salvador
 26/07/24 18:45:21 10.484 -86.121  15 3.6 C  23 Km al noroeste de Rosario, Costa Rica
 26/07/24 19:02:02 12.080 -87.979  20 2.9 C  93 Km al suroeste de Jiquilillo, Nicaragua
+26/07/24 20:22:09 12.921 -89.054  30 3.3 C  45 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/07/24 20:53:49 11.426 -86.009 206 2.6 C   5 Km al noreste de El Gigante, Tola, Nicaragua
+26/07/24 21:55:29 13.464 -92.759  21 3.4 C 130 Km al suroeste de Champerico, Guatemala
