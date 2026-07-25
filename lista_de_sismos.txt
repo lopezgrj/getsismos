@@ -9628,3 +9628,4 @@
 26/07/25 13:04:04 14.194 -92.903  10 3.5 C  81 Km al suroeste de El Gancho México
 26/07/25 15:36:31 13.779 -92.332  39 4.4 C  73 Km al suroeste de Champerico, Guatemala
 26/07/25 15:36:32 13.838 -92.283  40 4.4 C  64 Km al suroeste de Champerico, Guatemala
+26/07/25 16:52:59 12.328 -87.560  38 2.6 C  45 Km al suroeste de Pasocaballos, El Realejo, Nicaragua
