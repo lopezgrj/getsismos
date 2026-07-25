@@ -9623,3 +9623,5 @@
 26/07/25 09:06:21 14.139 -89.720   6 2.5 C  24 Km al noroeste de Santa Ana, El Salvador
 26/07/25 09:25:18  8.539 -82.570  18 2.9 C  20 Km al noroeste de Chiriqui, Panamá
 26/07/25 09:48:58 12.397 -89.290  10 3.7 C 108 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/07/25 10:36:43 11.848 -86.691  59 3.0 C  21 Km al oeste de Masachapa, Nicaragua
+26/07/25 11:24:31 11.896 -87.226  42 3.6 C  56 Km al suroeste de Las Penitas, Nicaragua
