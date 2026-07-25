@@ -9614,3 +9614,6 @@
 26/07/25 00:20:50 14.584 -91.828 123 3.3 C  17 Km al oeste de Retalhuleu, Guatemala
 26/07/25 00:29:18  3.805 -78.535   5 4.2 C 337 Km al norte de Esmeraldas, Ecuador
 26/07/25 01:44:04 14.393 -92.775  29 3.5 C  59 Km al oeste de El Gancho México
+26/07/25 04:18:47 12.887 -88.862  36 3.6 C  41 Km al sur de Delta del Rio Lempa, El Salvador
+26/07/25 04:28:21 13.518 -90.998  11 3.4 C  49 Km al sur de Sipacate, Guatemala
+26/07/25 04:42:24 13.221 -90.002  14 2.6 C  45 Km al suroeste de Acajutla, El Salvador
