@@ -9606,3 +9606,10 @@
 26/07/24 20:22:09 12.921 -89.054  30 3.3 C  45 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/07/24 20:53:49 11.426 -86.009 206 2.6 C   5 Km al noreste de El Gigante, Tola, Nicaragua
 26/07/24 21:55:29 13.464 -92.759  21 3.4 C 130 Km al suroeste de Champerico, Guatemala
+26/07/24 22:44:29 14.364 -93.163   8 4.0 C 100 Km al oeste de El Gancho México
+26/07/24 22:54:45 14.147 -92.923   6 3.3 C  86 Km al suroeste de El Gancho México
+26/07/24 23:26:33 14.456 -92.798  27 5.3 C  60 Km al oeste de El Gancho México
+26/07/24 23:57:01 14.406 -92.894  24 4.0 C  71 Km al oeste de El Gancho México
+26/07/24 23:57:25 11.526 -86.867  27 2.5 C  48 Km al suroeste de Masachapa, Nicaragua
+26/07/25 00:20:50 14.584 -91.828 123 3.3 C  17 Km al oeste de Retalhuleu, Guatemala
+26/07/25 00:29:18  3.805 -78.535   5 4.2 C 337 Km al norte de Esmeraldas, Ecuador
