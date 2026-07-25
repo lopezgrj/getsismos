@@ -9626,3 +9626,4 @@
 26/07/25 10:36:43 11.848 -86.691  59 3.0 C  21 Km al oeste de Masachapa, Nicaragua
 26/07/25 11:24:31 11.896 -87.226  42 3.6 C  56 Km al suroeste de Las Penitas, Nicaragua
 26/07/25 13:04:04 14.194 -92.903  10 3.5 C  81 Km al suroeste de El Gancho México
+26/07/25 15:36:31 13.779 -92.332  39 4.4 C  73 Km al suroeste de Champerico, Guatemala
