@@ -9638,3 +9638,6 @@
 26/07/26 02:34:35 11.088 -86.147  34 2.7 C  31 Km al noroeste de Caba Santa Elena, Costa Rica
 26/07/26 03:26:53 11.087 -86.904  67 4.5 A  86 Km al suroeste de Casares, Nicaragua
 26/07/26 03:28:17 13.452 -88.932   5 3.0 A   9 Km al suroeste de Zacatecoluca, El Salvador
+26/07/26 03:26:53 11.047 -86.954  29 4.6 C  93 Km al suroeste de Casares, Nicaragua
+26/07/26 04:01:18 14.296 -93.464  10 4.2 C 134 Km al oeste de El Gancho México
+26/07/26 04:04:54 14.190 -92.402  33 4.7 C  42 Km al suroeste de San Marcos, Guatemala
