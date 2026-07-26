@@ -9644,3 +9644,5 @@
 26/07/26 09:33:49 13.370 -92.077  59 4.5 C  96 Km al suroeste de El Semillero, Guatemala
 26/07/26 09:48:48 13.415 -92.114  15 4.1 C  93 Km al suroeste de Tulate, Guatemala
 26/07/26 10:32:51 14.305 -93.348  13 4.2 C 121 Km al oeste de El Gancho México
+26/07/26 11:53:33 12.294 -88.908  30 3.5 C 107 Km al sur de Delta del Rio Lempa, El Salvador
+26/07/26 11:58:31 15.784 -93.406  96 4.0 C   7 Km al noroeste de San Isidro, México
