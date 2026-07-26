@@ -9629,3 +9629,7 @@
 26/07/25 15:36:31 13.779 -92.332  39 4.4 C  73 Km al suroeste de Champerico, Guatemala
 26/07/25 15:36:32 13.838 -92.283  40 4.4 C  64 Km al suroeste de Champerico, Guatemala
 26/07/25 16:52:59 12.328 -87.560  38 2.6 C  45 Km al suroeste de Pasocaballos, El Realejo, Nicaragua
+26/07/25 22:42:57 12.958 -88.939  29 2.9 C  35 Km al sur de Delta del Rio Lempa, El Salvador
+26/07/25 23:14:37 12.537 -88.204  34 3.8 C  69 Km al suroeste de Punta Cosigüina, Nicaragua
+26/07/26 00:31:17 13.286 -90.290  12 3.9 C  60 Km al sur de Las Brisas, Guatemala
+26/07/26 00:42:50 14.056 -93.053  24 3.4 C 103 Km al suroeste de El Gancho México
