@@ -9643,3 +9643,4 @@
 26/07/26 04:04:54 14.190 -92.402  33 4.7 C  42 Km al suroeste de San Marcos, Guatemala
 26/07/26 09:33:49 13.370 -92.077  59 4.5 C  96 Km al suroeste de El Semillero, Guatemala
 26/07/26 09:48:48 13.415 -92.114  15 4.1 C  93 Km al suroeste de Tulate, Guatemala
+26/07/26 10:32:51 14.305 -93.348  13 4.2 C 121 Km al oeste de El Gancho México
