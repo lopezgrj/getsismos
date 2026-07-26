@@ -9633,3 +9633,8 @@
 26/07/25 23:14:37 12.537 -88.204  34 3.8 C  69 Km al suroeste de Punta Cosigüina, Nicaragua
 26/07/26 00:31:17 13.286 -90.290  12 3.9 C  60 Km al sur de Las Brisas, Guatemala
 26/07/26 00:42:50 14.056 -93.053  24 3.4 C 103 Km al suroeste de El Gancho México
+26/07/26 01:27:30 13.421 -90.054  33 2.4 C  31 Km al suroeste de Acajutla, El Salvador
+26/07/26 01:58:10 13.195 -89.424  37 2.6 C  34 Km al sur de La Libertad, El Salvador
+26/07/26 02:34:35 11.088 -86.147  34 2.7 C  31 Km al noroeste de Caba Santa Elena, Costa Rica
+26/07/26 03:26:53 11.087 -86.904  67 4.5 A  86 Km al suroeste de Casares, Nicaragua
+26/07/26 03:28:17 13.452 -88.932   5 3.0 A   9 Km al suroeste de Zacatecoluca, El Salvador
