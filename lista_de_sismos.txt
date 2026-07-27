@@ -9669,3 +9669,4 @@
 26/07/27 10:55:14 12.611 -86.829   1 1.9 C   2 Km al noreste de Volcán Telica, Nicaragua
 26/07/27 10:56:36 12.611 -86.829   2 1.8 C   2 Km al noreste de Volcán Telica, Nicaragua
 26/07/27 11:28:05 12.611 -86.829   2 2.0 C   2 Km al noreste de Volcán Telica, Nicaragua
+26/07/27 12:21:20 12.078 -88.507  10 2.8 C 128 Km al suroeste de Punta Cosigüina, Nicaragua
