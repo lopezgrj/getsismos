@@ -9657,3 +9657,4 @@
 26/07/26 23:37:41 13.954 -89.686 178 3.1 C  15 Km al oeste de Santa Ana, El Salvador
 26/07/27 01:03:09 11.547 -87.268  35 2.6 C  83 Km al suroeste de El Transito, Nicaragua
 26/07/27 02:00:59 12.471 -87.859  33 3.2 C  50 Km al suroeste de Mechapa, Chinandega, Nicaragua
+26/07/27 02:52:41 13.079 -89.439  38 2.7 C  47 Km al sur de La Libertad, El Salvador
