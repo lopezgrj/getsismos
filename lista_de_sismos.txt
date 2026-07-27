@@ -9650,3 +9650,7 @@
 26/07/26 13:17:30 13.343 -90.830   6 3.9 C  67 Km al sur de Iztapa, Guatemala
 26/07/26 17:22:11  8.798 -84.158   1 4.1 C  60 Km al suroeste de Dominical, Costa Rica
 26/07/26 17:22:11  8.786 -84.166  10 4.0 C  62 Km al suroeste de Dominical, Costa Rica
+26/07/26 19:06:28  9.505 -84.809  15 2.8 C  23 Km al suroeste de Jacó, Costa Rica
+26/07/26 19:10:13 10.297 -84.453  78 2.1 C  36 Km al noroeste de Vara Blanca, Costa Rica
+26/07/26 19:39:00 14.379 -93.166  18 4.0 C 100 Km al oeste de El Gancho México
+26/07/26 22:05:48 12.910 -88.963  31 2.8 C  41 Km al sur de Delta del Rio Lempa, El Salvador
