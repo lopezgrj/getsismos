@@ -9660,3 +9660,6 @@
 26/07/27 02:52:41 13.079 -89.439  38 2.7 C  47 Km al sur de La Libertad, El Salvador
 26/07/27 06:01:34 14.166 -93.231  42 4.0 C 114 Km al suroeste de El Gancho México
 26/07/27 06:10:42 11.325 -85.907 205 2.2 C   9 Km al noroeste de San Juan del Sur, Nicaragua
+26/07/27 04:21:23 11.990 -86.160   7 1.7 C   1 Km al noreste de Volcán Masaya, Nicaragua
+26/07/27 08:23:46 14.625 -89.591   2 3.1 C  19 Km al sur de Chiquimula, Guatemala
+26/07/27 08:24:52 12.198 -87.020  62 3.3 C  18 Km al sur de Las Penitas, Nicaragua
