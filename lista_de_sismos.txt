@@ -9676,3 +9676,7 @@
 26/07/27 16:58:20 13.171 -89.645  27 2.9 C  49 Km al suroeste de La Libertad, El Salvador
 26/07/27 22:16:08 12.779 -88.634  37 4.5 C  57 Km al sur de Delta del Rio Lempa, El Salvador
 26/07/27 23:35:14 14.192 -93.013  14 6.2 C  91 Km al suroeste de El Gancho México
+26/07/28 00:05:26 11.633 -87.210  19 2.8 C  72 Km al suroeste de El Transito, Nicaragua
+26/07/28 02:25:15 14.299 -92.709  21 4.2 C  57 Km al suroeste de El Gancho México
+26/07/28 02:47:10 12.978 -89.438  22 2.9 C  58 Km al sur de La Libertad, El Salvador
+26/07/28 03:05:36 14.113 -89.822  10 1.8 A  20 Km al sur de Jutiapa, Guatemala
