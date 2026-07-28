@@ -9695,3 +9695,4 @@
 26/07/28 09:32:10  8.651 -83.232  17 2.9 C  38 Km al noreste de Playa Madrigal, Costa Rica
 26/07/25 20:13:42 10.488 -83.139   8 2.9 C  31 Km al noreste de Parismina, Costa Rica
 26/07/28 10:14:12 14.046 -92.859   6 5.1 C  87 Km al suroeste de El Gancho México
+26/07/28 07:19:40 13.631 -92.774   5 3.6 C 116 Km al suroeste de San Marcos, Guatemala
