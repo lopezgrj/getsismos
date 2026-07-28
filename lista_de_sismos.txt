@@ -9698,3 +9698,4 @@
 26/07/28 07:19:40 13.631 -92.774   5 3.6 C 116 Km al suroeste de San Marcos, Guatemala
 26/07/28 12:57:29 12.255 -87.988  23 3.4 C  78 Km al suroeste de Mechapa, Chinandega, Nicaragua
 26/07/28 13:12:25 14.255 -93.189  14 3.7 C 106 Km al oeste de El Gancho México
+26/07/28 15:05:48 12.257 -87.719  31 3.4 C  61 Km al suroeste de Jiquilillo, Nicaragua
