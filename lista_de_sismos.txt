@@ -9687,3 +9687,6 @@
 26/07/28 04:36:25 12.210 -86.843  93 2.3 C   9 Km al oeste de Puerto Sandino, Nicaragua
 26/07/28 04:40:12 14.058 -92.782  10 3.7 C  80 Km al suroeste de El Gancho México
 26/07/28 05:05:39 12.425 -87.831  36 3.5 C  53 Km al suroeste de Mechapa, Chinandega, Nicaragua
+26/07/28 05:21:57 12.610 -86.818   2 1.8 C   3 Km al norte de Volcán Telica, Nicaragua
+26/07/28 05:47:00 10.230 -86.380  15 3.0 C  44 Km al oeste de Rosario, Costa Rica
+26/07/28 07:12:52 10.768 -84.958   7 3.3 A  31 Km al sureste de Cuatro Bocas, Costa Rica
