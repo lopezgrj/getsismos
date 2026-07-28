@@ -9693,3 +9693,5 @@
 26/07/28 07:12:50 10.443 -85.040  55 3.2 C  49 Km al sureste de Liberia, Costa Rica
 26/07/28 07:42:21 18.896 -81.301  15 5.0 C  45 Km al sur de George Town, Islas Caimán
 26/07/28 09:32:10  8.651 -83.232  17 2.9 C  38 Km al noreste de Playa Madrigal, Costa Rica
+26/07/25 20:13:42 10.488 -83.139   8 2.9 C  31 Km al noreste de Parismina, Costa Rica
+26/07/28 10:14:12 14.046 -92.859   6 5.1 C  87 Km al suroeste de El Gancho México
