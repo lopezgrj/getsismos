@@ -9680,3 +9680,10 @@
 26/07/28 02:25:15 14.299 -92.709  21 4.2 C  57 Km al suroeste de El Gancho México
 26/07/28 02:47:10 12.978 -89.438  22 2.9 C  58 Km al sur de La Libertad, El Salvador
 26/07/28 03:05:36 14.113 -89.822  10 1.8 A  20 Km al sur de Jutiapa, Guatemala
+26/07/28 03:05:35 14.106 -89.810   7 2.0 C  21 Km al norte de Ahuachapan, El Salvador
+26/07/28 03:15:57 13.934 -93.226  10 4.4 C 126 Km al suroeste de El Gancho México
+26/07/28 03:48:06 14.113 -92.820  10 4.2 C  79 Km al suroeste de El Gancho México
+26/07/28 04:03:48 11.978 -86.380 150 2.5 C   8 Km al oeste de El Crucero, Nicaragua
+26/07/28 04:36:25 12.210 -86.843  93 2.3 C   9 Km al oeste de Puerto Sandino, Nicaragua
+26/07/28 04:40:12 14.058 -92.782  10 3.7 C  80 Km al suroeste de El Gancho México
+26/07/28 05:05:39 12.425 -87.831  36 3.5 C  53 Km al suroeste de Mechapa, Chinandega, Nicaragua
