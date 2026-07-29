@@ -9699,3 +9699,6 @@
 26/07/28 12:57:29 12.255 -87.988  23 3.4 C  78 Km al suroeste de Mechapa, Chinandega, Nicaragua
 26/07/28 13:12:25 14.255 -93.189  14 3.7 C 106 Km al oeste de El Gancho México
 26/07/28 15:05:48 12.257 -87.719  31 3.4 C  61 Km al suroeste de Jiquilillo, Nicaragua
+26/07/28 18:07:29 12.389 -87.712  34 2.8 C  48 Km al suroeste de Jiquilillo, Nicaragua
+26/07/28 18:40:09 14.054 -93.099  23 4.8 C 107 Km al suroeste de El Gancho México
+26/07/28 18:56:59 14.098 -93.150   5 3.6 C 109 Km al suroeste de El Gancho México
