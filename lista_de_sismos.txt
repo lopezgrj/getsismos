@@ -9723,3 +9723,4 @@
 26/07/29 02:44:28 11.060 -86.979  30 3.6 C  94 Km al suroeste de Casares, Nicaragua
 26/07/29 08:51:52 10.603 -86.535  51 3.2 C  67 Km al noroeste de Rosario, Costa Rica
 26/07/29 11:11:25 13.706 -92.234  25 3.7 C  74 Km al suroeste de Champerico, Guatemala
+26/07/29 14:54:19 12.344 -89.239  11 2.9 C 111 Km al suroeste de Delta del Rio Lempa, El Salvador
