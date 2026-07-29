@@ -9712,3 +9712,8 @@
 26/07/28 23:49:30 12.611 -86.829   3 1.7 C   2 Km al noreste de Volcán Telica, Nicaragua
 26/07/28 23:50:51 14.180 -93.203  12 4.0 C 111 Km al suroeste de El Gancho México
 26/07/29 00:30:47 12.939 -89.124  35 2.7 C  48 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/07/29 01:29:00 14.374 -93.365  10 4.1 C 121 Km al oeste de El Gancho México
+26/07/29 01:38:05 11.540 -86.343  53 3.0 C   9 Km al sur de Huehuete, Nicaragua
+26/07/29 02:04:58 11.097 -87.048  21 3.1 C  95 Km al suroeste de Pochomil, Nicaragua
+26/07/29 02:44:29 11.137 -86.895  57 3.5 C  81 Km al suroeste de Casares, Nicaragua
+26/07/29 02:57:25 15.331 -91.110   5 3.9 A  34 Km al norte de Santa Cruz del Quiche, Guatemala
