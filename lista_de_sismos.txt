@@ -9708,3 +9708,7 @@
 26/07/28 21:19:12 14.023 -93.311   7 3.8 C 129 Km al suroeste de El Gancho México
 26/07/28 21:35:48 14.154 -93.058  19 4.8 C  98 Km al suroeste de El Gancho México
 26/07/28 21:53:12 14.184 -93.129   7 4.6 C 103 Km al suroeste de El Gancho México
+26/07/28 22:37:32 12.435 -89.394  10 3.0 C 110 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/07/28 23:49:30 12.611 -86.829   3 1.7 C   2 Km al noreste de Volcán Telica, Nicaragua
+26/07/28 23:50:51 14.180 -93.203  12 4.0 C 111 Km al suroeste de El Gancho México
+26/07/29 00:30:47 12.939 -89.124  35 2.7 C  48 Km al suroeste de Delta del Rio Lempa, El Salvador
