@@ -9720,3 +9720,5 @@
 26/07/29 02:57:25 15.361 -91.134   1 3.9 C  37 Km al norte de Santa Cruz del Quiche, Guatemala
 26/07/29 04:57:06 12.533 -88.195  35 3.6 C  69 Km al suroeste de Punta Cosigüina, Nicaragua
 26/07/29 05:01:27 14.124 -93.184   7 4.1 C 111 Km al suroeste de El Gancho México
+26/07/29 02:44:28 11.060 -86.979  30 3.6 C  94 Km al suroeste de Casares, Nicaragua
+26/07/29 08:51:52 10.603 -86.535  51 3.2 C  67 Km al noroeste de Rosario, Costa Rica
