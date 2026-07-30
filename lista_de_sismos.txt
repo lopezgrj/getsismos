@@ -9735,3 +9735,7 @@
 26/07/30 01:10:41 13.203 -90.348  17 2.9 C  69 Km al sur de Las Brisas, Guatemala
 26/07/30 02:25:26 13.222 -88.046   3 1.2 C   3 Km al norte de Intipucá, El Salvador
 26/07/30 02:35:53 14.273 -92.804  20 4.0 C  67 Km al suroeste de El Gancho México
+26/07/30 03:16:28 13.591 -90.827  21 3.4 C  40 Km al sur de Iztapa, Guatemala
+26/07/30 03:41:01 12.998 -89.034  32 3.2 C  36 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/07/30 03:52:10 12.567 -87.907  31 3.5 C  45 Km al suroeste de Punta Cosigüina, Nicaragua
+26/07/30 04:27:04 14.182 -92.979   8 3.9 C  89 Km al suroeste de El Gancho México
