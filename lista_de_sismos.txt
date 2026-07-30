@@ -9729,3 +9729,5 @@
 26/07/29 17:37:50 14.254 -93.076  80 4.3 C  95 Km al oeste de El Gancho México
 26/07/29 19:51:42 14.423 -93.173  19 3.9 C 100 Km al oeste de El Gancho México
 26/07/29 21:18:06 14.299 -93.073  25 3.3 C  93 Km al oeste de El Gancho México
+26/07/29 21:42:23 13.502 -89.990  66 2.2 C  20 Km al suroeste de Acajutla, El Salvador
+26/07/29 23:06:30 12.661 -88.457  35 2.9 C  68 Km al suroeste de Playa El Cuco, El Salvador
