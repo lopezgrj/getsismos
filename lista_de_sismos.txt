@@ -9731,3 +9731,7 @@
 26/07/29 21:18:06 14.299 -93.073  25 3.3 C  93 Km al oeste de El Gancho México
 26/07/29 21:42:23 13.502 -89.990  66 2.2 C  20 Km al suroeste de Acajutla, El Salvador
 26/07/29 23:06:30 12.661 -88.457  35 2.9 C  68 Km al suroeste de Playa El Cuco, El Salvador
+26/07/30 00:58:53 13.902 -91.372  48 5.6 C   8 Km al sur de Tecojate, Guatemala
+26/07/30 01:10:41 13.203 -90.348  17 2.9 C  69 Km al sur de Las Brisas, Guatemala
+26/07/30 02:25:26 13.222 -88.046   3 1.2 C   3 Km al norte de Intipucá, El Salvador
+26/07/30 02:35:53 14.273 -92.804  20 4.0 C  67 Km al suroeste de El Gancho México
