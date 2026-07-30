@@ -9743,3 +9743,6 @@
 26/07/30 05:40:40 12.552 -87.972  29 3.2 C  50 Km al suroeste de Punta Cosigüina, Nicaragua
 26/07/30 00:58:54 14.051 -91.332  45 5.3 C   9 Km al norte de Tecojate, Guatemala
 26/07/30 06:33:21 13.035 -89.113  27 3.1 C  39 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/07/30 08:45:25 14.050 -92.878  21 4.4 C  88 Km al suroeste de El Gancho México
+26/07/30 09:28:48 14.308 -93.479  15 4.2 C 135 Km al oeste de El Gancho México
+26/07/30 09:57:50 14.100 -93.245   8 3.7 C 118 Km al suroeste de El Gancho México
