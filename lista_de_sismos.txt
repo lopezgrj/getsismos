@@ -9727,3 +9727,5 @@
 26/07/29 15:53:50 12.453 -86.993  27 2.8 C  10 Km al noreste de Poneloya, Nicaragua
 26/07/29 17:17:34 14.480 -93.369   1 4.9 C 117 Km al suroeste de Mapastepec, México
 26/07/29 17:37:50 14.254 -93.076  80 4.3 C  95 Km al oeste de El Gancho México
+26/07/29 19:51:42 14.423 -93.173  19 3.9 C 100 Km al oeste de El Gancho México
+26/07/29 21:18:06 14.299 -93.073  25 3.3 C  93 Km al oeste de El Gancho México
