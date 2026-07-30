@@ -9747,3 +9747,6 @@
 26/07/30 09:28:48 14.308 -93.479  15 4.2 C 135 Km al oeste de El Gancho México
 26/07/30 09:57:50 14.100 -93.245   8 3.7 C 118 Km al suroeste de El Gancho México
 26/07/30 12:20:33 14.096 -93.119  71 4.7 C 107 Km al suroeste de El Gancho México
+26/07/30 13:00:24 13.994 -91.748  45 3.4 C  18 Km al sur de Tulate, Guatemala
+26/07/30 14:14:20 12.283 -89.441   9 4.2 C 127 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/07/30 14:24:32 12.430 -89.380   4 3.6 C 110 Km al suroeste de Delta del Rio Lempa, El Salvador
