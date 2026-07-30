@@ -9739,3 +9739,5 @@
 26/07/30 03:41:01 12.998 -89.034  32 3.2 C  36 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/07/30 03:52:10 12.567 -87.907  31 3.5 C  45 Km al suroeste de Punta Cosigüina, Nicaragua
 26/07/30 04:27:04 14.182 -92.979   8 3.9 C  89 Km al suroeste de El Gancho México
+26/07/30 04:45:20 12.932 -88.560  40 3.4 C  46 Km al sureste de Delta del Rio Lempa, El Salvador
+26/07/30 05:40:40 12.552 -87.972  29 3.2 C  50 Km al suroeste de Punta Cosigüina, Nicaragua
