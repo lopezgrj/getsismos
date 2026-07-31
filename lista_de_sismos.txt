@@ -9753,3 +9753,4 @@
 26/07/30 14:32:00 12.467 -89.339   9 3.6 C 104 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/07/30 16:39:08 12.433 -89.345  10 3.6 C 107 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/07/30 17:32:15 12.916 -87.458   7 2.2 C   6 Km al oeste de Desembocadura del Río Estero Real, Nicaragua
+26/07/30 17:42:35 14.639 -93.197   6 4.3 C  92 Km al suroeste de Pueblo Nuevo, México
