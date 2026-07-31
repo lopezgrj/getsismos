@@ -9760,3 +9760,5 @@
 26/07/30 23:10:34 13.995 -93.169  31 3.7 C 117 Km al suroeste de El Gancho México
 26/07/31 00:52:37 13.580 -90.689  32 3.0 C  39 Km al sur de Iztapa, Guatemala
 26/07/31 03:40:12 14.230 -93.171  69 4.7 C 105 Km al oeste de El Gancho México
+26/07/31 00:18:42 12.962 -88.927  39 3.1 C  34 Km al sur de Delta del Rio Lempa, El Salvador
+26/07/31 06:40:40 13.889 -91.210  10 3.2 C   5 Km al suroeste de San Jose, Guatemala
