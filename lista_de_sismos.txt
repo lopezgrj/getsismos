@@ -9773,3 +9773,6 @@
 26/07/31 14:59:13 14.438 -93.608  11 4.7 C 134 Km al suroeste de Mapastepec, México
 26/07/31 20:16:26  9.761 -83.821   7 4.8 C  12 Km al noreste de Tres de Junio, Costa Rica
 26/07/31 20:17:44 13.284 -87.945  28 3.2 C  12 Km al suroeste de La Union, El Salvador
+26/07/31 23:22:24 14.219 -93.563  10 4.2 C 146 Km al oeste de El Gancho México
+26/08/01 00:13:01  9.764 -83.837   5 3.2 C  11 Km al noreste de Tres de Junio, Costa Rica
+26/08/01 00:58:27 13.232 -88.213   7 1.9 C  13 Km al noroeste de Playa El Cuco, El Salvador
