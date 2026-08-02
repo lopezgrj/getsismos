@@ -9807,3 +9807,6 @@
 26/08/02 08:10:21 10.337 -84.612  37 3.0 C  44 Km al noreste de Chacarita, Costa Rica
 26/08/02 10:09:31 11.503 -86.010 116 4.4 C  13 Km al norte de El Gigante, Tola, Nicaragua
 26/08/02 11:12:35  7.619 -77.207  30 4.5 C  59 Km al oeste de Chigorodo, Colombia
+26/08/02 13:02:43  8.465 -82.604  19 3.0 C  19 Km al noreste de Desembocadura de Río Chiriqui Viejo, Panamá
+26/08/02 14:42:54 11.558 -87.616  33 3.2 C 110 Km al suroeste de Las Penitas, Nicaragua
+26/08/02 14:45:54 11.509 -87.680  28 3.5 C 119 Km al suroeste de Las Penitas, Nicaragua
