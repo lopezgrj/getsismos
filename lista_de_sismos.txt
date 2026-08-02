@@ -9810,3 +9810,4 @@
 26/08/02 13:02:43  8.465 -82.604  19 3.0 C  19 Km al noreste de Desembocadura de Río Chiriqui Viejo, Panamá
 26/08/02 14:42:54 11.558 -87.616  33 3.2 C 110 Km al suroeste de Las Penitas, Nicaragua
 26/08/02 14:45:54 11.509 -87.680  28 3.5 C 119 Km al suroeste de Las Penitas, Nicaragua
+26/08/02 17:37:37 13.156 -89.649  25 3.1 C  51 Km al suroeste de La Libertad, El Salvador
