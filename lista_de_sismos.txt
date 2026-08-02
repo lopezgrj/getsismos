@@ -9805,3 +9805,4 @@
 26/08/02 06:57:14 12.907 -89.052  39 3.2 C  46 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/08/02 08:04:10 12.880 -88.781  35 3.0 C  42 Km al sur de Delta del Rio Lempa, El Salvador
 26/08/02 08:10:21 10.337 -84.612  37 3.0 C  44 Km al noreste de Chacarita, Costa Rica
+26/08/02 10:09:31 11.503 -86.010 116 4.4 C  13 Km al norte de El Gigante, Tola, Nicaragua
