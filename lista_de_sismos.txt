@@ -9833,3 +9833,4 @@
 26/08/03 11:21:05 13.788 -92.959  10 3.6 C 115 Km al suroeste de El Gancho México
 26/08/03 12:58:18 13.069 -87.810 182 3.3 C  21 Km al noroeste de Punta Ñata, Chinandega, Nicaragua
 26/08/03 13:39:08 14.938 -93.153  25 4.0 C  61 Km al suroeste de Mapastepec, México
+26/08/03 14:31:57 12.822 -89.047  25 3.1 C  54 Km al suroeste de Delta del Rio Lempa, El Salvador
