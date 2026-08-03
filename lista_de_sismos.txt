@@ -9815,3 +9815,12 @@
 26/08/02 19:25:10 14.320 -93.516  12 3.6 C 138 Km al oeste de El Gancho México
 26/08/02 22:14:02 11.475 -87.638  20 3.5 C 119 Km al suroeste de Las Penitas, Nicaragua
 26/08/02 22:42:35 12.257 -88.040  26 2.8 C  81 Km al suroeste de Mechapa, Chinandega, Nicaragua
+26/08/02 22:49:48 14.833 -92.952  50 3.6 C  58 Km al suroeste de Pueblo Nuevo, México
+26/08/02 22:55:08 11.556 -87.586  30 3.3 C 108 Km al suroeste de Las Penitas, Nicaragua
+26/08/02 23:12:55 12.511 -90.013  27 3.2 C 121 Km al sur de Acajutla, El Salvador
+26/08/02 23:14:23 12.499 -90.004  22 3.1 C 123 Km al sur de Acajutla, El Salvador
+26/08/02 23:57:10  8.871 -84.158  11 2.9 C  53 Km al suroeste de Dominical, Costa Rica
+26/08/03 00:49:56 12.858 -87.278  10 2.9 C  12 Km al oeste de Puerto Morazán, Nicaragua
+26/08/03 00:52:03 14.185 -93.233  12 4.4 C 113 Km al oeste de El Gancho México
+26/08/03 01:38:53 14.777 -93.030  19 3.8 C  68 Km al suroeste de Pueblo Nuevo, México
+26/08/03 01:40:47 12.273 -87.088 100 1.9 C  12 Km al suroeste de Las Penitas, Nicaragua
