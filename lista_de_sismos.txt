@@ -9831,3 +9831,5 @@
 26/08/03 09:13:57 14.220 -90.641   3 3.0 C  18 Km al sureste de Escuintla, Guatemala
 26/08/03 11:04:13 12.738 -90.330   3 3.2 C 109 Km al suroeste de Acajutla, El Salvador
 26/08/03 11:21:05 13.788 -92.959  10 3.6 C 115 Km al suroeste de El Gancho México
+26/08/03 12:58:18 13.069 -87.810 182 3.3 C  21 Km al noroeste de Punta Ñata, Chinandega, Nicaragua
+26/08/03 13:39:08 14.938 -93.153  25 4.0 C  61 Km al suroeste de Mapastepec, México
