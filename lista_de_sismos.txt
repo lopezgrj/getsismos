@@ -9828,3 +9828,4 @@
 26/08/03 03:11:35 12.258 -89.392  13 3.4 C 127 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/08/03 03:19:12 14.026 -93.534  92 4.5 C 150 Km al suroeste de El Gancho México
 26/08/03 04:21:53 12.839 -87.281  12 1.4 C  12 Km al oeste de Puerto Morazán, Nicaragua
+26/08/03 09:13:57 14.220 -90.641   3 3.0 C  18 Km al sureste de Escuintla, Guatemala
