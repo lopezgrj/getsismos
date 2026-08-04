@@ -9855,3 +9855,4 @@
 26/08/04 05:07:45 13.209 -93.447   1 4.5 C 198 Km al suroeste de San Marcos, Guatemala
 26/08/04 05:07:46 14.262 -93.493   3 4.6 C 137 Km al oeste de El Gancho México
 26/08/04 06:50:27 13.533 -90.973  10 2.9 C  48 Km al sureste de Sipacate, Guatemala
+26/08/04 09:35:04  9.212 -83.996  14 3.0 C  16 Km al oeste de Dominical, Costa Rica
