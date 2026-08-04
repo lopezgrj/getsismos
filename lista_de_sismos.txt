@@ -9857,3 +9857,4 @@
 26/08/04 06:50:27 13.533 -90.973  10 2.9 C  48 Km al sureste de Sipacate, Guatemala
 26/08/04 09:35:04  9.212 -83.996  14 3.0 C  16 Km al oeste de Dominical, Costa Rica
 26/08/04 14:31:09 11.622 -86.241 101 3.0 C   9 Km al norte de Huehuete, Nicaragua
+26/08/04 14:31:10 11.516 -86.254  92 2.9 C   9 Km al oeste de El Astillero, Nicaragua
