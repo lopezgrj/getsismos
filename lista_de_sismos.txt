@@ -9848,3 +9848,5 @@
 26/08/04 00:52:21 14.210 -93.503  13 4.6 C 140 Km al oeste de El Gancho México
 26/08/04 01:01:35 14.296 -93.482   8 4.4 C 135 Km al oeste de El Gancho México
 26/08/04 01:07:07 14.362 -93.533   3 5.0 C 137 Km al suroeste de Mapastepec, México
+26/08/04 01:07:09 14.312 -93.428   8 5.1 C 129 Km al oeste de El Gancho México
+26/08/04 03:42:41 12.788 -89.012   1 2.7 C  56 Km al sur de Delta del Rio Lempa, El Salvador
