@@ -9850,3 +9850,6 @@
 26/08/04 01:07:07 14.362 -93.533   3 5.0 C 137 Km al suroeste de Mapastepec, México
 26/08/04 01:07:09 14.312 -93.428   8 5.1 C 129 Km al oeste de El Gancho México
 26/08/04 03:42:41 12.788 -89.012   1 2.7 C  56 Km al sur de Delta del Rio Lempa, El Salvador
+26/08/04 03:50:14 12.565 -88.066  32 2.9 C  56 Km al suroeste de Punta Cosigüina, Nicaragua
+26/08/04 04:43:59 13.068 -89.143  34 2.6 C  40 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/08/04 05:07:45 13.209 -93.447   1 4.5 C 198 Km al suroeste de San Marcos, Guatemala
