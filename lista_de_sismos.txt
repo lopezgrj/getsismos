@@ -9853,3 +9853,5 @@
 26/08/04 03:50:14 12.565 -88.066  32 2.9 C  56 Km al suroeste de Punta Cosigüina, Nicaragua
 26/08/04 04:43:59 13.068 -89.143  34 2.6 C  40 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/08/04 05:07:45 13.209 -93.447   1 4.5 C 198 Km al suroeste de San Marcos, Guatemala
+26/08/04 05:07:46 14.262 -93.493   3 4.6 C 137 Km al oeste de El Gancho México
+26/08/04 06:50:27 13.533 -90.973  10 2.9 C  48 Km al sureste de Sipacate, Guatemala
