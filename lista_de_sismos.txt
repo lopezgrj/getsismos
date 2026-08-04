@@ -9836,3 +9836,4 @@
 26/08/03 14:31:57 12.822 -89.047  25 3.1 C  54 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/08/03 16:05:47 14.913 -93.111  42 3.8 C  62 Km al sur de Mapastepec, México
 26/08/03 16:36:44 10.909 -86.948  12 3.6 C 104 Km al suroeste de Huehuete, Nicaragua
+26/08/03 18:25:33 12.087 -87.150  40 3.0 C  33 Km al suroeste de Las Penitas, Nicaragua
