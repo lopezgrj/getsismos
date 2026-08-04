@@ -9837,3 +9837,5 @@
 26/08/03 16:05:47 14.913 -93.111  42 3.8 C  62 Km al sur de Mapastepec, México
 26/08/03 16:36:44 10.909 -86.948  12 3.6 C 104 Km al suroeste de Huehuete, Nicaragua
 26/08/03 18:25:33 12.087 -87.150  40 3.0 C  33 Km al suroeste de Las Penitas, Nicaragua
+26/08/03 18:57:51 10.890 -86.934  16 3.2 C 105 Km al suroeste de Huehuete, Nicaragua
+26/08/03 22:21:06 10.588 -84.961   8 3.0 C  44 Km al sureste de Cuatro Bocas, Costa Rica
