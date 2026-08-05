@@ -9859,3 +9859,4 @@
 26/08/04 14:31:09 11.622 -86.241 101 3.0 C   9 Km al norte de Huehuete, Nicaragua
 26/08/04 14:31:10 11.516 -86.254  92 2.9 C   9 Km al oeste de El Astillero, Nicaragua
 26/08/04 19:19:08  8.267 -82.603  11 3.7 C  13 Km al sureste de Desembocadura de Río Chiriqui Viejo, Panamá
+26/08/04 20:13:04 12.865 -87.687 142 3.0 C   5 Km al sur de Punta Cosigüina, Nicaragua
