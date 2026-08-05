@@ -9864,3 +9864,4 @@
 26/08/04 22:00:07  8.874 -84.438  13 3.1 C  69 Km al suroeste de Puerto Quepos, Costa Rica
 26/08/04 22:19:24  9.660 -84.876   9 3.8 C  23 Km al oeste de Herradura, Costa Rica
 26/08/04 22:21:20 12.535 -87.539  38 3.4 C  24 Km al suroeste de Jiquilillo, Nicaragua
+26/08/04 23:26:45 13.165 -89.644  24 2.6 C  50 Km al suroeste de La Libertad, El Salvador
