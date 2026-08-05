@@ -9871,3 +9871,5 @@
 26/08/05 00:53:15  8.862 -84.413   9 3.9 C  69 Km al suroeste de Puerto Quepos, Costa Rica
 26/08/05 01:43:40  8.173 -82.855  16 2.4 C   8 Km al norte de Limones, Distrito Barú, Panamá
 26/08/05 02:19:25 14.274 -92.856  54 3.3 C  72 Km al suroeste de El Gancho México
+26/08/05 03:07:36  9.539 -83.647   5 3.1 C  32 Km al sureste de Tres de Junio, Costa Rica
+26/08/05 03:11:43 12.626 -88.636  27 2.9 C  73 Km al sur de Delta del Rio Lempa, El Salvador
