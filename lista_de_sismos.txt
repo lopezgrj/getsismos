@@ -9865,3 +9865,5 @@
 26/08/04 22:19:24  9.660 -84.876   9 3.8 C  23 Km al oeste de Herradura, Costa Rica
 26/08/04 22:21:20 12.535 -87.539  38 3.4 C  24 Km al suroeste de Jiquilillo, Nicaragua
 26/08/04 23:26:45 13.165 -89.644  24 2.6 C  50 Km al suroeste de La Libertad, El Salvador
+26/08/05 00:13:44 13.736 -92.525  26 4.2 C  91 Km al suroeste de Champerico, Guatemala
+26/08/05 00:17:27 12.595 -88.624  28 3.2 C  77 Km al sur de Delta del Rio Lempa, El Salvador
