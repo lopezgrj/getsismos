@@ -9876,3 +9876,6 @@
 26/08/05 04:15:03  9.872 -84.168  57 3.1 C   6 Km al suroeste de Escazú, Costa Rica
 26/08/05 04:58:38 12.425 -87.790  31 2.6 C  51 Km al suroeste de Boca del Padre Ramos, Nicaragua
 26/08/05 07:22:22 15.801 -88.283   1 4.4 C  27 Km al oeste de Omoa, Honduras
+26/08/05 03:51:24 15.407 -97.583  10 3.9 C  75 Km al suroeste de Puerto Escondido, México
+26/08/05 04:06:33  8.948 -84.380  17 2.8 C  59 Km al suroeste de Puerto Quepos, Costa Rica
+26/08/05 09:15:24 12.892 -89.112  30 3.1 C  51 Km al suroeste de Delta del Rio Lempa, El Salvador
