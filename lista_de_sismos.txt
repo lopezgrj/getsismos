@@ -9880,3 +9880,4 @@
 26/08/05 04:06:33  8.948 -84.380  17 2.8 C  59 Km al suroeste de Puerto Quepos, Costa Rica
 26/08/05 09:15:24 12.892 -89.112  30 3.1 C  51 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/08/05 10:55:56  9.796 -83.854   5 2.8 C  10 Km al sureste de Cartago, Costa Rica
+26/08/05 12:29:48 12.568 -88.868  17 3.3 C  77 Km al sur de Delta del Rio Lempa, El Salvador
