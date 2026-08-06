@@ -9885,3 +9885,6 @@
 26/08/05 21:46:58 11.728 -87.116  29 2.4 C  58 Km al suroeste de El Transito, Nicaragua
 26/08/05 21:54:27 12.290 -87.130 103 2.0 C  14 Km al suroeste de Poneloya, Nicaragua
 26/08/05 22:13:43 11.559 -87.591  27 3.9 C 108 Km al suroeste de Las Penitas, Nicaragua
+26/08/05 22:13:42 11.545 -87.603  24 3.9 C 110 Km al suroeste de Las Penitas, Nicaragua
+26/08/05 22:24:55 12.526 -88.271  23 2.9 C  74 Km al sur de Playa El Cuco, El Salvador
+26/08/05 23:03:05 13.391 -90.849   5 3.6 C  62 Km al sur de Iztapa, Guatemala
