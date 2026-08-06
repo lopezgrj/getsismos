@@ -9896,3 +9896,7 @@
 26/08/06 03:29:12 11.395 -86.830  26 2.7 C  55 Km al suroeste de Pochomil, Nicaragua
 26/08/06 05:36:25  0.278 -78.433  10 2.3 C 158 Km al sureste de Esmeraldas, Ecuador
 26/08/06 07:54:21 12.936 -89.127  12 2.7 C  48 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/08/06 13:04:26  9.492 -84.888  13 3.4 C  31 Km al suroeste de Herradura, Costa Rica
+26/08/06 14:32:29 14.654 -87.267   1 3.4 C  18 Km al sureste de Minas de Oro, Comayagua, Honduras
+26/08/06 14:34:00 12.555 -87.913  32 2.6 C  46 Km al suroeste de Punta Cosigüina, Nicaragua
+26/08/06 15:31:44 14.260 -93.223   1 3.6 C 110 Km al oeste de El Gancho México
