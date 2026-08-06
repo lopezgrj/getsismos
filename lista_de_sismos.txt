@@ -9892,3 +9892,7 @@
 26/08/06 01:55:34  7.127 -80.161   2 4.1 C  44 Km al sureste de Tonosí, Panamá
 26/08/06 04:33:09  8.322 -82.766  16 3.2 C   3 Km al sureste de Olivo Civil, Panamá
 26/08/06 04:33:09  8.321 -82.766  16 3.2 C   3 Km al sureste de Olivo Civil, Panamá
+26/08/05 21:46:58 11.733 -87.122  29 2.4 C  58 Km al suroeste de El Transito, Nicaragua
+26/08/06 03:29:12 11.395 -86.830  26 2.7 C  55 Km al suroeste de Pochomil, Nicaragua
+26/08/06 05:36:25  0.278 -78.433  10 2.3 C 158 Km al sureste de Esmeraldas, Ecuador
+26/08/06 07:54:21 12.936 -89.127  12 2.7 C  48 Km al suroeste de Delta del Rio Lempa, El Salvador
