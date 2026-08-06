@@ -9891,3 +9891,4 @@
 26/08/06 00:53:37 10.585 -84.962   3 2.2 C  45 Km al sureste de Cuatro Bocas, Costa Rica
 26/08/06 01:55:34  7.127 -80.161   2 4.1 C  44 Km al sureste de Tonosí, Panamá
 26/08/06 04:33:09  8.322 -82.766  16 3.2 C   3 Km al sureste de Olivo Civil, Panamá
+26/08/06 04:33:09  8.321 -82.766  16 3.2 C   3 Km al sureste de Olivo Civil, Panamá
