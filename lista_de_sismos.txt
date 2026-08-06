@@ -9882,3 +9882,6 @@
 26/08/05 10:55:56  9.796 -83.854   5 2.8 C  10 Km al sureste de Cartago, Costa Rica
 26/08/05 12:29:48 12.568 -88.868  17 3.3 C  77 Km al sur de Delta del Rio Lempa, El Salvador
 26/08/05 17:05:44 14.314 -93.487  23 3.3 C 135 Km al oeste de El Gancho México
+26/08/05 21:46:58 11.728 -87.116  29 2.4 C  58 Km al suroeste de El Transito, Nicaragua
+26/08/05 21:54:27 12.290 -87.130 103 2.0 C  14 Km al suroeste de Poneloya, Nicaragua
+26/08/05 22:13:43 11.559 -87.591  27 3.9 C 108 Km al suroeste de Las Penitas, Nicaragua
