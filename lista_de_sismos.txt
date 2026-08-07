@@ -9905,3 +9905,4 @@
 26/08/06 19:55:37 14.630 -87.125   2 2.8 C  30 Km al sureste de Minas de Oro, Comayagua, Honduras
 26/08/06 20:12:35 13.038 -89.034  33 2.8 C  33 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/08/06 23:14:17  8.464 -83.028  25 2.9 C  13 Km al oeste de Laurel, Costa Rica
+26/08/07 00:00:01  9.595 -85.216  10 3.3 C  45 Km al sur de Porvenir, Costa Rica
