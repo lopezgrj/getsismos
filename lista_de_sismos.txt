@@ -9910,3 +9910,4 @@
 26/08/07 01:07:51 13.320 -88.050 195 2.8 C  14 Km al norte de Intipucá, El Salvador
 26/08/07 01:49:14 12.857 -88.741  34 2.7 C  45 Km al sur de Delta del Rio Lempa, El Salvador
 26/08/07 02:10:13 13.492 -89.924  52 2.5 C  15 Km al suroeste de Acajutla, El Salvador
+26/08/07 05:37:48 13.883 -89.700   8 1.7 C  16 Km al norte de Ahuachapan, El Salvador
