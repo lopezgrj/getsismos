@@ -9915,3 +9915,5 @@
 26/08/07 11:45:25 13.296 -89.858  31 3.2 C  33 Km al sur de Acajutla, El Salvador
 26/08/07 12:08:58 12.255 -87.047  75 2.4 C  12 Km al sur de Las Penitas, Nicaragua
 26/08/07 14:10:10 14.221 -93.461   8 4.1 C 135 Km al oeste de El Gancho México
+26/08/07 14:32:55 14.101 -93.188   7 3.9 C 113 Km al suroeste de El Gancho México
+26/08/07 14:40:10 13.191 -89.867  20 2.9 C  44 Km al sur de Acajutla, El Salvador
