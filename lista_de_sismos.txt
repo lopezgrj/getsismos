@@ -9912,3 +9912,4 @@
 26/08/07 02:10:13 13.492 -89.924  52 2.5 C  15 Km al suroeste de Acajutla, El Salvador
 26/08/07 05:37:48 13.883 -89.700   8 1.7 C  16 Km al norte de Ahuachapan, El Salvador
 26/08/07 10:47:13  8.801 -84.604   5 3.2 C  85 Km al suroeste de Puerto Quepos, Costa Rica
+26/08/07 11:45:25 13.296 -89.858  31 3.2 C  33 Km al sur de Acajutla, El Salvador
