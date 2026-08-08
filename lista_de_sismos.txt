@@ -9941,3 +9941,4 @@
 26/08/08 06:28:59 14.692 -92.397  66 4.4 C  21 Km al noroeste de El Gancho México
 26/08/08 10:04:08 12.307 -87.705  31 3.9 C  55 Km al suroeste de Jiquilillo, Nicaragua
 26/08/08 10:04:08 12.303 -87.712  31 3.9 C  56 Km al suroeste de Jiquilillo, Nicaragua
+26/08/08 16:50:21 11.024 -85.792  59 2.6 C  10 Km al sur de El Ostional, San Juan del Sur, Nicaragua
