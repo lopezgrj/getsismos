@@ -9930,3 +9930,5 @@
 26/08/08 01:28:53 12.965 -88.920  36 3.1 C  34 Km al sur de Delta del Rio Lempa, El Salvador
 26/08/08 02:49:31 14.171 -93.249   1 4.0 C 116 Km al oeste de El Gancho México
 26/08/08 03:03:40 14.766 -91.974  30 3.4 A  29 Km al suroeste de San Marcos, Guatemala
+26/08/08 03:03:22 14.169 -93.242   1 4.1 C 115 Km al oeste de El Gancho México
+26/08/08 03:13:37 14.031 -93.306  15 4.5 C 128 Km al suroeste de El Gancho México
