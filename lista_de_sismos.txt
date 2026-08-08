@@ -9939,3 +9939,4 @@
 26/08/08 06:09:36 14.164 -93.143  13 3.5 C 105 Km al suroeste de El Gancho México
 26/08/08 06:29:00 14.725 -92.291  65 4.4 C  18 Km al norte de El Gancho México
 26/08/08 06:28:59 14.692 -92.397  66 4.4 C  21 Km al noroeste de El Gancho México
+26/08/08 10:04:08 12.307 -87.705  31 3.9 C  55 Km al suroeste de Jiquilillo, Nicaragua
