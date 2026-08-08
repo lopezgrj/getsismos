@@ -9921,3 +9921,4 @@
 26/08/07 17:11:47  8.716 -83.271  18 3.2 C  40 Km al noreste de Playa Madrigal, Costa Rica
 26/08/07 17:11:47  8.716 -83.271  18 3.4 C  40 Km al noreste de Playa Madrigal, Costa Rica
 26/08/07 19:19:52 14.526 -92.713  31 3.9 C  49 Km al oeste de El Gancho México
+26/08/07 20:24:44 13.713 -90.906  16 3.1 C  32 Km al suroeste de Iztapa, Guatemala
