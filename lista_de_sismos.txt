@@ -9919,3 +9919,5 @@
 26/08/07 14:40:10 13.191 -89.867  20 2.9 C  44 Km al sur de Acajutla, El Salvador
 26/08/07 17:04:54 12.785 -90.401   3 3.6 C 109 Km al suroeste de Acajutla, El Salvador
 26/08/07 17:11:47  8.716 -83.271  18 3.2 C  40 Km al noreste de Playa Madrigal, Costa Rica
+26/08/07 17:11:47  8.716 -83.271  18 3.4 C  40 Km al noreste de Playa Madrigal, Costa Rica
+26/08/07 19:19:52 14.526 -92.713  31 3.9 C  49 Km al oeste de El Gancho México
