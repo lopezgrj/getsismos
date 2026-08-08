@@ -9925,3 +9925,4 @@
 26/08/07 21:14:30 13.153 -89.830  22 2.9 C  48 Km al sur de Acajutla, El Salvador
 26/08/07 21:47:20 13.873 -89.798   5 1.8 C   7 Km al sureste de Ahuachapan, El Salvador
 26/08/07 22:18:30 11.950 -86.463  90 3.1 C  17 Km al oeste de El Crucero, Nicaragua
+26/08/07 22:58:19 11.024 -86.549  24 3.0 C  67 Km al oeste de Caba Santa Elena, Costa Rica
