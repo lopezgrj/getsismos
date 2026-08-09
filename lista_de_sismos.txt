@@ -9958,3 +9958,4 @@
 26/08/09 02:54:27 13.380 -88.430 222 2.4 C   4 Km al norte de Usulután, El Salvador
 26/08/09 03:30:46 11.714 -87.360  10 2.7 C  81 Km al suroeste de Las Penitas, Nicaragua
 26/08/09 03:39:27 14.802 -93.246   5 4.5 C  79 Km al suroeste de Mapastepec, México
+26/08/09 03:39:28 14.817 -93.161   6 4.4 C  74 Km al sur de Mapastepec, México
