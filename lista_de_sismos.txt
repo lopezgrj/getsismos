@@ -9963,3 +9963,4 @@
 26/08/09 11:13:27 12.013 -86.136   7 2.2 C   5 Km al noreste de Volcán Masaya, Nicaragua
 26/08/09 11:24:29 12.012 -86.133   6 1.6 C   5 Km al noreste de Volcán Masaya, Nicaragua
 26/08/09 13:35:54 14.207 -91.057 128 2.7 C  31 Km al oeste de Escuintla, Guatemala
+26/08/09 13:51:16 13.352 -89.803  38 2.6 C  27 Km al sur de Acajutla, El Salvador
