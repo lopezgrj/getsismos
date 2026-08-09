@@ -9955,3 +9955,6 @@
 26/08/09 01:16:59  8.869 -84.398   7 3.3 C  68 Km al suroeste de Puerto Quepos, Costa Rica
 26/08/09 02:54:22 13.138 -88.449 271 2.9 A  23 Km al sur de Usulután, El Salvador
 26/08/09 02:54:27 13.380 -88.420 223 2.7 C   4 Km al norte de Usulután, El Salvador
+26/08/09 02:54:27 13.380 -88.430 222 2.4 C   4 Km al norte de Usulután, El Salvador
+26/08/09 03:30:46 11.714 -87.360  10 2.7 C  81 Km al suroeste de Las Penitas, Nicaragua
+26/08/09 03:39:27 14.802 -93.246   5 4.5 C  79 Km al suroeste de Mapastepec, México
