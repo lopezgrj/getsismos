@@ -9971,3 +9971,4 @@
 26/08/09 20:15:29  9.594 -84.852   6 2.7 C  22 Km al oeste de Herradura, Costa Rica
 26/08/09 21:56:31 13.680 -89.207   5 2.4 C   8 Km al suroeste de San Salvador, El Salvador
 26/08/09 22:03:09 13.695 -89.202   5 2.2 C   6 Km al suroeste de San Salvador, El Salvador
+26/08/09 22:51:36 14.774 -93.066  17 3.8 C  71 Km al suroeste de Pueblo Nuevo, México
