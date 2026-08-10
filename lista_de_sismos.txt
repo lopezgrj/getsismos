@@ -9981,3 +9981,4 @@
 26/08/10 11:33:04 12.653 -88.305  33 3.8 C  62 Km al sur de Playa El Cuco, El Salvador
 26/08/10 11:33:04 12.660 -88.292  34 3.7 C  60 Km al sur de Playa El Cuco, El Salvador
 26/08/10 12:00:03 12.076 -86.143  10 2.2 C   9 Km al noreste de Ticuantepe, Nicaragua
+26/08/10 12:18:05 14.853 -92.946  32 3.3 C  56 Km al suroeste de Pueblo Nuevo, México
