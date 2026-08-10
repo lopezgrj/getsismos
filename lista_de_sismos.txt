@@ -9976,3 +9976,5 @@
 26/08/10 02:32:04 13.153 -89.849  24 3.3 C  48 Km al sur de Acajutla, El Salvador
 26/08/10 06:17:09 14.027 -93.253  16 3.6 C 123 Km al suroeste de El Gancho México
 26/08/10 09:01:29  4.861 -76.389 118 4.3 C 178 Km al suroeste de Medellin, Colombia
+26/08/10 09:01:29  4.861 -76.389 118 4.4 C 178 Km al suroeste de Medellin, Colombia
+26/08/10 09:38:37 12.016 -86.130   4 2.1 C   5 Km al noreste de Volcán Masaya, Nicaragua
