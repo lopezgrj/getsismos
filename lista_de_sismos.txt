@@ -9978,3 +9978,4 @@
 26/08/10 09:01:29  4.861 -76.389 118 4.3 C 178 Km al suroeste de Medellin, Colombia
 26/08/10 09:01:29  4.861 -76.389 118 4.4 C 178 Km al suroeste de Medellin, Colombia
 26/08/10 09:38:37 12.016 -86.130   4 2.1 C   5 Km al noreste de Volcán Masaya, Nicaragua
+26/08/10 11:33:04 12.653 -88.305  33 3.8 C  62 Km al sur de Playa El Cuco, El Salvador
