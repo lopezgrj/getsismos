@@ -9983,3 +9983,4 @@
 26/08/10 12:00:03 12.076 -86.143  10 2.2 C   9 Km al noreste de Ticuantepe, Nicaragua
 26/08/10 12:18:05 14.853 -92.946  32 3.3 C  56 Km al suroeste de Pueblo Nuevo, México
 26/08/10 13:14:09 14.607 -93.392   6 4.1 C 106 Km al suroeste de Mapastepec, México
+26/08/10 13:58:53 12.069 -86.126  10 2.5 C  10 Km al noreste de Ticuantepe, Nicaragua
