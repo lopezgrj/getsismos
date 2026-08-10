@@ -9973,3 +9973,4 @@
 26/08/09 22:03:09 13.695 -89.202   5 2.2 C   6 Km al suroeste de San Salvador, El Salvador
 26/08/09 22:51:36 14.774 -93.066  17 3.8 C  71 Km al suroeste de Pueblo Nuevo, México
 26/08/10 01:34:43 14.118 -91.974  65 3.1 C  21 Km al sur de Champerico, Guatemala
+26/08/10 02:32:04 13.153 -89.849  24 3.3 C  48 Km al sur de Acajutla, El Salvador
