@@ -9985,3 +9985,4 @@
 26/08/10 13:14:09 14.607 -93.392   6 4.1 C 106 Km al suroeste de Mapastepec, México
 26/08/10 13:58:53 12.069 -86.126  10 2.5 C  10 Km al noreste de Ticuantepe, Nicaragua
 26/08/10 14:55:01  8.535 -85.501  17 5.4 C 153 Km al suroeste de Jacó, Costa Rica
+26/08/10 16:41:48 13.921 -93.363   9 4.3 C 139 Km al suroeste de El Gancho México
