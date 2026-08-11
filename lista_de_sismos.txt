@@ -9994,3 +9994,4 @@
 26/08/10 22:51:25 11.411 -87.486   5 3.0 C 111 Km al suroeste de El Transito, Nicaragua
 26/08/10 23:21:38 13.149 -89.406  29 2.5 C  38 Km al sur de La Libertad, El Salvador
 26/08/10 23:47:18 12.250 -88.323  29 2.9 C 101 Km al suroeste de Punta Cosigüina, Nicaragua
+26/08/11 01:16:47 14.246 -90.080 252 3.1 C  21 Km al oeste de Jutiapa, Guatemala
