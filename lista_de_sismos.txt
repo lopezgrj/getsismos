@@ -9997,3 +9997,7 @@
 26/08/11 01:16:47 14.246 -90.080 252 3.1 C  21 Km al oeste de Jutiapa, Guatemala
 26/08/10 21:11:24 12.608 -88.038  29 2.7 C  51 Km al suroeste de Punta Cosigüina, Nicaragua
 26/08/10 22:49:06 12.633 -88.220  28 2.8 C  61 Km al sur de Playa El Cuco, El Salvador
+26/08/10 22:51:26 11.406 -87.472  10 3.0 C 110 Km al suroeste de El Transito, Nicaragua
+26/08/10 23:21:38 13.152 -89.400  29 2.5 C  38 Km al sur de La Libertad, El Salvador
+26/08/10 23:47:19 12.262 -88.323  29 2.9 C 100 Km al suroeste de Punta Cosigüina, Nicaragua
+26/08/11 01:16:47 14.334 -90.065 250 3.2 C  19 Km al oeste de Jutiapa, Guatemala
