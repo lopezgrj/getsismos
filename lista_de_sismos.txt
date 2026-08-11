@@ -10009,3 +10009,4 @@
 26/08/11 09:43:40  4.899 -76.373 114 4.4 C 173 Km al suroeste de Medellin, Colombia
 26/08/11 10:49:23 10.361 -83.070   8 3.8 C  32 Km al norte de Parismina, Costa Rica
 26/08/11 11:55:10 12.344 -87.736  33 3.1 C  54 Km al suroeste de Jiquilillo, Nicaragua
+26/08/11 15:08:25 11.404 -87.585  15 3.9 C 120 Km al suroeste de El Transito, Nicaragua
