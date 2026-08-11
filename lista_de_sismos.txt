@@ -9989,3 +9989,5 @@
 26/08/10 16:41:48 13.947 -93.348   9 4.3 C 136 Km al suroeste de El Gancho México
 26/08/10 20:35:29 13.067 -89.343  30 2.6 C  46 Km al sur de La Libertad, El Salvador
 26/08/10 21:11:24 12.591 -88.050  29 2.4 C  53 Km al suroeste de Punta Cosigüina, Nicaragua
+26/08/10 22:49:06 12.630 -88.212  27 2.7 C  61 Km al sur de Playa El Cuco, El Salvador
+26/08/10 22:51:24 11.424 -87.573   5 3.2 A 118 Km al suroeste de El Transito, Nicaragua
