@@ -10002,3 +10002,6 @@
 26/08/10 23:47:19 12.262 -88.323  29 2.9 C 100 Km al suroeste de Punta Cosigüina, Nicaragua
 26/08/11 01:16:47 14.334 -90.065 250 3.2 C  19 Km al oeste de Jutiapa, Guatemala
 26/08/11 02:28:01 12.641 -87.872  63 4.0 C  36 Km al suroeste de Punta Cosigüina, Nicaragua
+26/08/11 03:03:58 11.968 -86.606 122 2.5 C  14 Km al sureste de El Transito, Nicaragua
+26/08/11 03:13:47 13.695 -89.206   6 2.4 C   6 Km al suroeste de San Salvador, El Salvador
+26/08/11 03:26:05 11.032 -86.461  22 2.9 C  58 Km al oeste de Caba Santa Elena, Costa Rica
