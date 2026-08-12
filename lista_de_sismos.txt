@@ -10038,3 +10038,4 @@
 26/08/12 08:31:19  4.410 -76.656   7 2.5 C 236 Km al suroeste de Medellin, Colombia
 26/08/12 05:12:27  8.696 -83.186  35 2.7 C  42 Km al noroeste de Laurel, Costa Rica
 26/08/12 12:32:21  4.933 -76.300  97 3.9 C 166 Km al suroeste de Medellin, Colombia
+26/08/12 14:08:54 11.679 -87.312  88 3.0 C  78 Km al suroeste de El Transito, Nicaragua
