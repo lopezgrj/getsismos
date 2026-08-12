@@ -10036,3 +10036,5 @@
 26/08/12 06:14:43 14.146 -93.174   4 4.2 C 109 Km al suroeste de El Gancho México
 26/08/12 09:31:59 13.495 -90.543  29 2.6 C  47 Km al suroeste de Las Brisas, Guatemala
 26/08/12 08:31:19  4.410 -76.656   7 2.5 C 236 Km al suroeste de Medellin, Colombia
+26/08/12 05:12:27  8.696 -83.186  35 2.7 C  42 Km al noroeste de Laurel, Costa Rica
+26/08/12 12:32:21  4.933 -76.300  97 3.9 C 166 Km al suroeste de Medellin, Colombia
