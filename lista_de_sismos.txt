@@ -10016,3 +10016,6 @@
 26/08/11 17:45:31 11.332 -87.659  20 4.1 C 131 Km al suroeste de El Transito, Nicaragua
 26/08/11 18:36:31  8.909 -82.864  26 2.8 C   8 Km al oeste de La Tigra, Costa Rica
 26/08/11 19:58:08 11.456 -87.601  85 3.3 C 118 Km al suroeste de El Transito, Nicaragua
+26/08/11 20:42:05 11.429 -87.585  10 3.2 C 118 Km al suroeste de El Transito, Nicaragua
+26/08/11 20:48:56 14.094 -93.151   7 4.3 C 110 Km al suroeste de El Gancho México
+26/08/11 21:14:13 12.180 -86.896  88 3.1 C  15 Km al oeste de Puerto Sandino, Nicaragua
