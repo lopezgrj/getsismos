@@ -10023,3 +10023,4 @@
 26/08/11 22:07:27  5.351 -76.679 208 3.7 C 157 Km al suroeste de Medellin, Colombia
 26/08/11 22:38:07 14.416 -93.569 101 3.9 C 134 Km al suroeste de Mapastepec, México
 26/08/11 23:16:08 11.456 -87.534  28 3.8 C 112 Km al suroeste de El Transito, Nicaragua
+26/08/11 23:40:37 11.550 -87.524  10 3.3 C 105 Km al suroeste de Las Penitas, Nicaragua
