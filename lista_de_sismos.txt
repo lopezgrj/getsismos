@@ -10019,3 +10019,4 @@
 26/08/11 20:42:05 11.429 -87.585  10 3.2 C 118 Km al suroeste de El Transito, Nicaragua
 26/08/11 20:48:56 14.094 -93.151   7 4.3 C 110 Km al suroeste de El Gancho México
 26/08/11 21:14:13 12.180 -86.896  88 3.1 C  15 Km al oeste de Puerto Sandino, Nicaragua
+26/08/11 22:07:27  5.351 -76.679 208 3.6 C 157 Km al suroeste de Medellin, Colombia
