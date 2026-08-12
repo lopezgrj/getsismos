@@ -10041,3 +10041,4 @@
 26/08/12 14:08:54 11.679 -87.312  88 3.0 C  78 Km al suroeste de El Transito, Nicaragua
 26/08/11 16:58:09 11.470 -87.558  25 2.9 C 113 Km al suroeste de El Transito, Nicaragua
 26/08/11 17:45:32 11.351 -87.682  25 3.9 C 132 Km al suroeste de El Transito, Nicaragua
+26/08/11 16:45:48 11.272 -87.728  29 3.3 C 141 Km al suroeste de El Transito, Nicaragua
