@@ -10029,3 +10029,4 @@
 26/08/12 01:23:25 11.385 -87.630  10 3.4 C 125 Km al suroeste de El Transito, Nicaragua
 26/08/11 19:58:09 11.480 -87.588  29 3.2 C 115 Km al suroeste de El Transito, Nicaragua
 26/08/11 16:58:09 11.469 -87.566  26 2.9 C 114 Km al suroeste de El Transito, Nicaragua
+26/08/12 05:21:00  9.276 -85.567   2 3.3 A  81 Km al sur de Ostional, Costa Rica
