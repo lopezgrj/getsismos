@@ -10035,3 +10035,4 @@
 26/08/12 05:56:30 14.129 -92.324  31 4.6 C  45 Km al sur de San Marcos, Guatemala
 26/08/12 06:14:43 14.146 -93.174   4 4.2 C 109 Km al suroeste de El Gancho México
 26/08/12 09:31:59 13.495 -90.543  29 2.6 C  47 Km al suroeste de Las Brisas, Guatemala
+26/08/12 08:31:19  4.410 -76.656   7 2.5 C 236 Km al suroeste de Medellin, Colombia
