@@ -10060,3 +10060,4 @@
 26/08/13 05:55:13 15.342 -90.553   2 3.2 C  24 Km al suroeste de Coban, Guatemala
 26/08/13 06:16:51  4.367 -77.830  11 2.8 C 325 Km al suroeste de Medellin, Colombia
 26/08/13 06:47:08 11.259 -87.647  20 3.3 C 135 Km al suroeste de El Transito, Nicaragua
+26/08/13 07:49:25 12.328 -87.567  56 4.1 C  46 Km al suroeste de Pasocaballos, El Realejo, Nicaragua
