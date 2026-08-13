@@ -10049,3 +10049,4 @@
 26/08/12 19:11:08 12.594 -88.186  27 2.4 C  64 Km al suroeste de Punta Cosigüina, Nicaragua
 26/08/12 18:30:05 12.564 -88.237  33 5.7 C  69 Km al sur de Playa El Cuco, El Salvador
 26/08/12 22:53:33 13.095 -90.078  25 3.6 C  61 Km al suroeste de Acajutla, El Salvador
+26/08/12 23:12:49 12.818 -88.356  54 2.4 C  48 Km al suroeste de Playa El Cuco, El Salvador
