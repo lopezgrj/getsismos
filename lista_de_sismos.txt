@@ -10066,3 +10066,5 @@
 26/08/13 08:42:33  4.840 -76.261  96 4.7 C 173 Km al suroeste de Medellin, Colombia
 26/08/13 08:42:31  4.863 -76.329 126 4.5 C 174 Km al suroeste de Medellin, Colombia
 26/08/13 10:51:26 12.445 -87.627  39 3.5 C  38 Km al suroeste de Jiquilillo, Nicaragua
+26/08/13 07:49:25 12.348 -87.552  35 4.1 C  43 Km al suroeste de Pasocaballos, El Realejo, Nicaragua
+26/08/13 10:51:26 12.408 -87.654  37 3.5 C  43 Km al suroeste de Jiquilillo, Nicaragua
