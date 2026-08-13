@@ -10070,3 +10070,6 @@
 26/08/13 10:51:26 12.408 -87.654  37 3.5 C  43 Km al suroeste de Jiquilillo, Nicaragua
 26/08/13 12:03:01 12.222 -86.966  92 2.2 C  17 Km al sur de Las Penitas, Nicaragua
 26/08/13 13:38:26 13.382 -90.348  25 2.9 C  50 Km al sur de Las Brisas, Guatemala
+26/08/13 13:38:26 13.381 -90.350  25 2.8 C  50 Km al sur de Las Brisas, Guatemala
+26/08/13 14:00:13  7.735 -82.364   1 3.9 C  57 Km al noroeste de Isla de Coiba, Panamá
+26/08/13 14:06:49  7.278 -82.340   1 4.3 C  57 Km al suroeste de Isla de Coiba, Panamá
