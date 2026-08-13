@@ -10069,3 +10069,4 @@
 26/08/13 07:49:25 12.348 -87.552  35 4.1 C  43 Km al suroeste de Pasocaballos, El Realejo, Nicaragua
 26/08/13 10:51:26 12.408 -87.654  37 3.5 C  43 Km al suroeste de Jiquilillo, Nicaragua
 26/08/13 12:03:01 12.222 -86.966  92 2.2 C  17 Km al sur de Las Penitas, Nicaragua
+26/08/13 13:38:26 13.382 -90.348  25 2.9 C  50 Km al sur de Las Brisas, Guatemala
