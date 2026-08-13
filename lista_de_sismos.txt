@@ -10045,3 +10045,4 @@
 26/08/12 18:13:20  4.575 -76.686   3 3.2 C 222 Km al suroeste de Medellin, Colombia
 26/08/12 18:23:22 14.268 -93.123  14 4.3 C  99 Km al oeste de El Gancho México
 26/08/12 18:30:04 12.520 -88.272  27 5.8 C  75 Km al sur de Playa El Cuco, El Salvador
+26/08/12 18:30:04 12.540 -88.255  32 5.8 C  72 Km al sur de Playa El Cuco, El Salvador
