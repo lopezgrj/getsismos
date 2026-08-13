@@ -10054,3 +10054,6 @@
 26/08/13 03:04:07 13.165 -89.582  30 2.8 C  45 Km al suroeste de La Libertad, El Salvador
 26/08/13 03:08:21 13.133 -90.048  13 2.8 C  56 Km al suroeste de Acajutla, El Salvador
 26/08/13 03:34:10 12.930 -89.055  46 3.2 A  44 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/08/13 03:34:10 12.921 -89.063  38 3.2 C  45 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/08/13 03:49:37 12.639 -87.943  32 2.8 C  41 Km al suroeste de Punta Cosigüina, Nicaragua
+26/08/13 03:51:16 12.519 -88.049  38 2.8 C  58 Km al suroeste de Punta Cosigüina, Nicaragua
