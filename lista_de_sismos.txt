@@ -10084,3 +10084,4 @@
 26/08/13 23:37:21 11.262 -87.603  29 2.9 C 132 Km al suroeste de El Transito, Nicaragua
 26/08/13 23:42:57 11.739 -86.537  54 3.6 C   5 Km al suroeste de Pochomil, Nicaragua
 26/08/13 23:53:46 11.564 -86.317  50 2.9 C   6 Km al sur de Huehuete, Nicaragua
+26/08/14 00:14:26  8.970 -82.994   5 3.4 C  23 Km al oeste de La Tigra, Costa Rica
