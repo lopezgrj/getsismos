@@ -10097,3 +10097,4 @@
 26/08/14 11:34:46 11.630 -86.410 141 3.3 C   6 Km al oeste de Casares, Nicaragua
 26/08/14 11:49:27 14.217 -93.105  16 4.1 C  99 Km al suroeste de El Gancho México
 26/08/14 11:54:15 11.765 -87.264  26 3.5 C  69 Km al suroeste de El Transito, Nicaragua
+26/08/14 13:31:47 13.059 -87.811 160 2.6 C  20 Km al noroeste de Punta Ñata, Chinandega, Nicaragua
