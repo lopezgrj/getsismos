@@ -10080,3 +10080,4 @@
 26/08/13 21:21:46  4.862 -76.338 100 4.5 C 175 Km al suroeste de Medellin, Colombia
 26/08/13 22:12:58 11.722 -86.218 121 2.4 C  15 Km al sur de Diriamba, Nicaragua
 26/08/13 22:39:13 11.434 -87.471  14 3.6 C 108 Km al suroeste de El Transito, Nicaragua
+26/08/13 23:20:51 11.375 -87.517  18 3.3 C 116 Km al suroeste de El Transito, Nicaragua
