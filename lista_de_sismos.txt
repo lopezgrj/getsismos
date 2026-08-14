@@ -10088,3 +10088,5 @@
 26/08/14 03:30:11 12.786 -88.594  33 3.6 C  58 Km al sureste de Delta del Rio Lempa, El Salvador
 26/08/14 03:41:32 12.249 -87.850  36 2.3 C  70 Km al suroeste de Jiquilillo, Nicaragua
 26/08/14 04:09:26  8.810 -84.609  31 3.5 C  85 Km al suroeste de Puerto Quepos, Costa Rica
+26/08/14 07:25:40 13.443 -90.051  44 2.5 C  29 Km al suroeste de Acajutla, El Salvador
+26/08/14 07:31:26 15.109 -93.194  45 3.5 C  47 Km al suroeste de Mapastepec, México
