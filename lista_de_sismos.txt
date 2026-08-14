@@ -10085,3 +10085,4 @@
 26/08/13 23:42:57 11.739 -86.537  54 3.6 C   5 Km al suroeste de Pochomil, Nicaragua
 26/08/13 23:53:46 11.564 -86.317  50 2.9 C   6 Km al sur de Huehuete, Nicaragua
 26/08/14 00:14:26  8.970 -82.994   5 3.4 C  23 Km al oeste de La Tigra, Costa Rica
+26/08/14 03:30:11 12.786 -88.594  33 3.6 C  58 Km al sureste de Delta del Rio Lempa, El Salvador
