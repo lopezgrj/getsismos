@@ -10091,3 +10091,4 @@
 26/08/14 07:25:40 13.443 -90.051  44 2.5 C  29 Km al suroeste de Acajutla, El Salvador
 26/08/14 07:31:26 15.109 -93.194  45 3.5 C  47 Km al suroeste de Mapastepec, México
 26/08/14 00:47:47 16.824 -94.492 113 3.0 C 105 Km al noreste de Salina Cruz, México
+26/08/14 08:14:01 14.122 -93.116  10 3.4 C 105 Km al suroeste de El Gancho México
