@@ -10087,3 +10087,4 @@
 26/08/14 00:14:26  8.970 -82.994   5 3.4 C  23 Km al oeste de La Tigra, Costa Rica
 26/08/14 03:30:11 12.786 -88.594  33 3.6 C  58 Km al sureste de Delta del Rio Lempa, El Salvador
 26/08/14 03:41:32 12.249 -87.850  36 2.3 C  70 Km al suroeste de Jiquilillo, Nicaragua
+26/08/14 04:09:26  8.810 -84.609  31 3.5 C  85 Km al suroeste de Puerto Quepos, Costa Rica
