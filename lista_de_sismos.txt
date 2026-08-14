@@ -10086,3 +10086,4 @@
 26/08/13 23:53:46 11.564 -86.317  50 2.9 C   6 Km al sur de Huehuete, Nicaragua
 26/08/14 00:14:26  8.970 -82.994   5 3.4 C  23 Km al oeste de La Tigra, Costa Rica
 26/08/14 03:30:11 12.786 -88.594  33 3.6 C  58 Km al sureste de Delta del Rio Lempa, El Salvador
+26/08/14 03:41:32 12.249 -87.850  36 2.3 C  70 Km al suroeste de Jiquilillo, Nicaragua
