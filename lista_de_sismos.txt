@@ -10100,3 +10100,4 @@
 26/08/14 13:31:47 13.059 -87.811 160 2.6 C  20 Km al noroeste de Punta Ñata, Chinandega, Nicaragua
 26/08/14 13:31:48 13.147 -87.879 152 2.4 C  20 Km al norte de Intipucá, El Salvador
 26/08/14 13:37:14 14.508 -90.460   3 2.6 C  15 Km al sureste de Guatemala, Guatemala
+26/08/14 16:53:15 12.583 -87.162 146 2.5 C   5 Km al norte de El Realejo, Nicaragua
