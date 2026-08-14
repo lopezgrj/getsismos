@@ -10094,3 +10094,6 @@
 26/08/14 08:14:01 14.122 -93.116  10 3.4 C 105 Km al suroeste de El Gancho México
 26/08/14 10:02:25 12.893 -88.815  37 3.7 C  40 Km al sur de Delta del Rio Lempa, El Salvador
 26/08/14 10:52:09 14.311 -92.896  52 3.4 C  74 Km al oeste de El Gancho México
+26/08/14 11:34:46 11.630 -86.410 141 3.3 C   6 Km al oeste de Casares, Nicaragua
+26/08/14 11:49:27 14.217 -93.105  16 4.1 C  99 Km al suroeste de El Gancho México
+26/08/14 11:54:15 11.765 -87.264  26 3.5 C  69 Km al suroeste de El Transito, Nicaragua
