@@ -10098,3 +10098,5 @@
 26/08/14 11:49:27 14.217 -93.105  16 4.1 C  99 Km al suroeste de El Gancho México
 26/08/14 11:54:15 11.765 -87.264  26 3.5 C  69 Km al suroeste de El Transito, Nicaragua
 26/08/14 13:31:47 13.059 -87.811 160 2.6 C  20 Km al noroeste de Punta Ñata, Chinandega, Nicaragua
+26/08/14 13:31:48 13.147 -87.879 152 2.4 C  20 Km al norte de Intipucá, El Salvador
+26/08/14 13:37:14 14.508 -90.460   3 2.6 C  15 Km al sureste de Guatemala, Guatemala
