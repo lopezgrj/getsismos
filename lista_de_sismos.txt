@@ -10107,3 +10107,4 @@
 26/08/14 22:47:06  8.299 -82.843   7 4.1 C   3 Km al noreste de Puerto Armuelles, Panamá
 26/08/15 01:30:38 13.402 -90.372  24 2.8 C  48 Km al sur de Las Brisas, Guatemala
 26/08/15 07:32:50 14.207 -93.150   9 4.3 C 104 Km al oeste de El Gancho México
+26/08/15 09:50:29 13.322 -89.952  29 2.5 C  32 Km al suroeste de Acajutla, El Salvador
