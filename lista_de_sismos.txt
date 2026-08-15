@@ -10112,3 +10112,4 @@
 26/08/15 13:05:01 14.869 -91.716   5 3.5 A  14 Km al sureste de San Marcos, Guatemala
 26/08/15 13:04:46 14.277 -92.911  91 4.3 C  77 Km al suroeste de El Gancho México
 26/08/15 16:45:30 13.571 -90.859  26 4.7 C  43 Km al sur de Iztapa, Guatemala
+26/08/15 16:56:40 13.590 -90.814  18 3.2 C  39 Km al sur de Iztapa, Guatemala
