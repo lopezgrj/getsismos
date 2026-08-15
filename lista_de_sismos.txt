@@ -10110,3 +10110,4 @@
 26/08/15 09:50:29 13.322 -89.952  29 2.5 C  32 Km al suroeste de Acajutla, El Salvador
 26/08/15 09:56:37 15.178 -93.578  31 4.1 C  67 Km al sur de San Isidro, México
 26/08/15 13:05:01 14.869 -91.716   5 3.5 A  14 Km al sureste de San Marcos, Guatemala
+26/08/15 13:04:46 14.277 -92.911  91 4.3 C  77 Km al suroeste de El Gancho México
