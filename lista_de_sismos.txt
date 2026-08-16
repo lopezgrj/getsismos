@@ -10113,3 +10113,4 @@
 26/08/15 13:04:46 14.277 -92.911  91 4.3 C  77 Km al suroeste de El Gancho México
 26/08/15 16:45:30 13.571 -90.859  26 4.7 C  43 Km al sur de Iztapa, Guatemala
 26/08/15 16:56:40 13.590 -90.814  18 3.2 C  39 Km al sur de Iztapa, Guatemala
+26/08/15 18:42:28 12.733 -88.340  36 3.4 C  55 Km al suroeste de Playa El Cuco, El Salvador
