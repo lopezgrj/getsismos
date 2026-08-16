@@ -10125,3 +10125,5 @@
 26/08/16 08:24:55 13.095 -89.995  21 3.5 C  58 Km al sur de Acajutla, El Salvador
 26/08/16 08:43:03 13.107 -90.040  18 3.3 C  58 Km al suroeste de Acajutla, El Salvador
 26/08/16 08:50:28 13.120 -90.099  21 3.1 C  60 Km al suroeste de Acajutla, El Salvador
+26/08/16 07:30:29  4.548 -76.841  54 3.8 C 235 Km al suroeste de Medellin, Colombia
+26/08/16 08:43:03 13.067 -90.038  18 3.3 C  62 Km al sur de Acajutla, El Salvador
