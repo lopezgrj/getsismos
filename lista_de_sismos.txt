@@ -10121,3 +10121,4 @@
 26/08/16 03:51:35 13.054 -89.285  28 3.0 C  48 Km al sur de La Libertad, El Salvador
 26/08/16 05:54:31  7.829 -82.946  11 3.9 C  31 Km al sur de Limones, Distrito Barú, Panamá
 26/08/16 07:30:29  4.550 -76.851  54 3.9 C 235 Km al suroeste de Medellin, Colombia
+26/08/16 08:24:56 13.106 -90.003  28 3.5 C  57 Km al sur de Acajutla, El Salvador
