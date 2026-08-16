@@ -10138,3 +10138,4 @@
 26/08/16 14:23:16 12.963 -89.030  28 3.0 C  39 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/08/16 14:28:39 13.347 -90.211  27 3.1 C  49 Km al suroeste de Acajutla, El Salvador
 26/08/16 17:14:19 10.757 -84.674   8 2.8 C  42 Km al sur de San Carlos, Nicaragua
+26/08/16 17:50:10  9.025 -83.243 100 2.8 A  51 Km al oeste de La Tigra, Costa Rica
