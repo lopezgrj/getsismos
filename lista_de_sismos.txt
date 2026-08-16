@@ -10116,3 +10116,4 @@
 26/08/15 18:42:28 12.733 -88.340  36 3.4 C  55 Km al suroeste de Playa El Cuco, El Salvador
 26/08/15 18:42:28 12.734 -88.340  36 3.4 C  55 Km al suroeste de Playa El Cuco, El Salvador
 26/08/15 19:55:35 12.473 -87.824  35 2.6 C  48 Km al suroeste de Mechapa, Chinandega, Nicaragua
+26/08/15 12:48:34 12.671 -86.975   3 1.4 C   5 Km al sureste de Volcán San Cristóbal, Nicaragua
