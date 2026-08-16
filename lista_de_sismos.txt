@@ -10115,3 +10115,4 @@
 26/08/15 16:56:40 13.590 -90.814  18 3.2 C  39 Km al sur de Iztapa, Guatemala
 26/08/15 18:42:28 12.733 -88.340  36 3.4 C  55 Km al suroeste de Playa El Cuco, El Salvador
 26/08/15 18:42:28 12.734 -88.340  36 3.4 C  55 Km al suroeste de Playa El Cuco, El Salvador
+26/08/15 19:55:35 12.473 -87.824  35 2.6 C  48 Km al suroeste de Mechapa, Chinandega, Nicaragua
