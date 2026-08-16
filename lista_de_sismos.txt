@@ -10128,3 +10128,4 @@
 26/08/16 07:30:29  4.548 -76.841  54 3.8 C 235 Km al suroeste de Medellin, Colombia
 26/08/16 08:43:03 13.067 -90.038  18 3.3 C  62 Km al sur de Acajutla, El Salvador
 26/08/16 09:31:53  8.782 -83.054  58 2.8 C  32 Km al suroeste de La Tigra, Costa Rica
+26/08/16 09:52:48 14.033 -93.148   6 5.2 C 113 Km al suroeste de El Gancho México
