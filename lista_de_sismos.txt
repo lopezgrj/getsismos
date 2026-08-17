@@ -10143,3 +10143,4 @@
 26/08/16 19:19:54 12.821 -88.930  13 2.9 C  50 Km al sur de Delta del Rio Lempa, El Salvador
 26/08/16 19:51:36 13.244 -89.983  25 2.8 C  42 Km al suroeste de Acajutla, El Salvador
 26/08/16 20:06:31 13.599 -90.741  37 2.9 C  37 Km al sur de Iztapa, Guatemala
+26/08/16 21:18:08  8.489 -83.045  17 2.4 C  16 Km al oeste de Laurel, Costa Rica
