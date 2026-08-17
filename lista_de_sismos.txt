@@ -10160,3 +10160,4 @@
 26/08/17 12:33:00 14.098 -93.042  21 4.2 C  99 Km al suroeste de El Gancho México
 26/08/17 12:54:22 14.881 -93.148  19 3.7 C  66 Km al suroeste de Mapastepec, México
 26/08/17 14:09:54 12.541 -88.244  29 2.6 C  72 Km al sur de Playa El Cuco, El Salvador
+26/08/17 14:34:07 12.869 -88.902  37 3.8 C  44 Km al sur de Delta del Rio Lempa, El Salvador
