@@ -10165,3 +10165,4 @@
 26/08/17 12:21:51  4.579 -77.023  89 3.9 C 245 Km al suroeste de Medellin, Colombia
 26/08/16 23:42:17 15.183 -87.788   1 3.0 C  39 Km al noroeste de Las Lajas, Honduras
 26/08/17 16:07:37 16.216 -87.732   2 4.6 C  46 Km al noreste de Puerto Cortes, Honduras
+26/08/17 17:41:58 13.230 -89.615  31 3.9 C  42 Km al suroeste de La Libertad, El Salvador
