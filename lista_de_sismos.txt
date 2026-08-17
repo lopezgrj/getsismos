@@ -10145,3 +10145,4 @@
 26/08/16 20:06:31 13.599 -90.741  37 2.9 C  37 Km al sur de Iztapa, Guatemala
 26/08/16 21:18:08  8.489 -83.045  17 2.4 C  16 Km al oeste de Laurel, Costa Rica
 26/08/16 23:01:03 12.954 -89.035  34 4.8 C  40 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/08/16 23:01:03 12.954 -89.035  34 4.6 C  40 Km al suroeste de Delta del Rio Lempa, El Salvador
