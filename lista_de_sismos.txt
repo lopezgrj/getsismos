@@ -10154,3 +10154,5 @@
 26/08/17 08:18:05 13.319 -90.062  22 2.8 C  39 Km al suroeste de Acajutla, El Salvador
 26/08/12 14:08:53 11.517 -87.503  30 3.0 C 105 Km al suroeste de El Transito, Nicaragua
 26/08/13 08:16:35 12.353 -87.548  37 3.0 C  42 Km al suroeste de Pasocaballos, El Realejo, Nicaragua
+26/08/11 03:26:05 11.024 -86.453  20 2.8 C  57 Km al oeste de Caba Santa Elena, Costa Rica
+26/08/14 03:41:31 12.203 -87.845  28 2.3 C  73 Km al suroeste de Jiquilillo, Nicaragua
