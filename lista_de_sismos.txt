@@ -10140,3 +10140,4 @@
 26/08/16 17:14:19 10.757 -84.674   8 2.8 C  42 Km al sur de San Carlos, Nicaragua
 26/08/16 17:50:10  9.025 -83.243 100 2.8 A  51 Km al oeste de La Tigra, Costa Rica
 26/08/16 17:50:16  8.841 -83.245  29 2.7 C  50 Km al oeste de La Tigra, Costa Rica
+26/08/16 19:19:54 12.821 -88.930  13 2.9 C  50 Km al sur de Delta del Rio Lempa, El Salvador
