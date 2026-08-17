@@ -10147,3 +10147,4 @@
 26/08/16 23:01:03 12.954 -89.035  34 4.8 C  40 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/08/16 23:01:03 12.954 -89.035  34 4.6 C  40 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/08/16 23:48:51 15.051 -87.522   5 3.3 C  18 Km al norte de Las Lajas, Honduras
+26/08/17 00:44:59  7.807 -82.944  13 3.2 C  34 Km al sur de Limones, Distrito Barú, Panamá
