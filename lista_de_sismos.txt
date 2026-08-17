@@ -10158,3 +10158,4 @@
 26/08/14 03:41:31 12.203 -87.845  28 2.3 C  73 Km al suroeste de Jiquilillo, Nicaragua
 26/08/17 10:15:36 13.387 -90.029  29 4.0 C  31 Km al suroeste de Acajutla, El Salvador
 26/08/17 12:33:00 14.098 -93.042  21 4.2 C  99 Km al suroeste de El Gancho México
+26/08/17 12:54:22 14.881 -93.148  19 3.7 C  66 Km al suroeste de Mapastepec, México
