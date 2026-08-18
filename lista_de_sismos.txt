@@ -10187,3 +10187,4 @@
 26/08/18 04:03:27 14.426 -92.860  12 3.4 C  67 Km al oeste de El Gancho México
 26/08/18 05:27:55 14.861 -88.100   3 3.1 C  16 Km al sureste de Santa Barbara, Honduras
 26/08/17 23:02:23 12.079 -87.120  43 2.6 C  33 Km al sur de Las Penitas, Nicaragua
+26/08/18 11:11:53 13.285 -89.972  27 2.4 C  37 Km al suroeste de Acajutla, El Salvador
