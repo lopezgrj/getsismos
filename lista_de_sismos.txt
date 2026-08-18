@@ -10174,3 +10174,5 @@
 26/08/17 23:21:14  8.464 -83.036  20 2.1 C  14 Km al oeste de Laurel, Costa Rica
 26/08/17 23:25:01 14.081 -93.250  12 4.3 C 120 Km al suroeste de El Gancho México
 26/08/17 23:42:22 13.931 -92.115  37 4.5 C  46 Km al suroeste de Champerico, Guatemala
+26/08/18 00:14:04 14.263 -93.423  25 3.9 C 130 Km al oeste de El Gancho México
+26/08/18 00:18:13 14.148 -93.364   7 4.0 A 128 Km al oeste de El Gancho México
