@@ -10183,3 +10183,4 @@
 26/08/18 01:59:18 12.618 -88.037  31 2.5 C  50 Km al suroeste de Punta Cosigüina, Nicaragua
 26/08/18 02:20:36 12.903 -87.314   7 1.7 C  10 Km al norte de Desembocadura del Río Estero Real, Nicaragua
 26/08/18 02:42:15  4.364 -76.763  22 3.7 C 247 Km al suroeste de Medellin, Colombia
+26/08/18 03:53:21 14.052 -93.197   4 3.7 C 116 Km al suroeste de El Gancho México
