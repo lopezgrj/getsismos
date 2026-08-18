@@ -10181,3 +10181,4 @@
 26/08/18 01:08:48 14.800 -91.731   5 3.6 A  20 Km al sur de San Marcos, Guatemala
 26/08/18 01:08:31 14.170 -93.357  12 4.4 C 126 Km al oeste de El Gancho México
 26/08/18 01:59:18 12.618 -88.037  31 2.5 C  50 Km al suroeste de Punta Cosigüina, Nicaragua
+26/08/18 02:20:36 12.903 -87.314   7 1.7 C  10 Km al norte de Desembocadura del Río Estero Real, Nicaragua
