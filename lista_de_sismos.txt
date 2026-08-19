@@ -10202,3 +10202,4 @@
 26/08/19 03:30:56 14.528 -92.460  25 3.1 C  22 Km al oeste de El Gancho México
 26/08/19 04:07:17  5.981 -77.671   5 4.4 A 217 Km al suroeste de Chigorodo, Colombia
 26/08/19 05:01:58 13.006 -89.088  29 3.0 C  40 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/08/19 05:01:59 13.010 -89.087  31 3.0 C  39 Km al suroeste de Delta del Rio Lempa, El Salvador
