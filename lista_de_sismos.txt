@@ -10203,3 +10203,5 @@
 26/08/19 04:07:17  5.981 -77.671   5 4.4 A 217 Km al suroeste de Chigorodo, Colombia
 26/08/19 05:01:58 13.006 -89.088  29 3.0 C  40 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/08/19 05:01:59 13.010 -89.087  31 3.0 C  39 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/08/19 02:59:43  4.427 -76.737  28 3.2 C 239 Km al suroeste de Medellin, Colombia
+26/08/19 04:07:18  5.870 -77.594  12 4.4 C 224 Km al suroeste de Chigorodo, Colombia
