@@ -10198,3 +10198,4 @@
 26/08/18 23:52:04 12.745 -87.107   6 1.2 C  12 Km al oeste de Volcán San Cristóbal, Nicaragua
 26/08/19 01:39:04 12.460 -87.919  34 4.3 C  55 Km al suroeste de Mechapa, Chinandega, Nicaragua
 26/08/19 01:32:20 12.324 -87.552  37 2.3 C  44 Km al suroeste de Pasocaballos, El Realejo, Nicaragua
+26/08/19 02:59:42  4.532 -76.942  50 3.9 A 243 Km al suroeste de Medellin, Colombia
