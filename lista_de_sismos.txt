@@ -10207,3 +10207,4 @@
 26/08/19 04:07:18  5.870 -77.594  12 4.4 C 224 Km al suroeste de Chigorodo, Colombia
 26/08/19 09:11:01 11.237 -86.750  26 3.3 C  62 Km al suroeste de Casares, Nicaragua
 26/08/19 11:51:36 14.142 -93.070  14 3.5 C  99 Km al suroeste de El Gancho México
+26/08/19 13:46:03 11.204 -86.774  27 3.0 C  67 Km al suroeste de Casares, Nicaragua
