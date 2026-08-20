@@ -10210,3 +10210,4 @@
 26/08/19 13:46:03 11.204 -86.774  27 3.0 C  67 Km al suroeste de Casares, Nicaragua
 26/08/19 13:57:54 12.082 -86.129   5 2.6 C  11 Km al noreste de Ticuantepe, Nicaragua
 26/08/19 15:19:54  4.533 -77.065  78 3.4 C 252 Km al suroeste de Medellin, Colombia
+26/08/19 17:59:35 13.758 -91.389  31 3.1 C  24 Km al sur de Tecojate, Guatemala
