@@ -10231,3 +10231,4 @@
 26/08/20 02:48:37 12.296 -87.480  37 2.4 C  39 Km al suroeste de Corinto, Nicaragua
 26/08/18 02:20:36 12.910 -87.310   5 1.7 C  10 Km al norte de Desembocadura del Río Estero Real, Nicaragua
 26/08/13 14:55:35 13.394 -88.247   1 1.8 C  12 Km al suroeste de San Miguel, El Salvador
+26/08/20 15:31:04 11.461 -86.086  76 3.2 C  10 Km al noroeste de El Gigante, Tola, Nicaragua
