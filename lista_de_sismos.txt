@@ -10217,3 +10217,5 @@
 26/08/19 23:34:00 14.147 -92.557  16 3.7 C  56 Km al suroeste de San Marcos, Guatemala
 26/08/20 00:25:34 14.094 -93.283   2 3.8 C 122 Km al suroeste de El Gancho México
 26/08/20 02:48:37 12.303 -87.487  39 2.3 C  40 Km al suroeste de Corinto, Nicaragua
+26/08/20 03:09:07 12.334 -87.563  37 2.6 C  45 Km al suroeste de Pasocaballos, El Realejo, Nicaragua
+26/08/20 03:15:41 13.274 -89.793  31 3.2 C  35 Km al sur de Acajutla, El Salvador
