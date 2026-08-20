@@ -10211,3 +10211,6 @@
 26/08/19 13:57:54 12.082 -86.129   5 2.6 C  11 Km al noreste de Ticuantepe, Nicaragua
 26/08/19 15:19:54  4.533 -77.065  78 3.4 C 252 Km al suroeste de Medellin, Colombia
 26/08/19 17:59:35 13.758 -91.389  31 3.1 C  24 Km al sur de Tecojate, Guatemala
+26/08/19 12:11:15 13.476 -88.946  12 2.5 C   9 Km al oeste de Zacatecoluca, El Salvador
+26/08/19 17:10:15  4.576 -77.224 125 3.4 A 260 Km al suroeste de Medellin, Colombia
+26/08/19 19:03:30 12.737 -88.635  61 2.4 C  61 Km al sur de Delta del Rio Lempa, El Salvador
