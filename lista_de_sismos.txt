@@ -10215,3 +10215,4 @@
 26/08/19 17:10:15  4.576 -77.224 125 3.4 A 260 Km al suroeste de Medellin, Colombia
 26/08/19 19:03:30 12.737 -88.635  61 2.4 C  61 Km al sur de Delta del Rio Lempa, El Salvador
 26/08/19 23:34:00 14.147 -92.557  16 3.7 C  56 Km al suroeste de San Marcos, Guatemala
+26/08/20 00:25:34 14.094 -93.283   2 3.8 C 122 Km al suroeste de El Gancho México
