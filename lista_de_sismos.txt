@@ -10223,3 +10223,4 @@
 26/08/20 05:02:44 12.729 -87.134   6 1.6 C  12 Km al norte de Chinandega, Nicaragua
 26/08/20 05:39:45 11.285 -86.835  24 3.1 C  65 Km al suroeste de Pochomil, Nicaragua
 26/08/20 05:39:45 11.276 -86.835  24 3.1 C  66 Km al suroeste de Pochomil, Nicaragua
+26/08/20 07:08:23  8.297 -82.790  18 3.0 C   1 Km al sur de Manglares de Majagual, Panamá
