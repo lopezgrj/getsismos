@@ -10229,3 +10229,4 @@
 26/08/11 03:26:05 11.028 -86.437  19 2.8 C  55 Km al oeste de Caba Santa Elena, Costa Rica
 26/08/19 13:46:03 11.207 -86.767  27 3.0 C  66 Km al suroeste de Casares, Nicaragua
 26/08/20 02:48:37 12.296 -87.480  37 2.4 C  39 Km al suroeste de Corinto, Nicaragua
+26/08/18 02:20:36 12.910 -87.310   5 1.7 C  10 Km al norte de Desembocadura del Río Estero Real, Nicaragua
