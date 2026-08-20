@@ -10219,3 +10219,4 @@
 26/08/20 02:48:37 12.303 -87.487  39 2.3 C  40 Km al suroeste de Corinto, Nicaragua
 26/08/20 03:09:07 12.334 -87.563  37 2.6 C  45 Km al suroeste de Pasocaballos, El Realejo, Nicaragua
 26/08/20 03:15:41 13.274 -89.793  31 3.2 C  35 Km al sur de Acajutla, El Salvador
+26/08/20 04:28:36 14.923 -88.032   1 3.2 C  22 Km al norte de Santa Barbara, Honduras
