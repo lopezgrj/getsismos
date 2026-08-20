@@ -10226,3 +10226,6 @@
 26/08/20 07:08:23  8.297 -82.790  18 3.0 C   1 Km al sur de Manglares de Majagual, Panamá
 26/08/20 09:22:34  8.617 -83.356  11 3.4 C  26 Km al noreste de Playa Madrigal, Costa Rica
 26/08/20 05:39:45 11.291 -86.830  25 3.1 C  64 Km al suroeste de Pochomil, Nicaragua
+26/08/11 03:26:05 11.028 -86.437  19 2.8 C  55 Km al oeste de Caba Santa Elena, Costa Rica
+26/08/19 13:46:03 11.207 -86.767  27 3.0 C  66 Km al suroeste de Casares, Nicaragua
+26/08/20 02:48:37 12.296 -87.480  37 2.4 C  39 Km al suroeste de Corinto, Nicaragua
