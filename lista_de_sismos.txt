@@ -10234,3 +10234,4 @@
 26/08/20 15:31:04 11.461 -86.086  76 3.2 C  10 Km al noroeste de El Gigante, Tola, Nicaragua
 26/08/20 14:53:03 12.354 -87.531  39 2.5 C  41 Km al suroeste de Pasocaballos, El Realejo, Nicaragua
 26/08/20 15:53:23 13.706 -90.909  61 3.0 C  33 Km al suroeste de Iztapa, Guatemala
+26/08/20 16:21:31 13.548 -87.642   5 3.0 A  17 Km al oeste de Nacaome, Honduras
