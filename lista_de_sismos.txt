@@ -10238,3 +10238,5 @@
 26/08/20 16:21:29 12.682 -88.280  22 3.1 C  58 Km al sur de Playa El Cuco, El Salvador
 26/08/20 17:53:50 13.009 -87.871 134 2.4 C  22 Km al noroeste de Punta Cosigüina, Nicaragua
 26/08/20 18:01:47 14.087 -90.770  22 2.9 A  18 Km al norte de Iztapa, Guatemala
+26/08/20 18:01:40 13.743 -90.249  68 2.5 C   9 Km al sur de Las Brisas, Guatemala
+26/08/20 18:59:45 12.580 -88.588  35 2.9 C  80 Km al sur de Delta del Rio Lempa, El Salvador
