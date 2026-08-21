@@ -10259,3 +10259,4 @@
 26/08/21 10:26:51 13.209 -89.744  26 3.0 C  43 Km al sur de Acajutla, El Salvador
 26/08/21 10:26:51 13.213 -89.737  26 3.0 C  43 Km al sur de Acajutla, El Salvador
 26/08/21 12:56:09 11.473 -87.176  35 3.5 C  80 Km al suroeste de Masachapa, Nicaragua
+26/08/21 12:56:09 11.463 -87.184  33 3.6 C  81 Km al suroeste de Masachapa, Nicaragua
