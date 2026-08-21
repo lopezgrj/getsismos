@@ -10242,3 +10242,4 @@
 26/08/20 18:59:45 12.580 -88.588  35 2.9 C  80 Km al sur de Delta del Rio Lempa, El Salvador
 26/08/20 21:56:25 14.136 -93.068  25 4.0 C 100 Km al suroeste de El Gancho México
 26/08/20 23:27:02 11.769 -86.931  31 3.0 C  40 Km al suroeste de El Transito, Nicaragua
+26/08/20 23:48:38 14.717 -92.361  79 3.1 C  20 Km al noroeste de El Gancho México
