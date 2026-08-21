@@ -10254,3 +10254,5 @@
 26/08/20 03:09:07 12.346 -87.562  38 2.7 C  44 Km al suroeste de Pasocaballos, El Realejo, Nicaragua
 26/08/20 17:53:51 13.075 -87.976 122 2.6 C  16 Km al sureste de Intipucá, El Salvador
 26/08/20 23:27:02 11.742 -86.941  34 2.9 C  43 Km al suroeste de El Transito, Nicaragua
+26/08/20 03:09:07 12.346 -87.558  38 2.7 C  44 Km al suroeste de Pasocaballos, El Realejo, Nicaragua
+26/08/20 15:31:04 11.397 -86.144  73 3.3 C  12 Km al sur de El Astillero, Nicaragua
