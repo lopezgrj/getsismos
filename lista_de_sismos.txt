@@ -10236,3 +10236,5 @@
 26/08/20 15:53:23 13.706 -90.909  61 3.0 C  33 Km al suroeste de Iztapa, Guatemala
 26/08/20 16:21:31 13.548 -87.642   5 3.0 A  17 Km al oeste de Nacaome, Honduras
 26/08/20 16:21:29 12.682 -88.280  22 3.1 C  58 Km al sur de Playa El Cuco, El Salvador
+26/08/20 17:53:50 13.009 -87.871 134 2.4 C  22 Km al noroeste de Punta Cosigüina, Nicaragua
+26/08/20 18:01:47 14.087 -90.770  22 2.9 A  18 Km al norte de Iztapa, Guatemala
