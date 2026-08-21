@@ -10262,3 +10262,4 @@
 26/08/21 12:56:09 11.463 -87.184  33 3.6 C  81 Km al suroeste de Masachapa, Nicaragua
 26/08/21 13:31:48 14.372 -90.109   5 2.5 C  23 Km al noreste de Cuilapa, Guatemala
 26/08/21 15:02:03  9.766 -84.269  30 3.1 C   8 Km al sureste de Candelarita, Puriscal, Costa Rica
+26/08/21 16:10:52 11.159 -87.145  21 3.4 C  97 Km al suroeste de Pochomil, Nicaragua
