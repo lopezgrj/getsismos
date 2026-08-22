@@ -10276,3 +10276,4 @@
 26/08/22 03:37:00 13.008 -87.524   9 2.2 C   3 Km al oeste de Potosi, Cosiguina, Nicaragua
 26/08/22 04:33:19 12.468 -87.974  27 2.8 C  58 Km al suroeste de Punta Cosigüina, Nicaragua
 26/08/22 06:22:44 13.550 -90.182  53 2.7 C  31 Km al sur de Las Brisas, Guatemala
+26/08/22 08:38:42 12.366 -88.179  33 2.7 C  80 Km al suroeste de Punta Cosigüina, Nicaragua
