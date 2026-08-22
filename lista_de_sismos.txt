@@ -10280,3 +10280,4 @@
 26/08/22 10:22:02  4.483 -76.758  47 3.2 C 235 Km al suroeste de Medellin, Colombia
 26/08/22 11:10:31 14.125 -91.939  29 3.5 C  19 Km al sur de Champerico, Guatemala
 26/08/22 10:22:02  4.492 -76.777  50 3.2 C 236 Km al suroeste de Medellin, Colombia
+26/08/22 14:50:11 14.410 -92.456  40 3.6 C  28 Km al suroeste de El Gancho México
