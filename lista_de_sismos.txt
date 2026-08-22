@@ -10278,3 +10278,4 @@
 26/08/22 06:22:44 13.550 -90.182  53 2.7 C  31 Km al sur de Las Brisas, Guatemala
 26/08/22 08:38:42 12.366 -88.179  33 2.7 C  80 Km al suroeste de Punta Cosigüina, Nicaragua
 26/08/22 10:22:02  4.483 -76.758  47 3.2 C 235 Km al suroeste de Medellin, Colombia
+26/08/22 11:10:31 14.125 -91.939  29 3.5 C  19 Km al sur de Champerico, Guatemala
