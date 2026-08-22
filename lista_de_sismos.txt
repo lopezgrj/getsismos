@@ -10274,3 +10274,4 @@
 26/08/22 00:14:49 13.247 -90.038  25 2.8 C  44 Km al suroeste de Acajutla, El Salvador
 26/08/22 02:47:40 14.377 -90.101   5 2.3 C  24 Km al noreste de Cuilapa, Guatemala
 26/08/22 03:37:00 13.008 -87.524   9 2.2 C   3 Km al oeste de Potosi, Cosiguina, Nicaragua
+26/08/22 04:33:19 12.468 -87.974  27 2.8 C  58 Km al suroeste de Punta Cosigüina, Nicaragua
