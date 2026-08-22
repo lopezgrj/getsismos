@@ -10267,3 +10267,4 @@
 26/08/21 18:02:29 13.310 -89.650  38 2.9 C  37 Km al sureste de Acajutla, El Salvador
 26/08/21 19:38:32 13.057 -89.261  26 2.9 C  48 Km al sur de La Libertad, El Salvador
 26/08/21 20:46:35 11.741 -87.152  23 3.4 C  60 Km al suroeste de El Transito, Nicaragua
+26/08/21 21:16:47 13.251 -90.013  22 3.1 C  42 Km al suroeste de Acajutla, El Salvador
