@@ -10271,3 +10271,4 @@
 26/08/21 21:31:34 13.291 -89.990  26 2.6 C  37 Km al suroeste de Acajutla, El Salvador
 26/08/21 21:52:23 14.374 -90.098   4 2.2 C  24 Km al noroeste de Jutiapa, Guatemala
 26/08/21 22:07:10 13.736 -92.232  45 3.4 C  71 Km al suroeste de Champerico, Guatemala
+26/08/22 00:14:49 13.247 -90.038  25 2.8 C  44 Km al suroeste de Acajutla, El Salvador
