@@ -10285,3 +10285,5 @@
 26/08/22 19:15:32 12.696 -90.202  18 3.0 C 107 Km al sur de Acajutla, El Salvador
 26/08/22 19:28:39 12.263 -88.793  22 3.0 C 110 Km al sur de Delta del Rio Lempa, El Salvador
 26/08/22 19:59:11 10.690 -84.462   4 3.3 C  52 Km al oeste de Arbolitos, Heredia, Costa Rica
+26/08/22 22:05:19 12.970 -88.809  67 2.7 C  32 Km al sur de Delta del Rio Lempa, El Salvador
+26/08/22 22:08:35 13.268 -90.237  15 2.8 C  57 Km al suroeste de Acajutla, El Salvador
