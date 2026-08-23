@@ -10292,3 +10292,4 @@
 26/08/22 22:38:10 14.276 -89.433  87 2.4 C  32 Km al suroeste de Nueva Ocotepeque, Honduras
 26/08/22 23:47:24  9.434 -83.706   3 3.0 C  26 Km al noreste de Dominical, Costa Rica
 26/08/23 04:02:44 14.218 -93.191   3 4.2 C 108 Km al oeste de El Gancho México
+26/08/23 06:02:57 12.112 -88.424  17 3.3 C 119 Km al suroeste de Punta Cosigüina, Nicaragua
