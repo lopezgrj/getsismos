@@ -10290,3 +10290,4 @@
 26/08/22 22:23:02  9.440 -83.701   4 3.3 C  27 Km al noreste de Dominical, Costa Rica
 26/08/22 22:38:10 14.268 -89.437  89 2.4 C  32 Km al norte de Santa Ana, El Salvador
 26/08/22 22:38:10 14.276 -89.433  87 2.4 C  32 Km al suroeste de Nueva Ocotepeque, Honduras
+26/08/22 23:47:24  9.434 -83.706   3 3.0 C  26 Km al noreste de Dominical, Costa Rica
