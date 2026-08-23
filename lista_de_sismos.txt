@@ -10298,3 +10298,5 @@
 26/08/23 06:02:58 13.017 -87.905 137 2.7 C  26 Km al sureste de Intipucá, El Salvador
 26/08/23 09:21:22 12.456 -88.019  28 2.7 A  62 Km al suroeste de Punta Cosigüina, Nicaragua
 26/08/23 09:21:23 12.560 -87.950  24 2.6 C  48 Km al suroeste de Punta Cosigüina, Nicaragua
+26/08/23 09:21:23 12.576 -87.942  26 2.6 C  46 Km al suroeste de Punta Cosigüina, Nicaragua
+26/08/23 09:52:20 13.036 -89.201  28 4.4 C  47 Km al suroeste de Delta del Rio Lempa, El Salvador
