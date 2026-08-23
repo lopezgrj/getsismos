@@ -10307,3 +10307,4 @@
 26/08/23 15:23:42  8.699 -82.821  50 2.6 C   8 Km al noroeste de Salitral, Panamá
 26/08/23 16:09:57 13.073 -90.136  22 3.3 C  66 Km al suroeste de Acajutla, El Salvador
 26/08/23 16:20:59 13.928 -87.082   8 3.4 C  22 Km al sureste de Tegucigalpa, Honduras
+26/08/23 16:20:59 13.902 -87.086   4 3.2 C  25 Km al sureste de Tegucigalpa, Honduras
