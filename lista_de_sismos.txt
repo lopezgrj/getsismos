@@ -10301,3 +10301,4 @@
 26/08/23 09:21:23 12.576 -87.942  26 2.6 C  46 Km al suroeste de Punta Cosigüina, Nicaragua
 26/08/23 09:52:20 13.036 -89.201  28 4.4 C  47 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/08/23 09:52:20 13.033 -89.180  30 4.3 C  45 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/08/23 13:18:44  9.414 -83.731   7 2.8 C  23 Km al noreste de Dominical, Costa Rica
