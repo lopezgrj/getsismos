@@ -10283,3 +10283,5 @@
 26/08/22 14:50:11 14.410 -92.456  40 3.6 C  28 Km al suroeste de El Gancho México
 26/08/22 15:53:42 14.393 -93.211   5 4.8 C 105 Km al oeste de El Gancho México
 26/08/22 19:15:32 12.696 -90.202  18 3.0 C 107 Km al sur de Acajutla, El Salvador
+26/08/22 19:28:39 12.263 -88.793  22 3.0 C 110 Km al sur de Delta del Rio Lempa, El Salvador
+26/08/22 19:59:11 10.690 -84.462   4 3.3 C  52 Km al oeste de Arbolitos, Heredia, Costa Rica
