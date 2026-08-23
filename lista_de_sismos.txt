@@ -10304,3 +10304,4 @@
 26/08/23 13:18:44  9.414 -83.731   7 2.8 C  23 Km al noreste de Dominical, Costa Rica
 26/08/23 13:21:39 12.737 -90.208  16 3.3 C 103 Km al suroeste de Acajutla, El Salvador
 26/08/23 13:32:27  9.409 -83.735   8 3.1 C  22 Km al noreste de Dominical, Costa Rica
+26/08/23 15:23:42  8.699 -82.821  50 2.6 C   8 Km al noroeste de Salitral, Panamá
