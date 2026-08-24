@@ -10340,3 +10340,5 @@
 26/08/24 12:08:07 12.096 -86.130   6 2.0 C  12 Km al sur de Tipitapa, Nicaragua
 26/08/24 16:29:09  4.360 -76.722  18 3.6 C 245 Km al suroeste de Medellin, Colombia
 26/08/24 17:15:32  8.634 -82.678  16 2.5 C   9 Km al sureste de Salitral, Panamá
+26/08/24 17:18:00  4.369 -76.857  50 3.9 C 252 Km al suroeste de Medellin, Colombia
+26/08/24 17:40:49  4.335 -76.746  18 3.2 C 248 Km al suroeste de Medellin, Colombia
