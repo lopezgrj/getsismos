@@ -10313,3 +10313,5 @@
 26/08/23 18:36:48 12.761 -88.615  37 3.8 C  60 Km al sureste de Delta del Rio Lempa, El Salvador
 26/08/23 21:33:57 14.181 -93.224  12 4.6 C 113 Km al oeste de El Gancho México
 26/08/24 01:05:12 13.979 -91.324  32 3.1 C   4 Km al norte de Tecojate, Guatemala
+26/08/24 01:37:16 10.067 -83.971   7 5.1 C  18 Km al noreste de Heredia, Costa Rica
+26/08/24 01:39:39 10.053 -83.973   4 4.6 C  17 Km al noreste de Heredia, Costa Rica
