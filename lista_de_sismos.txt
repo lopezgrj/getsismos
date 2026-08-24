@@ -10331,3 +10331,4 @@
 26/08/23 23:43:31  4.550 -76.844  35 4.1 C 235 Km al suroeste de Medellin, Colombia
 26/08/24 00:14:17  4.467 -76.834  27 4.0 C 242 Km al suroeste de Medellin, Colombia
 26/08/24 11:58:42 13.010 -89.513  40 2.9 C  57 Km al sur de La Libertad, El Salvador
+26/08/24 12:55:26  4.370 -76.773  14 4.6 C 247 Km al suroeste de Medellin, Colombia
