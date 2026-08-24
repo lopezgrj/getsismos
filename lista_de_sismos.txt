@@ -10332,3 +10332,6 @@
 26/08/24 00:14:17  4.467 -76.834  27 4.0 C 242 Km al suroeste de Medellin, Colombia
 26/08/24 11:58:42 13.010 -89.513  40 2.9 C  57 Km al sur de La Libertad, El Salvador
 26/08/24 12:55:26  4.370 -76.773  14 4.6 C 247 Km al suroeste de Medellin, Colombia
+26/08/24 12:55:26  4.370 -76.773  14 4.7 C 247 Km al suroeste de Medellin, Colombia
+26/08/24 15:43:24 12.631 -88.134  34 3.4 C  57 Km al suroeste de Punta Cosigüina, Nicaragua
+26/08/24 15:47:00 11.875 -87.259  23 2.8 C  60 Km al suroeste de Las Penitas, Nicaragua
