@@ -10311,3 +10311,4 @@
 26/08/23 17:40:30 13.107 -89.301  27 2.9 C  42 Km al sur de La Libertad, El Salvador
 26/08/23 18:36:48 12.764 -88.610  36 3.8 C  60 Km al sureste de Delta del Rio Lempa, El Salvador
 26/08/23 18:36:48 12.761 -88.615  37 3.8 C  60 Km al sureste de Delta del Rio Lempa, El Salvador
+26/08/23 21:33:57 14.181 -93.224  12 4.6 C 113 Km al oeste de El Gancho México
