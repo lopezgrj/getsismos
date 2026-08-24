@@ -10321,3 +10321,5 @@
 26/08/24 03:07:22 13.685 -90.927  16 3.9 C  36 Km al suroeste de Iztapa, Guatemala
 26/08/24 04:20:55  4.997 -77.011  72 3.7 A 211 Km al suroeste de Medellin, Colombia
 26/08/24 05:14:57  8.670 -82.848  16 2.8 C  11 Km al oeste de Salitral, Panamá
+26/08/24 01:47:27 10.054 -83.705  16 2.5 C  32 Km al noreste de Cartago, Costa Rica
+26/08/24 01:52:09 10.014 -83.959  10 1.9 C  16 Km al noreste de San José, Costa Rica
