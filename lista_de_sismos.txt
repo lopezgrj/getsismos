@@ -10327,3 +10327,6 @@
 26/08/23 20:40:59  4.436 -76.821  55 4.3 C 244 Km al suroeste de Medellin, Colombia
 26/08/24 04:20:58  4.552 -76.665  11 3.6 C 223 Km al suroeste de Medellin, Colombia
 26/08/24 05:27:39  4.432 -76.809  17 4.1 C 243 Km al suroeste de Medellin, Colombia
+26/08/23 23:21:31  4.555 -76.756  10 4.2 C 229 Km al suroeste de Medellin, Colombia
+26/08/23 23:43:31  4.550 -76.844  35 4.1 C 235 Km al suroeste de Medellin, Colombia
+26/08/24 00:14:17  4.467 -76.834  27 4.0 C 242 Km al suroeste de Medellin, Colombia
