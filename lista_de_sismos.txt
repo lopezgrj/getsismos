@@ -10309,3 +10309,4 @@
 26/08/23 16:20:59 13.928 -87.082   8 3.4 C  22 Km al sureste de Tegucigalpa, Honduras
 26/08/23 16:20:59 13.902 -87.086   4 3.2 C  25 Km al sureste de Tegucigalpa, Honduras
 26/08/23 17:40:30 13.107 -89.301  27 2.9 C  42 Km al sur de La Libertad, El Salvador
+26/08/23 18:36:48 12.764 -88.610  36 3.8 C  60 Km al sureste de Delta del Rio Lempa, El Salvador
