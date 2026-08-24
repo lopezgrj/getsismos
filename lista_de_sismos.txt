@@ -10317,3 +10317,4 @@
 26/08/24 01:39:39 10.053 -83.973   4 4.6 C  17 Km al noreste de Heredia, Costa Rica
 26/08/24 01:56:31 10.060 -83.957   3 3.4 C  19 Km al noreste de Heredia, Costa Rica
 26/08/24 01:37:16 10.067 -83.971   7 5.0 C  18 Km al noreste de Heredia, Costa Rica
+26/08/24 03:07:21 13.617 -90.904  10 3.9 C  40 Km al suroeste de Iztapa, Guatemala
