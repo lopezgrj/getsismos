@@ -10352,3 +10352,4 @@
 26/08/25 01:49:16 14.306 -93.363   8 4.2 C 123 Km al oeste de El Gancho México
 26/08/25 04:06:00 14.368 -90.105   5 3.1 C  24 Km al noreste de Cuilapa, Guatemala
 26/08/25 06:27:39 14.732 -91.814 112 3.9 C  26 Km al sur de San Marcos, Guatemala
+26/08/25 06:27:38 14.780 -91.825 116 4.3 C  21 Km al sur de San Marcos, Guatemala
