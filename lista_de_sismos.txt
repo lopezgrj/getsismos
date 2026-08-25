@@ -10362,3 +10362,4 @@
 26/08/25 11:08:17  4.391 -76.764   9 3.8 C 244 Km al suroeste de Medellin, Colombia
 26/08/25 11:22:12 11.961 -86.507  91 2.6 C  20 Km al norte de Masachapa, Nicaragua
 26/08/25 14:25:45 12.856 -88.754  36 3.0 C  45 Km al sur de Delta del Rio Lempa, El Salvador
+26/08/25 16:58:15 13.939 -89.350 187 2.6 C  23 Km al norte de Santa Ana, El Salvador
