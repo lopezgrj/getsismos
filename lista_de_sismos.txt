@@ -10358,3 +10358,4 @@
 26/08/24 10:21:56  4.852 -77.108  58 2.5 C 230 Km al suroeste de Medellin, Colombia
 26/08/24 23:49:55  4.361 -76.660   6 3.6 C 241 Km al suroeste de Medellin, Colombia
 26/08/25 07:51:42  8.598 -83.343  14 2.6 C  25 Km al noreste de Playa Madrigal, Costa Rica
+26/08/25 11:08:17  4.399 -76.764   9 3.8 C 243 Km al suroeste de Medellin, Colombia
