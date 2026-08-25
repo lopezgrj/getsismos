@@ -10355,3 +10355,6 @@
 26/08/25 06:27:38 14.780 -91.825 116 4.3 C  21 Km al sur de San Marcos, Guatemala
 26/08/25 00:51:24 16.104 -94.969   4 3.7 C  27 Km al norte de Salina Cruz, México
 26/08/25 07:51:42  8.600 -83.346  13 2.6 C  25 Km al noreste de Playa Madrigal, Costa Rica
+26/08/24 10:21:56  4.852 -77.108  58 2.5 C 230 Km al suroeste de Medellin, Colombia
+26/08/24 23:49:55  4.361 -76.660   6 3.6 C 241 Km al suroeste de Medellin, Colombia
+26/08/25 07:51:42  8.598 -83.343  14 2.6 C  25 Km al noreste de Playa Madrigal, Costa Rica
