@@ -10350,3 +10350,4 @@
 26/08/25 01:40:51 14.324 -93.304  11 4.2 C 116 Km al oeste de El Gancho México
 26/08/25 01:49:13 14.284 -93.475   5 4.2 A 135 Km al oeste de El Gancho México
 26/08/25 01:49:16 14.306 -93.363   8 4.2 C 123 Km al oeste de El Gancho México
+26/08/25 04:06:00 14.368 -90.105   5 3.1 C  24 Km al noreste de Cuilapa, Guatemala
