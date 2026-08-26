@@ -10368,3 +10368,5 @@
 26/08/25 22:54:25  9.422 -83.726   4 2.8 C  24 Km al noreste de Dominical, Costa Rica
 26/08/26 01:25:13 12.031 -86.119   6 1.8 C   7 Km al norte de Masaya, Nicaragua
 26/08/26 04:39:30 12.319 -89.044  14 3.3 C 107 Km al sur de Delta del Rio Lempa, El Salvador
+26/08/26 04:51:22  8.580 -82.654  17 2.6 C  14 Km al sureste de Salitral, Panamá
+26/08/26 05:02:20 13.440 -91.354   2 3.3 C  57 Km al sur de San Jose, Guatemala
