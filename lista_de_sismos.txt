@@ -10375,3 +10375,4 @@
 26/08/26 02:36:16 13.455 -89.052  97 2.5 C  19 Km al sur de San Miguel Tepezontes, El Salvador
 26/08/26 06:01:24 14.946 -93.221  18 3.0 C  64 Km al suroeste de Mapastepec, México
 26/08/26 08:30:39 14.148 -93.181   6 3.5 C 110 Km al suroeste de El Gancho México
+26/08/25 21:35:50 12.616 -88.622  30 2.6 C  75 Km al sur de Delta del Rio Lempa, El Salvador
