@@ -10363,3 +10363,5 @@
 26/08/25 11:22:12 11.961 -86.507  91 2.6 C  20 Km al norte de Masachapa, Nicaragua
 26/08/25 14:25:45 12.856 -88.754  36 3.0 C  45 Km al sur de Delta del Rio Lempa, El Salvador
 26/08/25 16:58:15 13.939 -89.350 187 2.6 C  23 Km al norte de Santa Ana, El Salvador
+26/08/25 18:29:28  9.415 -83.724   7 3.3 C  24 Km al noreste de Dominical, Costa Rica
+26/08/25 18:30:33  9.406 -83.737   7 3.1 C  22 Km al noreste de Dominical, Costa Rica
