@@ -10370,3 +10370,4 @@
 26/08/26 04:39:30 12.319 -89.044  14 3.3 C 107 Km al sur de Delta del Rio Lempa, El Salvador
 26/08/26 04:51:22  8.580 -82.654  17 2.6 C  14 Km al sureste de Salitral, Panamá
 26/08/26 05:02:20 13.440 -91.354   2 3.3 C  57 Km al sur de San Jose, Guatemala
+26/08/26 06:29:34  8.634 -82.688  17 2.7 C   8 Km al sureste de Salitral, Panamá
