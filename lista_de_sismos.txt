@@ -10376,3 +10376,4 @@
 26/08/26 06:01:24 14.946 -93.221  18 3.0 C  64 Km al suroeste de Mapastepec, México
 26/08/26 08:30:39 14.148 -93.181   6 3.5 C 110 Km al suroeste de El Gancho México
 26/08/25 21:35:50 12.616 -88.622  30 2.6 C  75 Km al sur de Delta del Rio Lempa, El Salvador
+26/08/26 11:03:31  9.255 -85.747  10 3.4 C  83 Km al sur de Ostional, Costa Rica
