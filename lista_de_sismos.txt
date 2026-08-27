@@ -10389,3 +10389,16 @@
 26/08/27 02:24:22 13.769 -89.390  11 2.2 C  15 Km al noroeste de Santa Tecla, El Salvador
 26/08/27 03:37:51  8.677 -83.259  22 2.8 C  38 Km al noreste de Playa Madrigal, Costa Rica
 26/08/27 03:37:52  8.683 -83.240  13 2.9 C  40 Km al noreste de Playa Madrigal, Costa Rica
+26/08/26 05:58:15 11.400 -87.742  26 3.2 C 132 Km al suroeste de Las Penitas, Nicaragua
+26/08/26 20:21:11  4.430 -76.654   1 2.5 C 234 Km al suroeste de Medellin, Colombia
+26/08/26 20:31:54  2.341 -76.330   5 2.9 C 358 Km al suroeste de Bogota, Colombia
+26/08/26 22:52:21 16.768 -99.613  10 4.5 C  31 Km al norte de Acapulco, México
+26/08/27 05:10:04 11.316 -85.562   7 2.2 C  15 Km al noroeste de Cárdenas, Nicaragua
+26/08/27 08:33:58  0.444 -78.565   4 2.7 C 136 Km al sureste de Esmeraldas, Ecuador
+26/08/27 08:55:56  4.445 -76.880  56 2.7 C 246 Km al suroeste de Medellin, Colombia
+26/08/27 08:57:37  4.597 -76.914  50 3.2 C 235 Km al suroeste de Medellin, Colombia
+26/08/27 09:25:27  4.609 -76.841  19 4.9 C 229 Km al suroeste de Medellin, Colombia
+26/08/27 09:58:22 14.500 -91.936  59 3.4 C  23 Km al norte de Champerico, Guatemala
+26/08/27 10:21:22  4.581 -76.937  47 4.7 C 238 Km al suroeste de Medellin, Colombia
+26/08/27 10:42:55 13.114 -89.832  29 3.1 C  53 Km al sur de Acajutla, El Salvador
+26/08/27 11:17:47  9.301 -83.704  12 3.1 C  18 Km al norte de Dominical, Costa Rica
