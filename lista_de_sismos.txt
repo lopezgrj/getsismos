@@ -10415,3 +10415,9 @@
 26/08/28 00:46:34  9.707 -78.430  28 4.6 C  62 Km al norte de El Porvenir, Panamá
 26/08/28 02:38:17 14.197 -92.863   8 4.0 C  77 Km al suroeste de El Gancho México
 26/08/28 02:56:13 13.224 -89.651  27 2.9 C  45 Km al sureste de Acajutla, El Salvador
+26/08/28 03:53:14 13.415 -90.370  23 2.8 C  46 Km al sur de Las Brisas, Guatemala
+26/08/28 04:18:24 12.503 -88.032  30 2.8 C  59 Km al suroeste de Punta Cosigüina, Nicaragua
+26/08/28 04:25:34 13.928 -91.275  27 3.4 C  10 Km al oeste de San Jose, Guatemala
+26/08/28 05:46:58 12.935 -88.937  45 3.3 C  38 Km al sur de Delta del Rio Lempa, El Salvador
+26/08/28 06:46:42 11.224 -87.718   5 2.9 C 144 Km al suroeste de El Transito, Nicaragua
+26/08/28 07:15:48 12.112 -86.792  87 2.5 C  10 Km al sur de Puerto Sandino, Nicaragua
