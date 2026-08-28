@@ -10412,3 +10412,6 @@
 26/08/27 21:08:21 12.700 -88.057  56 2.7 C  46 Km al suroeste de Punta Cosigüina, Nicaragua
 26/08/27 22:56:03 13.289 -89.784  27 2.5 C  34 Km al sur de Acajutla, El Salvador
 26/08/27 23:54:40 14.053 -93.107  34 3.8 C 108 Km al suroeste de El Gancho México
+26/08/28 00:46:34  9.707 -78.430  28 4.6 C  62 Km al norte de El Porvenir, Panamá
+26/08/28 02:38:17 14.197 -92.863   8 4.0 C  77 Km al suroeste de El Gancho México
+26/08/28 02:56:13 13.224 -89.651  27 2.9 C  45 Km al sureste de Acajutla, El Salvador
