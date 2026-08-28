@@ -10439,3 +10439,4 @@
 26/08/28 14:12:10 13.900 -91.264  46 4.0 C   9 Km al oeste de San Jose, Guatemala
 26/08/28 14:15:20  4.356 -76.639   4 3.5 C 240 Km al suroeste de Medellin, Colombia
 26/08/28 02:24:32  4.462 -76.891  66 4.3 C 246 Km al suroeste de Medellin, Colombia
+26/08/28 16:30:27 14.993 -93.193  21 5.0 C  58 Km al suroeste de Mapastepec, México
