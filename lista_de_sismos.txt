@@ -10428,3 +10428,13 @@
 26/08/28 10:33:41  8.273 -82.824  16 2.7 C   4 Km al norte de Puerto Armuelles, Panamá
 26/08/28 10:34:58  8.242 -82.834  11 2.6 C   4 Km al sureste de Puerto Armuelles, Panamá
 26/08/28 10:51:47 12.349 -87.458 114 3.0 C  34 Km al suroeste de Corinto, Nicaragua
+26/08/26 00:11:15 13.308 -90.127  22 3.0 C  45 Km al suroeste de Acajutla, El Salvador
+26/08/27 20:24:44 12.475 -87.913  30 2.8 C  54 Km al suroeste de Mechapa, Chinandega, Nicaragua
+26/08/27 23:10:40  8.859 -83.201  36 2.2 C  45 Km al oeste de La Tigra, Costa Rica
+26/08/28 01:14:29 14.410 -92.655  26 3.2 C  46 Km al oeste de El Gancho México
+26/08/28 01:16:13 13.996 -90.971  93 3.0 C  20 Km al norte de Sipacate, Guatemala
+26/08/28 01:30:46 13.801 -91.278  28 3.2 C  17 Km al suroeste de San Jose, Guatemala
+26/08/28 01:55:56 13.161 -89.623  27 2.8 C  48 Km al suroeste de La Libertad, El Salvador
+26/08/28 13:31:50  9.392 -83.603   5 3.2 C  32 Km al noreste de Dominical, Costa Rica
+26/08/28 14:12:10 13.900 -91.264  46 4.0 C   9 Km al oeste de San Jose, Guatemala
+26/08/28 14:15:20  4.356 -76.639   4 3.5 C 240 Km al suroeste de Medellin, Colombia
