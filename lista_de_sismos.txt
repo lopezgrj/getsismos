@@ -10421,3 +10421,10 @@
 26/08/28 05:46:58 12.935 -88.937  45 3.3 C  38 Km al sur de Delta del Rio Lempa, El Salvador
 26/08/28 06:46:42 11.224 -87.718   5 2.9 C 144 Km al suroeste de El Transito, Nicaragua
 26/08/28 07:15:48 12.112 -86.792  87 2.5 C  10 Km al sur de Puerto Sandino, Nicaragua
+26/08/27 16:09:25  4.570 -76.716   4 2.5 C 225 Km al suroeste de Medellin, Colombia
+26/08/27 21:24:20 13.948 -90.967  36 2.8 C  19 Km al norte de Sipacate, Guatemala
+26/08/27 22:27:26  0.243 -78.320   3 2.0 C 171 Km al sureste de Esmeraldas, Ecuador
+26/08/27 22:35:05 14.511 -90.650   3 2.7 C  10 Km al sureste de Antigua Guatemala, Guatemala
+26/08/28 10:33:41  8.273 -82.824  16 2.7 C   4 Km al norte de Puerto Armuelles, Panamá
+26/08/28 10:34:58  8.242 -82.834  11 2.6 C   4 Km al sureste de Puerto Armuelles, Panamá
+26/08/28 10:51:47 12.349 -87.458 114 3.0 C  34 Km al suroeste de Corinto, Nicaragua
