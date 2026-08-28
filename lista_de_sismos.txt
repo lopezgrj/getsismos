@@ -10440,3 +10440,5 @@
 26/08/28 14:15:20  4.356 -76.639   4 3.5 C 240 Km al suroeste de Medellin, Colombia
 26/08/28 02:24:32  4.462 -76.891  66 4.3 C 246 Km al suroeste de Medellin, Colombia
 26/08/28 16:30:27 14.993 -93.193  21 5.0 C  58 Km al suroeste de Mapastepec, México
+26/08/28 16:59:03  9.361 -83.632   3 2.5 C  28 Km al noreste de Dominical, Costa Rica
+26/08/28 17:08:56  8.759 -82.916  19 2.5 C  21 Km al noroeste de Salitral, Panamá
