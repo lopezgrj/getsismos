@@ -10438,3 +10438,4 @@
 26/08/28 13:31:50  9.392 -83.603   5 3.2 C  32 Km al noreste de Dominical, Costa Rica
 26/08/28 14:12:10 13.900 -91.264  46 4.0 C   9 Km al oeste de San Jose, Guatemala
 26/08/28 14:15:20  4.356 -76.639   4 3.5 C 240 Km al suroeste de Medellin, Colombia
+26/08/28 02:24:32  4.462 -76.891  66 4.3 C 246 Km al suroeste de Medellin, Colombia
