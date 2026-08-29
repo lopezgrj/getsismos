@@ -10450,3 +10450,4 @@
 26/08/28 22:56:02  8.474 -78.915  10 4.5 C  85 Km al oeste de La Palma, Panamá
 26/08/28 22:56:02  8.474 -78.915  10 4.3 C  85 Km al oeste de La Palma, Panamá
 26/08/29 00:37:00 13.135 -88.701 202 2.5 C  19 Km al sureste de Delta del Rio Lempa, El Salvador
+26/08/29 02:27:47 13.042 -88.919  35 2.7 C  26 Km al suroeste de Delta del Rio Lempa, El Salvador
