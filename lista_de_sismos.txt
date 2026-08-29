@@ -10442,3 +10442,4 @@
 26/08/28 16:30:27 14.993 -93.193  21 5.0 C  58 Km al suroeste de Mapastepec, México
 26/08/28 16:59:03  9.361 -83.632   3 2.5 C  28 Km al noreste de Dominical, Costa Rica
 26/08/28 17:08:56  8.759 -82.916  19 2.5 C  21 Km al noroeste de Salitral, Panamá
+26/08/28 17:55:12 12.191 -86.795 119 2.7 C   4 Km al oeste de Puerto Sandino, Nicaragua
