@@ -10455,3 +10455,4 @@
 26/08/29 04:50:20  4.595 -76.780   5 4.5 C 226 Km al suroeste de Medellin, Colombia
 26/08/29 08:41:16 12.776 -88.865  18 2.9 C  53 Km al sur de Delta del Rio Lempa, El Salvador
 26/08/29 11:04:01 12.913 -89.071  26 4.0 C  46 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/08/29 11:42:35 13.001 -89.116  26 3.6 C  42 Km al suroeste de Delta del Rio Lempa, El Salvador
