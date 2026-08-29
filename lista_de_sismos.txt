@@ -10457,3 +10457,4 @@
 26/08/29 11:04:01 12.913 -89.071  26 4.0 C  46 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/08/29 11:42:35 13.001 -89.116  26 3.6 C  42 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/08/29 12:58:16 13.418 -86.686   3 2.5 C  13 Km al suroeste de Somoto, Nicaragua
+26/08/29 16:03:39 12.834 -89.085  27 3.1 C  55 Km al suroeste de Delta del Rio Lempa, El Salvador
