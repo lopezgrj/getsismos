@@ -10444,3 +10444,4 @@
 26/08/28 17:08:56  8.759 -82.916  19 2.5 C  21 Km al noroeste de Salitral, Panamá
 26/08/28 17:55:12 12.191 -86.795 119 2.7 C   4 Km al oeste de Puerto Sandino, Nicaragua
 26/08/28 18:33:46  8.412 -83.098   7 2.5 C  21 Km al oeste de Laurel, Costa Rica
+26/08/28 20:28:21 12.098 -88.438  29 2.9 C 121 Km al suroeste de Punta Cosigüina, Nicaragua
