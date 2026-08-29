@@ -10447,3 +10447,4 @@
 26/08/28 20:28:21 12.098 -88.438  29 2.9 C 121 Km al suroeste de Punta Cosigüina, Nicaragua
 26/08/28 22:48:56  8.534 -83.699  13 2.9 C  22 Km al noroeste de Playa Madrigal, Costa Rica
 26/08/28 22:55:53  7.997 -78.512   5 4.5 A  61 Km al suroeste de La Palma, Panamá
+26/08/28 22:56:02  8.474 -78.915  10 4.5 C  85 Km al oeste de La Palma, Panamá
