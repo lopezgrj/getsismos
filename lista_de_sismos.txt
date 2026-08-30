@@ -10464,3 +10464,4 @@
 26/08/29 21:07:25 12.067 -88.467  23 3.6 C 126 Km al suroeste de Punta Cosigüina, Nicaragua
 26/08/30 00:13:21 11.539 -87.543  22 3.0 C 107 Km al suroeste de Las Penitas, Nicaragua
 26/08/30 00:16:01 12.684 -88.470  37 3.1 C  67 Km al suroeste de Playa El Cuco, El Salvador
+26/08/30 00:46:52 12.202 -87.444  39 2.2 C  44 Km al suroeste de Corinto, Nicaragua
