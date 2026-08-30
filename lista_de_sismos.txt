@@ -10469,3 +10469,4 @@
 26/08/30 02:26:44 10.333 -84.606  15 1.9 C  43 Km al noreste de Chacarita, Costa Rica
 26/08/30 02:42:38 12.497 -89.135   5 2.8 C  91 Km al sur de Delta del Rio Lempa, El Salvador
 26/08/30 05:21:22 13.978 -93.105   5 4.4 C 112 Km al suroeste de El Gancho México
+26/08/30 05:43:41 12.537 -88.139  29 2.9 C  64 Km al suroeste de Punta Cosigüina, Nicaragua
