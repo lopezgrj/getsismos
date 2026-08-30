@@ -10466,3 +10466,4 @@
 26/08/30 00:16:01 12.684 -88.470  37 3.1 C  67 Km al suroeste de Playa El Cuco, El Salvador
 26/08/30 00:46:52 12.202 -87.444  39 2.2 C  44 Km al suroeste de Corinto, Nicaragua
 26/08/30 01:57:44 11.522 -87.558   5 3.0 C 110 Km al suroeste de Las Penitas, Nicaragua
+26/08/30 02:26:44 10.333 -84.606  15 1.9 C  43 Km al noreste de Chacarita, Costa Rica
