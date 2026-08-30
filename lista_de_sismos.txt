@@ -10471,3 +10471,4 @@
 26/08/30 05:21:22 13.978 -93.105   5 4.4 C 112 Km al suroeste de El Gancho México
 26/08/30 05:43:41 12.537 -88.139  29 2.9 C  64 Km al suroeste de Punta Cosigüina, Nicaragua
 26/08/30 06:44:53 11.564 -86.278 138 2.2 C   8 Km al sureste de Huehuete, Nicaragua
+26/08/30 06:44:53 11.607 -86.234 139 2.1 C  10 Km al norte de Huehuete, Nicaragua
