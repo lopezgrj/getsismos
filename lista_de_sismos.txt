@@ -10462,3 +10462,5 @@
 26/08/29 20:14:18 10.923 -86.444  16 3.4 C  54 Km al oeste de Caba Santa Elena, Costa Rica
 26/08/29 20:14:18 10.923 -86.444  16 3.3 C  54 Km al oeste de Caba Santa Elena, Costa Rica
 26/08/29 21:07:25 12.067 -88.467  23 3.6 C 126 Km al suroeste de Punta Cosigüina, Nicaragua
+26/08/30 00:13:21 11.539 -87.543  22 3.0 C 107 Km al suroeste de Las Penitas, Nicaragua
+26/08/30 00:16:01 12.684 -88.470  37 3.1 C  67 Km al suroeste de Playa El Cuco, El Salvador
