@@ -10475,3 +10475,4 @@
 26/08/30 12:39:00 13.409 -90.999  28 3.0 C  60 Km al sur de Sipacate, Guatemala
 26/08/30 13:59:58 11.835 -86.254 146 2.9 A   3 Km al suroeste de Diriamba, Nicaragua
 26/08/30 13:59:56 11.809 -86.213 165 3.1 C   6 Km al sureste de Diriamba, Nicaragua
+26/08/30 17:10:01 13.629 -92.178  25 3.4 C  77 Km al suroeste de Tulate, Guatemala
