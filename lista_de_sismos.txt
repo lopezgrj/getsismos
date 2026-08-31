@@ -10506,3 +10506,4 @@
 26/08/31 10:33:55 10.303 -83.250   9 3.0 C  11 Km al norte de Parismina, Costa Rica
 26/08/31 10:58:36 12.078 -88.442  21 3.7 A 123 Km al suroeste de Punta Cosigüina, Nicaragua
 26/08/31 10:58:35 12.064 -88.459  22 3.6 C 126 Km al suroeste de Punta Cosigüina, Nicaragua
+26/08/31 10:58:35 12.075 -88.457  20 3.7 C 125 Km al suroeste de Punta Cosigüina, Nicaragua
