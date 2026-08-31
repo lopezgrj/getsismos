@@ -10515,3 +10515,5 @@
 26/08/31 12:56:26 12.101 -88.443  28 4.2 C 122 Km al suroeste de Punta Cosigüina, Nicaragua
 26/08/31 13:16:31 12.628 -88.109  63 2.7 A  55 Km al suroeste de Punta Cosigüina, Nicaragua
 26/08/31 13:16:31 12.610 -88.134  33 2.6 C  59 Km al suroeste de Punta Cosigüina, Nicaragua
+26/08/31 17:31:46 13.283 -89.868  30 3.5 C  34 Km al sur de Acajutla, El Salvador
+26/08/31 17:33:48  8.277 -82.835  13 3.7 C   3 Km al norte de Puerto Armuelles, Panamá
