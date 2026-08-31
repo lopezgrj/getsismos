@@ -10490,3 +10490,4 @@
 26/08/31 02:26:16 14.395 -92.224  29 3.3 C  13 Km al sur de San Marcos, Guatemala
 26/08/31 03:04:44  8.648 -82.510  12 2.1 C  23 Km al sur de Cerro Punta, Panamá
 26/08/31 03:49:24 14.372 -90.110   3 1.9 C  23 Km al noreste de Cuilapa, Guatemala
+26/08/31 05:50:21 11.569 -86.097  14 2.8 A  11 Km al noreste de El Astillero, Nicaragua
