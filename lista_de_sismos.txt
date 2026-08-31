@@ -10477,3 +10477,4 @@
 26/08/30 13:59:56 11.809 -86.213 165 3.1 C   6 Km al sureste de Diriamba, Nicaragua
 26/08/30 17:10:01 13.629 -92.178  25 3.4 C  77 Km al suroeste de Tulate, Guatemala
 26/08/30 18:24:42 13.189 -89.830  22 3.0 C  44 Km al sur de Acajutla, El Salvador
+26/08/30 19:55:09 12.269 -87.346  43 2.4 C  31 Km al suroeste de Corinto, Nicaragua
