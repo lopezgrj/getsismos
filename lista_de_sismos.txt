@@ -10480,3 +10480,4 @@
 26/08/30 19:55:09 12.269 -87.346  43 2.4 C  31 Km al suroeste de Corinto, Nicaragua
 26/08/30 20:56:04  8.616 -82.485  12 2.3 C  22 Km al norte de Chiriqui, Panamá
 26/08/30 21:49:33  8.615 -82.403  15 2.7 C  21 Km al norte de Chiriqui, Panamá
+26/08/30 23:04:16 13.114 -89.335  33 3.1 C  41 Km al sur de La Libertad, El Salvador
