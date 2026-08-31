@@ -10491,3 +10491,5 @@
 26/08/31 03:04:44  8.648 -82.510  12 2.1 C  23 Km al sur de Cerro Punta, Panamá
 26/08/31 03:49:24 14.372 -90.110   3 1.9 C  23 Km al noreste de Cuilapa, Guatemala
 26/08/31 05:50:21 11.569 -86.097  14 2.8 A  11 Km al noreste de El Astillero, Nicaragua
+26/08/31 04:31:56 12.578 -88.257  33 2.6 C  68 Km al sur de Playa El Cuco, El Salvador
+26/08/31 05:50:21 11.564 -86.069   7 2.5 C  13 Km al noreste de El Astillero, Nicaragua
