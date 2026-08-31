@@ -10493,3 +10493,5 @@
 26/08/31 05:50:21 11.569 -86.097  14 2.8 A  11 Km al noreste de El Astillero, Nicaragua
 26/08/31 04:31:56 12.578 -88.257  33 2.6 C  68 Km al sur de Playa El Cuco, El Salvador
 26/08/31 05:50:21 11.564 -86.069   7 2.5 C  13 Km al noreste de El Astillero, Nicaragua
+26/08/31 06:19:04 13.978 -92.963  10 3.5 C 100 Km al suroeste de El Gancho México
+26/08/31 06:24:47 13.090 -89.250  29 2.9 C  45 Km al sur de La Libertad, El Salvador
