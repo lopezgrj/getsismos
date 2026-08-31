@@ -10510,3 +10510,4 @@
 26/08/31 11:59:21 12.252 -86.376  23 2.7 C   4 Km al oeste de Laguna de Apoyeque, Nicaragua
 26/08/31 12:10:43 13.635 -90.861  17 3.6 C  37 Km al suroeste de Iztapa, Guatemala
 26/08/31 11:59:27 12.045 -86.150   1 2.1 C   7 Km al norte de Ticuantepe, Nicaragua
+26/08/31 12:44:15 14.849 -93.134  10 3.3 C  69 Km al sur de Mapastepec, México
