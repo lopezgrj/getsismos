@@ -10511,3 +10511,5 @@
 26/08/31 12:10:43 13.635 -90.861  17 3.6 C  37 Km al suroeste de Iztapa, Guatemala
 26/08/31 11:59:27 12.045 -86.150   1 2.1 C   7 Km al norte de Ticuantepe, Nicaragua
 26/08/31 12:44:15 14.849 -93.134  10 3.3 C  69 Km al sur de Mapastepec, México
+26/08/31 12:44:16 14.957 -93.126  24 3.3 C  58 Km al suroeste de Mapastepec, México
+26/08/31 12:56:26 12.101 -88.443  28 4.2 C 122 Km al suroeste de Punta Cosigüina, Nicaragua
