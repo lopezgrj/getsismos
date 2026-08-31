@@ -10507,3 +10507,5 @@
 26/08/31 10:58:36 12.078 -88.442  21 3.7 A 123 Km al suroeste de Punta Cosigüina, Nicaragua
 26/08/31 10:58:35 12.064 -88.459  22 3.6 C 126 Km al suroeste de Punta Cosigüina, Nicaragua
 26/08/31 10:58:35 12.075 -88.457  20 3.7 C 125 Km al suroeste de Punta Cosigüina, Nicaragua
+26/08/31 11:59:21 12.252 -86.376  23 2.7 C   4 Km al oeste de Laguna de Apoyeque, Nicaragua
+26/08/31 12:10:43 13.635 -90.861  17 3.6 C  37 Km al suroeste de Iztapa, Guatemala
