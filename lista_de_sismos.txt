@@ -10495,3 +10495,4 @@
 26/08/31 05:50:21 11.564 -86.069   7 2.5 C  13 Km al noreste de El Astillero, Nicaragua
 26/08/31 06:19:04 13.978 -92.963  10 3.5 C 100 Km al suroeste de El Gancho México
 26/08/31 06:24:47 13.090 -89.250  29 2.9 C  45 Km al sur de La Libertad, El Salvador
+26/08/31 03:26:54 12.671 -86.975   5 1.5 C   5 Km al sureste de Volcán San Cristóbal, Nicaragua
