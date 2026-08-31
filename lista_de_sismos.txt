@@ -10488,3 +10488,4 @@
 26/08/31 01:24:04 12.836 -88.664  37 2.6 C  50 Km al sur de Delta del Rio Lempa, El Salvador
 26/08/30 11:42:12 13.245 -89.956  20 2.8 C  41 Km al sur de Acajutla, El Salvador
 26/08/31 02:26:16 14.395 -92.224  29 3.3 C  13 Km al sur de San Marcos, Guatemala
+26/08/31 03:04:44  8.648 -82.510  12 2.1 C  23 Km al sur de Cerro Punta, Panamá
