@@ -10498,3 +10498,5 @@
 26/08/31 03:26:54 12.671 -86.975   5 1.5 C   5 Km al sureste de Volcán San Cristóbal, Nicaragua
 26/08/31 09:21:43 14.839 -91.928   5 2.6 A  20 Km al suroeste de San Marcos, Guatemala
 26/08/31 09:21:26 14.376 -93.073   1 3.3 C  90 Km al oeste de El Gancho México
+26/08/31 09:41:08 13.811 -90.369  18 3.2 A  11 Km al oeste de Las Brisas, Guatemala
+26/08/31 09:42:34 13.279 -88.625   5 2.5 A  22 Km al norte de Delta del Rio Lempa, El Salvador
