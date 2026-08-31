@@ -10502,3 +10502,4 @@
 26/08/31 09:42:34 13.279 -88.625   5 2.5 A  22 Km al norte de Delta del Rio Lempa, El Salvador
 26/08/31 09:41:08 13.839 -90.406  24 3.5 C  15 Km al oeste de Las Brisas, Guatemala
 26/08/31 09:42:35 13.239 -88.316  11 2.0 C  17 Km al sureste de Usulután, El Salvador
+26/08/31 09:42:36 13.274 -88.283   5 1.9 C  18 Km al sureste de Usulután, El Salvador
