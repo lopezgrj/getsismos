@@ -10540,3 +10540,4 @@
 26/08/31 22:57:42  8.674 -82.469  16 1.8 C  22 Km al sureste de Cerro Punta, Panamá
 26/09/01 03:59:30 13.172 -89.947  15 2.4 C  48 Km al sur de Acajutla, El Salvador
 26/09/01 08:37:37 12.892 -88.765  29 3.0 C  41 Km al sur de Delta del Rio Lempa, El Salvador
+26/09/01 12:46:26  9.357 -82.370   1 2.8 C  13 Km al oeste de Bocas del Toro, Panamá
