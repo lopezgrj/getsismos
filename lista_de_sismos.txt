@@ -10522,3 +10522,4 @@
 26/08/31 20:02:40 16.095 -87.631  10 4.2 C  40 Km al noroeste de Tela, Honduras
 26/08/31 21:49:51  8.737 -83.022  17 2.5 A  30 Km al noroeste de Paso Canoas, Costa Rica
 26/08/31 21:49:49  8.730 -82.980  19 2.5 C  26 Km al oeste de Salitral, Panamá
+26/08/31 22:50:46  8.614 -82.449   7 4.1 C  21 Km al norte de Chiriqui, Panamá
