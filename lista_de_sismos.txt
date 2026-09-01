@@ -10541,3 +10541,4 @@
 26/09/01 03:59:30 13.172 -89.947  15 2.4 C  48 Km al sur de Acajutla, El Salvador
 26/09/01 08:37:37 12.892 -88.765  29 3.0 C  41 Km al sur de Delta del Rio Lempa, El Salvador
 26/09/01 12:46:26  9.357 -82.370   1 2.8 C  13 Km al oeste de Bocas del Toro, Panamá
+26/09/01 12:58:20 14.060 -93.220  40 4.3 C 118 Km al suroeste de El Gancho México
