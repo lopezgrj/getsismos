@@ -10527,3 +10527,4 @@
 26/08/31 23:45:54  8.265 -82.783  29 3.2 C   5 Km al sur de Manglares de Majagual, Panamá
 26/08/31 23:29:43  8.642 -82.423  13 2.3 C  24 Km al norte de Chiriqui, Panamá
 26/08/31 23:45:54  8.297 -82.804  16 3.1 C   2 Km al suroeste de Manglares de Majagual, Panamá
+26/09/01 00:39:27  8.640 -82.423  13 2.5 C  24 Km al norte de Chiriqui, Panamá
