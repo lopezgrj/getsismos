@@ -10545,3 +10545,5 @@
 26/09/01 12:58:16 14.080 -93.283   1 4.5 C 123 Km al suroeste de El Gancho México
 26/09/01 13:29:02 14.130 -93.164  28 4.1 C 109 Km al suroeste de El Gancho México
 26/09/01 14:40:07 10.493 -83.152  21 3.5 C  30 Km al noreste de Parismina, Costa Rica
+26/09/01 15:36:22  8.401 -82.856  22 2.5 C   7 Km al sureste de Laurel, Costa Rica
+26/09/01 15:45:42  8.534 -82.656   9 2.4 C  16 Km al norte de Celmira, Panamá
