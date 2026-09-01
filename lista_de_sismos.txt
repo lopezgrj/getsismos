@@ -10528,3 +10528,4 @@
 26/08/31 23:29:43  8.642 -82.423  13 2.3 C  24 Km al norte de Chiriqui, Panamá
 26/08/31 23:45:54  8.297 -82.804  16 3.1 C   2 Km al suroeste de Manglares de Majagual, Panamá
 26/09/01 00:39:27  8.640 -82.423  13 2.5 C  24 Km al norte de Chiriqui, Panamá
+26/09/01 01:33:47 12.830 -88.943  27 3.5 C  49 Km al sur de Delta del Rio Lempa, El Salvador
