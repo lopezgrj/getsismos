@@ -10551,3 +10551,4 @@
 26/09/01 18:46:12 13.146 -89.639  26 2.9 C  51 Km al suroeste de La Libertad, El Salvador
 26/09/01 19:35:43 13.494 -88.514   9 2.3 C  11 Km al sur de Vista Hermosa, El Salvador
 26/09/02 00:06:27 14.155 -92.894  14 4.7 C  82 Km al suroeste de El Gancho México
+26/09/02 01:15:07 13.744 -93.560  24 3.4 C 168 Km al suroeste de El Gancho México
