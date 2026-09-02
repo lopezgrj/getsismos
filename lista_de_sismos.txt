@@ -10581,3 +10581,4 @@
 26/09/02 14:06:25 14.864 -92.362  83 4.6 C  11 Km al suroeste de Tapachula, México
 26/09/02 06:58:05 14.239 -93.254  11 3.9 C 113 Km al oeste de El Gancho México
 26/09/02 07:05:00 14.152 -93.316  13 4.2 C 123 Km al oeste de El Gancho México
+26/09/02 17:29:30  9.150 -84.131  16 4.0 C  31 Km al sur de Puerto Quepos, Costa Rica
