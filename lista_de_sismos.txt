@@ -10563,3 +10563,5 @@
 26/09/02 08:41:23 13.146 -89.826  19 3.8 C  49 Km al sur de Acajutla, El Salvador
 26/09/02 08:41:23 13.135 -89.832  19 3.8 C  50 Km al sur de Acajutla, El Salvador
 26/09/02 09:22:49 12.691 -88.624  34 3.9 C  67 Km al sur de Delta del Rio Lempa, El Salvador
+26/09/02 01:20:45 14.181 -93.434   5 3.4 C 134 Km al oeste de El Gancho México
+26/09/02 01:23:11 15.389 -94.264   9 2.5 C  78 Km al suroeste de Puerto Arista, México
