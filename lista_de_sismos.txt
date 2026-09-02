@@ -10571,3 +10571,7 @@
 26/09/02 10:50:37 14.277 -93.349  15 3.8 C 122 Km al oeste de El Gancho México
 26/09/02 01:41:45 11.126 -86.926  30 2.5 C  85 Km al suroeste de Casares, Nicaragua
 26/09/02 12:23:11  8.965 -84.250   4 3.4 C  53 Km al sur de Puerto Quepos, Costa Rica
+26/09/02 12:33:24  8.963 -84.231   5 3.0 C  52 Km al suroeste de Dominical, Costa Rica
+26/09/02 12:36:39  9.196 -83.945   3 2.5 C  11 Km al suroeste de Dominical, Costa Rica
+26/09/02 12:45:33  9.747 -83.586   3 2.6 C  35 Km al norte de Tres de Junio, Costa Rica
+26/09/02 14:06:25 14.855 -92.375  86 4.6 C  13 Km al suroeste de Tapachula, México
