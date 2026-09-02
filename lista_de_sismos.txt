@@ -10548,3 +10548,4 @@
 26/09/01 15:36:22  8.401 -82.856  22 2.5 C   7 Km al sureste de Laurel, Costa Rica
 26/09/01 15:45:42  8.534 -82.656   9 2.4 C  16 Km al norte de Celmira, Panamá
 26/09/01 16:21:22 13.992 -92.034  37 4.2 C  36 Km al sur de Champerico, Guatemala
+26/09/01 18:46:12 13.146 -89.639  26 2.9 C  51 Km al suroeste de La Libertad, El Salvador
