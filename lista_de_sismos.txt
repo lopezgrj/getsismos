@@ -10556,3 +10556,4 @@
 26/09/02 05:37:02 10.915 -86.376  17 2.4 C  47 Km al oeste de Caba Santa Elena, Costa Rica
 26/09/02 06:07:07 14.185 -92.028  28 2.9 C  17 Km al suroeste de Champerico, Guatemala
 26/09/02 06:28:28 14.132 -93.384   1 5.8 C 131 Km al oeste de El Gancho México
+26/09/02 06:28:29 14.217 -93.350   1 5.7 C 124 Km al oeste de El Gancho México
