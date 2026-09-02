@@ -10559,3 +10559,5 @@
 26/09/02 06:28:29 14.217 -93.350   1 5.7 C 124 Km al oeste de El Gancho México
 26/09/02 02:57:38 12.221 -89.878  10 3.4 C 152 Km al sur de Acajutla, El Salvador
 26/09/02 07:27:16 14.202 -93.334   9 3.9 C 123 Km al oeste de El Gancho México
+26/09/02 07:53:44 13.129 -89.636  27 3.1 C  52 Km al suroeste de La Libertad, El Salvador
+26/09/02 08:41:23 13.146 -89.826  19 3.8 C  49 Km al sur de Acajutla, El Salvador
