@@ -10599,3 +10599,5 @@
 26/09/03 05:20:08  8.690 -82.868  50 2.9 A  13 Km al oeste de Salitral, Panamá
 26/09/03 04:25:53 14.907 -93.201  14 4.1 C  66 Km al suroeste de Mapastepec, México
 26/09/03 05:20:06  8.688 -82.858  54 2.7 C  12 Km al oeste de Salitral, Panamá
+26/09/03 05:20:07  8.690 -82.836  49 2.7 C  10 Km al oeste de Salitral, Panamá
+26/09/03 05:33:52 17.661 -94.681 131 4.9 C 174 Km al norte de Salina Cruz, México
