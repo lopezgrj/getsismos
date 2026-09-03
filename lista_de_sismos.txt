@@ -10609,3 +10609,4 @@
 26/09/02 23:17:15  4.456 -76.854  54 4.7 C 244 Km al suroeste de Medellin, Colombia
 26/09/03 10:23:06 12.534 -88.185  26 2.7 C  68 Km al suroeste de Punta Cosigüina, Nicaragua
 26/09/03 11:48:45 13.142 -89.834  22 3.6 C  50 Km al sur de Acajutla, El Salvador
+26/09/03 16:34:45 15.191 -92.221 146 3.6 C  32 Km al norte de Tapachula, México
