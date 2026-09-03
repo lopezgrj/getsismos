@@ -10582,3 +10582,5 @@
 26/09/02 06:58:05 14.239 -93.254  11 3.9 C 113 Km al oeste de El Gancho México
 26/09/02 07:05:00 14.152 -93.316  13 4.2 C 123 Km al oeste de El Gancho México
 26/09/02 17:29:30  9.150 -84.131  16 4.0 C  31 Km al sur de Puerto Quepos, Costa Rica
+26/09/02 17:50:14 13.715 -89.206   8 3.4 C   5 Km al oeste de San Salvador, El Salvador
+26/09/02 17:59:46 13.011 -89.060  34 3.1 C  37 Km al suroeste de Delta del Rio Lempa, El Salvador
