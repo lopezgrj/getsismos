@@ -10605,3 +10605,5 @@
 26/09/03 03:44:38 14.340 -90.259   5 2.2 C   8 Km al noreste de Cuilapa, Guatemala
 26/09/02 20:24:59 14.305 -90.390   8 2.0 C  10 Km al oeste de Cuilapa, Guatemala
 26/09/02 23:17:15  4.456 -76.854  54 4.6 C 244 Km al suroeste de Medellin, Colombia
+26/09/01 13:53:20 14.200 -93.196  12 3.4 C 109 Km al oeste de El Gancho México
+26/09/02 23:17:15  4.456 -76.854  54 4.7 C 244 Km al suroeste de Medellin, Colombia
