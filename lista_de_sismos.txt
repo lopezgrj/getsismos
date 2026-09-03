@@ -10586,3 +10586,4 @@
 26/09/02 17:59:46 13.011 -89.060  34 3.1 C  37 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/09/02 19:22:39  4.434 -76.698  11 3.2 C 236 Km al suroeste de Medellin, Colombia
 26/09/02 19:42:51 13.712 -89.205   4 2.0 C   5 Km al suroeste de San Salvador, El Salvador
+26/09/02 21:59:27 13.898 -89.513 150 2.4 C  12 Km al sur de Santa Ana, El Salvador
