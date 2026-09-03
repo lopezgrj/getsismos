@@ -10592,3 +10592,4 @@
 26/09/02 23:17:15  4.414 -76.769  25 4.8 C 242 Km al suroeste de Medellin, Colombia
 26/09/02 23:36:02 15.033 -92.994  46 4.0 C  45 Km al sur de Mapastepec, México
 26/09/02 23:39:55 12.815 -89.014  28 3.0 C  53 Km al sur de Delta del Rio Lempa, El Salvador
+26/09/02 23:57:17  9.347 -84.343   9 2.6 C  22 Km al suroeste de Puerto Quepos, Costa Rica
