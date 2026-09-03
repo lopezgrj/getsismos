@@ -10597,3 +10597,5 @@
 26/09/03 01:49:22 14.191 -93.314  10 4.2 C 121 Km al oeste de El Gancho México
 26/09/03 02:45:49 14.188 -92.243  29 3.1 C  36 Km al sur de San Marcos, Guatemala
 26/09/03 05:20:08  8.690 -82.868  50 2.9 A  13 Km al oeste de Salitral, Panamá
+26/09/03 04:25:53 14.907 -93.201  14 4.1 C  66 Km al suroeste de Mapastepec, México
+26/09/03 05:20:06  8.688 -82.858  54 2.7 C  12 Km al oeste de Salitral, Panamá
