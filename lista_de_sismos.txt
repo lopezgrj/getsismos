@@ -10618,3 +10618,4 @@
 26/09/04 06:26:46 11.941 -86.120  12 2.3 C   4 Km al suroeste de Masaya, Nicaragua
 26/09/04 06:29:09 11.958 -86.133   8 2.5 C   4 Km al oeste de Masaya, Nicaragua
 26/09/04 06:29:09 11.939 -86.140   5 2.5 C   6 Km al sureste de Volcán Masaya, Nicaragua
+26/09/04 07:50:51 12.669 -90.697   8 3.8 C 136 Km al sur de Las Brisas, Guatemala
