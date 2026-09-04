@@ -10617,3 +10617,4 @@
 26/09/04 04:46:11 12.850 -88.600  37 4.1 C  51 Km al sureste de Delta del Rio Lempa, El Salvador
 26/09/04 06:26:46 11.941 -86.120  12 2.3 C   4 Km al suroeste de Masaya, Nicaragua
 26/09/04 06:29:09 11.958 -86.133   8 2.5 C   4 Km al oeste de Masaya, Nicaragua
+26/09/04 06:29:09 11.939 -86.140   5 2.5 C   6 Km al sureste de Volcán Masaya, Nicaragua
