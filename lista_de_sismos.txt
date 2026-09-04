@@ -10620,3 +10620,4 @@
 26/09/04 06:29:09 11.939 -86.140   5 2.5 C   6 Km al sureste de Volcán Masaya, Nicaragua
 26/09/04 07:50:51 12.669 -90.697   8 3.8 C 136 Km al sur de Las Brisas, Guatemala
 26/09/04 08:22:30 13.229 -89.686  33 2.9 C  43 Km al sur de Acajutla, El Salvador
+26/09/04 09:24:46 14.478 -92.974  12 4.0 C  78 Km al oeste de El Gancho México
