@@ -10612,3 +10612,6 @@
 26/09/03 16:34:45 15.191 -92.221 146 3.6 C  32 Km al norte de Tapachula, México
 26/09/03 19:17:36  9.585 -84.693   6 3.4 C   7 Km al suroeste de Jacó, Costa Rica
 26/09/04 04:33:37 16.237 -87.646   1 4.2 C  53 Km al noreste de Puerto Cortes, Honduras
+26/09/04 04:33:39 16.263 -87.666  11 4.2 C  55 Km al noreste de Puerto Cortes, Honduras
+26/09/04 04:38:18  9.574 -84.867   8 2.6 C  24 Km al oeste de Herradura, Costa Rica
+26/09/04 04:46:11 12.850 -88.600  37 4.1 C  51 Km al sureste de Delta del Rio Lempa, El Salvador
