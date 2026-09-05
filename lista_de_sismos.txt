@@ -10643,3 +10643,5 @@
 26/09/05 04:28:17  8.143 -83.067  14 2.4 C  23 Km al oeste de Limones, Distrito Barú, Panamá
 26/09/05 05:32:00  7.815 -82.432   3 3.4 C  57 Km al sureste de Limones, Distrito Barú, Panamá
 26/09/05 11:03:42 13.408 -90.564  16 2.9 C  56 Km al suroeste de Las Brisas, Guatemala
+26/09/05 12:00:19 13.609 -90.745  27 2.9 C  36 Km al sur de Iztapa, Guatemala
+26/09/05 12:03:01 15.034 -93.291  23 2.9 C  61 Km al suroeste de Mapastepec, México
