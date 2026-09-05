@@ -10634,3 +10634,4 @@
 26/09/04 23:00:07  3.702 -82.838   5 4.9 C 140 Km al oeste de Isla de Malpelo, Colombia
 26/09/04 23:34:41 13.240 -89.852  30 3.0 C  39 Km al sur de Acajutla, El Salvador
 26/09/04 23:42:07 13.818 -92.796   8 3.2 C 101 Km al suroeste de San Marcos, Guatemala
+26/09/03 17:32:40  4.495 -76.877  50 4.2 C 242 Km al suroeste de Medellin, Colombia
