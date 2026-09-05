@@ -10648,3 +10648,4 @@
 26/09/05 13:10:04 13.024 -89.564  22 3.0 C  57 Km al suroeste de La Libertad, El Salvador
 26/09/05 15:12:35 12.332 -89.093  13 3.2 C 107 Km al sur de Delta del Rio Lempa, El Salvador
 26/09/05 15:49:45 11.917 -88.035  21 3.8 C 111 Km al suroeste de Jiquilillo, Nicaragua
+26/09/05 15:49:46 11.955 -88.026  25 3.8 C 107 Km al suroeste de Jiquilillo, Nicaragua
