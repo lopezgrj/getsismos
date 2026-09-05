@@ -10646,3 +10646,4 @@
 26/09/05 12:00:19 13.609 -90.745  27 2.9 C  36 Km al sur de Iztapa, Guatemala
 26/09/05 12:03:01 15.034 -93.291  23 2.9 C  61 Km al suroeste de Mapastepec, México
 26/09/05 13:10:04 13.024 -89.564  22 3.0 C  57 Km al suroeste de La Libertad, El Salvador
+26/09/05 15:12:35 12.332 -89.093  13 3.2 C 107 Km al sur de Delta del Rio Lempa, El Salvador
