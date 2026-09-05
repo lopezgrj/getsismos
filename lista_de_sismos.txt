@@ -10636,3 +10636,4 @@
 26/09/04 23:42:07 13.818 -92.796   8 3.2 C 101 Km al suroeste de San Marcos, Guatemala
 26/09/03 17:32:40  4.495 -76.877  50 4.2 C 242 Km al suroeste de Medellin, Colombia
 26/09/05 00:31:57 13.651 -89.030  11 2.3 C   4 Km al norte de San Miguel Tepezontes, El Salvador
+26/09/05 01:12:35 15.035 -89.541   4 3.2 C   8 Km al norte de Zacapa, Guatemala
