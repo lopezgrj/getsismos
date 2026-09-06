@@ -10680,3 +10680,4 @@
 26/09/06 13:18:56 12.741 -87.046   9 1.5 C   6 Km al noroeste de Volcán San Cristóbal, Nicaragua
 26/09/06 14:12:59 13.662 -91.149   4 3.6 C  30 Km al sur de Sipacate, Guatemala
 26/09/06 12:48:32 16.045 -97.926   1 4.4 C  12 Km al sur de Chico Ometepec, México
+26/09/06 12:46:25 16.692 -98.997  65 5.2 C  20 Km al noroeste de Casa de Piedra, México
