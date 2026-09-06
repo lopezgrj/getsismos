@@ -10668,3 +10668,4 @@
 26/09/06 04:38:51 13.875 -92.575   1 3.9 C  82 Km al suroeste de San Marcos, Guatemala
 26/09/06 05:15:21 13.167 -89.838  24 3.0 C  47 Km al sur de Acajutla, El Salvador
 26/09/06 07:45:02 12.296 -88.293  99 3.7 A  95 Km al suroeste de Punta Cosigüina, Nicaragua
+26/09/06 07:45:10 12.763 -88.494  36 3.2 C  62 Km al suroeste de Playa El Cuco, El Salvador
