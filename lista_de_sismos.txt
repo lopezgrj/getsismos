@@ -10675,3 +10675,4 @@
 26/09/06 08:56:30 13.953 -92.942   2 3.5 C 100 Km al suroeste de El Gancho México
 26/09/06 09:26:29 11.929 -88.265  22 3.3 C 125 Km al suroeste de Mechapa, Chinandega, Nicaragua
 26/09/06 09:38:59 11.982 -88.263  19 3.1 C 120 Km al suroeste de Mechapa, Chinandega, Nicaragua
+26/09/06 12:25:07 14.141 -89.723   6 2.0 C  24 Km al sureste de Jutiapa, Guatemala
