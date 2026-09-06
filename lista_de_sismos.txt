@@ -10650,3 +10650,5 @@
 26/09/05 15:49:45 11.917 -88.035  21 3.8 C 111 Km al suroeste de Jiquilillo, Nicaragua
 26/09/05 15:49:46 11.955 -88.026  25 3.8 C 107 Km al suroeste de Jiquilillo, Nicaragua
 26/09/05 18:12:07 12.906 -88.576  41 3.1 C  48 Km al sureste de Delta del Rio Lempa, El Salvador
+26/09/05 20:03:08 14.657 -89.647   1 2.5 C  19 Km al suroeste de Chiquimula, Guatemala
+26/09/05 20:13:41 14.138 -89.716   7 2.1 C  24 Km al noroeste de Santa Ana, El Salvador
