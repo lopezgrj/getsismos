@@ -10664,3 +10664,4 @@
 26/09/05 23:44:43  8.716 -83.363  14 3.0 C  34 Km al noreste de Playa Madrigal, Costa Rica
 26/09/06 01:28:31 14.914 -90.155   1 2.8 C  16 Km al oeste de El Progreso, Guatemala
 26/09/06 02:43:22 13.023 -89.037  33 2.7 C  34 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/09/06 02:50:06 14.320 -93.450   2 4.1 C 131 Km al oeste de El Gancho México
