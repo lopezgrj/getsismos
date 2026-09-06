@@ -10653,3 +10653,5 @@
 26/09/05 20:03:08 14.657 -89.647   1 2.5 C  19 Km al suroeste de Chiquimula, Guatemala
 26/09/05 20:13:41 14.138 -89.716   7 2.1 C  24 Km al noroeste de Santa Ana, El Salvador
 26/09/05 20:56:34 14.144 -93.272  20 5.2 C 119 Km al suroeste de El Gancho México
+26/09/05 21:28:29 14.224 -93.310   2 4.4 C 120 Km al oeste de El Gancho México
+26/09/05 21:35:16 14.291 -93.279  11 3.8 C 114 Km al oeste de El Gancho México
