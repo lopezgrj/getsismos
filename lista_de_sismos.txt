@@ -10684,3 +10684,4 @@
 26/09/06 04:50:40 12.737 -87.001   2 1.4 C   4 Km al norte de Volcán San Cristóbal, Nicaragua
 26/09/06 16:23:31 13.499 -89.851   1 2.6 C  10 Km al sur de Acajutla, El Salvador
 26/09/06 16:40:39 13.893 -89.788  10 2.0 C   7 Km al sureste de Ahuachapan, El Salvador
+26/09/06 16:23:32 13.537 -89.849   1 2.2 C   6 Km al sur de Acajutla, El Salvador
