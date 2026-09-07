@@ -10703,3 +10703,4 @@
 26/09/07 08:09:39 13.408 -90.033  27 3.4 C  30 Km al suroeste de Acajutla, El Salvador
 26/09/04 06:29:42 11.172 -87.115   3 2.7 C  94 Km al suroeste de Pochomil, Nicaragua
 26/09/07 08:21:25 15.711 -89.522   1 2.9 C  72 Km al suroeste de Barranco, Belice
+26/09/07 09:22:10 14.079 -92.723  16 3.4 C  74 Km al suroeste de El Gancho México
