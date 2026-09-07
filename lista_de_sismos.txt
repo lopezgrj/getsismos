@@ -10699,3 +10699,4 @@
 26/09/06 22:36:52 13.645 -90.699  29 3.0 C  32 Km al sur de Iztapa, Guatemala
 26/09/06 23:34:20 13.687 -90.768  38 3.0 C  28 Km al sur de Iztapa, Guatemala
 26/09/07 03:08:16 12.672 -88.352  29 3.2 C  62 Km al suroeste de Playa El Cuco, El Salvador
+26/09/07 04:05:06 12.878 -89.044  35 3.3 C  48 Km al suroeste de Delta del Rio Lempa, El Salvador
