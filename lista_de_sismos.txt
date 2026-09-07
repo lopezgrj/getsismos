@@ -10686,3 +10686,4 @@
 26/09/06 16:40:39 13.893 -89.788  10 2.0 C   7 Km al sureste de Ahuachapan, El Salvador
 26/09/06 16:23:32 13.537 -89.849   1 2.2 C   6 Km al sur de Acajutla, El Salvador
 26/09/04 06:29:43 11.205 -87.084   5 2.9 C  89 Km al suroeste de Pochomil, Nicaragua
+26/09/06 18:40:21 15.063 -92.821  87 3.3 C  31 Km al suroeste de Pueblo Nuevo, México
