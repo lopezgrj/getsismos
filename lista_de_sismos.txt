@@ -10691,3 +10691,5 @@
 26/09/06 19:44:23 13.511 -90.775  37 3.6 C  47 Km al sur de Iztapa, Guatemala
 26/09/06 20:25:12  8.239 -82.765  17 3.0 C   8 Km al sur de Manglares de Majagual, Panamá
 26/09/06 20:25:12  8.228 -82.781  11 3.0 C   9 Km al sur de Manglares de Majagual, Panamá
+26/09/06 21:31:20 12.558 -86.800   4 1.1 C   5 Km al oeste de Volcán Rota, Nicaragua
+26/09/06 21:37:46 12.611 -86.744   5 1.4 C   6 Km al norte de Volcán Rota, Nicaragua
