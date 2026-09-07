@@ -10690,3 +10690,4 @@
 26/09/06 18:40:21 15.063 -92.821  87 3.5 C  31 Km al suroeste de Pueblo Nuevo, México
 26/09/06 19:44:23 13.511 -90.775  37 3.6 C  47 Km al sur de Iztapa, Guatemala
 26/09/06 20:25:12  8.239 -82.765  17 3.0 C   8 Km al sur de Manglares de Majagual, Panamá
+26/09/06 20:25:12  8.228 -82.781  11 3.0 C   9 Km al sur de Manglares de Majagual, Panamá
