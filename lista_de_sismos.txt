@@ -10695,3 +10695,5 @@
 26/09/06 21:37:46 12.611 -86.744   5 1.4 C   6 Km al norte de Volcán Rota, Nicaragua
 26/09/06 22:04:58 12.539 -86.808   4 1.2 C   7 Km al oeste de Volcán Rota, Nicaragua
 26/09/06 22:21:55 12.558 -86.787   6 1.3 C   4 Km al oeste de Volcán Rota, Nicaragua
+26/09/06 22:35:53  8.253 -82.930  21 2.5 C   8 Km al oeste de Puerto Armuelles, Panamá
+26/09/06 22:36:52 13.645 -90.699  29 3.0 C  32 Km al sur de Iztapa, Guatemala
