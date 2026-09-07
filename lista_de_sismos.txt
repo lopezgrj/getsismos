@@ -10709,3 +10709,4 @@
 26/09/06 09:38:59 11.972 -88.273  19 3.1 C 122 Km al suroeste de Mechapa, Chinandega, Nicaragua
 26/09/06 22:04:58 12.537 -86.805   4 1.2 C   6 Km al oeste de Volcán Rota, Nicaragua
 26/09/07 03:08:16 12.708 -88.356  32 3.0 C  58 Km al suroeste de Playa El Cuco, El Salvador
+26/09/07 09:22:10 14.051 -92.734  18 3.5 C  77 Km al suroeste de El Gancho México
