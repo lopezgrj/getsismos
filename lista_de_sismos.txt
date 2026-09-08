@@ -10714,3 +10714,4 @@
 26/09/07 14:04:11 12.085 -86.131   8 2.7 C  11 Km al noreste de Ticuantepe, Nicaragua
 26/09/07 18:38:25  9.720 -84.904  14 3.2 C  27 Km al oeste de Herradura, Costa Rica
 26/09/07 20:01:32  4.588 -76.772  10 4.4 C 227 Km al suroeste de Medellin, Colombia
+26/09/07 21:24:29 12.747 -88.445  32 2.5 C  60 Km al suroeste de Playa El Cuco, El Salvador
