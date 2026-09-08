@@ -10720,3 +10720,4 @@
 26/09/08 00:35:00 12.443 -87.579  56 3.6 C  35 Km al suroeste de Jiquilillo, Nicaragua
 26/09/08 01:09:10 13.040 -90.130  11 2.8 C  69 Km al suroeste de Acajutla, El Salvador
 26/09/08 01:40:33 13.031 -90.054  11 3.5 C  67 Km al sur de Acajutla, El Salvador
+26/09/08 01:40:33 13.021 -90.054  12 3.5 C  68 Km al sur de Acajutla, El Salvador
