@@ -10712,3 +10712,4 @@
 26/09/07 09:22:10 14.051 -92.734  18 3.5 C  77 Km al suroeste de El Gancho México
 26/09/07 14:04:11 12.088 -86.147  13 2.7 C  10 Km al noreste de Ticuantepe, Nicaragua
 26/09/07 14:04:11 12.085 -86.131   8 2.7 C  11 Km al noreste de Ticuantepe, Nicaragua
+26/09/07 18:38:25  9.720 -84.904  14 3.2 C  27 Km al oeste de Herradura, Costa Rica
