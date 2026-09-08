@@ -10715,3 +10715,5 @@
 26/09/07 18:38:25  9.720 -84.904  14 3.2 C  27 Km al oeste de Herradura, Costa Rica
 26/09/07 20:01:32  4.588 -76.772  10 4.4 C 227 Km al suroeste de Medellin, Colombia
 26/09/07 21:24:29 12.747 -88.445  32 2.5 C  60 Km al suroeste de Playa El Cuco, El Salvador
+26/09/07 22:03:44 12.685 -90.594  15 3.0 C 130 Km al suroeste de Acajutla, El Salvador
+26/09/07 22:24:11  8.731 -82.939  15 3.0 C  22 Km al oeste de Salitral, Panamá
