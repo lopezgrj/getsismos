@@ -10718,3 +10718,4 @@
 26/09/07 22:03:44 12.685 -90.594  15 3.0 C 130 Km al suroeste de Acajutla, El Salvador
 26/09/07 22:24:11  8.731 -82.939  15 3.0 C  22 Km al oeste de Salitral, Panamá
 26/09/08 00:35:00 12.443 -87.579  56 3.6 C  35 Km al suroeste de Jiquilillo, Nicaragua
+26/09/08 01:09:10 13.040 -90.130  11 2.8 C  69 Km al suroeste de Acajutla, El Salvador
