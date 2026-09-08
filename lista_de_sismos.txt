@@ -10717,3 +10717,4 @@
 26/09/07 21:24:29 12.747 -88.445  32 2.5 C  60 Km al suroeste de Playa El Cuco, El Salvador
 26/09/07 22:03:44 12.685 -90.594  15 3.0 C 130 Km al suroeste de Acajutla, El Salvador
 26/09/07 22:24:11  8.731 -82.939  15 3.0 C  22 Km al oeste de Salitral, Panamá
+26/09/08 00:35:00 12.443 -87.579  56 3.6 C  35 Km al suroeste de Jiquilillo, Nicaragua
