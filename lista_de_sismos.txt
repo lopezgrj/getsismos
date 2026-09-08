@@ -10735,3 +10735,4 @@
 26/09/08 15:12:18 13.871 -93.076   8 3.3 C 117 Km al suroeste de El Gancho México
 26/09/08 11:37:01  4.536 -76.951  71 3.4 C 243 Km al suroeste de Medellin, Colombia
 26/09/08 15:33:16 13.865 -89.730   8 1.6 C  14 Km al sureste de Ahuachapan, El Salvador
+26/09/08 15:40:42 13.026 -89.325  29 2.8 C  51 Km al sur de La Libertad, El Salvador
