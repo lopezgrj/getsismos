@@ -10729,3 +10729,4 @@
 26/09/07 23:51:20 12.851 -87.309 174 2.1 C  13 Km al sureste de Desembocadura del Río Estero Real, Nicaragua
 26/09/08 09:32:59  9.030 -81.973   5 3.7 C  46 Km al sureste de Bocas del Toro, Panamá
 26/09/08 09:33:00  8.814 -81.949   9 3.6 C  67 Km al sureste de Bocas del Toro, Panamá
+26/09/08 11:02:06 13.586 -90.871   8 4.4 C  42 Km al suroeste de Iztapa, Guatemala
