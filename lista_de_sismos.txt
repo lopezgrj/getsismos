@@ -10745,3 +10745,5 @@
 26/09/09 02:12:32 12.534 -88.290  22 3.0 C  74 Km al sur de Playa El Cuco, El Salvador
 26/09/09 03:45:48 14.228 -91.304  65 3.0 C  29 Km al norte de Tecojate, Guatemala
 26/09/09 05:17:28 12.701 -88.729  30 3.2 C  63 Km al sur de Delta del Rio Lempa, El Salvador
+26/09/09 05:17:28 12.703 -88.729  30 3.2 C  62 Km al sur de Delta del Rio Lempa, El Salvador
+26/09/09 06:20:10 14.271 -92.665  28 3.4 C  55 Km al suroeste de El Gancho México
