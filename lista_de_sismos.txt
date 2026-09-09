@@ -10742,3 +10742,4 @@
 26/09/08 20:34:22 13.024 -87.765 121 2.9 C  14 Km al noroeste de Punta Ñata, Chinandega, Nicaragua
 26/09/08 23:05:41 14.197 -92.553  13 3.4 C  52 Km al suroeste de El Gancho México
 26/09/09 00:01:29 13.199 -89.845  25 3.5 C  43 Km al sur de Acajutla, El Salvador
+26/09/09 02:12:32 12.534 -88.290  22 3.0 C  74 Km al sur de Playa El Cuco, El Salvador
