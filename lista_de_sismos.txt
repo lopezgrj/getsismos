@@ -10739,3 +10739,4 @@
 26/09/08 15:45:26 13.872 -89.563   1 2.0 C  14 Km al sur de Santa Ana, El Salvador
 26/09/08 15:45:26 13.870 -89.561   1 2.1 C  14 Km al sur de Santa Ana, El Salvador
 26/09/08 19:10:55 10.771 -85.653 115 2.3 C  28 Km al noroeste de Liberia, Costa Rica
+26/09/08 20:34:22 13.024 -87.765 121 2.9 C  14 Km al noroeste de Punta Ñata, Chinandega, Nicaragua
