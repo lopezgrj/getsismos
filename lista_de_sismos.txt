@@ -10741,3 +10741,4 @@
 26/09/08 19:10:55 10.771 -85.653 115 2.3 C  28 Km al noroeste de Liberia, Costa Rica
 26/09/08 20:34:22 13.024 -87.765 121 2.9 C  14 Km al noroeste de Punta Ñata, Chinandega, Nicaragua
 26/09/08 23:05:41 14.197 -92.553  13 3.4 C  52 Km al suroeste de El Gancho México
+26/09/09 00:01:29 13.199 -89.845  25 3.5 C  43 Km al sur de Acajutla, El Salvador
