@@ -10748,3 +10748,5 @@
 26/09/09 05:17:28 12.703 -88.729  30 3.2 C  62 Km al sur de Delta del Rio Lempa, El Salvador
 26/09/09 06:20:10 14.271 -92.665  28 3.4 C  55 Km al suroeste de El Gancho México
 26/09/09 10:43:20 11.949 -86.618  68 2.2 C  15 Km al sureste de El Transito, Nicaragua
+26/09/09 03:31:53 13.397 -90.294  20 2.5 C  47 Km al sur de Las Brisas, Guatemala
+26/09/09 10:43:20 11.943 -86.628  67 2.3 C  15 Km al sureste de El Transito, Nicaragua
