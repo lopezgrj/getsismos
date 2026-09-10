@@ -10787,3 +10787,4 @@
 26/09/10 15:04:49  8.879 -84.139   8 3.5 C  51 Km al suroeste de Dominical, Costa Rica
 26/09/10 15:53:27 13.538 -92.405  10 3.5 C  99 Km al suroeste de Champerico, Guatemala
 26/09/10 16:25:45 13.043 -89.341  24 3.0 C  49 Km al sur de La Libertad, El Salvador
+26/09/10 16:40:20 12.929 -88.938  36 3.8 C  38 Km al sur de Delta del Rio Lempa, El Salvador
