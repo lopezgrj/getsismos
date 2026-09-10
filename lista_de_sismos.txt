@@ -10781,3 +10781,5 @@
 26/09/10 10:07:19 12.733 -88.677  32 2.9 C  60 Km al sur de Delta del Rio Lempa, El Salvador
 26/09/10 10:24:41 11.673 -87.391  25 3.0 C  86 Km al suroeste de El Transito, Nicaragua
 26/09/10 11:35:46  8.905 -84.156   4 3.4 C  50 Km al suroeste de Dominical, Costa Rica
+26/09/10 12:03:58  8.844 -84.167  11 5.1 C  56 Km al suroeste de Dominical, Costa Rica
+26/09/10 12:07:31  8.892 -84.133   8 4.7 C  50 Km al suroeste de Dominical, Costa Rica
