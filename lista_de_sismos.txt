@@ -10785,3 +10785,4 @@
 26/09/10 12:07:31  8.892 -84.133   8 4.7 C  50 Km al suroeste de Dominical, Costa Rica
 26/09/10 14:05:36  8.851 -84.112   6 3.5 C  52 Km al suroeste de Dominical, Costa Rica
 26/09/10 15:04:49  8.879 -84.139   8 3.5 C  51 Km al suroeste de Dominical, Costa Rica
+26/09/10 15:53:27 13.538 -92.405  10 3.5 C  99 Km al suroeste de Champerico, Guatemala
