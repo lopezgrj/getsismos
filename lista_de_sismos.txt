@@ -10766,3 +10766,4 @@
 26/09/10 02:29:20  8.899 -84.079   6 4.4 C  46 Km al suroeste de Dominical, Costa Rica
 26/09/10 02:46:09  8.875 -84.110   6 3.1 C  50 Km al suroeste de Dominical, Costa Rica
 26/09/10 02:52:04  8.872 -84.163  12 3.3 C  54 Km al suroeste de Dominical, Costa Rica
+26/09/10 03:33:36  8.860 -84.128  11 3.1 C  52 Km al suroeste de Dominical, Costa Rica
