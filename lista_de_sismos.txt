@@ -10756,3 +10756,4 @@
 26/09/08 21:28:22 13.185 -89.778  16 2.4 C  45 Km al sur de Acajutla, El Salvador
 26/09/09 15:08:29 14.101 -93.102  12 4.5 C 105 Km al suroeste de El Gancho México
 26/09/09 00:03:39  4.653 -76.709  12 4.1 C 217 Km al suroeste de Medellin, Colombia
+26/09/09 00:03:39  4.653 -76.709  12 4.0 C 217 Km al suroeste de Medellin, Colombia
