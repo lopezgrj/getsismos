@@ -10802,3 +10802,4 @@
 26/09/11 06:15:06 12.931 -87.748 276 3.4 C   7 Km al oeste de Punta Cosigüina, Nicaragua
 26/09/11 06:36:04 13.781 -90.863  36 2.7 C  23 Km al suroeste de Iztapa, Guatemala
 26/09/11 06:36:04 13.865 -90.820  70 2.8 C  14 Km al suroeste de Iztapa, Guatemala
+26/09/11 08:06:08 11.297 -85.699 201 2.4 C  10 Km al sureste de La Virgen, Nicaragua
