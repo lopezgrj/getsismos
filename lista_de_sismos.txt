@@ -10795,3 +10795,5 @@
 26/09/10 23:44:37 13.736 -92.873  10 4.1 C 113 Km al suroeste de San Marcos, Guatemala
 26/09/11 01:25:49 13.021 -89.269  30 2.6 C  52 Km al sur de La Libertad, El Salvador
 26/09/11 02:05:42  8.859 -82.908  20 2.5 C  14 Km al oeste de La Tigra, Costa Rica
+26/09/11 02:05:42  8.859 -82.908  20 2.4 C  14 Km al oeste de La Tigra, Costa Rica
+26/09/11 03:13:48  8.342 -83.930  31 3.5 C  47 Km al oeste de Playa Madrigal, Costa Rica
