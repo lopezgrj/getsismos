@@ -10793,3 +10793,4 @@
 26/09/10 21:09:12 12.737 -88.119  36 2.4 C  49 Km al sur de Playa El Cuco, El Salvador
 26/09/10 22:44:10  8.809 -84.162  10 3.7 C  59 Km al suroeste de Dominical, Costa Rica
 26/09/10 23:44:37 13.736 -92.873  10 4.1 C 113 Km al suroeste de San Marcos, Guatemala
+26/09/11 01:25:49 13.021 -89.269  30 2.6 C  52 Km al sur de La Libertad, El Salvador
