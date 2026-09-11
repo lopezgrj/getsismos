@@ -10798,3 +10798,4 @@
 26/09/11 02:05:42  8.859 -82.908  20 2.4 C  14 Km al oeste de La Tigra, Costa Rica
 26/09/11 03:13:48  8.342 -83.930  31 3.5 C  47 Km al oeste de Playa Madrigal, Costa Rica
 26/09/11 03:45:39  3.041 -78.321   1 3.9 C 272 Km al noreste de Esmeraldas, Ecuador
+26/09/11 04:10:57  9.941 -85.667  12 3.0 C   7 Km al sureste de Ostional, Costa Rica
