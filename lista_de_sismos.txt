@@ -10805,3 +10805,4 @@
 26/09/11 08:06:08 11.297 -85.699 201 2.4 C  10 Km al sureste de La Virgen, Nicaragua
 26/09/11 10:42:30  4.434 -76.728   8 4.9 C 238 Km al suroeste de Medellin, Colombia
 26/09/11 13:24:51 14.461 -91.833  56 2.7 C  18 Km al suroeste de Retalhuleu, Guatemala
+26/09/11 13:24:52 14.460 -91.820  50 2.9 C  17 Km al suroeste de Retalhuleu, Guatemala
