@@ -10807,3 +10807,4 @@
 26/09/11 13:24:51 14.461 -91.833  56 2.7 C  18 Km al suroeste de Retalhuleu, Guatemala
 26/09/11 13:24:52 14.460 -91.820  50 2.9 C  17 Km al suroeste de Retalhuleu, Guatemala
 26/09/11 15:31:32 14.262 -93.253   9 4.6 C 113 Km al oeste de El Gancho México
+26/09/11 15:31:34 14.252 -93.203  10 4.7 C 108 Km al oeste de El Gancho México
