@@ -10830,3 +10830,5 @@
 26/09/12 09:10:35 13.315 -87.654  78 2.5 C   3 Km al norte de Amapala, Honduras
 26/09/12 16:43:18 13.296 -87.099   6 2.6 C  10 Km al norte de Choluteca, Honduras
 26/09/12 17:34:05  9.672 -82.687   4 4.1 C  17 Km al noroeste de Las Delicias, Panamá
+26/09/12 17:34:05  9.673 -82.694   3 4.0 C  18 Km al noroeste de Las Delicias, Panamá
+26/09/12 17:38:14  8.688 -82.854  18 4.1 C  11 Km al oeste de Salitral, Panamá
