@@ -10808,3 +10808,5 @@
 26/09/11 13:24:52 14.460 -91.820  50 2.9 C  17 Km al suroeste de Retalhuleu, Guatemala
 26/09/11 15:31:32 14.262 -93.253   9 4.6 C 113 Km al oeste de El Gancho México
 26/09/11 15:31:34 14.252 -93.203  10 4.7 C 108 Km al oeste de El Gancho México
+26/09/11 19:56:42  8.732 -83.320  24 3.1 C  38 Km al noreste de Playa Madrigal, Costa Rica
+26/09/11 19:59:51  8.273 -82.755   5 5.6 C   5 Km al sureste de Manglares de Majagual, Panamá
