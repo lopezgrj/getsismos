@@ -10826,3 +10826,5 @@
 26/09/12 03:59:09  8.917 -84.085   9 4.0 C  45 Km al suroeste de Dominical, Costa Rica
 26/09/12 04:15:44  8.298 -82.732  18 2.9 C   3 Km al sur de Manglares Río Chiriqui Viejo, Panamá
 26/09/11 19:59:51  8.294 -82.783   8 5.4 C   2 Km al sur de Manglares de Majagual, Panamá
+26/09/12 09:05:42  4.398 -76.769  50 4.2 C 244 Km al suroeste de Medellin, Colombia
+26/09/12 09:10:35 13.315 -87.654  78 2.5 C   3 Km al norte de Amapala, Honduras
