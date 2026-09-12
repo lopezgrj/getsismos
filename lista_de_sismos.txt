@@ -10823,3 +10823,5 @@
 26/09/12 04:15:45  8.265 -82.723  25 3.0 A   7 Km al sur de Manglares Río Chiriqui Viejo, Panamá
 26/09/12 05:15:57 14.026 -92.852   5 3.6 A  88 Km al suroeste de El Gancho México
 26/09/12 05:16:02 14.072 -92.673  19 3.5 C  71 Km al suroeste de El Gancho México
+26/09/12 03:59:09  8.917 -84.085   9 4.0 C  45 Km al suroeste de Dominical, Costa Rica
+26/09/12 04:15:44  8.298 -82.732  18 2.9 C   3 Km al sur de Manglares Río Chiriqui Viejo, Panamá
