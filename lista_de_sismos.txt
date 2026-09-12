@@ -10818,3 +10818,4 @@
 26/09/12 02:09:44  8.436 -82.165   5 2.9 C  29 Km al norte de Chiriqui, Panamá
 26/09/12 02:17:31 14.066 -92.654  32 4.5 C  70 Km al suroeste de San Marcos, Guatemala
 26/09/12 02:19:57  8.292 -82.726  16 3.4 C   4 Km al sur de Manglares Río Chiriqui Viejo, Panamá
+26/09/12 03:14:55 11.808 -86.815  72 4.2 C  30 Km al suroeste de El Transito, Nicaragua
