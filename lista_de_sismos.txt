@@ -10815,3 +10815,6 @@
 26/09/11 20:20:00  8.899 -83.991   1 4.5 C  42 Km al sur de Dominical, Costa Rica
 26/09/11 22:22:54 13.776 -90.400  15 2.5 C  15 Km al oeste de Las Brisas, Guatemala
 26/09/12 00:41:18  8.873 -84.066   6 3.0 C  48 Km al suroeste de Dominical, Costa Rica
+26/09/12 02:09:44  8.436 -82.165   5 2.9 C  29 Km al norte de Chiriqui, Panamá
+26/09/12 02:17:31 14.066 -92.654  32 4.5 C  70 Km al suroeste de San Marcos, Guatemala
+26/09/12 02:19:57  8.292 -82.726  16 3.4 C   4 Km al sur de Manglares Río Chiriqui Viejo, Panamá
