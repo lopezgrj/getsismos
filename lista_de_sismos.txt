@@ -10836,3 +10836,6 @@
 26/09/12 18:21:38 12.739 -81.240   2 4.3 C  56 Km al noreste de Isla de San Andrés, Colombia
 26/09/12 20:00:57 12.539 -88.330  28 2.7 C  74 Km al sur de Playa El Cuco, El Salvador
 26/09/12 20:10:11  9.764 -82.117  12 3.4 C  50 Km al norte de Bocas del Toro, Panamá
+26/09/12 20:31:53 14.866 -88.648   4 3.2 C  18 Km al noreste de Santa Rosa de Copan, Honduras
+26/09/12 20:33:07 11.070 -86.785  23 3.9 C  79 Km al suroeste de Huehuete, Nicaragua
+26/09/12 20:34:17 13.428 -88.001  18 2.6 A  20 Km al norte de San Miguel, El Salvador
