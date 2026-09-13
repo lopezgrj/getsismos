@@ -10841,3 +10841,5 @@
 26/09/12 20:34:17 13.428 -88.001  18 2.6 A  20 Km al norte de San Miguel, El Salvador
 26/09/12 09:10:36 12.935 -88.960  32 2.8 C  38 Km al sur de Delta del Rio Lempa, El Salvador
 26/09/12 21:59:20 12.142 -87.914  30 2.6 C  83 Km al suroeste de Jiquilillo, Nicaragua
+26/09/13 01:07:46 13.124 -90.104  10 2.6 C  60 Km al suroeste de Acajutla, El Salvador
+26/09/13 01:10:27  4.570 -76.914  79 4.2 C 238 Km al suroeste de Medellin, Colombia
