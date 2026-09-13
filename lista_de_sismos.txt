@@ -10839,3 +10839,4 @@
 26/09/12 20:31:53 14.866 -88.648   4 3.2 C  18 Km al noreste de Santa Rosa de Copan, Honduras
 26/09/12 20:33:07 11.070 -86.785  23 3.9 C  79 Km al suroeste de Huehuete, Nicaragua
 26/09/12 20:34:17 13.428 -88.001  18 2.6 A  20 Km al norte de San Miguel, El Salvador
+26/09/12 09:10:36 12.935 -88.960  32 2.8 C  38 Km al sur de Delta del Rio Lempa, El Salvador
