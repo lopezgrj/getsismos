@@ -10849,3 +10849,4 @@
 26/09/13 06:59:07  4.493 -76.700  21 3.5 C 231 Km al suroeste de Medellin, Colombia
 26/09/13 08:01:28 14.767 -88.555   2 2.9 C  21 Km al norte de Gracias, Lempira, Honduras
 26/09/13 13:17:38  4.891 -76.384 105 3.9 C 175 Km al suroeste de Medellin, Colombia
+26/09/13 13:49:45 13.104 -87.641 170 3.5 A  17 Km al noroeste de Volcán Cosiguina, Nicaragua
