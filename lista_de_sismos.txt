@@ -10851,3 +10851,4 @@
 26/09/13 13:17:38  4.891 -76.384 105 3.9 C 175 Km al suroeste de Medellin, Colombia
 26/09/13 13:49:45 13.104 -87.641 170 3.5 A  17 Km al noroeste de Volcán Cosiguina, Nicaragua
 26/09/13 13:49:44 13.067 -87.680 166 3.5 C  15 Km al norte de Punta Ñata, Chinandega, Nicaragua
+26/09/13 13:49:44 13.067 -87.664 168 3.5 C  14 Km al noroeste de Volcán Cosiguina, Nicaragua
