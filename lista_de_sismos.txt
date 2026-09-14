@@ -10853,3 +10853,4 @@
 26/09/13 13:49:44 13.067 -87.680 166 3.5 C  15 Km al norte de Punta Ñata, Chinandega, Nicaragua
 26/09/13 13:49:44 13.067 -87.664 168 3.5 C  14 Km al noroeste de Volcán Cosiguina, Nicaragua
 26/09/13 20:27:05 12.595 -88.007  28 2.4 C  49 Km al suroeste de Punta Cosigüina, Nicaragua
+26/09/13 22:56:50 14.296 -92.851  36 3.2 C  71 Km al suroeste de El Gancho México
