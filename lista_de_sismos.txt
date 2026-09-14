@@ -10878,3 +10878,4 @@
 26/09/14 16:07:00 12.252 -87.442  38 3.6 C  39 Km al suroeste de Corinto, Nicaragua
 26/09/14 16:42:56 14.208 -93.306  10 4.7 C 120 Km al oeste de El Gancho México
 26/09/14 16:42:56 14.224 -93.284  10 4.7 C 117 Km al oeste de El Gancho México
+26/09/14 17:40:47 12.562 -87.714  48 2.6 C  33 Km al suroeste de Mechapa, Chinandega, Nicaragua
