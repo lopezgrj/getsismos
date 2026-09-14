@@ -10862,3 +10862,5 @@
 26/09/14 05:11:16  8.333 -82.776  15 2.6 C   1 Km al norte de Olivo Civil, Panamá
 26/09/14 08:57:10  4.557 -76.861  78 4.5 C 235 Km al suroeste de Medellin, Colombia
 26/09/14 13:20:09 13.914 -90.578   5 2.7 A  15 Km al norte de Iztapa, Guatemala
+26/09/14 13:20:05 13.708 -90.274  22 2.6 C  13 Km al sur de Las Brisas, Guatemala
+26/09/14 13:26:58 12.405 -87.765  32 2.6 C  50 Km al suroeste de Boca del Padre Ramos, Nicaragua
