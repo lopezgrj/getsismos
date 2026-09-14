@@ -10860,3 +10860,4 @@
 26/09/14 03:18:18 13.616 -90.812  36 3.3 C  37 Km al sur de Iztapa, Guatemala
 26/09/14 05:11:14  8.277 -82.778  15 2.6 C   4 Km al sur de Manglares de Majagual, Panamá
 26/09/14 05:11:16  8.333 -82.776  15 2.6 C   1 Km al norte de Olivo Civil, Panamá
+26/09/14 08:57:10  4.557 -76.861  78 4.5 C 235 Km al suroeste de Medellin, Colombia
