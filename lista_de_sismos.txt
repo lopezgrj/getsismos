@@ -10894,3 +10894,4 @@
 26/09/15 02:51:24 12.936 -88.876  33 3.2 C  36 Km al sur de Delta del Rio Lempa, El Salvador
 26/09/15 02:51:24 12.920 -88.878  33 3.2 C  38 Km al sur de Delta del Rio Lempa, El Salvador
 26/09/15 03:02:57  4.131 -78.629   1 4.0 C 331 Km al norte de Isla de Malpelo, Colombia
+26/09/15 07:21:32 12.870 -89.227  15 2.6 C  61 Km al suroeste de Delta del Rio Lempa, El Salvador
