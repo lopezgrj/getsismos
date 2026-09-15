@@ -10882,3 +10882,5 @@
 26/09/14 21:42:57 12.972 -89.013  27 3.1 C  37 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/09/14 21:42:57 12.966 -89.011  32 3.0 C  38 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/09/14 21:53:57 13.868 -93.092  19 3.3 C 119 Km al suroeste de El Gancho México
+26/09/14 21:53:56 13.890 -93.082  13 3.3 C 116 Km al suroeste de El Gancho México
+26/09/14 22:14:00 12.649 -88.295  27 2.6 C  62 Km al sur de Playa El Cuco, El Salvador
