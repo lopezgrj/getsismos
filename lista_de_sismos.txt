@@ -10880,3 +10880,4 @@
 26/09/14 16:42:56 14.224 -93.284  10 4.7 C 117 Km al oeste de El Gancho México
 26/09/14 17:40:47 12.562 -87.714  48 2.6 C  33 Km al suroeste de Mechapa, Chinandega, Nicaragua
 26/09/14 21:42:57 12.972 -89.013  27 3.1 C  37 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/09/14 21:42:57 12.966 -89.011  32 3.0 C  38 Km al suroeste de Delta del Rio Lempa, El Salvador
