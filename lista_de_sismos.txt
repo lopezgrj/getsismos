@@ -10891,3 +10891,4 @@
 26/09/15 01:07:48 14.567 -92.440  49 3.8 C  20 Km al oeste de El Gancho México
 26/09/15 01:22:28  8.376 -83.954  17 3.5 C  49 Km al oeste de Playa Madrigal, Costa Rica
 26/09/14 23:02:21  4.458 -76.757  10 3.8 C 238 Km al suroeste de Medellin, Colombia
+26/09/15 02:51:24 12.936 -88.876  33 3.2 C  36 Km al sur de Delta del Rio Lempa, El Salvador
