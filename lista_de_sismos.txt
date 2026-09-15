@@ -10884,3 +10884,4 @@
 26/09/14 21:53:57 13.868 -93.092  19 3.3 C 119 Km al suroeste de El Gancho México
 26/09/14 21:53:56 13.890 -93.082  13 3.3 C 116 Km al suroeste de El Gancho México
 26/09/14 22:14:00 12.649 -88.295  27 2.6 C  62 Km al sur de Playa El Cuco, El Salvador
+26/09/15 00:22:35 13.834 -92.071  39 3.7 C  53 Km al suroeste de Tulate, Guatemala
