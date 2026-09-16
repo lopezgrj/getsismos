@@ -10924,3 +10924,4 @@
 26/09/16 01:02:10  6.071 -77.782   1 5.0 C 215 Km al suroeste de Chigorodo, Colombia
 26/09/16 02:45:38  4.400 -76.803  47 3.9 C 246 Km al suroeste de Medellin, Colombia
 26/09/16 13:07:16 12.594 -87.976  26 2.5 C  47 Km al suroeste de Punta Cosigüina, Nicaragua
+26/09/16 14:12:51  4.579 -76.742  14 5.0 C 225 Km al suroeste de Medellin, Colombia
