@@ -10914,3 +10914,4 @@
 26/09/16 00:43:37 13.831 -92.518  29 3.3 C  83 Km al suroeste de Champerico, Guatemala
 26/09/16 01:02:10  6.070 -77.792   1 5.0 C 216 Km al suroeste de Chigorodo, Colombia
 26/09/16 01:30:32 12.748 -90.154   2 3.4 C 100 Km al sur de Acajutla, El Salvador
+26/09/16 01:46:06 13.263 -91.099   3 3.3 C  74 Km al sur de Sipacate, Guatemala
