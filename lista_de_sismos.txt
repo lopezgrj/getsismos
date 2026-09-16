@@ -10906,3 +10906,4 @@
 26/09/15 01:04:21 12.056 -86.230   6 2.1 C   5 Km al noroeste de Ticuantepe, Nicaragua
 26/09/15 19:55:14 13.465 -90.978   8 3.0 C  55 Km al sur de Sipacate, Guatemala
 26/09/15 20:55:15 12.375 -87.696  36 2.4 C  48 Km al suroeste de Jiquilillo, Nicaragua
+26/09/15 21:45:06 13.895 -92.503  44 5.2 C  76 Km al suroeste de San Marcos, Guatemala
