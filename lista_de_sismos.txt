@@ -10922,3 +10922,4 @@
 26/09/16 04:50:22 11.340 -85.747 159 2.4 C   4 Km al sur de La Virgen, Nicaragua
 26/09/16 04:59:20 13.994 -93.119  14 3.5 C 113 Km al suroeste de El Gancho México
 26/09/16 01:02:10  6.071 -77.782   1 5.0 C 215 Km al suroeste de Chigorodo, Colombia
+26/09/16 02:45:38  4.400 -76.803  47 3.9 C 246 Km al suroeste de Medellin, Colombia
