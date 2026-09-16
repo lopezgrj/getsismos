@@ -10919,3 +10919,4 @@
 26/09/16 03:58:13 11.787 -86.249  55 2.5 A   8 Km al sur de Diriamba, Nicaragua
 26/09/16 03:58:08 11.761 -86.570  79 2.7 C   7 Km al oeste de Masachapa, Nicaragua
 26/09/16 04:13:38 12.627 -88.639  34 3.1 C  73 Km al sur de Delta del Rio Lempa, El Salvador
+26/09/16 04:50:22 11.340 -85.747 159 2.4 C   4 Km al sur de La Virgen, Nicaragua
