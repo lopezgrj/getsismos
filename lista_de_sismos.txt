@@ -10903,3 +10903,5 @@
 26/09/15 02:18:38  4.507 -76.830  27 4.1 C 238 Km al suroeste de Medellin, Colombia
 26/09/15 09:50:09  4.473 -76.753  10 4.1 C 236 Km al suroeste de Medellin, Colombia
 26/09/15 18:20:11  4.437 -76.821  32 4.1 C 243 Km al suroeste de Medellin, Colombia
+26/09/15 01:04:21 12.056 -86.230   6 2.1 C   5 Km al noroeste de Ticuantepe, Nicaragua
+26/09/15 19:55:14 13.465 -90.978   8 3.0 C  55 Km al sur de Sipacate, Guatemala
