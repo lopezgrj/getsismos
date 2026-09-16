@@ -10926,3 +10926,5 @@
 26/09/16 13:07:16 12.594 -87.976  26 2.5 C  47 Km al suroeste de Punta Cosigüina, Nicaragua
 26/09/16 14:12:51  4.579 -76.742  14 5.0 C 225 Km al suroeste de Medellin, Colombia
 26/09/16 14:55:01  4.503 -76.738  15 4.8 C 232 Km al suroeste de Medellin, Colombia
+26/09/16 14:55:01  4.480 -76.769  22 4.7 C 236 Km al suroeste de Medellin, Colombia
+26/09/16 15:05:42  4.510 -76.784  20 3.8 C 234 Km al suroeste de Medellin, Colombia
