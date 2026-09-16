@@ -10920,3 +10920,4 @@
 26/09/16 03:58:08 11.761 -86.570  79 2.7 C   7 Km al oeste de Masachapa, Nicaragua
 26/09/16 04:13:38 12.627 -88.639  34 3.1 C  73 Km al sur de Delta del Rio Lempa, El Salvador
 26/09/16 04:50:22 11.340 -85.747 159 2.4 C   4 Km al sur de La Virgen, Nicaragua
+26/09/16 04:59:20 13.994 -93.119  14 3.5 C 113 Km al suroeste de El Gancho México
