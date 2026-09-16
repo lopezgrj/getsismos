@@ -10899,3 +10899,7 @@
 26/09/15 11:44:09 14.209 -93.239   9 4.4 C 113 Km al oeste de El Gancho México
 26/09/15 11:44:09 14.209 -93.239   9 4.3 C 113 Km al oeste de El Gancho México
 26/09/15 13:07:28 14.075 -93.148  12 4.3 C 110 Km al suroeste de El Gancho México
+26/09/14 21:45:37  4.477 -76.612   1 3.8 C 227 Km al suroeste de Medellin, Colombia
+26/09/15 02:18:38  4.507 -76.830  27 4.1 C 238 Km al suroeste de Medellin, Colombia
+26/09/15 09:50:09  4.473 -76.753  10 4.1 C 236 Km al suroeste de Medellin, Colombia
+26/09/15 18:20:11  4.437 -76.821  32 4.1 C 243 Km al suroeste de Medellin, Colombia
