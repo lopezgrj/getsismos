@@ -10950,3 +10950,4 @@
 26/09/17 10:50:19 13.377 -88.368 166 2.5 C   8 Km al noreste de Usulután, El Salvador
 26/09/17 11:17:50 12.687 -86.950   6 2.1 C   6 Km al norte de Volcán San Cristóbal, Nicaragua
 26/09/17 11:44:42 12.757 -88.592   5 3.3 A  61 Km al sureste de Delta del Rio Lempa, El Salvador
+26/09/17 11:44:39 12.986 -89.075  26 3.1 C  40 Km al suroeste de Delta del Rio Lempa, El Salvador
