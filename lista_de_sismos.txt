@@ -10957,3 +10957,4 @@
 26/09/17 15:10:24  4.519 -76.854  33 5.0 C 238 Km al suroeste de Medellin, Colombia
 26/09/17 15:20:53  4.530 -76.714   5 3.6 C 228 Km al suroeste de Medellin, Colombia
 26/09/17 16:56:16 12.689 -86.952   8 2.0 C   6 Km al norte de Volcán San Cristóbal, Nicaragua
+26/09/17 16:56:16 12.679 -86.954   7 1.7 C   6 Km al sureste de Volcán San Cristóbal, Nicaragua
