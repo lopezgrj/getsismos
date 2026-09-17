@@ -10944,3 +10944,4 @@
 26/09/17 03:08:46 11.255 -86.267  39 4.4 C  29 Km al sur de El Astillero, Nicaragua
 26/09/17 03:19:03  4.975 -77.103 133 3.7 C 220 Km al suroeste de Medellin, Colombia
 26/09/17 06:22:26  9.180 -84.145  16 3.9 C  28 Km al sur de Puerto Quepos, Costa Rica
+26/09/17 06:53:24  9.193 -84.155  16 3.7 C  26 Km al sur de Puerto Quepos, Costa Rica
