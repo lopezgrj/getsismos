@@ -10948,3 +10948,4 @@
 26/09/17 09:44:11 12.695 -86.956   7 3.4 C   5 Km al norte de Volcán San Cristóbal, Nicaragua
 26/09/17 10:50:14 13.043 -88.330 211 2.9 A  28 Km al suroeste de Playa El Cuco, El Salvador
 26/09/17 10:50:19 13.377 -88.368 166 2.5 C   8 Km al noreste de Usulután, El Salvador
+26/09/17 11:17:50 12.687 -86.950   6 2.1 C   6 Km al norte de Volcán San Cristóbal, Nicaragua
