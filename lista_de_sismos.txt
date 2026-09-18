@@ -10988,3 +10988,4 @@
 26/09/18 04:58:36 13.863 -92.726   5 3.7 A  92 Km al suroeste de San Marcos, Guatemala
 26/09/18 04:58:37 13.876 -92.674  12 3.7 C  87 Km al suroeste de San Marcos, Guatemala
 26/09/18 06:26:40 12.388 -87.596  39 2.6 C  42 Km al suroeste de Jiquilillo, Nicaragua
+26/09/18 06:32:32 12.428 -88.498  25 3.2 C  93 Km al suroeste de Playa El Cuco, El Salvador
