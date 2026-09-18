@@ -10965,3 +10965,6 @@
 26/09/17 22:20:36 12.177 -87.472  32 2.8 C  48 Km al suroeste de Corinto, Nicaragua
 26/09/17 23:24:29 12.701 -86.946   5 4.4 C   6 Km al norte de Volcán San Cristóbal, Nicaragua
 26/09/17 23:29:44  9.734 -84.870  15 3.1 A  24 Km al oeste de Herradura, Costa Rica
+26/09/17 23:24:29 12.701 -86.947   5 4.3 C   6 Km al norte de Volcán San Cristóbal, Nicaragua
+26/09/17 23:29:43  9.662 -84.869   7 3.2 C  23 Km al oeste de Herradura, Costa Rica
+26/09/17 23:46:28  3.744 -77.046  23 3.8 C 322 Km al suroeste de Medellin, Colombia
