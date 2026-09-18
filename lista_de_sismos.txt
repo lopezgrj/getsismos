@@ -10983,3 +10983,4 @@
 26/09/18 01:51:07 13.695 -90.752  11 3.5 C  27 Km al sur de Iztapa, Guatemala
 26/09/18 02:27:43 13.525 -91.401  11 3.4 C  50 Km al sur de Tecojate, Guatemala
 26/09/18 02:23:36 12.660 -86.955   8 1.1 C   7 Km al sureste de Volcán San Cristóbal, Nicaragua
+26/09/18 02:45:25  7.136 -77.674  28 4.4 C 125 Km al suroeste de Chigorodo, Colombia
