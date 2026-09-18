@@ -11000,3 +11000,4 @@
 26/09/18 13:07:59 12.109 -89.583   8 3.3 C 152 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/09/18 13:17:03  4.394 -76.852  59 3.1 C 249 Km al suroeste de Medellin, Colombia
 26/09/18 13:19:16  4.495 -76.864  30 4.2 C 241 Km al suroeste de Medellin, Colombia
+26/09/18 13:47:14 11.666 -87.781  27 3.1 C 113 Km al suroeste de Poneloya, Nicaragua
