@@ -10992,3 +10992,5 @@
 26/09/17 23:24:29 12.701 -86.945   5 4.3 C   6 Km al norte de Volcán San Cristóbal, Nicaragua
 26/09/18 07:12:48 14.287 -93.615   5 4.7 C 148 Km al suroeste de Mapastepec, México
 26/09/18 07:15:39  8.667 -83.029  45 3.0 C  25 Km al noroeste de Paso Canoas, Costa Rica
+26/09/18 08:08:28  4.700 -77.313  99 3.9 C 258 Km al suroeste de Medellin, Colombia
+26/09/18 08:10:28  8.772 -84.570   1 3.8 C  86 Km al suroeste de Puerto Quepos, Costa Rica
