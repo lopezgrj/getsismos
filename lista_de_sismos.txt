@@ -10960,3 +10960,4 @@
 26/09/17 16:56:16 12.679 -86.954   7 1.7 C   6 Km al sureste de Volcán San Cristóbal, Nicaragua
 26/09/17 18:42:26  9.115 -84.015  15 4.1 C  23 Km al suroeste de Dominical, Costa Rica
 26/09/17 19:03:13 12.284 -85.903  10 2.0 C  19 Km al suroeste de Teustepe, Nicaragua
+26/09/17 20:44:37  4.477 -76.814  27 4.0 C 239 Km al suroeste de Medellin, Colombia
