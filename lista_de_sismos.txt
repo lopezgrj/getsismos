@@ -10969,3 +10969,7 @@
 26/09/17 23:29:43  9.662 -84.869   7 3.2 C  23 Km al oeste de Herradura, Costa Rica
 26/09/17 23:46:28  3.744 -77.046  23 3.8 C 322 Km al suroeste de Medellin, Colombia
 26/09/17 23:29:47 12.680 -86.951   9 1.8 C   6 Km al sureste de Volcán San Cristóbal, Nicaragua
+26/09/17 23:28:56 12.636 -86.986   6 1.4 C   8 Km al sur de Volcán San Cristóbal, Nicaragua
+26/09/17 23:33:46 12.671 -86.975   4 1.1 C   5 Km al sureste de Volcán San Cristóbal, Nicaragua
+26/09/17 23:38:24 12.662 -86.951   5 1.7 C   7 Km al sureste de Volcán San Cristóbal, Nicaragua
+26/09/17 23:49:35 12.673 -86.953   8 1.3 C   6 Km al sureste de Volcán San Cristóbal, Nicaragua
