@@ -10987,3 +10987,4 @@
 26/09/18 02:45:25  7.136 -77.674  28 4.6 C 125 Km al suroeste de Chigorodo, Colombia
 26/09/18 04:58:36 13.863 -92.726   5 3.7 A  92 Km al suroeste de San Marcos, Guatemala
 26/09/18 04:58:37 13.876 -92.674  12 3.7 C  87 Km al suroeste de San Marcos, Guatemala
+26/09/18 06:26:40 12.388 -87.596  39 2.6 C  42 Km al suroeste de Jiquilillo, Nicaragua
