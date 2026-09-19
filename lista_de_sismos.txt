@@ -11015,3 +11015,6 @@
 26/09/18 23:42:43  8.028 -82.821   8 4.4 C  10 Km al sureste de Limones, Distrito Barú, Panamá
 26/09/19 00:19:03 13.281 -88.224  12 1.3 C  17 Km al noroeste de Playa El Cuco, El Salvador
 26/09/19 04:06:34  7.962 -83.183  14 3.1 C  38 Km al suroeste de Limones, Distrito Barú, Panamá
+26/09/18 23:01:47  4.370 -76.638   8 4.5 C 239 Km al suroeste de Medellin, Colombia
+26/09/19 03:28:56  4.526 -76.775  53 2.5 C 232 Km al suroeste de Medellin, Colombia
+26/09/19 05:30:02  4.412 -76.720   8 3.3 C 240 Km al suroeste de Medellin, Colombia
