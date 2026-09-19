@@ -11021,3 +11021,4 @@
 26/09/19 06:35:10 12.176 -87.014  61 2.6 C  20 Km al sur de Las Penitas, Nicaragua
 26/09/19 06:35:10 12.181 -87.030  59 2.6 C  20 Km al sur de Las Penitas, Nicaragua
 26/09/19 07:44:34  4.621 -76.771   5 5.2 C 224 Km al suroeste de Medellin, Colombia
+26/09/19 07:44:35  4.594 -76.776  12 5.2 C 226 Km al suroeste de Medellin, Colombia
