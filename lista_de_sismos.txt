@@ -11018,3 +11018,4 @@
 26/09/18 23:01:47  4.370 -76.638   8 4.5 C 239 Km al suroeste de Medellin, Colombia
 26/09/19 03:28:56  4.526 -76.775  53 2.5 C 232 Km al suroeste de Medellin, Colombia
 26/09/19 05:30:02  4.412 -76.720   8 3.3 C 240 Km al suroeste de Medellin, Colombia
+26/09/19 06:35:10 12.176 -87.014  61 2.6 C  20 Km al sur de Las Penitas, Nicaragua
