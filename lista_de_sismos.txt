@@ -11024,3 +11024,4 @@
 26/09/19 07:44:35  4.594 -76.776  12 5.2 C 226 Km al suroeste de Medellin, Colombia
 26/09/19 08:10:18  4.387 -76.869  66 3.6 C 251 Km al suroeste de Medellin, Colombia
 26/09/19 08:15:40 14.372 -90.104   4 3.3 C  24 Km al noreste de Cuilapa, Guatemala
+26/09/19 12:41:28 12.295 -87.715  33 2.8 C  57 Km al suroeste de Jiquilillo, Nicaragua
