@@ -11007,3 +11007,4 @@
 26/09/18 18:05:40  8.765 -84.637   5 3.6 C  91 Km al suroeste de Puerto Quepos, Costa Rica
 26/09/18 19:06:00  8.708 -84.631  10 3.2 C  96 Km al suroeste de Puerto Quepos, Costa Rica
 26/09/18 19:08:13  8.745 -84.600   6 3.6 C  90 Km al suroeste de Puerto Quepos, Costa Rica
+26/09/18 19:10:30  8.842 -84.593   9 3.1 C  81 Km al suroeste de Puerto Quepos, Costa Rica
