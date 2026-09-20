@@ -11034,3 +11034,4 @@
 26/09/19 17:20:11  4.418 -76.692   5 4.8 C 237 Km al suroeste de Medellin, Colombia
 26/09/19 18:22:28 13.004 -89.157  30 4.0 C  45 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/09/19 18:45:17 10.263 -83.892  83 3.0 C  31 Km al norte de Vara Blanca, Costa Rica
+26/09/19 19:37:03 14.371 -90.103   4 2.0 C  24 Km al noreste de Cuilapa, Guatemala
