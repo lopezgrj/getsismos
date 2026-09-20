@@ -11044,3 +11044,4 @@
 26/09/20 03:40:14 13.385 -90.394  22 3.0 C  50 Km al sur de Las Brisas, Guatemala
 26/09/20 12:00:35 14.361 -91.067 144 3.1 C  31 Km al oeste de Escuintla, Guatemala
 26/09/20 12:38:00 14.134 -90.259   7 2.3 C  17 Km al sur de Cuilapa, Guatemala
+26/09/20 13:03:28 13.524 -90.598  21 2.8 C  47 Km al sur de Iztapa, Guatemala
