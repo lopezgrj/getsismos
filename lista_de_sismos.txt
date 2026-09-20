@@ -11037,3 +11037,4 @@
 26/09/19 19:37:03 14.371 -90.103   4 2.0 C  24 Km al noreste de Cuilapa, Guatemala
 26/09/19 21:02:49 14.309 -91.845  52 3.5 C   8 Km al norte de Champerico, Guatemala
 26/09/19 21:07:37 11.494 -86.858  20 2.9 C  49 Km al suroeste de Pochomil, Nicaragua
+26/09/20 00:38:57 13.452 -90.485  20 4.0 C  47 Km al suroeste de Las Brisas, Guatemala
