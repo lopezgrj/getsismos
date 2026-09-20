@@ -11045,3 +11045,6 @@
 26/09/20 12:00:35 14.361 -91.067 144 3.1 C  31 Km al oeste de Escuintla, Guatemala
 26/09/20 12:38:00 14.134 -90.259   7 2.3 C  17 Km al sur de Cuilapa, Guatemala
 26/09/20 13:03:28 13.524 -90.598  21 2.8 C  47 Km al sur de Iztapa, Guatemala
+26/09/20 16:44:31 11.897 -88.240  30 3.5 C 126 Km al suroeste de Mechapa, Chinandega, Nicaragua
+26/09/20 16:45:19 11.967 -88.818  17 3.7 C 143 Km al sur de Delta del Rio Lempa, El Salvador
+26/09/20 16:58:19  9.984 -83.866   1 2.7 C  15 Km al noreste de Cartago, Costa Rica
