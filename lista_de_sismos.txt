@@ -11061,3 +11061,5 @@
 26/09/21 03:46:54 12.918 -89.245  28 3.0 C  59 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/09/21 04:59:47 13.410 -90.046  30 2.2 C  31 Km al suroeste de Acajutla, El Salvador
 26/09/21 05:02:39 15.905 -92.994 129 4.2 C  34 Km al noreste de Pijijiapan, México
+26/09/21 05:02:39 15.905 -92.994 129 4.4 C  34 Km al noreste de Pijijiapan, México
+26/09/21 06:41:12 13.521 -90.827  10 3.5 C  47 Km al sur de Iztapa, Guatemala
