@@ -11069,3 +11069,4 @@
 26/09/21 10:42:19 13.702 -91.954  44 3.6 C  57 Km al suroeste de Tulate, Guatemala
 26/09/21 10:42:19 13.702 -91.954  44 3.7 C  57 Km al suroeste de Tulate, Guatemala
 26/09/21 12:56:04 12.424 -87.749  38 2.3 C  48 Km al suroeste de Boca del Padre Ramos, Nicaragua
+26/09/21 16:01:58 13.903 -92.674   1 4.3 C  85 Km al suroeste de San Marcos, Guatemala
