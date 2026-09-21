@@ -11055,3 +11055,5 @@
 26/09/21 00:20:20  4.436 -76.765  32 3.8 C 240 Km al suroeste de Medellin, Colombia
 26/09/21 00:35:28  4.510 -76.733   6 3.4 C 231 Km al suroeste de Medellin, Colombia
 26/09/21 00:35:28  4.510 -76.733   6 3.5 C 231 Km al suroeste de Medellin, Colombia
+26/09/21 01:10:18 12.249 -87.166 101 2.1 C  20 Km al suroeste de Poneloya, Nicaragua
+26/09/21 01:33:42 13.542 -91.397  11 2.9 C  48 Km al sur de Tecojate, Guatemala
