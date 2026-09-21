@@ -11063,3 +11063,5 @@
 26/09/21 05:02:39 15.905 -92.994 129 4.2 C  34 Km al noreste de Pijijiapan, México
 26/09/21 05:02:39 15.905 -92.994 129 4.4 C  34 Km al noreste de Pijijiapan, México
 26/09/21 06:41:12 13.521 -90.827  10 3.5 C  47 Km al sur de Iztapa, Guatemala
+26/09/21 06:41:11 13.523 -90.816  10 3.6 C  47 Km al sur de Iztapa, Guatemala
+26/09/21 08:24:53 14.206 -92.311  38 3.7 C  36 Km al sur de San Marcos, Guatemala
