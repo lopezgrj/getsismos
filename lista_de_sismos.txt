@@ -11067,3 +11067,5 @@
 26/09/21 08:24:53 14.206 -92.311  38 3.7 C  36 Km al sur de San Marcos, Guatemala
 26/09/21 09:33:52 12.671 -88.788  32 3.7 C  65 Km al sur de Delta del Rio Lempa, El Salvador
 26/09/21 10:42:19 13.702 -91.954  44 3.6 C  57 Km al suroeste de Tulate, Guatemala
+26/09/21 10:42:19 13.702 -91.954  44 3.7 C  57 Km al suroeste de Tulate, Guatemala
+26/09/21 12:56:04 12.424 -87.749  38 2.3 C  48 Km al suroeste de Boca del Padre Ramos, Nicaragua
