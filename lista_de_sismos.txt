@@ -11086,3 +11086,5 @@
 26/09/22 09:24:31 13.887 -91.353  38 2.9 C  10 Km al sur de Tecojate, Guatemala
 26/09/22 09:29:59 13.592 -87.287   6 2.6 C  23 Km al norte de Nacaome, Honduras
 26/09/22 09:52:07 13.856 -92.969   9 4.0 C 110 Km al suroeste de El Gancho México
+26/09/21 21:38:39 12.147 -86.901 110 2.3 C  16 Km al oeste de Puerto Sandino, Nicaragua
+26/09/22 09:30:03 12.652 -88.170  29 2.7 C  58 Km al sur de Playa El Cuco, El Salvador
