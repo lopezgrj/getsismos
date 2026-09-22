@@ -11081,3 +11081,4 @@
 26/09/22 05:25:12 13.183 -89.561  30 3.1 C  42 Km al suroeste de La Libertad, El Salvador
 26/09/22 05:43:43 13.950 -91.321  41 5.1 C   5 Km al sureste de Tecojate, Guatemala
 26/09/22 05:53:21 13.807 -92.909  63 3.6 C 110 Km al suroeste de El Gancho México
+26/09/22 05:53:20 13.845 -92.992  59 3.7 C 113 Km al suroeste de El Gancho México
