@@ -11094,3 +11094,4 @@
 26/09/22 03:25:42 12.159 -87.807  26 2.6 C  75 Km al suroeste de Jiquilillo, Nicaragua
 26/09/21 12:56:03 12.364 -87.775  29 2.5 C  55 Km al suroeste de Jiquilillo, Nicaragua
 26/09/22 13:40:47 12.246 -87.445  36 2.8 C  40 Km al suroeste de Corinto, Nicaragua
+26/09/22 14:00:30 12.494 -87.826  31 2.3 C  46 Km al suroeste de Mechapa, Chinandega, Nicaragua
