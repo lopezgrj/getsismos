@@ -11096,3 +11096,5 @@
 26/09/22 13:40:47 12.246 -87.445  36 2.8 C  40 Km al suroeste de Corinto, Nicaragua
 26/09/22 14:00:30 12.494 -87.826  31 2.3 C  46 Km al suroeste de Mechapa, Chinandega, Nicaragua
 26/09/22 16:31:05  9.515 -83.855  15 3.1 C  20 Km al sur de Tres de Junio, Costa Rica
+26/09/22 16:31:05  9.525 -83.839  13 3.1 C  19 Km al sur de Tres de Junio, Costa Rica
+26/09/22 17:38:14 13.938 -91.648  28 3.1 C  18 Km al suroeste de El Semillero, Guatemala
