@@ -11076,3 +11076,4 @@
 26/09/21 21:41:23 11.884 -86.214 146 2.1 C   4 Km al noreste de Diriamba, Nicaragua
 26/09/22 00:06:18 11.715 -86.812  39 3.4 C  33 Km al oeste de Masachapa, Nicaragua
 26/09/22 03:25:42 12.166 -87.798  22 2.6 C  74 Km al suroeste de Jiquilillo, Nicaragua
+26/09/22 05:19:14 13.458 -91.183   5 3.2 A  52 Km al sur de San Jose, Guatemala
