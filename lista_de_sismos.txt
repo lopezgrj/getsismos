@@ -11077,3 +11077,5 @@
 26/09/22 00:06:18 11.715 -86.812  39 3.4 C  33 Km al oeste de Masachapa, Nicaragua
 26/09/22 03:25:42 12.166 -87.798  22 2.6 C  74 Km al suroeste de Jiquilillo, Nicaragua
 26/09/22 05:19:14 13.458 -91.183   5 3.2 A  52 Km al sur de San Jose, Guatemala
+26/09/22 05:19:14 13.512 -91.187   1 3.3 C  46 Km al sur de San Jose, Guatemala
+26/09/22 05:25:12 13.183 -89.561  30 3.1 C  42 Km al suroeste de La Libertad, El Salvador
