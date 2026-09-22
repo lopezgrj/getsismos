@@ -11085,3 +11085,4 @@
 26/09/22 08:48:07 13.917 -91.334  50 3.4 C   7 Km al sureste de Tecojate, Guatemala
 26/09/22 09:24:31 13.887 -91.353  38 2.9 C  10 Km al sur de Tecojate, Guatemala
 26/09/22 09:29:59 13.592 -87.287   6 2.6 C  23 Km al norte de Nacaome, Honduras
+26/09/22 09:52:07 13.856 -92.969   9 4.0 C 110 Km al suroeste de El Gancho México
