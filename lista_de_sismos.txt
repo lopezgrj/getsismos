@@ -11099,3 +11099,4 @@
 26/09/22 16:31:05  9.525 -83.839  13 3.1 C  19 Km al sur de Tres de Junio, Costa Rica
 26/09/22 17:38:14 13.938 -91.648  28 3.1 C  18 Km al suroeste de El Semillero, Guatemala
 26/09/22 18:14:40 13.896 -92.232  45 3.5 C  56 Km al suroeste de Champerico, Guatemala
+26/09/22 19:23:21 13.665 -89.063   5 2.1 C   6 Km al sureste de Ilopango, El Salvador
