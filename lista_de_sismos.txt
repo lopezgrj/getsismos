@@ -11101,3 +11101,4 @@
 26/09/22 18:14:40 13.896 -92.232  45 3.5 C  56 Km al suroeste de Champerico, Guatemala
 26/09/22 19:23:21 13.665 -89.063   5 2.1 C   6 Km al sureste de Ilopango, El Salvador
 26/09/22 20:26:31 11.448 -86.942  18 2.8 C  60 Km al suroeste de Pochomil, Nicaragua
+26/09/22 23:44:11 12.284 -87.393  47 2.7 C  33 Km al suroeste de Corinto, Nicaragua
