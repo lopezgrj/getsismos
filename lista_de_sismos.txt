@@ -11119,3 +11119,4 @@
 26/09/24 00:15:32  9.335 -83.692  10 3.7 C  21 Km al noreste de Dominical, Costa Rica
 26/09/24 01:13:15 14.193 -92.282  32 2.8 C  36 Km al sur de San Marcos, Guatemala
 26/09/24 01:39:05  4.455 -76.841  22 4.2 A 243 Km al suroeste de Medellin, Colombia
+26/09/24 02:50:43 13.731 -91.395  57 3.0 A  27 Km al sur de Tecojate, Guatemala
