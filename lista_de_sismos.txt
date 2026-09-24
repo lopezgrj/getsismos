@@ -11115,3 +11115,4 @@
 26/09/23 22:39:19  8.526 -83.086  36 2.6 C  22 Km al noroeste de Laurel, Costa Rica
 26/09/23 22:43:44 13.114 -87.804 182 2.4 C  24 Km al noroeste de Punta Ñata, Chinandega, Nicaragua
 26/09/23 22:57:07 13.011 -89.012  20 2.8 C  34 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/09/23 22:57:06 13.003 -89.016  25 2.7 C  35 Km al suroeste de Delta del Rio Lempa, El Salvador
