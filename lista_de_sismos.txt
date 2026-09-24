@@ -11110,3 +11110,4 @@
 26/09/23 06:24:03 12.139 -88.042  13 2.7 C  92 Km al suroeste de Mechapa, Chinandega, Nicaragua
 26/09/23 06:44:16 12.570 -87.235 126 2.5 C   5 Km al noroeste de Pasocaballos, El Realejo, Nicaragua
 26/09/23 17:10:09 11.478 -85.907 147 2.1 C  10 Km al noroeste de Rivas, Nicaragua
+26/09/23 17:10:10 11.479 -85.893 145 2.2 C   9 Km al noroeste de Rivas, Nicaragua
