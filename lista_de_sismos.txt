@@ -11134,3 +11134,4 @@
 26/09/24 19:45:17 14.222 -90.788  39 2.7 C   8 Km al sur de Escuintla, Guatemala
 26/09/24 21:02:23 12.886 -88.604  38 2.9 C  48 Km al sureste de Delta del Rio Lempa, El Salvador
 26/09/24 21:36:08  8.323 -83.205  15 2.4 C  35 Km al oeste de Laurel, Costa Rica
+26/09/24 22:43:26 13.127 -89.344  26 3.2 C  40 Km al sur de La Libertad, El Salvador
