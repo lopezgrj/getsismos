@@ -11138,3 +11138,4 @@
 26/09/25 00:43:46 12.607 -87.355 140 2.6 C  17 Km al sureste de Jiquilillo, Nicaragua
 26/09/25 00:49:32 12.821 -89.627  16 2.9 C  81 Km al suroeste de La Libertad, El Salvador
 26/09/25 01:38:00 13.100 -89.560  46 3.3 C  50 Km al suroeste de La Libertad, El Salvador
+26/09/25 04:53:20 12.236 -88.293 106 3.2 C 100 Km al suroeste de Punta Cosigüina, Nicaragua
