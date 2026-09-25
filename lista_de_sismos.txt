@@ -11132,3 +11132,4 @@
 26/09/24 10:19:00  7.984 -82.611   5 3.5 C  31 Km al sureste de Limones, Distrito Barú, Panamá
 26/09/24 14:48:22 12.645 -88.320  39 4.3 C  63 Km al sur de Playa El Cuco, El Salvador
 26/09/24 19:45:17 14.222 -90.788  39 2.7 C   8 Km al sur de Escuintla, Guatemala
+26/09/24 21:02:23 12.886 -88.604  38 2.9 C  48 Km al sureste de Delta del Rio Lempa, El Salvador
