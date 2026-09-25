@@ -11142,3 +11142,4 @@
 26/09/25 07:29:12 13.190 -89.528  31 2.6 C  39 Km al suroeste de La Libertad, El Salvador
 26/09/25 07:36:18 13.432 -90.499  15 3.0 C  50 Km al suroeste de Las Brisas, Guatemala
 26/09/25 08:38:27 13.267 -83.987   1 2.8 C  48 Km al oeste de Prinzapolka, Nicaragua
+26/09/25 04:53:18 11.989 -88.432  17 3.3 C 130 Km al suroeste de Punta Cosigüina, Nicaragua
