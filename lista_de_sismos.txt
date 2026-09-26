@@ -11158,3 +11158,4 @@
 26/09/26 01:22:50 13.160 -89.831  25 3.6 C  48 Km al norte de Acajutla, El Salvador
 26/09/26 02:09:01 13.096 -89.208  33 2.9 C  45 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/09/26 02:51:07 13.920 -91.731  34 3.1 C  26 Km al suroeste de El Semillero, Guatemala
+26/09/26 03:16:36  8.804 -83.149  28 2.3 C  41 Km al oeste de La Tigra, Costa Rica
