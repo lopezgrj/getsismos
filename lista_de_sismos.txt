@@ -11153,3 +11153,4 @@
 26/09/25 21:39:13 13.486 -90.660  19 3.4 C  50 Km al sur de Iztapa, Guatemala
 26/09/25 22:10:59 14.375 -90.101   6 2.3 C  24 Km al noreste de Cuilapa, Guatemala
 26/09/25 22:46:42 12.880 -91.798  10 3.8 C 131 Km al sur de Tecojate, Guatemala
+26/09/25 22:46:44 12.925 -91.814  20 3.9 C 127 Km al suroeste de Tecojate, Guatemala
