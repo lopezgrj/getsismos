@@ -11156,3 +11156,4 @@
 26/09/25 22:46:44 12.925 -91.814  20 3.9 C 127 Km al suroeste de Tecojate, Guatemala
 26/09/26 01:10:55  8.525 -83.183  20 2.5 C  32 Km al oeste de Laurel, Costa Rica
 26/09/26 01:22:50 13.160 -89.831  25 3.6 C  48 Km al norte de Acajutla, El Salvador
+26/09/26 02:09:01 13.096 -89.208  33 2.9 C  45 Km al suroeste de Delta del Rio Lempa, El Salvador
