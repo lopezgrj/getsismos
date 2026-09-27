@@ -11177,3 +11177,4 @@
 26/09/27 12:01:37 12.306 -87.482  39 2.3 C  39 Km al suroeste de Corinto, Nicaragua
 26/09/27 12:28:12 14.372 -90.102   3 2.7 C  24 Km al noreste de Cuilapa, Guatemala
 26/09/27 14:19:55 12.296 -87.496  36 2.6 C  41 Km al suroeste de Corinto, Nicaragua
+26/09/27 15:57:51  4.431 -76.714  13 4.6 C 237 Km al suroeste de Medellin, Colombia
