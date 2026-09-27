@@ -11165,3 +11165,4 @@
 26/09/26 16:54:58 13.041 -89.018  35 3.1 C  32 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/09/26 18:43:26 11.089 -86.090  35 2.2 C  27 Km al noroeste de Caba Santa Elena, Costa Rica
 26/09/26 23:37:07 10.160 -86.356  20 3.5 C  44 Km al suroeste de Rosario, Costa Rica
+26/09/26 23:49:57 10.137 -85.024  39 2.7 C  28 Km al noroeste de Puntarenas, Costa Rica
