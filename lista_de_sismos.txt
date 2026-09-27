@@ -11172,3 +11172,4 @@
 26/09/27 05:48:20  4.039 -76.255   5 4.2 A 250 Km al oeste de Bogota, Colombia
 26/09/27 07:18:39  8.799 -84.594   5 2.9 C  85 Km al suroeste de Puerto Quepos, Costa Rica
 26/09/27 08:05:30  4.460 -76.728   6 2.9 C 236 Km al suroeste de Medellin, Colombia
+26/09/27 11:26:17 12.585 -88.621  29 3.4 C  78 Km al sur de Delta del Rio Lempa, El Salvador
