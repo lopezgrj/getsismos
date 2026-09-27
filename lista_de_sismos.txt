@@ -11169,3 +11169,4 @@
 26/09/27 01:42:03  8.493 -83.047  20 1.9 C  16 Km al oeste de Laurel, Costa Rica
 26/09/27 02:20:34 14.553 -92.421  31 4.3 C  18 Km al oeste de El Gancho México
 26/09/27 05:48:20  4.039 -76.255   5 3.8 A 250 Km al oeste de Bogota, Colombia
+26/09/27 05:48:20  4.039 -76.255   5 4.2 A 250 Km al oeste de Bogota, Colombia
