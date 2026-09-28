@@ -11199,3 +11199,4 @@
 26/09/28 07:55:31 15.322 -89.873   3 2.6 C  53 Km al norte de El Progreso, Guatemala
 26/09/28 08:49:48 12.252 -87.485  40 2.5 C  43 Km al suroeste de Corinto, Nicaragua
 26/09/28 08:49:48 12.260 -87.475  40 2.5 C  41 Km al suroeste de Corinto, Nicaragua
+26/09/28 09:31:26  8.360 -83.119  30 2.8 A  25 Km al oeste de Laurel, Costa Rica
