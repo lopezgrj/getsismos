@@ -11190,3 +11190,4 @@
 26/09/27 23:47:10 12.839 -89.089  26 3.1 C  54 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/09/28 00:00:39 14.219 -92.896  10 3.8 C  79 Km al suroeste de El Gancho México
 26/09/28 00:00:36 14.074 -93.023   4 3.6 C  99 Km al suroeste de El Gancho México
+26/09/28 01:57:41 13.313 -87.923   6 2.8 C   9 Km al oeste de La Union, El Salvador
