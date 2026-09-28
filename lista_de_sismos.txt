@@ -11186,3 +11186,4 @@
 26/09/27 21:55:50 11.473 -86.096 115 3.1 C   9 Km al norte de El Astillero, Nicaragua
 26/09/27 23:00:00 14.397 -90.765  12 2.9 C  11 Km al norte de Escuintla, Guatemala
 26/09/27 23:39:04 14.371 -90.133   3 2.1 C  21 Km al noreste de Cuilapa, Guatemala
+26/09/27 23:47:09 12.760 -89.091  19 3.1 A  62 Km al suroeste de Delta del Rio Lempa, El Salvador
