@@ -11183,3 +11183,4 @@
 26/09/27 21:39:24 13.481 -89.940  78 2.6 C  17 Km al suroeste de Acajutla, El Salvador
 26/09/27 21:52:33 14.465 -90.037   2 2.5 C  19 Km al sur de Jalapa, Guatemala
 26/09/27 21:55:51 11.566 -86.012 105 2.9 A  19 Km al noreste de El Astillero, Nicaragua
+26/09/27 21:55:50 11.473 -86.096 115 3.1 C   9 Km al norte de El Astillero, Nicaragua
