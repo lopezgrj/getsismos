@@ -11201,3 +11201,4 @@
 26/09/28 08:49:48 12.260 -87.475  40 2.5 C  41 Km al suroeste de Corinto, Nicaragua
 26/09/28 09:31:26  8.360 -83.119  30 2.8 A  25 Km al oeste de Laurel, Costa Rica
 26/09/28 09:31:27  8.466 -83.105  12 2.8 C  22 Km al oeste de Laurel, Costa Rica
+26/09/27 20:52:41  4.588 -76.684   6 3.5 C 221 Km al suroeste de Medellin, Colombia
