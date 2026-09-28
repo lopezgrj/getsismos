@@ -11197,3 +11197,4 @@
 26/09/28 06:37:14  4.380 -76.831  72 4.4 C 249 Km al suroeste de Medellin, Colombia
 26/09/28 06:49:12 14.352 -90.152   6 2.6 C  18 Km al noreste de Cuilapa, Guatemala
 26/09/28 07:55:31 15.322 -89.873   3 2.6 C  53 Km al norte de El Progreso, Guatemala
+26/09/28 08:49:48 12.252 -87.485  40 2.5 C  43 Km al suroeste de Corinto, Nicaragua
