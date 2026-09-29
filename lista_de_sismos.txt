@@ -11230,3 +11230,4 @@
 26/09/28 22:28:41  4.429 -76.787   5 3.9 C 242 Km al suroeste de Medellin, Colombia
 26/09/29 07:52:24  9.367 -84.215  22 4.0 C   9 Km al suroeste de Puerto Quepos, Costa Rica
 26/09/29 10:58:22 11.127 -86.659  25 3.3 A  66 Km al suroeste de Huehuete, Nicaragua
+26/09/29 10:58:21 11.115 -86.694  23 3.4 C  69 Km al suroeste de Huehuete, Nicaragua
