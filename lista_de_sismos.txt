@@ -11235,3 +11235,4 @@
 26/09/29 11:27:52 11.260 -88.399  70 3.3 C 191 Km al suroeste de Corinto, Nicaragua
 26/09/29 12:56:03 14.376 -90.103   6 2.7 C  24 Km al noreste de Cuilapa, Guatemala
 26/09/29 14:33:18 14.362 -90.113   5 3.2 C  23 Km al noreste de Cuilapa, Guatemala
+26/09/29 16:51:25 13.208 -89.805  27 3.0 C  42 Km al sur de Acajutla, El Salvador
