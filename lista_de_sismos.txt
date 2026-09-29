@@ -11218,3 +11218,4 @@
 26/09/28 18:25:14 11.912 -87.478  32 2.4 C  70 Km al suroeste de Poneloya, Nicaragua
 26/09/28 18:35:43  8.818 -82.893  23 2.3 C  15 Km al suroeste de La Tigra, Costa Rica
 26/09/28 19:39:53 13.149 -89.769  22 3.6 C  49 Km al sur de Acajutla, El Salvador
+26/09/28 20:54:44 12.180 -86.981  83 2.6 C  21 Km al sur de Las Penitas, Nicaragua
