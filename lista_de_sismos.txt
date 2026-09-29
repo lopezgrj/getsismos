@@ -11233,3 +11233,4 @@
 26/09/29 10:58:21 11.115 -86.694  23 3.4 C  69 Km al suroeste de Huehuete, Nicaragua
 26/09/29 11:27:51 11.461 -88.301   5 3.3 A 168 Km al suroeste de Corinto, Nicaragua
 26/09/29 11:27:52 11.260 -88.399  70 3.3 C 191 Km al suroeste de Corinto, Nicaragua
+26/09/29 12:56:03 14.376 -90.103   6 2.7 C  24 Km al noreste de Cuilapa, Guatemala
