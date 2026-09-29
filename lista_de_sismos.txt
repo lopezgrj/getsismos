@@ -11225,3 +11225,4 @@
 26/09/29 02:34:19 14.441 -92.164  34 3.0 A   8 Km al sur de San Marcos, Guatemala
 26/09/29 02:34:18 14.382 -92.264  29 3.2 C  16 Km al suroeste de San Marcos, Guatemala
 26/09/29 04:35:08 15.506 -91.566   5 3.9 C  23 Km al noroeste de Huehuetenango, Guatemala
+26/09/29 05:22:34 10.193 -86.403  51 2.7 C  47 Km al oeste de Rosario, Costa Rica
