@@ -11249,3 +11249,4 @@
 26/09/30 01:45:49 13.213 -89.874  14 2.7 C  42 Km al sur de Acajutla, El Salvador
 26/09/30 02:50:25 14.248 -93.339   5 3.9 A 122 Km al oeste de El Gancho México
 26/09/30 02:50:22 14.151 -93.534  10 4.0 C 145 Km al oeste de El Gancho México
+26/09/30 04:44:24 15.125 -91.939 163 3.0 C  24 Km al noroeste de San Marcos, Guatemala
