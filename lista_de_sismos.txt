@@ -11274,3 +11274,4 @@
 26/09/30 11:19:54 14.373 -90.095   4 1.9 C  24 Km al noroeste de Jutiapa, Guatemala
 26/09/30 12:01:19  8.684 -83.284  21 3.4 C  37 Km al noreste de Playa Madrigal, Costa Rica
 26/09/30 14:06:35 12.013 -88.462  10 2.9 C 130 Km al suroeste de Punta Cosigüina, Nicaragua
+26/09/30 14:49:17 13.109 -90.162   8 3.0 C  64 Km al suroeste de Acajutla, El Salvador
