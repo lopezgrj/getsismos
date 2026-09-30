@@ -11243,3 +11243,5 @@
 26/09/29 20:08:05 12.857 -90.503  10 3.4 C 109 Km al suroeste de Acajutla, El Salvador
 26/09/29 21:35:37 10.229 -84.477  64 2.7 C  36 Km al oeste de Vara Blanca, Costa Rica
 26/09/29 22:07:00 17.439 -93.820 179 4.3 C 106 Km al noroeste de Chiapas, México
+26/09/29 23:00:20 11.580 -86.076   5 2.8 C  13 Km al noreste de El Astillero, Nicaragua
+26/09/29 23:17:30  9.017 -82.806   5 2.4 C  13 Km al norte de La Tigra, Costa Rica
