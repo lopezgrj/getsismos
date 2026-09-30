@@ -11273,3 +11273,4 @@
 26/09/30 11:13:50 12.729 -88.278  26 2.8 C  53 Km al sur de Playa El Cuco, El Salvador
 26/09/30 11:19:54 14.373 -90.095   4 1.9 C  24 Km al noroeste de Jutiapa, Guatemala
 26/09/30 12:01:19  8.684 -83.284  21 3.4 C  37 Km al noreste de Playa Madrigal, Costa Rica
+26/09/30 14:06:35 12.013 -88.462  10 2.9 C 130 Km al suroeste de Punta Cosigüina, Nicaragua
