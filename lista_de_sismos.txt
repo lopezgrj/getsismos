@@ -11250,3 +11250,4 @@
 26/09/30 02:50:25 14.248 -93.339   5 3.9 A 122 Km al oeste de El Gancho México
 26/09/30 02:50:22 14.151 -93.534  10 4.0 C 145 Km al oeste de El Gancho México
 26/09/30 04:44:24 15.125 -91.939 163 3.0 C  24 Km al noroeste de San Marcos, Guatemala
+26/09/30 05:35:37 11.589 -87.013  33 2.6 C  59 Km al oeste de Masachapa, Nicaragua
