@@ -11247,3 +11247,4 @@
 26/09/29 23:17:30  9.017 -82.806   5 2.4 C  13 Km al norte de La Tigra, Costa Rica
 26/09/30 01:40:35 13.156 -89.278  30 2.6 C  37 Km al sur de La Libertad, El Salvador
 26/09/30 01:45:49 13.213 -89.874  14 2.7 C  42 Km al sur de Acajutla, El Salvador
+26/09/30 02:50:25 14.248 -93.339   5 3.9 A 122 Km al oeste de El Gancho México
