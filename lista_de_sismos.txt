@@ -11258,3 +11258,4 @@
 26/09/30 08:24:50 14.388 -90.075   2 4.1 C  23 Km al noroeste de Jutiapa, Guatemala
 26/09/30 08:29:36 14.363 -90.110   4 2.7 C  23 Km al noreste de Cuilapa, Guatemala
 26/09/30 08:31:14 14.369 -90.098   2 2.9 C  24 Km al noroeste de Jutiapa, Guatemala
+26/09/30 08:43:06 14.374 -90.096   2 3.1 C  24 Km al noroeste de Jutiapa, Guatemala
