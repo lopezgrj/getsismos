@@ -11253,3 +11253,8 @@
 26/09/30 05:35:37 11.589 -87.013  33 2.6 C  59 Km al oeste de Masachapa, Nicaragua
 26/09/30 07:16:59  4.483 -76.766  23 3.3 C 236 Km al suroeste de Medellin, Colombia
 26/09/30 08:24:49 14.383 -90.098   5 4.0 C  25 Km al noroeste de Jutiapa, Guatemala
+26/09/30 08:20:03 14.370 -90.090   3 2.1 C  23 Km al noroeste de Jutiapa, Guatemala
+26/09/30 08:22:17 14.383 -90.091   5 2.2 C  24 Km al noroeste de Jutiapa, Guatemala
+26/09/30 08:24:50 14.388 -90.075   2 4.1 C  23 Km al noroeste de Jutiapa, Guatemala
+26/09/30 08:29:36 14.363 -90.110   4 2.7 C  23 Km al noreste de Cuilapa, Guatemala
+26/09/30 08:31:14 14.369 -90.098   2 2.9 C  24 Km al noroeste de Jutiapa, Guatemala
