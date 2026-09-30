@@ -11237,3 +11237,5 @@
 26/09/29 14:33:18 14.362 -90.113   5 3.2 C  23 Km al noreste de Cuilapa, Guatemala
 26/09/29 16:51:25 13.208 -89.805  27 3.0 C  42 Km al sur de Acajutla, El Salvador
 26/09/29 17:57:25 12.740 -88.202  43 3.5 C  49 Km al sur de Playa El Cuco, El Salvador
+26/09/29 18:25:25 14.297 -93.744   4 4.3 C 155 Km al suroeste de Mapastepec, México
+26/09/29 18:59:12 12.753 -88.576  53 2.9 C  62 Km al sureste de Delta del Rio Lempa, El Salvador
