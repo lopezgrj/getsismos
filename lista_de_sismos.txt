@@ -11268,3 +11268,7 @@
 26/09/30 05:35:38 11.623 -86.964  32 2.7 C  52 Km al oeste de Masachapa, Nicaragua
 26/09/30 11:04:27 14.384 -90.098   4 1.8 C  25 Km al noroeste de Jutiapa, Guatemala
 26/09/30 11:08:23 14.374 -90.101   4 2.0 C  24 Km al noreste de Cuilapa, Guatemala
+26/09/29 17:57:26 12.735 -88.206  39 3.2 C  50 Km al sur de Playa El Cuco, El Salvador
+26/09/30 11:07:41 14.370 -90.106   5 1.9 C  24 Km al noreste de Cuilapa, Guatemala
+26/09/30 11:13:50 12.729 -88.278  26 2.8 C  53 Km al sur de Playa El Cuco, El Salvador
+26/09/30 11:19:54 14.373 -90.095   4 1.9 C  24 Km al noroeste de Jutiapa, Guatemala
