@@ -11321,3 +11321,4 @@
 26/10/01 02:55:30  3.784 -76.134  24 3.7 C 247 Km al suroeste de Bogota, Colombia
 26/10/01 14:23:26 13.162 -89.513  27 2.9 C  41 Km al suroeste de La Libertad, El Salvador
 26/10/01 15:53:25 13.026 -89.303  27 3.4 C  51 Km al sur de La Libertad, El Salvador
+26/10/01 16:33:33  4.638 -78.003   4 3.9 C 323 Km al suroeste de Medellin, Colombia
