@@ -11314,3 +11314,4 @@
 26/10/01 04:10:16 11.821 -88.100  17 2.9 C 124 Km al suroeste de Jiquilillo, Nicaragua
 26/09/30 19:41:30 12.604 -88.549  27 3.0 C  79 Km al sureste de Delta del Rio Lempa, El Salvador
 26/10/01 01:56:48 13.288 -89.981  24 2.8 C  37 Km al suroeste de Acajutla, El Salvador
+26/10/01 05:11:15  9.699 -86.599  17 3.3 C  96 Km al suroeste de Rosario, Costa Rica
