@@ -11306,3 +11306,4 @@
 26/09/30 17:43:23  4.486 -76.867  62 4.1 C 242 Km al suroeste de Medellin, Colombia
 26/09/30 18:34:13 12.519 -88.175  26 4.2 C  68 Km al suroeste de Punta Cosigüina, Nicaragua
 26/10/01 01:02:56 12.862 -88.911  42 3.2 A  45 Km al sur de Delta del Rio Lempa, El Salvador
+26/10/01 01:02:56 12.904 -88.865  34 3.2 C  39 Km al sur de Delta del Rio Lempa, El Salvador
