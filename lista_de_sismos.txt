@@ -11319,3 +11319,4 @@
 26/10/01 00:52:14 17.215 -94.712 129 4.1 C 127 Km al noreste de Salina Cruz, México
 26/10/01 11:52:45 14.377 -90.104   4 2.5 C  24 Km al noreste de Cuilapa, Guatemala
 26/10/01 02:55:30  3.784 -76.134  24 3.7 C 247 Km al suroeste de Bogota, Colombia
+26/10/01 14:23:26 13.162 -89.513  27 2.9 C  41 Km al suroeste de La Libertad, El Salvador
