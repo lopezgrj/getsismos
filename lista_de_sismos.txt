@@ -11315,3 +11315,4 @@
 26/09/30 19:41:30 12.604 -88.549  27 3.0 C  79 Km al sureste de Delta del Rio Lempa, El Salvador
 26/10/01 01:56:48 13.288 -89.981  24 2.8 C  37 Km al suroeste de Acajutla, El Salvador
 26/10/01 05:11:15  9.699 -86.599  17 3.3 C  96 Km al suroeste de Rosario, Costa Rica
+26/10/01 05:47:12 13.748 -91.189   6 3.8 C  20 Km al sur de San Jose, Guatemala
