@@ -11320,3 +11320,4 @@
 26/10/01 11:52:45 14.377 -90.104   4 2.5 C  24 Km al noreste de Cuilapa, Guatemala
 26/10/01 02:55:30  3.784 -76.134  24 3.7 C 247 Km al suroeste de Bogota, Colombia
 26/10/01 14:23:26 13.162 -89.513  27 2.9 C  41 Km al suroeste de La Libertad, El Salvador
+26/10/01 15:53:25 13.026 -89.303  27 3.4 C  51 Km al sur de La Libertad, El Salvador
