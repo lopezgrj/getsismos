@@ -11339,3 +11339,4 @@
 26/10/02 07:26:32 12.362 -87.768  31 2.4 C  54 Km al suroeste de Jiquilillo, Nicaragua
 26/10/02 07:26:32 12.356 -87.772  31 2.5 C  55 Km al suroeste de Jiquilillo, Nicaragua
 26/10/02 08:40:05 13.382 -90.054  28 2.7 C  33 Km al suroeste de Acajutla, El Salvador
+26/10/02 09:32:53 12.891 -88.784  35 3.4 C  41 Km al sur de Delta del Rio Lempa, El Salvador
