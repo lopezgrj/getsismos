@@ -11341,3 +11341,4 @@
 26/10/02 08:40:05 13.382 -90.054  28 2.7 C  33 Km al suroeste de Acajutla, El Salvador
 26/10/02 09:32:53 12.891 -88.784  35 3.4 C  41 Km al sur de Delta del Rio Lempa, El Salvador
 26/10/02 11:07:29 13.501 -88.417   6 2.2 C  16 Km al sureste de Vista Hermosa, El Salvador
+26/10/02 12:50:32 10.909 -85.059 171 2.6 C  15 Km al norte de Cuatro Bocas, Costa Rica
