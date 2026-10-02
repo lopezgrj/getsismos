@@ -11334,3 +11334,5 @@
 26/10/02 04:47:42 13.109 -89.606  25 3.3 C  52 Km al suroeste de La Libertad, El Salvador
 26/10/02 04:50:42 12.610 -90.288  17 3.5 C 120 Km al suroeste de Acajutla, El Salvador
 26/10/02 05:35:14 14.186 -91.208 107 4.4 C  29 Km al norte de San Jose, Guatemala
+26/10/02 05:35:14 14.186 -91.208 107 4.5 C  29 Km al norte de San Jose, Guatemala
+26/10/02 05:52:48  8.231 -82.813  12 2.7 C   7 Km al sureste de Puerto Armuelles, Panamá
