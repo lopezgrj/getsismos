@@ -11325,3 +11325,4 @@
 26/10/01 16:33:33  4.638 -78.003   4 4.0 C 323 Km al suroeste de Medellin, Colombia
 26/10/01 16:48:11 13.278 -89.676  30 3.2 C  38 Km al sureste de Acajutla, El Salvador
 26/10/01 22:18:25 13.098 -89.255  28 2.8 C  44 Km al sur de La Libertad, El Salvador
+26/10/01 22:41:41 14.365 -90.089   2 2.2 C  23 Km al noroeste de Jutiapa, Guatemala
