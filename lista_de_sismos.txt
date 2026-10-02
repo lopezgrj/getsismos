@@ -11343,3 +11343,4 @@
 26/10/02 11:07:29 13.501 -88.417   6 2.2 C  16 Km al sureste de Vista Hermosa, El Salvador
 26/10/02 12:50:32 10.909 -85.059 171 2.6 C  15 Km al norte de Cuatro Bocas, Costa Rica
 26/10/02 07:26:31 12.327 -87.792  28 2.5 C  59 Km al suroeste de Jiquilillo, Nicaragua
+26/09/29 11:27:52 11.290 -88.351  26 3.3 C 185 Km al suroeste de Corinto, Nicaragua
