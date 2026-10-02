@@ -11332,3 +11332,4 @@
 26/10/02 01:58:00  6.312 -77.734  13 3.7 C 190 Km al suroeste de Chigorodo, Colombia
 26/10/02 03:16:20 14.487 -90.068   7 2.4 C  18 Km al suroeste de Jalapa, Guatemala
 26/10/02 04:47:42 13.109 -89.606  25 3.3 C  52 Km al suroeste de La Libertad, El Salvador
+26/10/02 04:50:42 12.610 -90.288  17 3.5 C 120 Km al suroeste de Acajutla, El Salvador
