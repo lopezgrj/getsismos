@@ -11347,3 +11347,4 @@
 26/09/30 05:35:38 11.651 -86.955  35 2.7 C  50 Km al oeste de Masachapa, Nicaragua
 26/09/28 18:25:14 11.896 -87.459  27 2.3 C  70 Km al suroeste de Las Penitas, Nicaragua
 26/09/29 05:22:33 10.228 -86.408  20 2.6 C  47 Km al oeste de Rosario, Costa Rica
+26/10/02 16:14:46 12.662 -90.278   9 4.1 C 114 Km al suroeste de Acajutla, El Salvador
