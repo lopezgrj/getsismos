@@ -11329,3 +11329,4 @@
 26/10/01 23:35:15 13.369 -89.682  37 2.6 C  29 Km al sureste de Acajutla, El Salvador
 26/10/02 01:22:27 13.017 -89.142  29 3.4 C  43 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/10/02 01:28:55 13.289 -89.904  26 3.4 C  34 Km al sur de Acajutla, El Salvador
+26/10/02 01:58:00  6.312 -77.734  13 3.7 C 190 Km al suroeste de Chigorodo, Colombia
