@@ -11345,3 +11345,4 @@
 26/10/02 07:26:31 12.327 -87.792  28 2.5 C  59 Km al suroeste de Jiquilillo, Nicaragua
 26/09/29 11:27:52 11.290 -88.351  26 3.3 C 185 Km al suroeste de Corinto, Nicaragua
 26/09/30 05:35:38 11.651 -86.955  35 2.7 C  50 Km al oeste de Masachapa, Nicaragua
+26/09/28 18:25:14 11.896 -87.459  27 2.3 C  70 Km al suroeste de Las Penitas, Nicaragua
