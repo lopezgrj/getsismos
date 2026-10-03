@@ -11355,3 +11355,5 @@
 26/10/03 01:25:00 13.127 -89.841  23 4.2 C  51 Km al sur de Acajutla, El Salvador
 26/10/03 02:14:04 12.213 -86.397   7 2.4 C   4 Km al sureste de Mateare, Nicaragua
 26/10/03 03:37:29 11.599 -87.316  85 4.2 A  84 Km al suroeste de El Transito, Nicaragua
+26/10/03 03:37:28 11.545 -87.353 100 4.2 C  90 Km al suroeste de El Transito, Nicaragua
+26/10/03 03:48:55 11.527 -87.406   9 3.4 A  96 Km al suroeste de El Transito, Nicaragua
