@@ -11351,3 +11351,5 @@
 26/10/02 16:14:46 12.652 -90.269  10 4.1 C 114 Km al suroeste de Acajutla, El Salvador
 26/10/02 19:55:20 12.623 -87.942  32 2.9 C  42 Km al suroeste de Punta Cosigüina, Nicaragua
 26/10/02 22:42:59  0.509 -78.499  95 3.6 A 140 Km al sureste de Esmeraldas, Ecuador
+26/10/03 01:06:53 13.314 -89.981  25 2.7 C  35 Km al suroeste de Acajutla, El Salvador
+26/10/03 01:25:00 13.127 -89.841  23 4.2 C  51 Km al sur de Acajutla, El Salvador
