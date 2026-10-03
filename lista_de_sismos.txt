@@ -11364,3 +11364,4 @@
 26/10/03 09:30:01 13.760 -91.295  23 3.2 C  22 Km al suroeste de San Jose, Guatemala
 26/10/03 12:30:24 13.264 -89.666  36 2.7 C  40 Km al sureste de Acajutla, El Salvador
 26/10/03 13:00:28 13.153 -89.551  34 2.8 C  44 Km al suroeste de La Libertad, El Salvador
+26/10/03 14:33:45 14.294 -93.312   1 4.5 C 118 Km al oeste de El Gancho México
