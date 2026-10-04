@@ -11377,3 +11377,6 @@
 26/10/04 01:04:27 11.178 -85.952  51 2.8 C  12 Km al suroeste de San Juan del Sur, Nicaragua
 26/10/04 02:43:40 13.902 -91.678  52 3.2 C  23 Km al suroeste de El Semillero, Guatemala
 26/10/04 06:06:16 13.775 -89.425  10 2.5 C  18 Km al noroeste de Santa Tecla, El Salvador
+26/10/03 20:26:36  4.477 -76.753  11 4.2 C 236 Km al suroeste de Medellin, Colombia
+26/10/04 07:58:52 12.263 -87.459  37 2.9 C  40 Km al suroeste de Corinto, Nicaragua
+26/10/04 08:06:08  5.265 -82.653  15 5.3 C 182 Km al noroeste de Isla de Malpelo, Colombia
