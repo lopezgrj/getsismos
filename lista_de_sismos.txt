@@ -11380,3 +11380,5 @@
 26/10/03 20:26:36  4.477 -76.753  11 4.2 C 236 Km al suroeste de Medellin, Colombia
 26/10/04 07:58:52 12.263 -87.459  37 2.9 C  40 Km al suroeste de Corinto, Nicaragua
 26/10/04 08:06:08  5.265 -82.653  15 5.3 C 182 Km al noroeste de Isla de Malpelo, Colombia
+26/10/04 08:06:08  5.265 -82.653  15 5.4 C 182 Km al noroeste de Isla de Malpelo, Colombia
+26/10/04 12:00:07 13.884 -91.400  53 3.9 C  11 Km al suroeste de Tecojate, Guatemala
