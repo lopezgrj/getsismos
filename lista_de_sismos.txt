@@ -11376,3 +11376,4 @@
 26/10/04 00:33:03 11.466 -87.445  14 3.2 C 104 Km al suroeste de El Transito, Nicaragua
 26/10/04 01:04:27 11.178 -85.952  51 2.8 C  12 Km al suroeste de San Juan del Sur, Nicaragua
 26/10/04 02:43:40 13.902 -91.678  52 3.2 C  23 Km al suroeste de El Semillero, Guatemala
+26/10/04 06:06:16 13.775 -89.425  10 2.5 C  18 Km al noroeste de Santa Tecla, El Salvador
