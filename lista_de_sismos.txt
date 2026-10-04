@@ -11366,3 +11366,6 @@
 26/10/03 13:00:28 13.153 -89.551  34 2.8 C  44 Km al suroeste de La Libertad, El Salvador
 26/10/03 14:33:45 14.294 -93.312   1 4.5 C 118 Km al oeste de El Gancho México
 26/10/03 14:38:07  9.581 -84.842   7 3.3 C  21 Km al suroeste de Herradura, Costa Rica
+26/10/03 15:56:45  9.444 -83.756   5 3.0 C  24 Km al noreste de Dominical, Costa Rica
+26/10/03 18:00:52 12.442 -87.815  29 3.3 C  50 Km al suroeste de Mechapa, Chinandega, Nicaragua
+26/10/03 18:06:49  7.840 -83.001  19 4.0 C  33 Km al suroeste de Limones, Distrito Barú, Panamá
