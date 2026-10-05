@@ -11395,3 +11395,4 @@
 26/10/05 02:37:13 11.922 -85.685   5 3.3 A  19 Km al oeste de Puerto Diaz, Nicaragua
 26/10/05 02:37:18 12.039 -86.143  23 2.2 C   7 Km al noreste de Volcán Masaya, Nicaragua
 26/10/05 02:37:20 12.042 -86.153  10 2.1 C   6 Km al norte de Ticuantepe, Nicaragua
+26/10/05 07:38:51 14.372 -90.099   4 3.2 C  24 Km al noroeste de Jutiapa, Guatemala
