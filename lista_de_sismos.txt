@@ -11401,3 +11401,4 @@
 26/10/04 20:22:53  1.174 -77.632   1 3.9 C 227 Km al norte de Esmeraldas, Ecuador
 26/10/05 16:30:25 13.716 -90.232 102 2.7 C  12 Km al sur de Las Brisas, Guatemala
 26/10/05 16:57:50 12.909 -88.958  28 3.1 C  41 Km al sur de Delta del Rio Lempa, El Salvador
+26/10/05 17:22:42 12.074 -86.749  86 2.6 C   5 Km al noroeste de El Transito, Nicaragua
