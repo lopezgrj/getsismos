@@ -11386,3 +11386,5 @@
 26/10/04 17:36:27 12.759 -89.869  18 4.4 C  92 Km al sur de Acajutla, El Salvador
 26/10/04 18:36:31  8.627 -82.476  16 2.5 C  23 Km al norte de Chiriqui, Panamá
 26/10/04 19:20:21 12.120 -86.533 154 3.3 C  16 Km al sur de Nagarote, Nicaragua
+26/10/04 20:22:51  0.814 -77.124   5 4.1 A 283 Km al norte de Esmeraldas, Ecuador
+26/10/04 20:41:30 13.794 -89.515   8 2.5 C  23 Km al sur de Santa Ana, El Salvador
