@@ -11390,3 +11390,4 @@
 26/10/04 20:41:30 13.794 -89.515   8 2.5 C  23 Km al sur de Santa Ana, El Salvador
 26/10/04 20:53:54 12.489 -88.081  68 2.7 C  63 Km al suroeste de Punta Cosigüina, Nicaragua
 26/10/05 00:02:19 14.987 -91.710 128 2.9 C   9 Km al norte de San Marcos, Guatemala
+26/10/05 01:07:52  8.739 -82.951  26 1.8 C  23 Km al oeste de Salitral, Panamá
