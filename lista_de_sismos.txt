@@ -11391,3 +11391,5 @@
 26/10/04 20:53:54 12.489 -88.081  68 2.7 C  63 Km al suroeste de Punta Cosigüina, Nicaragua
 26/10/05 00:02:19 14.987 -91.710 128 2.9 C   9 Km al norte de San Marcos, Guatemala
 26/10/05 01:07:52  8.739 -82.951  26 1.8 C  23 Km al oeste de Salitral, Panamá
+26/10/05 02:04:35 11.450 -86.811  25 3.5 C  49 Km al suroeste de Pochomil, Nicaragua
+26/10/05 02:37:13 11.922 -85.685   5 3.3 A  19 Km al oeste de Puerto Diaz, Nicaragua
