@@ -11413,3 +11413,6 @@
 26/10/06 02:27:25 11.626 -87.600  14 2.9 C 103 Km al suroeste de Las Penitas, Nicaragua
 26/10/04 20:53:49 12.103 -88.396  22 3.0 C 118 Km al suroeste de Punta Cosigüina, Nicaragua
 26/10/05 17:22:42 12.174 -86.680  91 2.5 C   9 Km al norte de Puerto Sandino, Nicaragua
+26/10/03 19:35:13 11.424 -87.459  15 2.9 C 108 Km al suroeste de El Transito, Nicaragua
+26/10/04 00:33:03 11.459 -87.455  17 3.2 C 105 Km al suroeste de El Transito, Nicaragua
+26/10/04 01:04:27 11.181 -85.951  48 2.8 C  12 Km al suroeste de San Juan del Sur, Nicaragua
