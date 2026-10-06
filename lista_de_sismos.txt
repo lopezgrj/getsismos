@@ -11411,3 +11411,5 @@
 26/10/06 02:36:28 13.192 -89.975  19 2.9 C  47 Km al sur de Acajutla, El Salvador
 26/10/06 08:03:35 13.428 -90.269  38 3.9 C  44 Km al sur de Las Brisas, Guatemala
 26/10/06 02:27:25 11.626 -87.600  14 2.9 C 103 Km al suroeste de Las Penitas, Nicaragua
+26/10/04 20:53:49 12.103 -88.396  22 3.0 C 118 Km al suroeste de Punta Cosigüina, Nicaragua
+26/10/05 17:22:42 12.174 -86.680  91 2.5 C   9 Km al norte de Puerto Sandino, Nicaragua
