@@ -11402,3 +11402,5 @@
 26/10/05 16:30:25 13.716 -90.232 102 2.7 C  12 Km al sur de Las Brisas, Guatemala
 26/10/05 16:57:50 12.909 -88.958  28 3.1 C  41 Km al sur de Delta del Rio Lempa, El Salvador
 26/10/05 17:22:42 12.074 -86.749  86 2.6 C   5 Km al noroeste de El Transito, Nicaragua
+26/10/05 17:22:42 12.074 -86.749  86 2.4 C   5 Km al noroeste de El Transito, Nicaragua
+26/10/05 19:20:17 13.329 -90.163  24 2.7 C  46 Km al suroeste de Acajutla, El Salvador
