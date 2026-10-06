@@ -11419,3 +11419,4 @@
 26/10/03 03:37:27 11.399 -87.454  23 4.2 C 109 Km al suroeste de El Transito, Nicaragua
 26/10/06 10:03:17 10.832 -86.784  20 3.9 C  91 Km al oeste de Caba Santa Elena, Costa Rica
 26/09/26 13:39:32 11.457 -86.648  27 2.8 C  38 Km al suroeste de Casares, Nicaragua
+26/10/06 13:23:41 12.690 -86.935   5 1.9 C   7 Km al norte de Volcán San Cristóbal, Nicaragua
