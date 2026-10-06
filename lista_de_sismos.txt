@@ -11404,3 +11404,4 @@
 26/10/05 17:22:42 12.074 -86.749  86 2.6 C   5 Km al noroeste de El Transito, Nicaragua
 26/10/05 17:22:42 12.074 -86.749  86 2.4 C   5 Km al noroeste de El Transito, Nicaragua
 26/10/05 19:20:17 13.329 -90.163  24 2.7 C  46 Km al suroeste de Acajutla, El Salvador
+26/10/06 00:38:32 14.353 -90.121   5 2.5 C  21 Km al noreste de Cuilapa, Guatemala
