@@ -11439,3 +11439,4 @@
 26/10/07 09:27:23 11.688 -87.109  25 3.1 C  60 Km al suroeste de El Transito, Nicaragua
 26/10/07 09:27:23 11.684 -87.106  26 3.1 C  60 Km al suroeste de El Transito, Nicaragua
 26/10/07 11:31:18  8.901 -84.071   9 4.3 C  45 Km al suroeste de Dominical, Costa Rica
+26/10/07 13:46:01 13.625 -90.835  25 3.2 C  36 Km al sur de Iztapa, Guatemala
