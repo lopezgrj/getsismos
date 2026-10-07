@@ -11429,3 +11429,5 @@
 26/10/06 18:21:06 13.152 -89.863  19 3.0 C  49 Km al sur de Acajutla, El Salvador
 26/10/06 20:58:41 13.150 -89.767  21 4.6 C  49 Km al sur de Acajutla, El Salvador
 26/10/06 21:59:24  8.469 -82.836  29 2.8 C   7 Km al sur de Paso Canoas, Frontera Costa Rica-Panamá
+26/10/07 01:43:18 14.646 -93.253  21 5.6 C  95 Km al suroeste de Mapastepec, México
+26/10/07 01:44:48 12.423 -86.876  33 2.9 C   1 Km al sur de León, Nicaragua
