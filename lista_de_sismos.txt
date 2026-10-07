@@ -11435,3 +11435,4 @@
 26/10/07 01:59:27 13.503 -90.618  24 3.9 C  49 Km al sur de Iztapa, Guatemala
 26/10/07 03:01:37  8.323 -82.764  15 2.2 C   3 Km al sureste de Olivo Civil, Panamá
 26/10/07 01:43:18 14.655 -93.357  31 5.3 C  99 Km al suroeste de Mapastepec, México
+26/10/07 07:16:36 14.329 -93.343   2 4.0 C 120 Km al oeste de El Gancho México
