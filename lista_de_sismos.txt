@@ -11431,3 +11431,5 @@
 26/10/06 21:59:24  8.469 -82.836  29 2.8 C   7 Km al sur de Paso Canoas, Frontera Costa Rica-Panamá
 26/10/07 01:43:18 14.646 -93.253  21 5.6 C  95 Km al suroeste de Mapastepec, México
 26/10/07 01:44:48 12.423 -86.876  33 2.9 C   1 Km al sur de León, Nicaragua
+26/10/07 01:43:18 14.647 -93.260  21 5.4 C  95 Km al suroeste de Mapastepec, México
+26/10/07 01:59:27 13.503 -90.618  24 3.9 C  49 Km al sur de Iztapa, Guatemala
