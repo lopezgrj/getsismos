@@ -11442,3 +11442,4 @@
 26/10/07 13:46:01 13.625 -90.835  25 3.2 C  36 Km al sur de Iztapa, Guatemala
 26/10/07 02:40:19  4.518 -76.722  14 3.5 C 230 Km al suroeste de Medellin, Colombia
 26/10/07 14:56:52 12.605 -87.018 179 4.0 C  11 Km al sur de Volcán San Cristóbal, Nicaragua
+26/10/07 14:56:51 12.612 -86.971 188 4.0 C  11 Km al sur de Volcán San Cristóbal, Nicaragua
