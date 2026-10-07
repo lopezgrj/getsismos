@@ -11438,3 +11438,4 @@
 26/10/07 07:16:36 14.329 -93.343   2 4.0 C 120 Km al oeste de El Gancho México
 26/10/07 09:27:23 11.688 -87.109  25 3.1 C  60 Km al suroeste de El Transito, Nicaragua
 26/10/07 09:27:23 11.684 -87.106  26 3.1 C  60 Km al suroeste de El Transito, Nicaragua
+26/10/07 11:31:18  8.901 -84.071   9 4.3 C  45 Km al suroeste de Dominical, Costa Rica
