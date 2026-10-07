@@ -11443,3 +11443,4 @@
 26/10/07 02:40:19  4.518 -76.722  14 3.5 C 230 Km al suroeste de Medellin, Colombia
 26/10/07 14:56:52 12.605 -87.018 179 4.0 C  11 Km al sur de Volcán San Cristóbal, Nicaragua
 26/10/07 14:56:51 12.612 -86.971 188 4.0 C  11 Km al sur de Volcán San Cristóbal, Nicaragua
+26/10/07 16:06:09 13.872 -89.698   5 1.8 C  17 Km al norte de Ahuachapan, El Salvador
