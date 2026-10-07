@@ -11427,3 +11427,4 @@
 26/10/06 18:13:01 13.145 -89.843  24 3.9 C  49 Km al sur de Acajutla, El Salvador
 26/10/06 18:14:54 13.180 -89.831  24 3.5 C  45 Km al sur de Acajutla, El Salvador
 26/10/06 18:21:06 13.152 -89.863  19 3.0 C  49 Km al sur de Acajutla, El Salvador
+26/10/06 20:58:41 13.150 -89.767  21 4.6 C  49 Km al sur de Acajutla, El Salvador
