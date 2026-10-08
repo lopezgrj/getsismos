@@ -11448,3 +11448,4 @@
 26/10/07 18:32:35 12.948 -88.940  16 2.5 C  36 Km al sur de Delta del Rio Lempa, El Salvador
 26/10/07 20:28:22 13.877 -91.689  21 3.6 C  25 Km al suroeste de El Semillero, Guatemala
 26/10/07 23:16:18 12.842 -88.941  21 3.0 A  48 Km al sur de Delta del Rio Lempa, El Salvador
+26/10/07 23:16:17 12.788 -88.893  28 2.9 C  52 Km al sur de Delta del Rio Lempa, El Salvador
