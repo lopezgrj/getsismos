@@ -11462,3 +11462,4 @@
 26/10/08 12:14:05 14.370 -90.112   7 3.8 C  23 Km al noreste de Cuilapa, Guatemala
 26/10/08 13:53:38 14.369 -90.109  10 3.2 C  23 Km al noreste de Cuilapa, Guatemala
 26/10/08 16:13:19  8.290 -82.829  18 3.6 C   4 Km al noreste de Puerto Armuelles, Panamá
+26/10/08 17:06:12 13.336 -89.761  32 2.9 C  29 Km al sur de Acajutla, El Salvador
