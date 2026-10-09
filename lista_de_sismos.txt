@@ -11509,3 +11509,4 @@
 26/10/09 14:46:09  7.650 -81.417   1 4.7 C  24 Km al noroeste de Punta Coca, Panamá
 26/10/09 14:54:56  7.568 -81.456  10 4.8 C  25 Km al noroeste de Isla Tintorera, Panamá
 26/10/09 14:55:31  9.133 -83.555   8 4.0 A  36 Km al norte de Dominical, Costa Rica
+26/10/09 15:05:25  7.711 -81.374  10 4.9 C  25 Km al noroeste de Punta Coca, Panamá
