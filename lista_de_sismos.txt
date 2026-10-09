@@ -11484,3 +11484,5 @@
 26/10/09 11:56:38  8.692 -82.548   6 6.4 C  18 Km al sur de Cerro Punta, Panamá
 26/10/09 11:56:06  7.675 -80.411  10 7.4 C  17 Km al norte de Llano de Piedras, Panamá
 26/10/09 12:07:18 13.702 -90.792  26 4.8 C  27 Km al sur de Iztapa, Guatemala
+26/10/09 12:22:17  7.479 -80.188  10 6.1 C  29 Km al norte de Tonosí, Panamá
+26/10/09 12:37:42  6.980 -80.070  26 6.4 C  63 Km al sureste de Tonosí, Panamá
