@@ -11512,3 +11512,4 @@
 26/10/09 15:05:25  7.711 -81.374  10 4.9 C  25 Km al noroeste de Punta Coca, Panamá
 26/10/09 15:21:24 13.995 -92.388  45 3.7 C  61 Km al sur de San Marcos, Guatemala
 26/10/09 15:33:58  7.299 -80.795  15 4.6 C  14 Km al norte de Desembocadura de Rio Varadero, Panamá
+26/10/09 15:47:47  7.756 -81.378   5 4.8 A  29 Km al noroeste de Punta Coca, Panamá
