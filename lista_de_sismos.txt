@@ -11470,3 +11470,4 @@
 26/10/08 21:08:11  4.275 -76.952  72 2.9 C 267 Km al suroeste de Medellin, Colombia
 26/10/08 22:50:42  8.221 -82.793  15 2.4 C   9 Km al sureste de Puerto Armuelles, Panamá
 26/10/08 22:57:09 14.377 -90.093   5 2.5 C  24 Km al noroeste de Jutiapa, Guatemala
+26/10/08 23:44:06 13.290 -90.217  17 2.9 C  53 Km al suroeste de Acajutla, El Salvador
