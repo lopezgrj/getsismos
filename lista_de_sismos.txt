@@ -11493,3 +11493,6 @@
 26/10/09 13:04:50  7.619 -81.242  10 5.2 C   8 Km al norte de Punta Coca, Panamá
 26/10/09 13:15:04  7.268 -80.948  10 5.1 C   3 Km al suroeste de Desembocadura de Rio Varadero, Panamá
 26/10/09 13:17:19  7.461 -80.850  11 5.2 C  21 Km al noreste de Desembocadura de Rio Varadero, Panamá
+26/10/09 13:22:27  7.536 -81.326  10 5.0 C  11 Km al noroeste de Isla Tintorera, Panamá
+26/10/09 13:24:37  7.706 -81.169   1 5.0 C  16 Km al norte de Gobernadora, Veraguas, Panamá
+26/10/09 13:28:09  7.676 -80.430  15 4.7 C  15 Km al norte de Llano de Piedras, Panamá
