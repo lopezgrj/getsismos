@@ -11496,3 +11496,5 @@
 26/10/09 13:22:27  7.536 -81.326  10 5.0 C  11 Km al noroeste de Isla Tintorera, Panamá
 26/10/09 13:24:37  7.706 -81.169   1 5.0 C  16 Km al norte de Gobernadora, Veraguas, Panamá
 26/10/09 13:28:09  7.676 -80.430  15 4.7 C  15 Km al norte de Llano de Piedras, Panamá
+26/10/09 13:24:36  7.510 -81.029  15 5.0 C  18 Km al norte de Gobernadora, Veraguas, Panamá
+26/10/09 13:48:44  7.137 -80.642   1 5.9 C  35 Km al sureste de Desembocadura de Rio Varadero, Panamá
