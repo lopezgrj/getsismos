@@ -11488,3 +11488,4 @@
 26/10/09 12:37:42  6.980 -80.070  26 6.4 C  63 Km al sureste de Tonosí, Panamá
 26/10/09 12:33:21  7.326 -80.613  10 5.5 C  21 Km al suroeste de Tonosí, Panamá
 26/10/09 12:37:48  7.473 -80.335  10 6.4 C  14 Km al noreste de Tonosí, Panamá
+26/10/09 12:33:26  7.762 -80.734  18 5.3 C  20 Km al oeste de Macaracas, Panamá
