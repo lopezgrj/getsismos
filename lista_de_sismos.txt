@@ -11468,3 +11468,5 @@
 26/10/08 19:25:47  5.627 -82.711   5 4.4 C 208 Km al suroeste de Isla Jicarón, Panamá
 26/10/08 19:36:47  7.971 -83.017  13 2.6 C  22 Km al suroeste de Limones, Distrito Barú, Panamá
 26/10/08 21:08:11  4.275 -76.952  72 2.9 C 267 Km al suroeste de Medellin, Colombia
+26/10/08 22:50:42  8.221 -82.793  15 2.4 C   9 Km al sureste de Puerto Armuelles, Panamá
+26/10/08 22:57:09 14.377 -90.093   5 2.5 C  24 Km al noroeste de Jutiapa, Guatemala
