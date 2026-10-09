@@ -11467,3 +11467,4 @@
 26/10/08 19:23:37 12.085 -87.699   8 3.0 C  73 Km al suroeste de Corinto, Nicaragua
 26/10/08 19:25:47  5.627 -82.711   5 4.4 C 208 Km al suroeste de Isla Jicarón, Panamá
 26/10/08 19:36:47  7.971 -83.017  13 2.6 C  22 Km al suroeste de Limones, Distrito Barú, Panamá
+26/10/08 21:08:11  4.275 -76.952  72 2.9 C 267 Km al suroeste de Medellin, Colombia
