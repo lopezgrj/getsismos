@@ -11489,3 +11489,7 @@
 26/10/09 12:33:21  7.326 -80.613  10 5.5 C  21 Km al suroeste de Tonosí, Panamá
 26/10/09 12:37:48  7.473 -80.335  10 6.4 C  14 Km al noreste de Tonosí, Panamá
 26/10/09 12:33:26  7.762 -80.734  18 5.3 C  20 Km al oeste de Macaracas, Panamá
+26/10/09 12:42:25  7.615 -81.205   1 5.7 C   7 Km al norte de Gobernadora, Veraguas, Panamá
+26/10/09 13:04:50  7.619 -81.242  10 5.2 C   8 Km al norte de Punta Coca, Panamá
+26/10/09 13:15:04  7.268 -80.948  10 5.1 C   3 Km al suroeste de Desembocadura de Rio Varadero, Panamá
+26/10/09 13:17:19  7.461 -80.850  11 5.2 C  21 Km al noreste de Desembocadura de Rio Varadero, Panamá
