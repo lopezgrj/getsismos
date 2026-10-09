@@ -11481,3 +11481,4 @@
 26/10/09 06:33:43 11.583 -86.092 162 4.5 C  12 Km al noreste de El Astillero, Nicaragua
 26/10/09 06:33:44 11.584 -86.079 152 4.6 C  14 Km al noreste de El Astillero, Nicaragua
 26/10/09 07:14:54 13.167 -90.418  10 3.4 C  74 Km al sur de Las Brisas, Guatemala
+26/10/09 11:56:38  8.692 -82.548   6 6.4 C  18 Km al sur de Cerro Punta, Panamá
