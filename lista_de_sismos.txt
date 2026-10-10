@@ -11572,3 +11572,6 @@
 26/10/10 03:48:14  7.150 -79.682  10 5.1 C  88 Km al norte de Tonosí, Panamá
 26/10/10 03:52:44  7.603 -81.353   5 4.0 C  16 Km al noroeste de Punta Coca, Panamá
 26/10/10 04:59:59  7.690 -81.439   9 4.0 C  29 Km al noroeste de Punta Coca, Panamá
+26/10/10 05:28:53  7.823 -82.798   8 4.7 C  32 Km al sur de Limones, Distrito Barú, Panamá
+26/10/10 05:35:58  7.835 -82.845  16 3.5 A  30 Km al sur de Limones, Distrito Barú, Panamá
+26/10/10 05:36:57  7.847 -82.766   5 4.1 C  30 Km al sur de Limones, Distrito Barú, Panamá
