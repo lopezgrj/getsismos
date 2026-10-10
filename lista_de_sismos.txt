@@ -11601,3 +11601,4 @@
 26/10/10 10:05:42  7.476 -80.447  10 5.5 C   8 Km al norte de Tonosí, Panamá
 26/10/10 10:41:33 13.060 -88.695  53 3.4 C  26 Km al sureste de Delta del Rio Lempa, El Salvador
 26/10/10 11:39:47  7.504 -80.599   1 4.5 C  18 Km al sur de Llano de Piedras, Panamá
+26/10/10 12:45:03  7.402 -80.472  22 4.6 C   4 Km al oeste de Tonosí, Panamá
