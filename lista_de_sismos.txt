@@ -11568,3 +11568,7 @@
 26/10/10 03:48:14  7.150 -79.682  10 5.0 C  88 Km al norte de Tonosí, Panamá
 26/10/10 04:17:49  7.504 -81.366  10 4.2 C  13 Km al oeste de Isla Tintorera, Panamá
 26/10/10 04:35:12  7.608 -81.366   9 5.3 C  17 Km al noroeste de Punta Coca, Panamá
+26/10/10 03:45:39  7.500 -80.772  12 4.5 C  29 Km al noreste de Desembocadura de Rio Varadero, Panamá
+26/10/10 03:48:14  7.150 -79.682  10 5.1 C  88 Km al norte de Tonosí, Panamá
+26/10/10 03:52:44  7.603 -81.353   5 4.0 C  16 Km al noroeste de Punta Coca, Panamá
+26/10/10 04:59:59  7.690 -81.439   9 4.0 C  29 Km al noroeste de Punta Coca, Panamá
