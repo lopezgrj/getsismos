@@ -11582,3 +11582,5 @@
 26/10/10 05:36:58  7.863 -82.792   3 4.2 C  28 Km al sur de Limones, Distrito Barú, Panamá
 26/10/10 06:34:08  7.585 -80.911  15 5.2 C  31 Km al norte de Gobernadora, Veraguas, Panamá
 26/10/10 06:46:40  7.522 -80.121  23 4.4 C  32 Km al sureste de Las Tablas, Panamá
+26/10/10 06:49:01  7.764 -81.439   1 4.5 C  34 Km al noroeste de Punta Coca, Panamá
+26/10/10 07:01:40  7.279 -81.091  10 3.9 C  19 Km al oeste de Desembocadura de Rio Varadero, Panamá
