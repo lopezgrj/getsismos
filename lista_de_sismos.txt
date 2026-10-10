@@ -11589,3 +11589,6 @@
 26/10/10 07:46:55  7.440 -80.424   1 5.5 C   4 Km al noreste de Tonosí, Panamá
 26/10/10 07:46:57  7.496 -80.428   6 5.0 C  10 Km al norte de Tonosí, Panamá
 26/10/10 01:24:33  7.516 -80.650   8 4.5 C  19 Km al suroeste de Llano de Piedras, Panamá
+26/10/09 17:23:13  7.616 -81.299   8 5.1 C  11 Km al noroeste de Punta Coca, Panamá
+26/10/10 00:04:18  7.704 -81.025  10 4.4 C  24 Km al noreste de Gobernadora, Veraguas, Panamá
+26/10/10 00:30:04  7.327 -79.866  10 5.6 C  64 Km al norte de Tonosí, Panamá
