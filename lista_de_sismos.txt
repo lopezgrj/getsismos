@@ -11616,3 +11616,4 @@
 26/10/10 14:36:19  7.545 -80.411  10 4.4 C  16 Km al norte de Tonosí, Panamá
 26/10/10 14:58:06  4.454 -76.944  61 3.3 C 250 Km al suroeste de Medellin, Colombia
 26/10/10 15:11:26 12.976 -89.971  12 3.0 C  70 Km al sur de Acajutla, El Salvador
+26/10/10 15:42:18  9.146 -84.797   3 3.4 C  55 Km al sur de Jacó, Costa Rica
