@@ -11537,3 +11537,7 @@
 26/10/09 20:51:32 11.125 -87.800  15 3.0 C 158 Km al suroeste de El Transito, Nicaragua
 26/10/09 21:25:38  7.427 -80.418  10 4.8 C   3 Km al noreste de Tonosí, Panamá
 26/10/09 21:52:05 11.824 -88.139  28 2.8 C 126 Km al suroeste de Jiquilillo, Nicaragua
+26/10/09 21:52:04 11.828 -88.132  15 2.8 C 125 Km al suroeste de Jiquilillo, Nicaragua
+26/10/09 21:56:17  7.335 -80.435  21 4.8 C   8 Km al sur de Tonosí, Panamá
+26/10/09 22:10:56  7.799 -81.622  10 4.3 C  22 Km al noreste de Isla de Coiba, Panamá
+26/10/09 22:13:55  7.237 -80.119  13 7.0 C  40 Km al sureste de Tonosí, Panamá
