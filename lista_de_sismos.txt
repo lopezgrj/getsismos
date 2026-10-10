@@ -11565,3 +11565,6 @@
 26/10/10 03:45:38  7.492 -80.767   8 4.5 A  29 Km al noreste de Desembocadura de Rio Varadero, Panamá
 26/10/10 04:18:04  8.309 -82.073  13 3.6 A  41 Km al norte de Chiriqui, Panamá
 26/10/10 04:44:25 12.106 -86.919 134 2.5 C  20 Km al suroeste de Puerto Sandino, Nicaragua
+26/10/10 03:48:14  7.150 -79.682  10 5.0 C  88 Km al norte de Tonosí, Panamá
+26/10/10 04:17:49  7.504 -81.366  10 4.2 C  13 Km al oeste de Isla Tintorera, Panamá
+26/10/10 04:35:12  7.608 -81.366   9 5.3 C  17 Km al noroeste de Punta Coca, Panamá
