@@ -11558,3 +11558,4 @@
 26/10/10 00:47:50  7.408 -79.955  15 4.7 C  54 Km al norte de Tonosí, Panamá
 26/10/10 01:13:29  7.469 -80.530  10 4.5 C  12 Km al noroeste de Tonosí, Panamá
 26/10/10 01:24:33  7.454 -80.536 119 4.7 C  12 Km al noroeste de Tonosí, Panamá
+26/10/10 01:31:18  7.687 -81.176  10 4.0 C  14 Km al norte de Gobernadora, Veraguas, Panamá
