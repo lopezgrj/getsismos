@@ -11534,3 +11534,6 @@
 26/10/09 20:26:34  7.464 -80.380  11 5.1 C   9 Km al noreste de Tonosí, Panamá
 26/10/09 20:43:37  7.425 -80.997  18 5.2 C  17 Km al noroeste de Desembocadura de Rio Varadero, Panamá
 26/10/09 21:26:58  7.387 -80.389   6 4.8 C   6 Km al norte de Tonosí, Panamá
+26/10/09 20:51:32 11.125 -87.800  15 3.0 C 158 Km al suroeste de El Transito, Nicaragua
+26/10/09 21:25:38  7.427 -80.418  10 4.8 C   3 Km al noreste de Tonosí, Panamá
+26/10/09 21:52:05 11.824 -88.139  28 2.8 C 126 Km al suroeste de Jiquilillo, Nicaragua
