@@ -11588,3 +11588,4 @@
 26/10/10 07:22:12  7.464 -80.175   8 4.8 C  30 Km al norte de Tonosí, Panamá
 26/10/10 07:46:55  7.440 -80.424   1 5.5 C   4 Km al noreste de Tonosí, Panamá
 26/10/10 07:46:57  7.496 -80.428   6 5.0 C  10 Km al norte de Tonosí, Panamá
+26/10/10 01:24:33  7.516 -80.650   8 4.5 C  19 Km al suroeste de Llano de Piedras, Panamá
