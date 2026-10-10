@@ -11519,3 +11519,8 @@
 26/10/09 17:12:40  7.563 -80.060   8 5.5 C  33 Km al sureste de Las Tablas, Panamá
 26/10/09 17:23:06  6.897 -80.963  92 5.3 C  44 Km al sur de Desembocadura de Rio Varadero, Panamá
 26/10/09 17:57:37  7.303 -81.237  27 4.8 C  19 Km al sur de Isla Tintorera, Panamá
+26/10/09 17:54:25  7.154 -79.946  22 4.8 C  61 Km al sureste de Tonosí, Panamá
+26/10/09 18:03:07  7.329 -80.083  12 4.9 C  40 Km al norte de Tonosí, Panamá
+26/10/09 18:18:47  6.390 -82.024  10 4.2 C 100 Km al sur de Isla Jicarón, Panamá
+26/10/09 18:45:19  7.395 -79.967   1 4.6 C  52 Km al norte de Tonosí, Panamá
+26/10/09 18:51:47  7.502 -80.572  10 5.1 C  18 Km al sur de Llano de Piedras, Panamá
