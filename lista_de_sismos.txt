@@ -11586,3 +11586,4 @@
 26/10/10 07:01:40  7.279 -81.091  10 3.9 C  19 Km al oeste de Desembocadura de Rio Varadero, Panamá
 26/10/10 07:01:43  7.530 -81.158   9 4.1 C   5 Km al sureste de Gobernadora, Veraguas, Panamá
 26/10/10 07:22:12  7.464 -80.175   8 4.8 C  30 Km al norte de Tonosí, Panamá
+26/10/10 07:46:55  7.440 -80.424   1 5.5 C   4 Km al noreste de Tonosí, Panamá
