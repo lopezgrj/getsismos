@@ -11597,3 +11597,5 @@
 26/10/10 08:59:25  7.882 -81.372   5 4.6 A  40 Km al noroeste de Punta Coca, Panamá
 26/10/09 22:14:01  7.487 -80.413  12 6.6 C   9 Km al norte de Tonosí, Panamá
 26/10/10 08:59:22  7.535 -81.306  10 4.7 C   9 Km al noroeste de Isla Tintorera, Panamá
+26/10/10 09:58:20  7.608 -80.856  10 5.1 C  33 Km al oeste de Llano de Piedras, Panamá
+26/10/10 10:05:42  7.476 -80.447  10 5.5 C   8 Km al norte de Tonosí, Panamá
