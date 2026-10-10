@@ -11605,3 +11605,5 @@
 26/10/10 12:45:04  7.627 -80.496   8 4.6 C   8 Km al sureste de Llano de Piedras, Panamá
 26/10/10 00:27:10  7.313 -79.953  10 5.0 C  55 Km al norte de Tonosí, Panamá
 26/10/10 13:08:37  7.501 -80.514   1 4.2 C  13 Km al noroeste de Tonosí, Panamá
+26/10/10 13:24:45  7.545 -80.574   5 4.2 C  13 Km al sur de Llano de Piedras, Panamá
+26/10/10 13:31:33 12.850 -90.001  13 3.0 C  84 Km al sur de Acajutla, El Salvador
