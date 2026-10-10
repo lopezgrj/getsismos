@@ -11607,3 +11607,6 @@
 26/10/10 13:08:37  7.501 -80.514   1 4.2 C  13 Km al noroeste de Tonosí, Panamá
 26/10/10 13:24:45  7.545 -80.574   5 4.2 C  13 Km al sur de Llano de Piedras, Panamá
 26/10/10 13:31:33 12.850 -90.001  13 3.0 C  84 Km al sur de Acajutla, El Salvador
+26/10/10 13:33:31 12.948 -89.984  12 2.9 C  73 Km al sur de Acajutla, El Salvador
+26/10/10 13:40:35  7.506 -81.566   5 3.6 C  13 Km al norte de Isla de Coiba, Panamá
+26/10/10 13:44:39  7.461 -80.830   6 4.1 C  22 Km al noreste de Desembocadura de Rio Varadero, Panamá
