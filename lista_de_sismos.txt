@@ -11618,3 +11618,4 @@
 26/10/10 15:11:26 12.976 -89.971  12 3.0 C  70 Km al sur de Acajutla, El Salvador
 26/10/10 15:42:18  9.146 -84.797   3 3.4 C  55 Km al sur de Jacó, Costa Rica
 26/10/10 16:05:34  7.197 -79.821   1 4.6 C  72 Km al norte de Tonosí, Panamá
+26/10/10 17:06:57  7.450 -81.445  10 4.4 C  21 Km al noreste de Isla de Coiba, Panamá
