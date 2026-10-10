@@ -11549,3 +11549,4 @@
 26/10/09 23:26:06  7.455 -80.316  17 4.5 C  15 Km al norte de Tonosí, Panamá
 26/10/09 23:38:16  8.466 -80.719   5 4.1 A  41 Km al oeste de Penanome, Panamá
 26/10/09 23:38:17  7.615 -81.131   7 4.0 C   9 Km al noreste de Gobernadora, Veraguas, Panamá
+26/10/09 23:56:18  7.408 -82.065   2 4.5 C  23 Km al suroeste de Isla de Coiba, Panamá
