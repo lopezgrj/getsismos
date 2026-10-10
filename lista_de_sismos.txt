@@ -11592,3 +11592,5 @@
 26/10/09 17:23:13  7.616 -81.299   8 5.1 C  11 Km al noroeste de Punta Coca, Panamá
 26/10/10 00:04:18  7.704 -81.025  10 4.4 C  24 Km al noreste de Gobernadora, Veraguas, Panamá
 26/10/10 00:30:04  7.327 -79.866  10 5.6 C  64 Km al norte de Tonosí, Panamá
+26/10/10 00:30:03  7.326 -79.875   1 5.6 C  63 Km al norte de Tonosí, Panamá
+26/10/10 08:42:04 13.436 -89.742  67 2.4 C  20 Km al sureste de Acajutla, El Salvador
