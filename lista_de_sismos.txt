@@ -11561,3 +11561,4 @@
 26/10/10 01:31:18  7.687 -81.176  10 4.0 C  14 Km al norte de Gobernadora, Veraguas, Panamá
 26/10/10 01:47:29 13.967 -91.999 122 3.7 C  37 Km al sur de Champerico, Guatemala
 26/10/10 03:00:53  7.863 -81.013   1 4.4 C  27 Km al sur de Santiago, Veraguas, Panamá
+26/10/10 03:19:09  7.217 -81.031   6 4.4 C  14 Km al suroeste de Desembocadura de Rio Varadero, Panamá
