@@ -11546,3 +11546,5 @@
 26/10/09 23:11:07 12.049 -88.249  28 4.0 C 113 Km al suroeste de Punta Cosigüina, Nicaragua
 26/10/09 23:15:11  7.389 -81.258  10 4.3 C  10 Km al sur de Isla Tintorera, Panamá
 26/10/09 23:21:09  7.776 -81.394  10 4.7 C  32 Km al noroeste de Punta Coca, Panamá
+26/10/09 23:26:06  7.455 -80.316  17 4.5 C  15 Km al norte de Tonosí, Panamá
+26/10/09 23:38:16  8.466 -80.719   5 4.1 A  41 Km al oeste de Penanome, Panamá
