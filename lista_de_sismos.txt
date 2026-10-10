@@ -11527,3 +11527,5 @@
 26/10/09 18:57:37  7.348 -80.458   1 4.5 C   7 Km al sur de Tonosí, Panamá
 26/10/09 19:11:42  7.251 -79.724   1 5.7 C  81 Km al norte de Tonosí, Panamá
 26/10/09 19:35:49  7.706 -81.368  15 4.9 C  24 Km al noroeste de Punta Coca, Panamá
+26/10/09 19:35:49  7.749 -81.374   9 4.9 C  28 Km al noroeste de Punta Coca, Panamá
+26/10/09 19:43:27  7.509 -80.380   1 4.3 C  13 Km al noreste de Tonosí, Panamá
