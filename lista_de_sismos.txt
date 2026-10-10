@@ -11556,3 +11556,5 @@
 26/10/10 00:27:02  6.908 -79.416  10 5.5 C 126 Km al sureste de Tonosí, Panamá
 26/10/10 00:30:02  7.437 -79.641 164 5.4 C  79 Km al sureste de Las Tablas, Panamá
 26/10/10 00:47:50  7.408 -79.955  15 4.7 C  54 Km al norte de Tonosí, Panamá
+26/10/10 01:13:29  7.469 -80.530  10 4.5 C  12 Km al noroeste de Tonosí, Panamá
+26/10/10 01:24:33  7.454 -80.536 119 4.7 C  12 Km al noroeste de Tonosí, Panamá
