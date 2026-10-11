@@ -11645,3 +11645,4 @@
 26/10/11 02:52:18  8.371 -82.837  22 2.7 C   4 Km al noroeste de Rodolfo Aguilar Delgado, Panamá
 26/10/11 02:54:05  8.374 -82.864  19 3.2 C   6 Km al noroeste de Rodolfo Aguilar Delgado, Panamá
 26/10/11 03:41:29  7.345 -82.466   2 3.5 C  67 Km al oeste de Isla de Coiba, Panamá
+26/10/11 04:06:25  8.083 -82.911  10 3.6 C   5 Km al oeste de Limones, Distrito Barú, Panamá
