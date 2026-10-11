@@ -11631,3 +11631,6 @@
 26/10/10 20:11:32  7.416 -80.728   1 4.4 C  26 Km al noreste de Desembocadura de Rio Varadero, Panamá
 26/10/10 20:21:08  7.717 -81.455  10 3.9 C  32 Km al noreste de Isla de Coiba, Panamá
 26/10/10 20:27:16  7.289 -80.433   1 3.8 C  13 Km al sur de Tonosí, Panamá
+26/10/10 20:55:06  7.490 -80.395  10 4.4 C  10 Km al noreste de Tonosí, Panamá
+26/10/10 21:18:12  7.317 -80.520  10 5.1 C  13 Km al suroeste de Tonosí, Panamá
+26/10/10 21:24:27 11.127 -87.520  22 3.6 C 132 Km al suroeste de Masachapa, Nicaragua
