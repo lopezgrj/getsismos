@@ -11655,3 +11655,5 @@
 26/10/11 09:28:27 10.100 -84.072  10 2.3 C  11 Km al sureste de Vara Blanca, Costa Rica
 26/10/11 11:11:27  7.523 -81.601   1 5.0 C   9 Km al norte de Isla de Coiba, Panamá
 26/10/11 11:13:20 11.852 -86.344  94 2.9 A  11 Km al oeste de Diriamba, Nicaragua
+26/10/11 11:12:56 12.164 -87.470   5 4.0 C  49 Km al suroeste de Corinto, Nicaragua
+26/10/11 11:14:14  4.489 -76.772  14 4.0 C 236 Km al suroeste de Medellin, Colombia
