@@ -11667,3 +11667,6 @@
 26/10/11 15:30:12  7.525 -81.432  10 4.4 C  21 Km al oeste de Isla Tintorera, Panamá
 26/10/11 16:25:36  7.547 -81.438   5 4.5 C  22 Km al oeste de Isla Tintorera, Panamá
 26/10/11 16:43:40 12.867 -87.283  10 1.2 C  12 Km al oeste de Puerto Morazán, Nicaragua
+26/10/11 16:46:57 10.132 -84.203   8 2.1 C   7 Km al suroeste de Vara Blanca, Costa Rica
+26/10/11 16:48:34  8.483 -83.122  16 2.0 C  24 Km al oeste de Laurel, Costa Rica
+26/10/11 16:54:58  9.239 -84.800  13 2.5 C  46 Km al suroeste de Jacó, Costa Rica
