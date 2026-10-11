@@ -11653,3 +11653,5 @@
 26/10/11 09:18:50 12.849 -87.291  17 2.3 C  13 Km al oeste de Puerto Morazán, Nicaragua
 26/10/11 09:18:50 12.853 -87.280   9 2.2 C  12 Km al oeste de Puerto Morazán, Nicaragua
 26/10/11 09:28:27 10.100 -84.072  10 2.3 C  11 Km al sureste de Vara Blanca, Costa Rica
+26/10/11 11:11:27  7.523 -81.601   1 5.0 C   9 Km al norte de Isla de Coiba, Panamá
+26/10/11 11:13:20 11.852 -86.344  94 2.9 A  11 Km al oeste de Diriamba, Nicaragua
