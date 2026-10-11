@@ -11635,3 +11635,4 @@
 26/10/10 21:18:12  7.317 -80.520  10 5.1 C  13 Km al suroeste de Tonosí, Panamá
 26/10/10 21:24:27 11.127 -87.520  22 3.6 C 132 Km al suroeste de Masachapa, Nicaragua
 26/10/10 21:31:19  7.253 -80.605  10 4.5 C  25 Km al suroeste de Tonosí, Panamá
+26/10/10 22:12:39  7.617 -81.476  10 3.6 C  24 Km al norte de Isla de Coiba, Panamá
