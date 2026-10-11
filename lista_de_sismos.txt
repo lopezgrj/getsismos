@@ -11659,3 +11659,5 @@
 26/10/11 11:14:14  4.489 -76.772  14 4.0 C 236 Km al suroeste de Medellin, Colombia
 26/10/11 11:12:55 12.355 -87.491   1 4.0 C  37 Km al suroeste de Pasocaballos, El Realejo, Nicaragua
 26/10/11 11:45:10 13.475 -88.432  15 2.1 A  14 Km al norte de Usulután, El Salvador
+26/10/11 11:14:14  4.432 -76.761   8 4.0 C 240 Km al suroeste de Medellin, Colombia
+26/10/11 11:44:59 12.885 -88.788  26 3.0 C  41 Km al sur de Delta del Rio Lempa, El Salvador
