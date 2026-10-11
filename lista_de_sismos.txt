@@ -11641,3 +11641,4 @@
 26/10/11 01:06:25  7.306 -82.472  12 3.8 C  69 Km al oeste de Isla de Coiba, Panamá
 26/10/11 01:18:00  7.655 -81.370   5 3.5 C  20 Km al noroeste de Punta Coca, Panamá
 26/10/11 02:13:57  7.324 -80.129   9 4.7 C  36 Km al norte de Tonosí, Panamá
+26/10/11 02:52:18  8.371 -82.837  22 2.6 C   4 Km al noroeste de Rodolfo Aguilar Delgado, Panamá
