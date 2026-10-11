@@ -11651,3 +11651,5 @@
 26/10/11 06:07:55  7.755 -81.333   5 4.2 C  26 Km al noroeste de Punta Coca, Panamá
 26/10/11 06:49:04  7.676 -81.516  10 4.1 C  23 Km al noreste de Isla de Coiba, Panamá
 26/10/11 09:18:50 12.849 -87.291  17 2.3 C  13 Km al oeste de Puerto Morazán, Nicaragua
+26/10/11 09:18:50 12.853 -87.280   9 2.2 C  12 Km al oeste de Puerto Morazán, Nicaragua
+26/10/11 09:28:27 10.100 -84.072  10 2.3 C  11 Km al sureste de Vara Blanca, Costa Rica
