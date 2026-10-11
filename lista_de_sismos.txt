@@ -11657,3 +11657,5 @@
 26/10/11 11:13:20 11.852 -86.344  94 2.9 A  11 Km al oeste de Diriamba, Nicaragua
 26/10/11 11:12:56 12.164 -87.470   5 4.0 C  49 Km al suroeste de Corinto, Nicaragua
 26/10/11 11:14:14  4.489 -76.772  14 4.0 C 236 Km al suroeste de Medellin, Colombia
+26/10/11 11:12:55 12.355 -87.491   1 4.0 C  37 Km al suroeste de Pasocaballos, El Realejo, Nicaragua
+26/10/11 11:45:10 13.475 -88.432  15 2.1 A  14 Km al norte de Usulután, El Salvador
