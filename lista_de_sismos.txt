@@ -11647,3 +11647,4 @@
 26/10/11 03:41:29  7.345 -82.466   2 3.5 C  67 Km al oeste de Isla de Coiba, Panamá
 26/10/11 04:06:25  8.083 -82.911  10 3.6 C   5 Km al oeste de Limones, Distrito Barú, Panamá
 26/10/11 05:12:05  8.025 -82.332   7 3.4 A  46 Km al sur de Chiriqui, Panamá
+26/10/11 05:11:55  7.409 -81.754  10 4.0 C   6 Km al noreste de Isla de Coiba, Panamá
