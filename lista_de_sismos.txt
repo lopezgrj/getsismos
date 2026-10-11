@@ -11665,3 +11665,4 @@
 26/10/11 14:38:51  7.689 -81.477   5 3.6 C  28 Km al noreste de Isla de Coiba, Panamá
 26/10/11 15:19:18  7.601 -81.536   5 5.0 C  17 Km al norte de Isla de Coiba, Panamá
 26/10/11 15:30:12  7.525 -81.432  10 4.4 C  21 Km al oeste de Isla Tintorera, Panamá
+26/10/11 16:25:36  7.547 -81.438   5 4.5 C  22 Km al oeste de Isla Tintorera, Panamá
