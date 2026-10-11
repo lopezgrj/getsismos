@@ -11638,3 +11638,5 @@
 26/10/10 22:12:39  7.617 -81.476  10 3.6 C  24 Km al norte de Isla de Coiba, Panamá
 26/10/10 22:59:38  7.262 -81.368  10 4.5 C  26 Km al norte de Isla de Coiba, Panamá
 26/10/10 23:33:10  7.353 -80.279  10 4.4 C  19 Km al norte de Tonosí, Panamá
+26/10/11 01:06:25  7.306 -82.472  12 3.8 C  69 Km al oeste de Isla de Coiba, Panamá
+26/10/11 01:18:00  7.655 -81.370   5 3.5 C  20 Km al noroeste de Punta Coca, Panamá
