@@ -11642,3 +11642,5 @@
 26/10/11 01:18:00  7.655 -81.370   5 3.5 C  20 Km al noroeste de Punta Coca, Panamá
 26/10/11 02:13:57  7.324 -80.129   9 4.7 C  36 Km al norte de Tonosí, Panamá
 26/10/11 02:52:18  8.371 -82.837  22 2.6 C   4 Km al noroeste de Rodolfo Aguilar Delgado, Panamá
+26/10/11 02:52:18  8.371 -82.837  22 2.7 C   4 Km al noroeste de Rodolfo Aguilar Delgado, Panamá
+26/10/11 02:54:05  8.374 -82.864  19 3.2 C   6 Km al noroeste de Rodolfo Aguilar Delgado, Panamá
