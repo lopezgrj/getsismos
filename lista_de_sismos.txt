@@ -11673,3 +11673,5 @@
 26/10/11 17:20:31 12.530 -89.946   4 4.3 C 118 Km al sur de Acajutla, El Salvador
 26/10/11 17:41:32 11.557 -87.658  28 3.1 C 113 Km al suroeste de Las Penitas, Nicaragua
 26/10/11 18:49:56 14.109 -92.996   9 4.5 C  94 Km al suroeste de El Gancho México
+26/10/11 21:17:20  7.353 -81.429  10 4.0 C  18 Km al norte de Isla de Coiba, Panamá
+26/10/11 21:19:28  7.495 -80.334   1 4.2 C  15 Km al noreste de Tonosí, Panamá
