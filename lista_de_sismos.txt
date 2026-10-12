@@ -11675,3 +11675,5 @@
 26/10/11 18:49:56 14.109 -92.996   9 4.5 C  94 Km al suroeste de El Gancho México
 26/10/11 21:17:20  7.353 -81.429  10 4.0 C  18 Km al norte de Isla de Coiba, Panamá
 26/10/11 21:19:28  7.495 -80.334   1 4.2 C  15 Km al noreste de Tonosí, Panamá
+26/10/11 21:17:21  7.179 -81.406  32 4.0 C  26 Km al sureste de Isla de Coiba, Panamá
+26/10/11 21:40:52 12.792 -88.606   1 2.4 C  57 Km al sureste de Delta del Rio Lempa, El Salvador
