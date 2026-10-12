@@ -11724,3 +11724,5 @@
 26/10/12 01:16:01  7.344 -80.879   1 4.7 C   8 Km al noreste de Desembocadura de Rio Varadero, Panamá
 26/10/12 14:02:54  9.079 -82.227  15 3.5 C  29 Km al sur de Bocas del Toro, Panamá
 26/10/12 14:05:24  7.684 -81.541   2 5.0 C  22 Km al noreste de Isla de Coiba, Panamá
+26/10/12 14:11:39  7.670 -81.514   1 4.0 C  23 Km al noreste de Isla de Coiba, Panamá
+26/10/12 14:18:23  7.412 -80.077   1 4.1 C  40 Km al norte de Tonosí, Panamá
