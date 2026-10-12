@@ -11706,3 +11706,4 @@
 26/10/12 09:54:36 14.375 -90.095   3 3.8 C  24 Km al noroeste de Jutiapa, Guatemala
 26/10/12 10:00:10 14.359 -90.098   4 2.9 C  24 Km al oeste de Jutiapa, Guatemala
 26/10/10 07:46:58  7.496 -80.347  10 5.0 C  14 Km al noreste de Tonosí, Panamá
+26/10/09 18:18:51  7.583 -81.170   1 4.1 C   3 Km al noreste de Gobernadora, Veraguas, Panamá
