@@ -11701,3 +11701,5 @@
 26/10/12 09:05:38 13.003 -89.120  35 3.1 C  42 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/10/12 09:38:28 14.370 -90.102   1 4.5 C  24 Km al noreste de Cuilapa, Guatemala
 26/10/12 09:42:26 12.503 -88.183  28 3.8 C  70 Km al suroeste de Punta Cosigüina, Nicaragua
+26/10/12 09:42:26 12.509 -88.186  29 3.8 C  70 Km al suroeste de Punta Cosigüina, Nicaragua
+26/10/12 09:54:35 14.373 -90.099   4 3.5 C  24 Km al noroeste de Jutiapa, Guatemala
