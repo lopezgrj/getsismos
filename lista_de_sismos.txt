@@ -11735,3 +11735,6 @@
 26/10/12 16:21:24 12.463 -87.912  28 3.2 C  55 Km al suroeste de Mechapa, Chinandega, Nicaragua
 26/10/09 11:56:06  7.675 -80.411  10 7.8 C  17 Km al norte de Llano de Piedras, Panamá
 26/10/12 17:20:36  7.636 -81.481   5 6.6 C  24 Km al noreste de Isla de Coiba, Panamá
+26/10/12 17:20:37  7.538 -81.457  20 6.6 C  24 Km al oeste de Isla Tintorera, Panamá
+26/10/12 17:27:48  7.404 -81.441  10 5.3 C  19 Km al noreste de Isla de Coiba, Panamá
+26/10/12 17:36:46  7.718 -81.516   5 4.9 C  27 Km al noreste de Isla de Coiba, Panamá
