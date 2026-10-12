@@ -11677,3 +11677,5 @@
 26/10/11 21:19:28  7.495 -80.334   1 4.2 C  15 Km al noreste de Tonosí, Panamá
 26/10/11 21:17:21  7.179 -81.406  32 4.0 C  26 Km al sureste de Isla de Coiba, Panamá
 26/10/11 21:40:52 12.792 -88.606   1 2.4 C  57 Km al sureste de Delta del Rio Lempa, El Salvador
+26/10/11 22:06:16  7.300 -80.439  33 4.6 C  12 Km al sur de Tonosí, Panamá
+26/10/11 22:14:54  7.173 -80.013   1 5.2 C  54 Km al sureste de Tonosí, Panamá
