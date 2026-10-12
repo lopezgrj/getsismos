@@ -11679,3 +11679,5 @@
 26/10/11 21:40:52 12.792 -88.606   1 2.4 C  57 Km al sureste de Delta del Rio Lempa, El Salvador
 26/10/11 22:06:16  7.300 -80.439  33 4.6 C  12 Km al sur de Tonosí, Panamá
 26/10/11 22:14:54  7.173 -80.013   1 5.2 C  54 Km al sureste de Tonosí, Panamá
+26/10/11 22:35:12  9.186 -82.246   1 2.8 C  17 Km al sur de Bocas del Toro, Panamá
+26/10/11 22:51:08 13.338 -90.057  27 2.6 C  37 Km al suroeste de Acajutla, El Salvador
