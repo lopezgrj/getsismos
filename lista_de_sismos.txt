@@ -11695,3 +11695,4 @@
 26/10/12 06:03:03  7.231 -82.462   1 4.1 C  71 Km al suroeste de Isla de Coiba, Panamá
 26/10/12 06:55:26 13.712 -89.089   6 3.1 C   3 Km al noreste de Ilopango, El Salvador
 26/10/12 07:28:48 13.706 -89.091   8 2.9 C   3 Km al noreste de Ilopango, El Salvador
+26/10/12 07:48:33  9.731 -85.812  12 4.2 C  32 Km al sur de Ostional, Costa Rica
