@@ -11714,3 +11714,5 @@
 26/10/12 11:32:24  4.515 -76.699   9 4.4 C 229 Km al suroeste de Medellin, Colombia
 26/10/12 11:40:26 14.048 -93.266   7 3.3 C 123 Km al suroeste de El Gancho México
 26/10/12 11:45:44  8.326 -83.239   6 2.3 C  33 Km al sureste de Playa Madrigal, Costa Rica
+26/10/12 12:27:56  9.011 -82.165   5 4.3 C  37 Km al sur de Bocas del Toro, Panamá
+26/10/12 12:34:49 15.094 -92.841  72 3.6 C  31 Km al suroeste de Pueblo Nuevo, México
