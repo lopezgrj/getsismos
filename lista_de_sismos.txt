@@ -11803,3 +11803,5 @@
 26/10/13 10:01:13  6.856 -80.333   5 4.4 C  62 Km al sur de Tonosí, Panamá
 26/10/13 10:09:23 14.356 -90.067   2 2.1 C  20 Km al noroeste de Jutiapa, Guatemala
 26/10/13 10:51:34 10.731 -85.803  36 2.7 C  24 Km al sureste de Caba Santa Elena, Costa Rica
+26/10/13 10:51:34 10.711 -85.713  40 2.6 C  31 Km al oeste de Liberia, Costa Rica
+26/10/13 11:00:48  9.047 -82.157   1 4.6 C  34 Km al sur de Bocas del Toro, Panamá
