@@ -11783,3 +11783,5 @@
 26/10/13 02:54:00  7.699 -81.421   1 3.6 C  27 Km al noroeste de Punta Coca, Panamá
 26/10/13 03:19:19 10.891 -84.997   1 2.6 C  22 Km al norte de Cuatro Bocas, Costa Rica
 26/10/13 03:26:31  7.173 -80.645   1 4.4 C  33 Km al norte de Desembocadura de Rio Varadero, Panamá
+26/10/13 03:35:14  9.137 -82.155   1 3.4 C  25 Km al sureste de Bocas del Toro, Panamá
+26/10/13 03:49:50  8.083 -82.091   5 3.4 A  53 Km al sureste de Chiriqui, Panamá
