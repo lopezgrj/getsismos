@@ -11768,3 +11768,5 @@
 26/10/12 23:26:55  8.413 -82.914  13 2.8 C   3 Km al sur de Laurel, Costa Rica
 26/10/12 23:28:18  7.458 -79.962   5 4.6 A  49 Km al sureste de Las Tablas, Panamá
 26/10/12 23:28:20  7.378 -79.826  24 4.5 C  66 Km al sureste de Las Tablas, Panamá
+26/10/12 23:28:20  7.378 -79.826  24 4.6 C  66 Km al sureste de Las Tablas, Panamá
+26/10/12 23:53:01 13.182 -89.810  24 2.8 C  45 Km al sur de Acajutla, El Salvador
