@@ -11753,3 +11753,6 @@
 26/10/12 20:48:01  7.530 -80.676   5 4.8 C  19 Km al suroeste de Llano de Piedras, Panamá
 26/10/12 20:53:30 13.976 -92.824   5 3.3 C  90 Km al suroeste de El Gancho México
 26/10/12 20:59:28  7.766 -81.484   5 3.5 C  32 Km al noreste de Isla de Coiba, Panamá
+26/10/12 21:03:08 11.907 -88.275  27 3.5 C 128 Km al suroeste de Mechapa, Chinandega, Nicaragua
+26/10/12 21:17:31  9.066 -82.188   5 3.0 C  31 Km al sur de Bocas del Toro, Panamá
+26/10/12 21:23:21  9.074 -82.140   5 3.9 C  32 Km al sureste de Bocas del Toro, Panamá
