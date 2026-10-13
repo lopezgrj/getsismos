@@ -11789,3 +11789,5 @@
 26/10/13 04:13:50  9.176 -82.292   5 2.8 A  18 Km al sur de Bocas del Toro, Panamá
 26/10/13 04:13:50  9.176 -82.292   5 2.8 C  18 Km al sur de Bocas del Toro, Panamá
 26/10/13 04:39:51  9.128 -82.233   1 2.7 C  23 Km al sur de Bocas del Toro, Panamá
+26/10/13 04:13:50  9.116 -82.268   5 2.8 C  24 Km al sur de Bocas del Toro, Panamá
+26/10/13 04:49:55  9.075 -82.207   1 4.0 C  29 Km al sur de Bocas del Toro, Panamá
