@@ -11739,3 +11739,8 @@
 26/10/12 17:27:48  7.404 -81.441  10 5.3 C  19 Km al noreste de Isla de Coiba, Panamá
 26/10/12 17:36:46  7.718 -81.516   5 4.9 C  27 Km al noreste de Isla de Coiba, Panamá
 26/10/12 18:01:58  7.499 -81.430   1 5.0 C  20 Km al oeste de Isla Tintorera, Panamá
+26/10/12 18:01:58  7.499 -81.430   1 5.2 C  20 Km al oeste de Isla Tintorera, Panamá
+26/10/12 18:13:05  7.560 -81.547   1 4.1 C  15 Km al norte de Isla de Coiba, Panamá
+26/10/12 18:14:50 14.361 -90.110   4 2.6 C  23 Km al noreste de Cuilapa, Guatemala
+26/10/12 18:42:56  8.926 -82.177  13 4.2 C  44 Km al norte de Cerro Punta, Panamá
+26/10/12 19:03:27  9.003 -82.318   8 4.3 C  32 Km al noreste de Cerro Punta, Panamá
