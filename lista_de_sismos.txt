@@ -11834,3 +11834,4 @@
 26/10/14 03:45:05 13.041 -89.201  37 2.8 C  47 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/10/14 05:50:28  8.347 -83.373   4 2.7 C  19 Km al sureste de Playa Madrigal, Costa Rica
 26/10/14 07:16:45 10.990 -86.851  22 3.8 C  90 Km al suroeste de Huehuete, Nicaragua
+26/10/14 07:16:46 10.995 -86.815  21 4.1 C  87 Km al suroeste de Huehuete, Nicaragua
