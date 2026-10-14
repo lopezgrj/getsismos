@@ -11812,3 +11812,5 @@
 26/10/13 13:57:34  9.112 -82.180   5 3.6 C  26 Km al sur de Bocas del Toro, Panamá
 26/10/13 16:15:39  7.840 -81.547   4 3.9 C  31 Km al noreste de Isla de Coiba, Panamá
 26/10/13 16:18:44 10.093 -84.075   8 2.3 C  12 Km al sureste de Vara Blanca, Costa Rica
+26/10/13 21:00:48  7.249 -80.299  23 5.2 C  23 Km al sureste de Tonosí, Panamá
+26/10/13 21:22:52 11.539 -86.610  40 2.9 C  28 Km al suroeste de Pochomil, Nicaragua
