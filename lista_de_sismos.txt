@@ -11837,3 +11837,4 @@
 26/10/14 07:16:46 10.995 -86.815  21 4.1 C  87 Km al suroeste de Huehuete, Nicaragua
 26/10/14 07:16:47 11.039 -86.782  26 4.0 C  81 Km al suroeste de Huehuete, Nicaragua
 26/10/13 21:22:45 11.062 -86.975  28 3.1 C  93 Km al suroeste de Casares, Nicaragua
+26/10/14 09:02:22 14.154 -90.237  38 2.2 A  15 Km al sureste de Cuilapa, Guatemala
