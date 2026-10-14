@@ -11852,3 +11852,4 @@
 26/10/14 13:08:45  4.882 -76.245  20 2.6 C 168 Km al suroeste de Medellin, Colombia
 26/10/14 14:05:49  8.426 -82.968  19 2.2 C   7 Km al oeste de Laurel, Costa Rica
 26/10/14 14:09:12 15.787 -89.979   7 3.5 C  55 Km al noreste de Coban, Guatemala
+26/10/14 14:13:44  7.250 -81.454   5 3.9 C  17 Km al sureste de Isla de Coiba, Panamá
