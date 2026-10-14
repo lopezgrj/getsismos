@@ -11843,3 +11843,4 @@
 26/10/14 11:02:01 14.378 -90.098   4 2.7 C  24 Km al noroeste de Jutiapa, Guatemala
 26/10/14 11:30:37 10.427 -85.761  34 2.6 C  17 Km al noreste de Tamarindo, Costa Rica
 26/10/14 11:33:42  7.418 -80.005   4 4.2 C  48 Km al norte de Tonosí, Panamá
+26/10/14 11:56:53 13.946 -91.660  28 2.9 C  18 Km al suroeste de El Semillero, Guatemala
