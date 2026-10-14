@@ -11819,3 +11819,4 @@
 26/10/13 22:14:59 13.551 -92.372  10 3.4 C  96 Km al suroeste de Champerico, Guatemala
 26/10/13 22:23:48 13.886 -89.696   4 1.8 C  17 Km al norte de Ahuachapan, El Salvador
 26/10/13 23:09:37  7.518 -80.664  21 4.7 C  20 Km al suroeste de Llano de Piedras, Panamá
+26/10/13 23:29:18 13.159 -89.843  23 3.1 C  48 Km al sur de Acajutla, El Salvador
