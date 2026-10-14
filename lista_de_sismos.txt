@@ -11841,3 +11841,4 @@
 26/10/14 09:02:25 14.372 -90.108   7 2.4 C  24 Km al noreste de Cuilapa, Guatemala
 26/10/14 10:32:48 14.383 -90.098   5 2.3 C  25 Km al noroeste de Jutiapa, Guatemala
 26/10/14 11:02:01 14.378 -90.098   4 2.7 C  24 Km al noroeste de Jutiapa, Guatemala
+26/10/14 11:30:37 10.427 -85.761  34 2.6 C  17 Km al noreste de Tamarindo, Costa Rica
