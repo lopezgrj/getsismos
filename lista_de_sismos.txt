@@ -11845,3 +11845,5 @@
 26/10/14 11:33:42  7.418 -80.005   4 4.2 C  48 Km al norte de Tonosí, Panamá
 26/10/14 11:56:53 13.946 -91.660  28 2.9 C  18 Km al suroeste de El Semillero, Guatemala
 26/10/14 11:56:53 13.941 -91.640  28 3.0 C  17 Km al suroeste de El Semillero, Guatemala
+26/10/14 12:40:28  7.083 -81.543   5 3.6 C  28 Km al sur de Isla de Coiba, Panamá
+26/10/14 12:48:17 12.928 -89.067  22 3.4 C  45 Km al suroeste de Delta del Rio Lempa, El Salvador
