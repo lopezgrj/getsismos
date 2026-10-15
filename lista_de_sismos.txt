@@ -11866,3 +11866,5 @@
 26/10/15 00:54:11  7.576 -81.391   1 3.8 C  19 Km al oeste de Punta Coca, Panamá
 26/10/15 00:55:26 13.955 -90.759  91 2.6 C   6 Km al noroeste de Iztapa, Guatemala
 26/10/15 01:42:56  8.399 -82.910   3 2.9 C   5 Km al sur de Laurel, Costa Rica
+26/10/15 02:05:56  9.149 -85.285   1 3.2 C  88 Km al suroeste de Jacó, Costa Rica
+26/10/15 02:50:39 15.342 -90.645   1 3.2 C  33 Km al suroeste de Coban, Guatemala
