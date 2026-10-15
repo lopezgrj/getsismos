@@ -11862,3 +11862,4 @@
 26/10/14 22:03:04  7.365 -80.356   7 4.3 C  10 Km al sureste de Tonosí, Panamá
 26/10/14 22:04:29 14.375 -90.102   4 2.3 C  24 Km al noreste de Cuilapa, Guatemala
 26/10/14 23:15:41  7.352 -79.937   1 4.0 C  56 Km al norte de Tonosí, Panamá
+26/10/15 00:35:53 13.012 -89.244  31 3.1 C  53 Km al suroeste de Delta del Rio Lempa, El Salvador
