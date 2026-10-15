@@ -11885,3 +11885,6 @@
 26/10/15 12:16:52  7.484 -80.898  10 4.4 C  22 Km al norte de Desembocadura de Rio Varadero, Panamá
 26/10/15 13:44:29 12.686 -88.393  31 3.0 C  62 Km al suroeste de Playa El Cuco, El Salvador
 26/10/15 13:44:30 12.720 -88.392  34 3.1 C  59 Km al suroeste de Playa El Cuco, El Salvador
+26/10/15 13:44:30 12.752 -88.383  36 3.1 C  55 Km al suroeste de Playa El Cuco, El Salvador
+26/10/15 14:23:23  7.442 -80.692   5 4.2 C  28 Km al oeste de Tonosí, Panamá
+26/10/15 14:36:56 13.869 -92.023  40 3.8 C  46 Km al suroeste de Tulate, Guatemala
