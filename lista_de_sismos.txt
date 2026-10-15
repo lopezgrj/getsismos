@@ -11854,3 +11854,6 @@
 26/10/14 14:09:12 15.787 -89.979   7 3.5 C  55 Km al noreste de Coban, Guatemala
 26/10/14 14:13:44  7.250 -81.454   5 3.9 C  17 Km al sureste de Isla de Coiba, Panamá
 26/10/14 14:21:55  7.271 -81.465  12 3.7 C  15 Km al sureste de Isla de Coiba, Panamá
+26/10/14 18:13:16 12.742 -90.476  14 3.0 C 117 Km al suroeste de Acajutla, El Salvador
+26/10/14 18:23:39 13.012 -89.072  35 2.6 C  38 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/10/14 18:28:24 14.381 -90.096   5 1.6 C  24 Km al noroeste de Jutiapa, Guatemala
