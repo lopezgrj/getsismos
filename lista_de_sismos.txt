@@ -11882,3 +11882,4 @@
 26/10/15 09:47:47  4.612 -76.698  14 2.7 C 220 Km al suroeste de Medellin, Colombia
 26/10/15 09:51:32  7.854 -81.168   3 4.6 C  33 Km al norte de Gobernadora, Veraguas, Panamá
 26/10/15 11:31:23  8.247 -82.933  13 2.8 C   9 Km al oeste de Puerto Armuelles, Panamá
+26/10/15 12:16:52  7.484 -80.898  10 4.4 C  22 Km al norte de Desembocadura de Rio Varadero, Panamá
