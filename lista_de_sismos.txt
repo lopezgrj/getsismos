@@ -11868,3 +11868,4 @@
 26/10/15 01:42:56  8.399 -82.910   3 2.9 C   5 Km al sur de Laurel, Costa Rica
 26/10/15 02:05:56  9.149 -85.285   1 3.2 C  88 Km al suroeste de Jacó, Costa Rica
 26/10/15 02:50:39 15.342 -90.645   1 3.2 C  33 Km al suroeste de Coban, Guatemala
+26/10/15 03:19:21  7.737 -81.493   1 3.5 C  30 Km al noreste de Isla de Coiba, Panamá
