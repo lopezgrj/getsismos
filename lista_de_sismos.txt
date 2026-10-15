@@ -11863,3 +11863,5 @@
 26/10/14 22:04:29 14.375 -90.102   4 2.3 C  24 Km al noreste de Cuilapa, Guatemala
 26/10/14 23:15:41  7.352 -79.937   1 4.0 C  56 Km al norte de Tonosí, Panamá
 26/10/15 00:35:53 13.012 -89.244  31 3.1 C  53 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/10/15 00:54:11  7.576 -81.391   1 3.8 C  19 Km al oeste de Punta Coca, Panamá
+26/10/15 00:55:26 13.955 -90.759  91 2.6 C   6 Km al noroeste de Iztapa, Guatemala
