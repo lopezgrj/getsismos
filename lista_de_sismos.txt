@@ -11875,3 +11875,4 @@
 26/10/15 04:33:17 11.478 -86.006  96 2.7 C  10 Km al norte de El Gigante, Tola, Nicaragua
 26/10/15 05:43:13 13.112 -89.599  25 4.3 C  51 Km al suroeste de La Libertad, El Salvador
 26/10/15 06:55:21 13.937 -92.061  39 4.2 C  43 Km al sur de Champerico, Guatemala
+26/10/15 07:31:37  7.523 -79.942   1 4.7 C  46 Km al sureste de Las Tablas, Panamá
