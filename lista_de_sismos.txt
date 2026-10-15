@@ -11884,3 +11884,4 @@
 26/10/15 11:31:23  8.247 -82.933  13 2.8 C   9 Km al oeste de Puerto Armuelles, Panamá
 26/10/15 12:16:52  7.484 -80.898  10 4.4 C  22 Km al norte de Desembocadura de Rio Varadero, Panamá
 26/10/15 13:44:29 12.686 -88.393  31 3.0 C  62 Km al suroeste de Playa El Cuco, El Salvador
+26/10/15 13:44:30 12.720 -88.392  34 3.1 C  59 Km al suroeste de Playa El Cuco, El Salvador
