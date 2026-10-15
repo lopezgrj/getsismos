@@ -11857,3 +11857,4 @@
 26/10/14 18:13:16 12.742 -90.476  14 3.0 C 117 Km al suroeste de Acajutla, El Salvador
 26/10/14 18:23:39 13.012 -89.072  35 2.6 C  38 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/10/14 18:28:24 14.381 -90.096   5 1.6 C  24 Km al noroeste de Jutiapa, Guatemala
+26/10/14 20:22:02  7.533 -80.877  11 4.4 C  28 Km al norte de Desembocadura de Rio Varadero, Panamá
