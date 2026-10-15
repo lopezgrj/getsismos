@@ -11892,3 +11892,5 @@
 26/10/15 15:29:05 13.805 -92.057  40 4.7 C  54 Km al suroeste de Tulate, Guatemala
 26/10/15 15:35:15  7.663 -81.650   5 3.9 C  11 Km al norte de Isla de Coiba, Panamá
 26/10/15 15:54:57 13.274 -89.644   5 2.9 A  40 Km al sureste de Acajutla, El Salvador
+26/10/15 15:54:44 13.176 -89.652  28 3.0 C  49 Km al suroeste de La Libertad, El Salvador
+26/10/15 16:17:52 12.948 -89.235  30 2.7 C  56 Km al suroeste de Delta del Rio Lempa, El Salvador
