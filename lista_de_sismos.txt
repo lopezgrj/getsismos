@@ -11874,3 +11874,4 @@
 26/10/15 05:29:56 12.795 -88.919   3 2.8 C  52 Km al sur de Delta del Rio Lempa, El Salvador
 26/10/15 04:33:17 11.478 -86.006  96 2.7 C  10 Km al norte de El Gigante, Tola, Nicaragua
 26/10/15 05:43:13 13.112 -89.599  25 4.3 C  51 Km al suroeste de La Libertad, El Salvador
+26/10/15 06:55:21 13.937 -92.061  39 4.2 C  43 Km al sur de Champerico, Guatemala
