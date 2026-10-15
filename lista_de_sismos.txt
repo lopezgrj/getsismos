@@ -11894,3 +11894,4 @@
 26/10/15 15:54:57 13.274 -89.644   5 2.9 A  40 Km al sureste de Acajutla, El Salvador
 26/10/15 15:54:44 13.176 -89.652  28 3.0 C  49 Km al suroeste de La Libertad, El Salvador
 26/10/15 16:17:52 12.948 -89.235  30 2.7 C  56 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/10/15 16:17:50 12.861 -89.271  22 2.7 C  65 Km al suroeste de Delta del Rio Lempa, El Salvador
