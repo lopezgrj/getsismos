@@ -11879,3 +11879,5 @@
 26/10/15 08:51:58  8.714 -83.746  12 2.9 C  39 Km al noroeste de Playa Madrigal, Costa Rica
 26/10/15 09:05:41 12.584 -87.184 112 1.6 C   5 Km al noroeste de El Realejo, Nicaragua
 26/10/15 09:40:35  9.961 -86.179  18 4.2 C  45 Km al suroeste de Rosario, Costa Rica
+26/10/15 09:47:47  4.612 -76.698  14 2.7 C 220 Km al suroeste de Medellin, Colombia
+26/10/15 09:51:32  7.854 -81.168   3 4.6 C  33 Km al norte de Gobernadora, Veraguas, Panamá
