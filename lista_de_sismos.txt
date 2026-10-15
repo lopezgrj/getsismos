@@ -11877,3 +11877,4 @@
 26/10/15 06:55:21 13.937 -92.061  39 4.2 C  43 Km al sur de Champerico, Guatemala
 26/10/15 07:31:37  7.523 -79.942   1 4.7 C  46 Km al sureste de Las Tablas, Panamá
 26/10/15 08:51:58  8.714 -83.746  12 2.9 C  39 Km al noroeste de Playa Madrigal, Costa Rica
+26/10/15 09:05:41 12.584 -87.184 112 1.6 C   5 Km al noroeste de El Realejo, Nicaragua
