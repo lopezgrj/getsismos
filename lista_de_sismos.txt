@@ -11859,3 +11859,5 @@
 26/10/14 18:28:24 14.381 -90.096   5 1.6 C  24 Km al noroeste de Jutiapa, Guatemala
 26/10/14 20:22:02  7.533 -80.877  11 4.4 C  28 Km al norte de Desembocadura de Rio Varadero, Panamá
 26/10/14 21:20:53 12.533 -88.028  27 2.4 C  56 Km al suroeste de Punta Cosigüina, Nicaragua
+26/10/14 22:03:04  7.365 -80.356   7 4.3 C  10 Km al sureste de Tonosí, Panamá
+26/10/14 22:04:29 14.375 -90.102   4 2.3 C  24 Km al noreste de Cuilapa, Guatemala
