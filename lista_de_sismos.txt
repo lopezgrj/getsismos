@@ -11897,3 +11897,4 @@
 26/10/15 16:17:50 12.861 -89.271  22 2.7 C  65 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/10/15 16:47:49  9.075 -82.126   1 2.9 C  32 Km al sureste de Bocas del Toro, Panamá
 26/10/15 16:51:22 13.128 -89.639  24 3.0 C  52 Km al suroeste de La Libertad, El Salvador
+26/10/15 19:36:21  7.525 -80.071   1 4.5 C  35 Km al sureste de Las Tablas, Panamá
