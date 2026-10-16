@@ -11935,3 +11935,5 @@
 26/10/15 05:16:46  1.042 -85.308   5 4.9 C 527 Km al suroeste de Isla de Malpelo, Colombia
 26/10/16 10:51:32  8.828 -82.451   4 2.9 C  13 Km al norte de Cerro Punta, Panamá
 26/10/16 11:33:50 12.495 -87.656  57 3.3 A  35 Km al suroeste de Jiquilillo, Nicaragua
+26/10/16 11:33:50 12.433 -87.695  37 3.3 C  43 Km al suroeste de Jiquilillo, Nicaragua
+26/10/16 12:01:00  9.033 -81.855  11 3.0 C  55 Km al sureste de Bocas del Toro, Panamá
