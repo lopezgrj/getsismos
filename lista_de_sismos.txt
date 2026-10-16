@@ -11940,3 +11940,4 @@
 26/10/16 13:34:14  1.217 -85.020   5 5.2 A 489 Km al suroeste de Isla de Malpelo, Colombia
 26/10/16 13:34:12  1.065 -85.271  26 5.3 C 522 Km al suroeste de Isla de Malpelo, Colombia
 26/10/16 15:59:20 13.622 -86.346   1 1.5 C   7 Km al suroeste de San Fernando, Nueva Segovia, Nicaragua
+26/10/16 16:41:04  7.565 -80.900  10 4.9 C  31 Km al norte de Desembocadura de Rio Varadero, Panamá
