@@ -11908,3 +11908,5 @@
 26/10/15 23:24:17 12.940 -88.953  26 2.7 C  38 Km al sur de Delta del Rio Lempa, El Salvador
 26/10/16 00:05:22  7.688 -81.487  10 3.6 C  27 Km al noreste de Isla de Coiba, Panamá
 26/10/16 01:05:40 10.889 -86.821  21 3.2 C  95 Km al oeste de Caba Santa Elena, Costa Rica
+26/10/16 02:16:50  7.551 -81.709   5 4.0 C   3 Km al oeste de Isla de Coiba, Panamá
+26/10/16 02:27:42 12.375 -88.913  20 3.5 C  98 Km al sur de Delta del Rio Lempa, El Salvador
