@@ -11937,3 +11937,4 @@
 26/10/16 11:33:50 12.495 -87.656  57 3.3 A  35 Km al suroeste de Jiquilillo, Nicaragua
 26/10/16 11:33:50 12.433 -87.695  37 3.3 C  43 Km al suroeste de Jiquilillo, Nicaragua
 26/10/16 12:01:00  9.033 -81.855  11 3.0 C  55 Km al sureste de Bocas del Toro, Panamá
+26/10/16 13:34:14  1.217 -85.020   5 5.2 A 489 Km al suroeste de Isla de Malpelo, Colombia
