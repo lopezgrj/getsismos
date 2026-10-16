@@ -11906,3 +11906,4 @@
 26/10/15 21:50:23 13.736 -91.214   9 3.0 C  22 Km al sur de San Jose, Guatemala
 26/10/15 23:22:26  7.480 -81.106  10 5.1 C  13 Km al sureste de Gobernadora, Veraguas, Panamá
 26/10/15 23:24:17 12.940 -88.953  26 2.7 C  38 Km al sur de Delta del Rio Lempa, El Salvador
+26/10/16 00:05:22  7.688 -81.487  10 3.6 C  27 Km al noreste de Isla de Coiba, Panamá
