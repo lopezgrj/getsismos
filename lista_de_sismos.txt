@@ -11943,3 +11943,4 @@
 26/10/16 16:41:04  7.565 -80.900  10 4.9 C  31 Km al norte de Desembocadura de Rio Varadero, Panamá
 26/10/16 07:02:36  6.924 -77.584  11 4.6 C 129 Km al suroeste de Chigorodo, Colombia
 26/10/16 15:59:19 13.644 -86.343   1 1.5 C   5 Km al suroeste de San Fernando, Nueva Segovia, Nicaragua
+26/10/16 08:37:33 10.806 -86.861  29 3.6 C 100 Km al oeste de Caba Santa Elena, Costa Rica
