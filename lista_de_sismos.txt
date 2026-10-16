@@ -11902,3 +11902,7 @@
 26/10/15 20:23:51  9.819 -84.014  40 2.8 C  11 Km al oeste de Cartago, Costa Rica
 26/10/15 22:42:41 14.014 -92.783  11 4.8 C  83 Km al suroeste de El Gancho México
 26/10/15 23:17:37 11.932 -88.087  17 3.5 C 113 Km al suroeste de Jiquilillo, Nicaragua
+26/10/15 20:23:51  9.743 -83.941   3 2.6 C   8 Km al noroeste de Tres de Junio, Costa Rica
+26/10/15 21:50:23 13.736 -91.214   9 3.0 C  22 Km al sur de San Jose, Guatemala
+26/10/15 23:22:26  7.480 -81.106  10 5.1 C  13 Km al sureste de Gobernadora, Veraguas, Panamá
+26/10/15 23:24:17 12.940 -88.953  26 2.7 C  38 Km al sur de Delta del Rio Lempa, El Salvador
