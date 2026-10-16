@@ -11924,3 +11924,7 @@
 26/10/16 04:43:15  7.628 -80.558  10 4.2 C   4 Km al sur de Llano de Piedras, Panamá
 26/10/16 07:02:36  7.019 -77.521   5 4.7 C 117 Km al suroeste de Chigorodo, Colombia
 26/10/16 08:14:08  6.872 -77.343  73 4.4 A 115 Km al suroeste de Chigorodo, Colombia
+26/10/16 06:24:57  7.660 -81.486   3 3.3 C  25 Km al noreste de Isla de Coiba, Panamá
+26/10/16 07:02:37  6.926 -77.501   4 4.6 C 122 Km al suroeste de Chigorodo, Colombia
+26/10/16 08:14:02  6.944 -77.601   4 4.3 C 130 Km al suroeste de Chigorodo, Colombia
+26/10/16 08:37:32 10.814 -86.887  19 3.6 C 103 Km al oeste de Caba Santa Elena, Costa Rica
