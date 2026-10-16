@@ -11933,3 +11933,5 @@
 26/10/16 08:37:32 10.814 -86.887  19 3.5 C 103 Km al oeste de Caba Santa Elena, Costa Rica
 26/10/16 09:41:33 13.167 -89.947  22 2.8 C  49 Km al sur de Acajutla, El Salvador
 26/10/15 05:16:46  1.042 -85.308   5 4.9 C 527 Km al suroeste de Isla de Malpelo, Colombia
+26/10/16 10:51:32  8.828 -82.451   4 2.9 C  13 Km al norte de Cerro Punta, Panamá
+26/10/16 11:33:50 12.495 -87.656  57 3.3 A  35 Km al suroeste de Jiquilillo, Nicaragua
