@@ -11911,3 +11911,4 @@
 26/10/16 02:16:50  7.551 -81.709   5 4.0 C   3 Km al oeste de Isla de Coiba, Panamá
 26/10/16 02:27:42 12.375 -88.913  20 3.5 C  98 Km al sur de Delta del Rio Lempa, El Salvador
 26/10/16 02:27:42 12.342 -88.925  29 3.5 C 102 Km al sur de Delta del Rio Lempa, El Salvador
+26/10/16 02:50:21 11.324 -86.696  55 2.7 C  51 Km al suroeste de Casares, Nicaragua
