@@ -11961,3 +11961,4 @@
 26/10/17 00:51:02 12.818 -90.297  84 2.7 C  99 Km al suroeste de Acajutla, El Salvador
 26/10/17 00:55:39 12.875 -90.435   1 2.9 C 103 Km al suroeste de Acajutla, El Salvador
 26/10/17 01:07:04 13.382 -90.032  28 2.9 C  32 Km al suroeste de Acajutla, El Salvador
+26/10/17 01:31:31 14.381 -90.093   4 2.9 C  24 Km al noroeste de Jutiapa, Guatemala
