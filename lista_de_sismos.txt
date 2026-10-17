@@ -11948,3 +11948,4 @@
 26/10/16 19:04:09 13.407 -88.284  29 2.1 A  14 Km al suroeste de San Miguel, El Salvador
 26/10/16 19:03:04 13.661 -92.999  10 5.1 C 128 Km al suroeste de San Marcos, Guatemala
 26/10/16 20:38:29  8.460 -82.596  17 2.8 C  19 Km al noreste de Desembocadura de Río Chiriqui Viejo, Panamá
+26/10/16 21:28:33 13.978 -92.979   2 3.9 C 102 Km al suroeste de El Gancho México
