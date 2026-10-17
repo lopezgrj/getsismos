@@ -11977,3 +11977,4 @@
 26/10/17 05:30:41 11.771 -87.077  13 3.7 C  51 Km al suroeste de El Transito, Nicaragua
 26/10/17 05:45:23 12.610 -87.475  56 1.8 C  14 Km al sur de Jiquilillo, Nicaragua
 26/10/17 06:27:21 13.992 -93.013   9 3.5 C 103 Km al suroeste de El Gancho México
+26/10/17 07:27:07 13.287 -90.155  26 2.9 C  49 Km al suroeste de Acajutla, El Salvador
