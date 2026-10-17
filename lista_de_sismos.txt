@@ -11959,3 +11959,5 @@
 26/10/17 00:03:18 12.982 -89.086  30 3.1 C  41 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/10/17 00:16:42 13.481 -90.450  19 3.2 C  43 Km al suroeste de Las Brisas, Guatemala
 26/10/17 00:51:02 12.818 -90.297  84 2.7 C  99 Km al suroeste de Acajutla, El Salvador
+26/10/17 00:55:39 12.875 -90.435   1 2.9 C 103 Km al suroeste de Acajutla, El Salvador
+26/10/17 01:07:04 13.382 -90.032  28 2.9 C  32 Km al suroeste de Acajutla, El Salvador
