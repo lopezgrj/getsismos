@@ -11972,3 +11972,5 @@
 26/10/17 03:32:33 13.958 -93.457   5 4.0 C 146 Km al suroeste de El Gancho México
 26/10/17 03:38:31 14.381 -90.118  11 2.2 C  23 Km al noreste de Cuilapa, Guatemala
 26/10/17 03:56:20  9.988 -86.435  13 2.7 A  61 Km al suroeste de Rosario, Costa Rica
+26/10/17 03:56:18  9.752 -86.453   1 3.0 C  81 Km al suroeste de Rosario, Costa Rica
+26/10/17 05:30:42 11.769 -86.992  55 3.6 A  44 Km al suroeste de El Transito, Nicaragua
