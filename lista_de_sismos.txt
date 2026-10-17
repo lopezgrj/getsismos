@@ -11971,3 +11971,4 @@
 26/10/17 03:14:13 13.338 -90.807   4 2.8 C  67 Km al sur de Iztapa, Guatemala
 26/10/17 03:32:33 13.958 -93.457   5 4.0 C 146 Km al suroeste de El Gancho México
 26/10/17 03:38:31 14.381 -90.118  11 2.2 C  23 Km al noreste de Cuilapa, Guatemala
+26/10/17 03:56:20  9.988 -86.435  13 2.7 A  61 Km al suroeste de Rosario, Costa Rica
