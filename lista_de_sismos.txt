@@ -11987,3 +11987,4 @@
 26/10/17 07:59:41 13.950 -92.608  30 5.6 C  77 Km al suroeste de San Marcos, Guatemala
 26/10/17 10:24:16  7.554 -80.397   1 4.8 C  17 Km al norte de Tonosí, Panamá
 26/10/17 11:14:29 13.528 -91.435  38 4.3 C  50 Km al sur de Tecojate, Guatemala
+26/10/17 11:56:34 14.490 -92.715  23 3.4 C  50 Km al oeste de El Gancho México
