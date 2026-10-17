@@ -11985,3 +11985,4 @@
 26/10/17 07:30:41 14.356 -90.101   2 3.8 C  23 Km al norte de Cuilapa, Guatemala
 26/10/17 07:39:28 14.368 -90.098   4 2.8 C  24 Km al noroeste de Jutiapa, Guatemala
 26/10/17 07:59:41 13.950 -92.608  30 5.6 C  77 Km al suroeste de San Marcos, Guatemala
+26/10/17 10:24:16  7.554 -80.397   1 4.8 C  17 Km al norte de Tonosí, Panamá
