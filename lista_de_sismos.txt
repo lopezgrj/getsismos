@@ -11955,3 +11955,4 @@
 26/10/16 22:45:31  8.579 -83.212  14 2.5 C  36 Km al noreste de Playa Madrigal, Costa Rica
 26/10/16 22:50:24  8.586 -83.203  10 4.0 C  36 Km al noroeste de Laurel, Costa Rica
 26/10/16 23:24:48  9.735 -82.706  13 2.7 C  23 Km al noroeste de Las Delicias, Panamá
+26/10/16 23:55:35 10.124 -84.346   5 2.9 C  18 Km al noroeste de Alajuela, Costa Rica
