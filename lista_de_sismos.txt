@@ -12015,3 +12015,4 @@
 26/10/17 20:13:44 14.063 -92.892  11 4.4 C  88 Km al suroeste de El Gancho México
 26/10/18 07:01:51 14.029 -92.977   1 4.2 C  98 Km al suroeste de El Gancho México
 26/10/18 07:28:05 15.668 -93.387  87 3.9 C   9 Km al suroeste de San Isidro, México
+26/10/18 07:42:23 12.435 -89.561  18 3.3 C 119 Km al sur de La Libertad, El Salvador
