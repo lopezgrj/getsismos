@@ -12004,3 +12004,4 @@
 26/10/17 23:34:00 13.535 -91.324  10 3.1 C  46 Km al sur de San Jose, Guatemala
 26/10/18 00:16:00  8.198 -82.039   7 4.1 C  50 Km al sureste de Chiriqui, Panamá
 26/10/18 01:16:09  5.601 -77.518  12 4.0 C 227 Km al oeste de Medellin, Colombia
+26/10/18 02:33:54 14.387 -92.602 117 3.3 C  42 Km al suroeste de El Gancho México
