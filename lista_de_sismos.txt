@@ -11995,3 +11995,5 @@
 26/10/17 20:13:43 14.031 -92.930   5 4.5 A  94 Km al suroeste de El Gancho México
 26/10/17 20:14:50  9.153 -83.990  20 3.1 C  18 Km al suroeste de Dominical, Costa Rica
 26/10/17 20:13:43 14.026 -92.933   5 4.5 A  94 Km al suroeste de El Gancho México
+26/10/17 20:13:43 14.066 -92.900   5 4.4 A  89 Km al suroeste de El Gancho México
+26/10/17 21:20:03  7.647 -81.239   5 4.2 C  11 Km al norte de Punta Coca, Panamá
