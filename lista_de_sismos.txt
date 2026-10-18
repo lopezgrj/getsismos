@@ -11994,3 +11994,4 @@
 26/10/17 16:04:46 10.234 -86.331  38 3.2 C  38 Km al oeste de Rosario, Costa Rica
 26/10/17 20:13:43 14.031 -92.930   5 4.5 A  94 Km al suroeste de El Gancho México
 26/10/17 20:14:50  9.153 -83.990  20 3.1 C  18 Km al suroeste de Dominical, Costa Rica
+26/10/17 20:13:43 14.026 -92.933   5 4.5 A  94 Km al suroeste de El Gancho México
