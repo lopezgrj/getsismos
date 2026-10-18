@@ -12014,3 +12014,4 @@
 26/10/18 06:47:23 10.831 -86.981   9 3.4 C 113 Km al oeste de Caba Santa Elena, Costa Rica
 26/10/17 20:13:44 14.063 -92.892  11 4.4 C  88 Km al suroeste de El Gancho México
 26/10/18 07:01:51 14.029 -92.977   1 4.2 C  98 Km al suroeste de El Gancho México
+26/10/18 07:28:05 15.668 -93.387  87 3.9 C   9 Km al suroeste de San Isidro, México
