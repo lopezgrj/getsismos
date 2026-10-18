@@ -12022,3 +12022,4 @@
 26/10/18 15:26:43 13.826 -91.145  35 3.5 A  12 Km al sur de Sipacate, Guatemala
 26/10/18 14:11:01  8.305 -82.783  10 3.4 C   1 Km al sureste de Manglares de Majagual, Panamá
 26/10/18 15:26:42 13.775 -91.164  30 3.5 C  17 Km al sur de San Jose, Guatemala
+26/10/18 15:50:48 10.913 -86.857  20 4.2 C  98 Km al suroeste de Huehuete, Nicaragua
