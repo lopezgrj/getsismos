@@ -12017,3 +12017,4 @@
 26/10/18 07:28:05 15.668 -93.387  87 3.9 C   9 Km al suroeste de San Isidro, México
 26/10/18 07:42:23 12.435 -89.561  18 3.3 C 119 Km al sur de La Libertad, El Salvador
 26/10/18 09:54:28  4.428 -76.808  50 3.8 C 243 Km al suroeste de Medellin, Colombia
+26/10/18 12:25:20  8.441 -82.361  48 2.7 C   8 Km al norte de Chiriqui, Panamá
