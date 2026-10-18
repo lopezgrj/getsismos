@@ -11997,3 +11997,4 @@
 26/10/17 20:13:43 14.026 -92.933   5 4.5 A  94 Km al suroeste de El Gancho México
 26/10/17 20:13:43 14.066 -92.900   5 4.4 A  89 Km al suroeste de El Gancho México
 26/10/17 21:20:03  7.647 -81.239   5 4.2 C  11 Km al norte de Punta Coca, Panamá
+26/10/17 21:34:38 12.758 -88.373  31 3.7 C  54 Km al suroeste de Playa El Cuco, El Salvador
