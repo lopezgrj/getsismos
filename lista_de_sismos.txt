@@ -12012,3 +12012,5 @@
 26/10/18 06:25:44 11.749 -86.825  37 3.4 C  34 Km al oeste de Masachapa, Nicaragua
 26/10/17 20:13:43 14.066 -92.900   5 4.4 C  89 Km al suroeste de El Gancho México
 26/10/18 06:47:23 10.831 -86.981   9 3.4 C 113 Km al oeste de Caba Santa Elena, Costa Rica
+26/10/17 20:13:44 14.063 -92.892  11 4.4 C  88 Km al suroeste de El Gancho México
+26/10/18 07:01:51 14.029 -92.977   1 4.2 C  98 Km al suroeste de El Gancho México
