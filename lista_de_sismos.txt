@@ -12024,3 +12024,4 @@
 26/10/18 15:26:42 13.775 -91.164  30 3.5 C  17 Km al sur de San Jose, Guatemala
 26/10/18 15:50:48 10.913 -86.857  20 4.2 C  98 Km al suroeste de Huehuete, Nicaragua
 26/10/18 06:47:25 10.866 -86.877  30 3.4 C 101 Km al oeste de Caba Santa Elena, Costa Rica
+26/10/18 19:04:17 13.539 -90.194  57 2.9 C  32 Km al sur de Las Brisas, Guatemala
