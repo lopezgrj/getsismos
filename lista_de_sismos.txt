@@ -12042,3 +12042,7 @@
 26/10/19 14:44:26  8.485 -83.269  17 3.6 A  27 Km al norte de Playa Madrigal, Costa Rica
 26/10/19 14:34:15  8.250 -82.841  13 2.6 C   3 Km al sureste de Puerto Armuelles, Panamá
 26/10/19 14:44:27  8.369 -83.176  13 3.5 C  31 Km al oeste de Laurel, Costa Rica
+26/10/19 08:47:41 14.194 -91.718  56 5.0 C   4 Km al norte de Tulate, Guatemala
+26/10/19 09:00:42  8.519 -83.249  18 2.1 C  30 Km al norte de Playa Madrigal, Costa Rica
+26/10/19 09:13:27  7.536 -80.272   4 4.0 C  23 Km al noreste de Tonosí, Panamá
+26/10/19 14:31:00  9.610 -81.439 179 3.5 C  95 Km al norte de Bocas del Toro, Panamá
