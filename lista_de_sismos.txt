@@ -12029,3 +12029,6 @@
 26/10/18 21:45:24  7.743 -82.967   7 3.4 C  41 Km al sur de Limones, Distrito Barú, Panamá
 26/10/18 22:32:25 13.599 -90.936  14 2.6 C  43 Km al sureste de Sipacate, Guatemala
 26/10/18 23:18:32 10.826 -86.719  18 4.8 C  84 Km al oeste de Caba Santa Elena, Costa Rica
+26/10/18 23:18:32 10.876 -86.689  15 4.9 C  81 Km al oeste de Caba Santa Elena, Costa Rica
+26/10/19 00:21:44 13.451 -90.415  25 3.2 C  44 Km al sur de Las Brisas, Guatemala
+26/10/19 00:29:35 14.380 -90.091   4 2.5 C  24 Km al noroeste de Jutiapa, Guatemala
