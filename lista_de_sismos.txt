@@ -12039,3 +12039,4 @@
 26/10/09 11:56:09  7.842 -80.603   5 7.8 C  13 Km al noroeste de Macaracas, Panamá
 26/10/19 10:12:09 12.447 -87.798  33 3.0 C  49 Km al suroeste de Mechapa, Chinandega, Nicaragua
 26/10/19 13:20:31  8.796 -83.076  21 2.8 C  33 Km al oeste de La Tigra, Costa Rica
+26/10/19 14:44:26  8.485 -83.269  17 3.6 A  27 Km al norte de Playa Madrigal, Costa Rica
