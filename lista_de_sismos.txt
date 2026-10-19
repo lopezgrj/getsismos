@@ -12027,3 +12027,4 @@
 26/10/18 19:04:17 13.539 -90.194  57 2.9 C  32 Km al sur de Las Brisas, Guatemala
 26/10/18 21:45:24  7.719 -82.971   5 3.5 A  44 Km al sur de Limones, Distrito Barú, Panamá
 26/10/18 21:45:24  7.743 -82.967   7 3.4 C  41 Km al sur de Limones, Distrito Barú, Panamá
+26/10/18 22:32:25 13.599 -90.936  14 2.6 C  43 Km al sureste de Sipacate, Guatemala
