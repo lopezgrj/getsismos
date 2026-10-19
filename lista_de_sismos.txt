@@ -12037,3 +12037,4 @@
 26/10/18 16:04:10  7.400 -80.047   3 3.9 C  43 Km al norte de Tonosí, Panamá
 26/10/19 08:47:41 14.186 -91.723  58 5.0 C   4 Km al norte de Tulate, Guatemala
 26/10/09 11:56:09  7.842 -80.603   5 7.8 C  13 Km al noroeste de Macaracas, Panamá
+26/10/19 10:12:09 12.447 -87.798  33 3.0 C  49 Km al suroeste de Mechapa, Chinandega, Nicaragua
