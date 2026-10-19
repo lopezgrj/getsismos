@@ -12035,3 +12035,4 @@
 26/10/19 01:35:34 10.897 -86.727  22 3.4 C  85 Km al oeste de Caba Santa Elena, Costa Rica
 26/10/18 16:02:17  7.371 -80.139   3 3.6 C  33 Km al norte de Tonosí, Panamá
 26/10/18 16:04:10  7.400 -80.047   3 3.9 C  43 Km al norte de Tonosí, Panamá
+26/10/19 08:47:41 14.186 -91.723  58 5.0 C   4 Km al norte de Tulate, Guatemala
