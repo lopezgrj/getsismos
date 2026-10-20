@@ -12058,3 +12058,5 @@
 26/10/20 04:30:57 13.857 -89.780   7 2.9 C  10 Km al sureste de Ahuachapan, El Salvador
 26/10/20 04:35:59 13.863 -89.779   5 3.1 C   9 Km al sureste de Ahuachapan, El Salvador
 26/10/20 04:49:19 13.820 -89.785  11 2.2 C  13 Km al sureste de Ahuachapan, El Salvador
+26/10/20 04:35:59 13.862 -89.780   5 3.1 C   9 Km al sureste de Ahuachapan, El Salvador
+26/10/20 04:57:04 10.788 -86.528   9 3.4 C  64 Km al oeste de Caba Santa Elena, Costa Rica
