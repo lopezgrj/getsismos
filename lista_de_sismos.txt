@@ -12068,3 +12068,6 @@
 26/10/20 11:29:18 11.615 -85.796   6 3.3 C  14 Km al noroeste de Moyogalpa, Nicaragua
 26/10/20 13:10:09  7.434 -81.029   2 4.3 C  20 Km al noroeste de Desembocadura de Rio Varadero, Panamá
 26/10/20 13:28:35  8.992 -82.149   1 4.1 C  40 Km al sur de Bocas del Toro, Panamá
+26/10/20 05:30:32 12.359 -87.041  99 3.6 C   2 Km al sur de Poneloya, Nicaragua
+26/10/20 11:29:18 11.614 -85.795   6 3.3 C  14 Km al noroeste de Moyogalpa, Nicaragua
+26/10/20 15:55:57 12.135 -87.905  11 3.1 C  83 Km al suroeste de Jiquilillo, Nicaragua
