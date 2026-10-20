@@ -12050,3 +12050,4 @@
 26/10/19 17:03:28 13.157 -89.844  20 3.6 C  48 Km al sur de Acajutla, El Salvador
 26/10/19 17:59:30 14.322 -91.677  54 3.4 C  19 Km al norte de Tulate, Guatemala
 26/10/19 19:19:18 11.744 -86.715  39 3.9 C  22 Km al oeste de Masachapa, Nicaragua
+26/10/19 19:46:45 13.506 -90.049  49 2.7 C  25 Km al oeste de Acajutla, El Salvador
