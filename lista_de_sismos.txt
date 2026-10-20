@@ -12049,3 +12049,4 @@
 26/10/19 09:21:41  6.980 -79.114   4 4.2 C 154 Km al norte de Tonosí, Panamá
 26/10/19 17:03:28 13.157 -89.844  20 3.6 C  48 Km al sur de Acajutla, El Salvador
 26/10/19 17:59:30 14.322 -91.677  54 3.4 C  19 Km al norte de Tulate, Guatemala
+26/10/19 19:19:18 11.744 -86.715  39 3.9 C  22 Km al oeste de Masachapa, Nicaragua
