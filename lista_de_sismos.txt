@@ -12048,3 +12048,4 @@
 26/10/19 14:31:00  9.610 -81.439 179 3.5 C  95 Km al norte de Bocas del Toro, Panamá
 26/10/19 09:21:41  6.980 -79.114   4 4.2 C 154 Km al norte de Tonosí, Panamá
 26/10/19 17:03:28 13.157 -89.844  20 3.6 C  48 Km al sur de Acajutla, El Salvador
+26/10/19 17:59:30 14.322 -91.677  54 3.4 C  19 Km al norte de Tulate, Guatemala
