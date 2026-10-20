@@ -12064,3 +12064,4 @@
 26/10/20 05:38:40 12.009 -87.101  37 3.6 C  40 Km al sur de Las Penitas, Nicaragua
 26/10/20 06:15:14  7.607 -80.609   5 4.4 C   8 Km al suroeste de Llano de Piedras, Panamá
 26/10/20 06:45:46  8.795 -84.110   4 3.7 C  58 Km al suroeste de Dominical, Costa Rica
+26/10/20 11:05:46  6.135 -82.593  18 5.8 C 153 Km al suroeste de Isla Jicarón, Panamá
