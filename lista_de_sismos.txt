@@ -12067,3 +12067,4 @@
 26/10/20 11:05:46  6.135 -82.593  18 5.8 C 153 Km al suroeste de Isla Jicarón, Panamá
 26/10/20 11:29:18 11.615 -85.796   6 3.3 C  14 Km al noroeste de Moyogalpa, Nicaragua
 26/10/20 13:10:09  7.434 -81.029   2 4.3 C  20 Km al noroeste de Desembocadura de Rio Varadero, Panamá
+26/10/20 13:28:35  8.992 -82.149   1 4.1 C  40 Km al sur de Bocas del Toro, Panamá
