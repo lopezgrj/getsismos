@@ -12057,3 +12057,4 @@
 26/10/20 04:30:17 14.377 -90.098   5 2.1 C  24 Km al noroeste de Jutiapa, Guatemala
 26/10/20 04:30:57 13.857 -89.780   7 2.9 C  10 Km al sureste de Ahuachapan, El Salvador
 26/10/20 04:35:59 13.863 -89.779   5 3.1 C   9 Km al sureste de Ahuachapan, El Salvador
+26/10/20 04:49:19 13.820 -89.785  11 2.2 C  13 Km al sureste de Ahuachapan, El Salvador
