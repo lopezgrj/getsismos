@@ -12075,3 +12075,5 @@
 26/10/20 15:55:57 12.141 -87.903  11 3.1 C  83 Km al suroeste de Jiquilillo, Nicaragua
 26/10/20 16:45:36 13.666 -93.261  29 4.2 C 147 Km al suroeste de El Gancho México
 26/10/20 17:24:41  3.656 -76.190   5 4.2 A 259 Km al suroeste de Bogota, Colombia
+26/10/20 19:13:41  6.940 -80.501  10 4.0 C  52 Km al sur de Tonosí, Panamá
+26/10/20 19:20:01  4.644 -82.761  10 5.0 C 146 Km al noroeste de Isla de Malpelo, Colombia
