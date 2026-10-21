@@ -12092,3 +12092,4 @@
 26/10/21 10:35:05 14.516 -91.837  75 4.0 C  17 Km al oeste de Retalhuleu, Guatemala
 26/10/21 15:39:46  9.066 -82.168   3 3.1 C  31 Km al sur de Bocas del Toro, Panamá
 26/10/21 15:45:16 12.750 -88.208  30 2.8 C  48 Km al sur de Playa El Cuco, El Salvador
+26/10/21 15:45:22 14.069 -87.232  15 2.2 C   2 Km al suroeste de Tegucigalpa, Honduras
