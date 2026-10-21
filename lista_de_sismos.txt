@@ -12085,3 +12085,4 @@
 26/10/21 00:02:39  8.986 -82.587   5 3.8 A  15 Km al norte de Cerro Punta, Panamá
 26/10/20 23:04:03  7.361 -80.681  25 4.7 C  27 Km al oeste de Tonosí, Panamá
 26/10/21 00:02:34  9.023 -82.200   1 4.1 C  35 Km al sur de Bocas del Toro, Panamá
+26/10/21 01:00:10  9.073 -82.154   1 4.5 C  31 Km al sur de Bocas del Toro, Panamá
