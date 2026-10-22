@@ -12108,3 +12108,4 @@
 26/10/21 22:58:43 15.610 -94.411   1 4.6 C  74 Km al suroeste de Puerto Arista, México
 26/10/21 23:03:26 17.643 -94.959 121 4.2 C 165 Km al norte de Salina Cruz, México
 26/10/22 00:56:37 14.358 -90.110   5 2.9 C  23 Km al noreste de Cuilapa, Guatemala
+26/10/22 01:28:10 14.884 -91.371 164 4.0 A   3 Km al sur de Totonicapan, Guatemala
