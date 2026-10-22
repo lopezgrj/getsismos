@@ -12105,3 +12105,5 @@
 26/10/21 21:35:14 14.976 -93.879   7 5.0 C  98 Km al sur de Buenavista, México
 26/10/21 22:52:08 12.942 -90.852  19 3.8 C 111 Km al sur de Iztapa, Guatemala
 26/10/21 22:54:55  8.728 -84.371  11 3.8 C  81 Km al suroeste de Dominical, Costa Rica
+26/10/21 22:58:43 15.610 -94.411   1 4.6 C  74 Km al suroeste de Puerto Arista, México
+26/10/21 23:03:26 17.643 -94.959 121 4.2 C 165 Km al norte de Salina Cruz, México
