@@ -12099,3 +12099,5 @@
 26/10/21 19:30:42 10.387 -85.087   8 2.1 C  47 Km al sureste de Liberia, Costa Rica
 26/10/21 19:34:10  7.661 -81.014   8 3.6 C  22 Km al noreste de Gobernadora, Veraguas, Panamá
 26/10/21 19:43:08  7.506 -80.550   3 4.1 C  16 Km al noroeste de Tonosí, Panamá
+26/10/21 19:48:58 14.379 -90.103   5 1.8 C  24 Km al noreste de Cuilapa, Guatemala
+26/10/21 19:56:12 14.382 -90.102   6 2.0 C  25 Km al noreste de Cuilapa, Guatemala
