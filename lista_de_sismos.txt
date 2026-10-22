@@ -12102,3 +12102,4 @@
 26/10/21 19:48:58 14.379 -90.103   5 1.8 C  24 Km al noreste de Cuilapa, Guatemala
 26/10/21 19:56:12 14.382 -90.102   6 2.0 C  25 Km al noreste de Cuilapa, Guatemala
 26/10/21 21:24:06  7.450 -80.485   7 4.4 C   7 Km al noroeste de Tonosí, Panamá
+26/10/21 21:35:14 14.976 -93.879   7 5.0 C  98 Km al sur de Buenavista, México
