@@ -12107,3 +12107,4 @@
 26/10/21 22:54:55  8.728 -84.371  11 3.8 C  81 Km al suroeste de Dominical, Costa Rica
 26/10/21 22:58:43 15.610 -94.411   1 4.6 C  74 Km al suroeste de Puerto Arista, México
 26/10/21 23:03:26 17.643 -94.959 121 4.2 C 165 Km al norte de Salina Cruz, México
+26/10/22 00:56:37 14.358 -90.110   5 2.9 C  23 Km al noreste de Cuilapa, Guatemala
