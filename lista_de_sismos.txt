@@ -12121,3 +12121,4 @@
 26/10/22 22:57:14  8.471 -83.155   6 3.0 C  27 Km al oeste de Laurel, Costa Rica
 26/10/22 22:57:14  8.471 -83.155   6 3.1 C  27 Km al oeste de Laurel, Costa Rica
 26/10/22 23:46:25 13.914 -91.277  38 3.2 C  10 Km al oeste de San Jose, Guatemala
+26/10/23 00:29:45 11.265 -86.801  35 3.2 C  64 Km al suroeste de Casares, Nicaragua
