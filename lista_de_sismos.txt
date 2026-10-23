@@ -12131,3 +12131,4 @@
 26/10/23 08:21:58  8.800 -84.501  11 2.7 C  79 Km al suroeste de Puerto Quepos, Costa Rica
 26/10/23 07:33:52  7.655 -80.947   5 4.3 C  29 Km al norte de Gobernadora, Veraguas, Panamá
 26/10/23 10:20:08 14.196 -89.925 188 2.8 C  10 Km al sur de Jutiapa, Guatemala
+26/10/16 23:24:47  9.757 -82.664  11 2.7 C  22 Km al noroeste de Las Delicias, Panamá
