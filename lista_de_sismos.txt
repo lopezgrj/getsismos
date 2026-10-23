@@ -12134,3 +12134,6 @@
 26/10/16 23:24:47  9.757 -82.664  11 2.7 C  22 Km al noroeste de Las Delicias, Panamá
 26/10/23 11:39:15 14.363 -90.109   5 3.0 C  23 Km al noreste de Cuilapa, Guatemala
 26/10/23 13:46:29 11.768 -86.682  47 2.5 C  18 Km al oeste de Masachapa, Nicaragua
+26/10/23 13:53:07  8.651 -82.997  41 2.0 C  21 Km al noroeste de Paso Canoas, Costa Rica
+26/10/23 14:13:14  9.460 -79.513   6 2.8 C  18 Km al sureste de Garrote, Panamá
+26/10/23 14:14:04 13.255 -90.028  23 3.1 C  43 Km al suroeste de Acajutla, El Salvador
