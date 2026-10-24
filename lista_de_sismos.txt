@@ -12138,3 +12138,7 @@
 26/10/23 14:13:14  9.460 -79.513   6 2.8 C  18 Km al sureste de Garrote, Panamá
 26/10/23 14:14:04 13.255 -90.028  23 3.1 C  43 Km al suroeste de Acajutla, El Salvador
 26/10/23 18:23:27 14.723 -87.121   2 2.1 C  26 Km al norte de Minas de Oro, Comayagua, Honduras
+26/10/23 22:18:08 14.550 -93.729   8 3.8 C 132 Km al suroeste de Mapastepec, México
+26/10/24 01:31:24 14.280 -92.750  16 4.9 C  62 Km al suroeste de El Gancho México
+26/10/24 06:17:41  9.084 -82.203   5 3.0 C  29 Km al sur de Bocas del Toro, Panamá
+26/10/24 06:27:52 15.110 -93.162  42 4.7 C  45 Km al suroeste de Mapastepec, México
