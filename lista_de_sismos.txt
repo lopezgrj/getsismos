@@ -12137,3 +12137,4 @@
 26/10/23 13:53:07  8.651 -82.997  41 2.0 C  21 Km al noroeste de Paso Canoas, Costa Rica
 26/10/23 14:13:14  9.460 -79.513   6 2.8 C  18 Km al sureste de Garrote, Panamá
 26/10/23 14:14:04 13.255 -90.028  23 3.1 C  43 Km al suroeste de Acajutla, El Salvador
+26/10/23 18:23:27 14.723 -87.121   2 2.1 C  26 Km al norte de Minas de Oro, Comayagua, Honduras
