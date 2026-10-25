@@ -12166,3 +12166,4 @@
 26/10/25 10:47:23 12.037 -87.429  30 3.9 C  57 Km al suroeste de Poneloya, Nicaragua
 26/10/25 11:16:32 11.554 -85.832  23 1.9 C  11 Km al norte de San Jorge, Nicaragua
 26/10/25 11:39:58 14.544 -92.438  37 3.6 C  20 Km al oeste de El Gancho México
+26/10/25 16:34:56  8.256 -82.307   5 3.8 A  23 Km al sureste de Chiriqui, Panamá
