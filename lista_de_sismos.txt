@@ -12164,3 +12164,4 @@
 26/10/25 08:37:57 13.204 -90.704   2 3.4 C  81 Km al sur de Iztapa, Guatemala
 26/10/25 10:47:20 12.355 -87.503  83 3.9 A  38 Km al suroeste de Pasocaballos, El Realejo, Nicaragua
 26/10/25 10:47:23 12.037 -87.429  30 3.9 C  57 Km al suroeste de Poneloya, Nicaragua
+26/10/25 11:16:32 11.554 -85.832  23 1.9 C  11 Km al norte de San Jorge, Nicaragua
