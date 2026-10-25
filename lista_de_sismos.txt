@@ -12151,3 +12151,4 @@
 26/10/24 23:16:35 13.399 -90.156  24 2.7 C  41 Km al suroeste de Acajutla, El Salvador
 26/10/25 00:58:57 13.286 -91.392   7 3.2 C  75 Km al sur de San Jose, Guatemala
 26/10/25 01:03:18 11.302 -87.083  11 3.2 C  82 Km al suroeste de Pochomil, Nicaragua
+26/10/25 03:48:50 15.266 -91.961 152 3.5 C  38 Km al noroeste de San Marcos, Guatemala
