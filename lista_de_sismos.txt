@@ -12149,3 +12149,5 @@
 26/10/24 22:20:35 12.941 -87.750 178 2.3 C   7 Km al noroeste de Punta Cosigüina, Nicaragua
 26/10/24 23:16:35 13.390 -90.144  23 2.8 C  40 Km al suroeste de Acajutla, El Salvador
 26/10/24 23:16:35 13.399 -90.156  24 2.7 C  41 Km al suroeste de Acajutla, El Salvador
+26/10/25 00:58:57 13.286 -91.392   7 3.2 C  75 Km al sur de San Jose, Guatemala
+26/10/25 01:03:18 11.302 -87.083  11 3.2 C  82 Km al suroeste de Pochomil, Nicaragua
