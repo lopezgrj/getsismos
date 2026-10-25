@@ -12167,3 +12167,5 @@
 26/10/25 11:16:32 11.554 -85.832  23 1.9 C  11 Km al norte de San Jorge, Nicaragua
 26/10/25 11:39:58 14.544 -92.438  37 3.6 C  20 Km al oeste de El Gancho México
 26/10/25 16:34:56  8.256 -82.307   5 3.8 A  23 Km al sureste de Chiriqui, Panamá
+26/10/25 16:34:40  7.451 -81.468  15 4.3 C  19 Km al noreste de Isla de Coiba, Panamá
+26/10/25 16:37:00  7.314 -81.891   5 4.3 A  11 Km al noroeste de Isla Jicarón, Panamá
