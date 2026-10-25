@@ -12162,3 +12162,4 @@
 26/10/25 07:45:52 14.639 -92.384  48 3.7 C  16 Km al noroeste de El Gancho México
 26/10/25 07:45:51 14.657 -92.383  53 3.7 C  17 Km al noroeste de El Gancho México
 26/10/25 08:37:57 13.204 -90.704   2 3.4 C  81 Km al sur de Iztapa, Guatemala
+26/10/25 10:47:20 12.355 -87.503  83 3.9 A  38 Km al suroeste de Pasocaballos, El Realejo, Nicaragua
