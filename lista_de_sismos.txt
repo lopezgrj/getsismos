@@ -12169,3 +12169,5 @@
 26/10/25 16:34:56  8.256 -82.307   5 3.8 A  23 Km al sureste de Chiriqui, Panamá
 26/10/25 16:34:40  7.451 -81.468  15 4.3 C  19 Km al noreste de Isla de Coiba, Panamá
 26/10/25 16:37:00  7.314 -81.891   5 4.3 A  11 Km al noroeste de Isla Jicarón, Panamá
+26/10/25 16:34:40  7.591 -81.417  10 4.3 C  22 Km al oeste de Punta Coca, Panamá
+26/10/25 16:37:17  8.423 -81.968   1 4.0 C  51 Km al norte de Chiriqui, Panamá
