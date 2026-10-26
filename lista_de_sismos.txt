@@ -12178,3 +12178,4 @@
 26/10/25 20:21:08  7.525 -81.579   1 4.1 C  11 Km al norte de Isla de Coiba, Panamá
 26/10/25 22:25:31  4.236 -76.733   5 4.4 C 257 Km al suroeste de Medellin, Colombia
 26/10/25 23:02:21 12.328 -87.839  32 3.0 C  62 Km al suroeste de Boca del Padre Ramos, Nicaragua
+26/10/26 02:49:40 13.419 -92.193   5 3.3 C  97 Km al suroeste de Tulate, Guatemala
