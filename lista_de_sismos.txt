@@ -12179,3 +12179,4 @@
 26/10/25 22:25:31  4.236 -76.733   5 4.4 C 257 Km al suroeste de Medellin, Colombia
 26/10/25 23:02:21 12.328 -87.839  32 3.0 C  62 Km al suroeste de Boca del Padre Ramos, Nicaragua
 26/10/26 02:49:40 13.419 -92.193   5 3.3 C  97 Km al suroeste de Tulate, Guatemala
+26/10/26 04:19:20 14.489 -92.712  32 3.8 C  50 Km al oeste de El Gancho México
