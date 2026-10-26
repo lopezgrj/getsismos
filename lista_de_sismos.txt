@@ -12182,3 +12182,4 @@
 26/10/26 04:19:20 14.489 -92.712  32 3.8 C  50 Km al oeste de El Gancho México
 26/10/26 04:50:26  8.325 -83.175   2 3.1 C  32 Km al suroeste de Laurel, Costa Rica
 26/10/26 05:15:54 13.211 -90.132  13 2.5 C  53 Km al suroeste de Acajutla, El Salvador
+26/10/26 09:44:03 12.059 -86.887  72 3.0 C  20 Km al oeste de El Transito, Nicaragua
