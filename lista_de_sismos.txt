@@ -12184,3 +12184,4 @@
 26/10/26 05:15:54 13.211 -90.132  13 2.5 C  53 Km al suroeste de Acajutla, El Salvador
 26/10/26 09:44:03 12.059 -86.887  72 3.0 C  20 Km al oeste de El Transito, Nicaragua
 26/10/26 12:16:55 13.759 -91.422  45 3.7 C  25 Km al sur de Tecojate, Guatemala
+26/10/26 13:27:10 12.873 -88.524  41 3.1 C  54 Km al sur de Usulután, El Salvador
