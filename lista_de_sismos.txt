@@ -12176,3 +12176,5 @@
 26/10/25 18:57:33 12.243 -87.179  53 2.2 C  21 Km al suroeste de Poneloya, Nicaragua
 26/10/25 19:39:58  8.160 -82.851   4 2.5 C   7 Km al norte de Limones, Distrito Barú, Panamá
 26/10/25 20:21:08  7.525 -81.579   1 4.1 C  11 Km al norte de Isla de Coiba, Panamá
+26/10/25 22:25:31  4.236 -76.733   5 4.4 C 257 Km al suroeste de Medellin, Colombia
+26/10/25 23:02:21 12.328 -87.839  32 3.0 C  62 Km al suroeste de Boca del Padre Ramos, Nicaragua
