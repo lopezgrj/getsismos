@@ -12172,3 +12172,4 @@
 26/10/25 16:34:40  7.591 -81.417  10 4.3 C  22 Km al oeste de Punta Coca, Panamá
 26/10/25 16:37:17  8.423 -81.968   1 4.0 C  51 Km al norte de Chiriqui, Panamá
 26/10/25 17:13:22 13.681 -90.971  43 3.3 C  34 Km al sureste de Sipacate, Guatemala
+26/10/25 18:50:30 13.870 -92.055  29 3.0 C  49 Km al suroeste de Tulate, Guatemala
