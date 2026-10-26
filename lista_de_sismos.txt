@@ -12174,3 +12174,4 @@
 26/10/25 17:13:22 13.681 -90.971  43 3.3 C  34 Km al sureste de Sipacate, Guatemala
 26/10/25 18:50:30 13.870 -92.055  29 3.0 C  49 Km al suroeste de Tulate, Guatemala
 26/10/25 18:57:33 12.243 -87.179  53 2.2 C  21 Km al suroeste de Poneloya, Nicaragua
+26/10/25 19:39:58  8.160 -82.851   4 2.5 C   7 Km al norte de Limones, Distrito Barú, Panamá
