@@ -12204,3 +12204,4 @@
 26/10/27 09:26:02  7.583 -81.535   2 5.6 C  17 Km al norte de Isla de Coiba, Panamá
 26/10/27 09:26:02  7.583 -81.535   2 5.7 C  17 Km al norte de Isla de Coiba, Panamá
 26/10/27 09:45:31 14.023 -93.244   6 4.2 C 122 Km al suroeste de El Gancho México
+26/10/27 15:14:11 13.434 -90.228  35 3.2 C  43 Km al sur de Las Brisas, Guatemala
