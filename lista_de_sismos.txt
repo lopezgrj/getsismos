@@ -12221,3 +12221,4 @@
 26/10/28 02:51:10 10.173 -84.435  56 2.6 C  29 Km al noroeste de Alajuela, Costa Rica
 26/10/28 05:13:48 11.282 -85.847  72 2.1 C   4 Km al noreste de San Juan del Sur, Nicaragua
 26/10/28 05:23:41 12.864 -88.814  38 3.1 C  44 Km al sur de Delta del Rio Lempa, El Salvador
+26/10/28 06:24:36 14.313 -90.100   5 2.9 A  22 Km al norte de Cuilapa, Guatemala
