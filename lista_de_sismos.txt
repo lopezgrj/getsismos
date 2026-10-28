@@ -12227,3 +12227,4 @@
 26/10/28 09:01:51  5.113 -76.173 116 4.4 C 142 Km al suroeste de Medellin, Colombia
 26/10/28 10:39:34 12.241 -87.435  34 2.0 C  40 Km al suroeste de Corinto, Nicaragua
 26/10/28 12:55:50 14.188 -93.217   7 4.0 C 112 Km al oeste de El Gancho México
+26/10/28 13:06:08 14.203 -93.189  10 4.3 C 108 Km al oeste de El Gancho México
