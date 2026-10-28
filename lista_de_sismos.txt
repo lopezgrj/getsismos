@@ -12212,3 +12212,5 @@
 26/10/27 19:02:44 13.925 -91.763  42 3.6 C  26 Km al sur de Tulate, Guatemala
 26/10/27 20:58:50 12.156 -87.307  38 3.1 C  38 Km al suroeste de Poneloya, Nicaragua
 26/10/28 00:44:28 12.940 -91.165  10 3.7 C 110 Km al sur de San Jose, Guatemala
+26/10/28 00:54:33 14.281 -92.822 112 3.3 C  69 Km al suroeste de El Gancho México
+26/10/28 01:16:32  8.476 -80.726   5 3.7 A  41 Km al oeste de Penanome, Panamá
