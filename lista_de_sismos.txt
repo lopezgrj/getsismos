@@ -12230,3 +12230,5 @@
 26/10/28 13:06:08 14.203 -93.189  10 4.3 C 108 Km al oeste de El Gancho México
 26/10/28 13:36:11  9.036 -82.108   3 3.9 C  37 Km al sureste de Bocas del Toro, Panamá
 26/10/28 07:01:12  7.812 -81.318   3 3.8 C  31 Km al norte de Punta Coca, Panamá
+26/10/28 09:55:33  7.267 -81.874   4 3.6 C   8 Km al oeste de Isla Jicarón, Panamá
+26/10/28 15:41:01  8.575 -82.770  13 2.8 C   5 Km al noreste de Celmira, Panamá
