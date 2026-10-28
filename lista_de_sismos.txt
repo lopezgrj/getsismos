@@ -12229,3 +12229,4 @@
 26/10/28 12:55:50 14.188 -93.217   7 4.0 C 112 Km al oeste de El Gancho México
 26/10/28 13:06:08 14.203 -93.189  10 4.3 C 108 Km al oeste de El Gancho México
 26/10/28 13:36:11  9.036 -82.108   3 3.9 C  37 Km al sureste de Bocas del Toro, Panamá
+26/10/28 07:01:12  7.812 -81.318   3 3.8 C  31 Km al norte de Punta Coca, Panamá
