@@ -12252,3 +12252,4 @@
 26/10/28 23:05:40 11.833 -88.561   6 2.9 C 153 Km al suroeste de Punta Cosigüina, Nicaragua
 26/10/28 23:26:08 10.654 -88.525   5 4.8 C 251 Km al suroeste de Las Penitas, Nicaragua
 26/10/28 23:26:08 10.665 -88.562   5 4.8 C 252 Km al suroeste de Las Penitas, Nicaragua
+26/10/28 23:42:54 14.017 -92.919  10 3.5 C  94 Km al suroeste de El Gancho México
