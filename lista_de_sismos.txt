@@ -12253,3 +12253,5 @@
 26/10/28 23:26:08 10.654 -88.525   5 4.8 C 251 Km al suroeste de Las Penitas, Nicaragua
 26/10/28 23:26:08 10.665 -88.562   5 4.8 C 252 Km al suroeste de Las Penitas, Nicaragua
 26/10/28 23:42:54 14.017 -92.919  10 3.5 C  94 Km al suroeste de El Gancho México
+26/10/29 00:01:07 12.139 -87.279  39 2.2 C  37 Km al suroeste de Poneloya, Nicaragua
+26/10/29 00:16:26 14.474 -92.658  25 3.9 C  44 Km al oeste de El Gancho México
