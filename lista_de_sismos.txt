@@ -12255,3 +12255,5 @@
 26/10/28 23:42:54 14.017 -92.919  10 3.5 C  94 Km al suroeste de El Gancho México
 26/10/29 00:01:07 12.139 -87.279  39 2.2 C  37 Km al suroeste de Poneloya, Nicaragua
 26/10/29 00:16:26 14.474 -92.658  25 3.9 C  44 Km al oeste de El Gancho México
+26/10/29 00:49:00 11.964 -88.370  20 2.9 C 129 Km al suroeste de Punta Cosigüina, Nicaragua
+26/10/29 00:56:44 15.201 -92.739  97 3.6 C  17 Km al oeste de Pueblo Nuevo, México
