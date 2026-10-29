@@ -12258,3 +12258,4 @@
 26/10/29 00:49:00 11.964 -88.370  20 2.9 C 129 Km al suroeste de Punta Cosigüina, Nicaragua
 26/10/29 00:56:44 15.201 -92.739  97 3.6 C  17 Km al oeste de Pueblo Nuevo, México
 26/10/29 02:29:55 14.374 -90.106   5 3.0 C  24 Km al noreste de Cuilapa, Guatemala
+26/10/29 03:49:06 11.466 -85.659 111 3.3 A   2 Km al suroeste de San Jose del Sur, Nicaragua
