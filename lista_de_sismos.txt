@@ -12243,3 +12243,6 @@
 26/10/28 21:55:09 11.232 -85.837  90 2.6 C   4 Km al sureste de San Juan del Sur, Nicaragua
 26/10/28 21:55:09 11.171 -85.842  85 3.3 C   9 Km al sur de San Juan del Sur, Nicaragua
 26/10/28 22:21:03  9.373 -83.859   5 2.9 C  14 Km al norte de Dominical, Costa Rica
+26/10/28 22:22:30 11.928 -88.348   8 3.3 C 131 Km al suroeste de Punta Cosigüina, Nicaragua
+26/10/28 22:24:24 11.980 -88.325  28 3.4 C 124 Km al suroeste de Punta Cosigüina, Nicaragua
+26/10/28 22:40:58 12.890 -89.091  38 3.3 C  50 Km al suroeste de Delta del Rio Lempa, El Salvador
