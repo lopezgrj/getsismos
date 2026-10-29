@@ -12268,3 +12268,4 @@
 26/10/29 03:53:04  9.040 -82.904  10 1.9 C  20 Km al noroeste de La Tigra, Costa Rica
 26/10/29 07:42:57  7.627 -80.531   4 4.9 C   5 Km al sureste de Llano de Piedras, Panamá
 26/10/28 23:26:08 10.608 -88.586  14 4.9 C 259 Km al suroeste de Las Penitas, Nicaragua
+26/10/28 23:26:08 10.608 -88.586  14 5.0 C 259 Km al suroeste de Las Penitas, Nicaragua
