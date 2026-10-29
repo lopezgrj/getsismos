@@ -12271,3 +12271,4 @@
 26/10/28 23:26:08 10.608 -88.586  14 5.0 C 259 Km al suroeste de Las Penitas, Nicaragua
 26/10/29 09:49:02 11.593 -85.819   8 1.9 C  15 Km al noroeste de Moyogalpa, Nicaragua
 26/10/29 09:45:58  4.449 -76.898  72 3.5 C 247 Km al suroeste de Medellin, Colombia
+26/10/29 12:32:10 13.610 -91.346   3 3.0 C  39 Km al suroeste de San Jose, Guatemala
