@@ -12237,3 +12237,4 @@
 26/10/28 17:11:55 12.491 -87.944  31 3.9 C  54 Km al suroeste de Punta Cosigüina, Nicaragua
 26/10/28 19:29:42 11.774 -87.422  26 2.9 C  78 Km al suroeste de Las Penitas, Nicaragua
 26/10/28 19:38:20  9.828 -82.923   2 3.1 C  21 Km al sureste de Puerto Limón, Costa Rica
+26/10/28 20:30:50 11.009 -85.623  74 2.0 C  19 Km al sureste de El Ostional, San Juan del Sur, Nicaragua
