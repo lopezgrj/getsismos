@@ -12279,3 +12279,4 @@
 26/10/30 00:11:26 14.379 -90.103   4 2.9 C  24 Km al noreste de Cuilapa, Guatemala
 26/10/30 03:12:00 12.999 -88.840  45 4.3 C  29 Km al sur de Delta del Rio Lempa, El Salvador
 26/10/30 03:11:59 12.981 -88.844  42 4.3 C  31 Km al sur de Delta del Rio Lempa, El Salvador
+26/10/30 08:02:25 13.866 -92.939  23 4.2 C 107 Km al suroeste de El Gancho México
