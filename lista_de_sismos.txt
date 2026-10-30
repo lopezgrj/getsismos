@@ -12274,3 +12274,4 @@
 26/10/29 12:32:10 13.610 -91.346   3 3.0 C  39 Km al suroeste de San Jose, Guatemala
 26/10/29 13:14:44  8.544 -83.121   6 2.6 C  26 Km al noroeste de Laurel, Costa Rica
 26/10/29 13:28:29 13.684 -90.492  39 3.5 C  29 Km al suroeste de Las Brisas, Guatemala
+26/10/29 18:49:40  8.275 -82.891   5 2.9 C   4 Km al oeste de Puerto Armuelles, Panamá
