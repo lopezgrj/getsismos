@@ -12280,3 +12280,5 @@
 26/10/30 03:12:00 12.999 -88.840  45 4.3 C  29 Km al sur de Delta del Rio Lempa, El Salvador
 26/10/30 03:11:59 12.981 -88.844  42 4.3 C  31 Km al sur de Delta del Rio Lempa, El Salvador
 26/10/30 08:02:25 13.866 -92.939  23 4.2 C 107 Km al suroeste de El Gancho México
+26/10/30 08:50:04 16.911 -93.820 133 2.8 C  76 Km al oeste de Chiapas, México
+26/10/30 08:50:56 17.269 -94.817 111 2.5 C 128 Km al norte de Salina Cruz, México
