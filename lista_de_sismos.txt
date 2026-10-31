@@ -12306,3 +12306,4 @@
 26/10/31 06:00:43  9.787 -84.292   7 2.4 C   5 Km al norte de Candelarita, Puriscal, Costa Rica
 26/10/31 06:40:44 11.533 -86.613  33 2.6 C  29 Km al suroeste de Pochomil, Nicaragua
 26/10/31 08:20:16 13.708 -89.236   4 2.3 C   6 Km al noreste de Santa Tecla, El Salvador
+26/10/31 08:55:09 13.920 -91.283  50 3.6 C  10 Km al sureste de Tecojate, Guatemala
