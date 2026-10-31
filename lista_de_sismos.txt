@@ -12305,3 +12305,4 @@
 26/10/31 02:30:09 14.380 -90.101   4 1.4 C  25 Km al noreste de Cuilapa, Guatemala
 26/10/31 06:00:43  9.787 -84.292   7 2.4 C   5 Km al norte de Candelarita, Puriscal, Costa Rica
 26/10/31 06:40:44 11.533 -86.613  33 2.6 C  29 Km al suroeste de Pochomil, Nicaragua
+26/10/31 08:20:16 13.708 -89.236   4 2.3 C   6 Km al noreste de Santa Tecla, El Salvador
