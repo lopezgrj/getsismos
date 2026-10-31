@@ -12295,3 +12295,5 @@
 26/10/30 20:42:04  8.454 -82.667  31 2.6 C  15 Km al norte de Desembocadura de Río Chiriqui Viejo, Panamá
 26/10/30 23:17:07  8.700 -84.431   3 3.0 A  86 Km al sur de Puerto Quepos, Costa Rica
 26/10/30 23:17:07  8.680 -84.467   1 2.9 C  90 Km al sur de Puerto Quepos, Costa Rica
+26/10/31 00:05:42 12.999 -89.875   5 2.5 C  66 Km al sur de Acajutla, El Salvador
+26/10/31 00:13:14 13.022 -90.056   6 3.0 C  68 Km al sur de Acajutla, El Salvador
