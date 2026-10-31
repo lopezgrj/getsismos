@@ -12309,3 +12309,4 @@
 26/10/31 08:55:09 13.920 -91.283  50 3.6 C  10 Km al sureste de Tecojate, Guatemala
 26/10/31 09:50:19  7.527 -80.209   5 5.6 C  28 Km al sur de Las Tablas, Panamá
 26/10/31 09:50:19  7.527 -80.209   5 5.5 C  28 Km al sur de Las Tablas, Panamá
+26/10/31 13:14:24 13.512 -90.644  11 3.9 C  47 Km al sur de Iztapa, Guatemala
