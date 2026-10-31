@@ -12299,3 +12299,4 @@
 26/10/31 00:13:14 13.022 -90.056   6 3.0 C  68 Km al sur de Acajutla, El Salvador
 26/10/31 00:39:59 13.146 -89.850  26 2.5 C  49 Km al sur de Acajutla, El Salvador
 26/10/31 02:06:24  9.616 -84.789  11 2.8 C  14 Km al oeste de Herradura, Costa Rica
+26/10/31 02:06:24  9.616 -84.789  11 2.9 C  14 Km al oeste de Herradura, Costa Rica
