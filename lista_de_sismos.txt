@@ -12290,3 +12290,4 @@
 26/10/30 12:50:49  8.503 -83.701  24 2.7 C  21 Km al oeste de Playa Madrigal, Costa Rica
 26/10/30 14:24:28 13.937 -90.010   1 2.4 C  18 Km al oeste de Ahuachapan, El Salvador
 26/10/30 14:24:31 13.827 -89.811   5 2.2 C  11 Km al sur de Ahuachapan, El Salvador
+26/10/30 19:37:56 14.373 -90.102   4 2.3 C  24 Km al noreste de Cuilapa, Guatemala
