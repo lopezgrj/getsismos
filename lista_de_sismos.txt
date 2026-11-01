@@ -12333,3 +12333,4 @@
 26/11/01 13:59:18 14.374 -90.104   5 3.6 C  24 Km al noreste de Cuilapa, Guatemala
 26/11/01 14:16:07 14.123 -93.150   8 3.8 C 108 Km al suroeste de El Gancho México
 26/11/01 00:38:18 10.562 -83.305   3 2.7 C  29 Km al norte de Parismina, Costa Rica
+26/11/01 16:11:12 14.282 -92.653  17 2.9 C  53 Km al suroeste de El Gancho México
