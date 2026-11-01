@@ -12310,3 +12310,4 @@
 26/10/31 09:50:19  7.527 -80.209   5 5.6 C  28 Km al sur de Las Tablas, Panamá
 26/10/31 09:50:19  7.527 -80.209   5 5.5 C  28 Km al sur de Las Tablas, Panamá
 26/10/31 13:14:24 13.512 -90.644  11 3.9 C  47 Km al sur de Iztapa, Guatemala
+26/10/31 18:03:52 13.000 -88.726   5 2.7 A  31 Km al sur de Delta del Rio Lempa, El Salvador
