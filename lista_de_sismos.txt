@@ -12328,3 +12328,4 @@
 26/11/01 09:51:34  8.925 -84.111   2 2.7 C  46 Km al suroeste de Dominical, Costa Rica
 26/11/01 11:29:51 12.574 -88.502  35 3.0 C  79 Km al suroeste de Playa El Cuco, El Salvador
 26/11/01 12:07:20 14.782 -92.639  55 3.4 C  42 Km al oeste de Tapachula, México
+26/11/01 13:30:42 11.373 -86.859  21 3.0 C  59 Km al suroeste de Pochomil, Nicaragua
