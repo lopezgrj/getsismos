@@ -12329,3 +12329,5 @@
 26/11/01 11:29:51 12.574 -88.502  35 3.0 C  79 Km al suroeste de Playa El Cuco, El Salvador
 26/11/01 12:07:20 14.782 -92.639  55 3.4 C  42 Km al oeste de Tapachula, México
 26/11/01 13:30:42 11.373 -86.859  21 3.0 C  59 Km al suroeste de Pochomil, Nicaragua
+26/11/01 13:50:05 14.743 -92.601  28 4.1 C  40 Km al suroeste de Tapachula, México
+26/11/01 13:59:18 14.374 -90.104   5 3.6 C  24 Km al noreste de Cuilapa, Guatemala
