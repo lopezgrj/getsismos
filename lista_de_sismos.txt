@@ -12314,3 +12314,4 @@
 26/10/31 18:03:35 12.790 -88.971  15 2.8 C  54 Km al sur de Delta del Rio Lempa, El Salvador
 26/10/31 18:05:44 14.152 -91.982  60 3.6 C  17 Km al suroeste de Champerico, Guatemala
 26/10/31 18:05:44 14.152 -91.982  60 3.5 C  17 Km al suroeste de Champerico, Guatemala
+26/10/31 20:31:22 14.013 -91.464  54 3.8 A   7 Km al sureste de El Semillero, Guatemala
