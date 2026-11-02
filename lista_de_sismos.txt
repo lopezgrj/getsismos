@@ -12345,3 +12345,4 @@
 26/11/02 05:38:18 13.138 -89.383  40 3.3 C  39 Km al sur de La Libertad, El Salvador
 26/11/02 05:54:17 12.384 -87.468  39 3.5 C  33 Km al suroeste de Pasocaballos, El Realejo, Nicaragua
 26/11/02 05:57:16 13.868 -89.732   2 3.9 C  13 Km al sureste de Ahuachapan, El Salvador
+26/11/02 07:00:17 13.858 -89.751   5 2.2 C  12 Km al sureste de Ahuachapan, El Salvador
