@@ -12349,3 +12349,4 @@
 26/11/02 07:46:33 13.337 -87.909 120 2.7 A   7 Km al oeste de La Union, El Salvador
 26/11/02 07:46:36 12.878 -88.701  42 2.6 C  44 Km al sur de Delta del Rio Lempa, El Salvador
 26/11/02 11:30:16 13.070 -87.512 212 2.3 C   8 Km al norte de Potosi, Cosiguina, Nicaragua
+26/11/02 16:07:31 12.254 -87.374  36 2.6 C  34 Km al suroeste de Corinto, Nicaragua
