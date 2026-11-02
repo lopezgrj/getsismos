@@ -12350,3 +12350,4 @@
 26/11/02 07:46:36 12.878 -88.701  42 2.6 C  44 Km al sur de Delta del Rio Lempa, El Salvador
 26/11/02 11:30:16 13.070 -87.512 212 2.3 C   8 Km al norte de Potosi, Cosiguina, Nicaragua
 26/11/02 16:07:31 12.254 -87.374  36 2.6 C  34 Km al suroeste de Corinto, Nicaragua
+26/11/02 16:15:52  9.037 -82.111   5 2.9 C  37 Km al sureste de Bocas del Toro, Panamá
