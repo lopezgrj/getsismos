@@ -12342,3 +12342,6 @@
 26/11/02 02:27:17  7.269 -80.807  23 3.9 C  13 Km al norte de Desembocadura de Rio Varadero, Panamá
 26/11/02 05:04:26  8.451 -83.119   7 2.5 C  23 Km al oeste de Laurel, Costa Rica
 26/11/02 05:38:18 13.138 -89.383  40 3.4 C  39 Km al sur de La Libertad, El Salvador
+26/11/02 05:38:18 13.138 -89.383  40 3.3 C  39 Km al sur de La Libertad, El Salvador
+26/11/02 05:54:17 12.384 -87.468  39 3.5 C  33 Km al suroeste de Pasocaballos, El Realejo, Nicaragua
+26/11/02 05:57:16 13.868 -89.732   2 3.9 C  13 Km al sureste de Ahuachapan, El Salvador
