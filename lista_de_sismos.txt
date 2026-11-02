@@ -12341,3 +12341,4 @@
 26/11/02 01:08:43 15.277 -90.290   1 3.1 C  19 Km al norte de Salama, Guatemala
 26/11/02 02:27:17  7.269 -80.807  23 3.9 C  13 Km al norte de Desembocadura de Rio Varadero, Panamá
 26/11/02 05:04:26  8.451 -83.119   7 2.5 C  23 Km al oeste de Laurel, Costa Rica
+26/11/02 05:38:18 13.138 -89.383  40 3.4 C  39 Km al sur de La Libertad, El Salvador
