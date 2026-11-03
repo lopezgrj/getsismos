@@ -12370,3 +12370,13 @@
 26/11/03 02:56:44 14.122 -90.287 235 2.6 C  17 Km al sur de Cuilapa, Guatemala
 26/11/03 03:30:37  8.300 -82.876  12 2.7 C   4 Km al noroeste de Puerto Armuelles, Panamá
 26/11/03 03:40:54 13.792 -91.348  26 2.6 C  20 Km al sur de Tecojate, Guatemala
+26/11/03 04:15:16 14.494 -93.166  13 3.2 C  98 Km al oeste de El Gancho México
+26/11/03 04:18:36 14.502 -90.017   2 2.5 C  15 Km al sur de Jalapa, Guatemala
+26/11/03 04:33:04 12.641 -88.315  32 2.7 C  63 Km al sur de Playa El Cuco, El Salvador
+26/11/03 04:35:19  7.308 -81.099   5 4.5 C  20 Km al oeste de Desembocadura de Rio Varadero, Panamá
+26/11/03 04:56:02 12.933 -87.461   9 1.9 C   7 Km al oeste de Desembocadura del Río Estero Real, Nicaragua
+26/11/03 05:14:10 13.302 -90.335  17 2.8 C  58 Km al sur de Las Brisas, Guatemala
+26/11/03 05:29:13 14.370 -90.106   1 3.4 C  24 Km al noreste de Cuilapa, Guatemala
+26/11/03 05:32:04 12.567 -90.026   7 3.6 C 116 Km al sur de Acajutla, El Salvador
+26/11/03 07:28:12 14.071 -89.823   6 2.7 C  17 Km al norte de Ahuachapan, El Salvador
+26/11/03 09:19:52 14.376 -90.107   4 2.6 C  24 Km al noreste de Cuilapa, Guatemala
