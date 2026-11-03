@@ -12360,3 +12360,4 @@
 26/11/02 19:15:50 12.888 -89.675  14 3.8 C  76 Km al suroeste de La Libertad, El Salvador
 26/11/02 19:15:51 12.912 -89.662  14 3.8 C  73 Km al suroeste de La Libertad, El Salvador
 26/11/02 20:25:12 14.382 -90.108   2 3.0 C  24 Km al noreste de Cuilapa, Guatemala
+26/11/02 21:48:26 14.368 -90.122   7 1.9 C  22 Km al noreste de Cuilapa, Guatemala
