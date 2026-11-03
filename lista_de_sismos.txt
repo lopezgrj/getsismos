@@ -12381,3 +12381,4 @@
 26/11/03 07:28:12 14.071 -89.823   6 2.7 C  17 Km al norte de Ahuachapan, El Salvador
 26/11/03 09:19:52 14.376 -90.107   4 2.6 C  24 Km al noreste de Cuilapa, Guatemala
 26/11/03 12:11:23 11.396 -85.957 164 2.4 C   8 Km al norte de El Gigante, Tola, Nicaragua
+26/11/03 13:30:17 13.861 -89.741   4 2.1 C  13 Km al sureste de Ahuachapan, El Salvador
