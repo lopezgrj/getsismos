@@ -12383,3 +12383,4 @@
 26/11/03 12:11:23 11.396 -85.957 164 2.4 C   8 Km al norte de El Gigante, Tola, Nicaragua
 26/11/03 13:30:17 13.861 -89.741   4 2.1 C  13 Km al sureste de Ahuachapan, El Salvador
 26/11/03 14:59:44  7.312 -80.479 105 3.9 C  11 Km al sur de Tonosí, Panamá
+26/11/03 15:35:24  9.678 -84.539   2 3.9 C  12 Km al noreste de Jacó, Costa Rica
