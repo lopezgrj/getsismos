@@ -12367,3 +12367,4 @@
 26/11/02 23:44:20  3.880 -77.146  28 3.3 C 315 Km al suroeste de Medellin, Colombia
 26/11/03 00:21:15 14.379 -90.110   4 2.1 C  24 Km al noreste de Cuilapa, Guatemala
 26/11/03 00:43:07 14.375 -90.108   5 2.6 C  24 Km al noreste de Cuilapa, Guatemala
+26/11/03 02:56:44 14.122 -90.287 235 2.6 C  17 Km al sur de Cuilapa, Guatemala
