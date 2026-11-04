@@ -12400,3 +12400,4 @@
 26/11/04 01:59:48 13.162 -89.195   5 2.8 A  39 Km al sur de La Libertad, El Salvador
 26/11/04 01:59:45 13.062 -89.266  17 2.9 C  47 Km al sur de La Libertad, El Salvador
 26/11/04 02:55:44  7.499 -80.686   1 4.1 C  23 Km al suroeste de Llano de Piedras, Panamá
+26/11/04 03:13:59 14.376 -90.104   3 2.9 C  24 Km al noreste de Cuilapa, Guatemala
