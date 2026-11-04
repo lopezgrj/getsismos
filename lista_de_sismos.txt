@@ -12392,3 +12392,4 @@
 26/11/03 20:53:30 12.930 -89.056  30 3.1 C  44 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/11/03 20:55:58 14.377 -90.106   4 3.3 C  24 Km al noreste de Cuilapa, Guatemala
 26/11/03 21:57:58 14.375 -90.110   6 2.0 C  23 Km al noreste de Cuilapa, Guatemala
+26/11/03 23:21:18  8.687 -82.904  41 2.7 C  17 Km al oeste de Salitral, Panamá
