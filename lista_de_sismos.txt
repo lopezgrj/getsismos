@@ -12416,3 +12416,4 @@
 26/10/28 17:11:55 12.494 -87.950  28 3.9 C  54 Km al suroeste de Punta Cosigüina, Nicaragua
 26/10/25 18:57:33 12.242 -87.199  56 2.3 C  23 Km al suroeste de Poneloya, Nicaragua
 26/11/01 04:10:31 12.532 -88.477  29 2.7 C  82 Km al suroeste de Playa El Cuco, El Salvador
+26/10/29 09:49:02 11.597 -85.815   6 2.0 C  15 Km al noroeste de Moyogalpa, Nicaragua
