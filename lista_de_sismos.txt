@@ -12417,3 +12417,5 @@
 26/10/25 18:57:33 12.242 -87.199  56 2.3 C  23 Km al suroeste de Poneloya, Nicaragua
 26/11/01 04:10:31 12.532 -88.477  29 2.7 C  82 Km al suroeste de Playa El Cuco, El Salvador
 26/10/29 09:49:02 11.597 -85.815   6 2.0 C  15 Km al noroeste de Moyogalpa, Nicaragua
+26/11/04 09:10:30 14.387 -90.103   5 1.6 C  25 Km al noreste de Cuilapa, Guatemala
+26/11/04 09:17:41 14.386 -90.101   4 1.5 C  25 Km al noreste de Cuilapa, Guatemala
