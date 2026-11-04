@@ -12391,3 +12391,4 @@
 26/11/03 20:16:21  8.247 -82.944   1 3.9 C  10 Km al oeste de Puerto Armuelles, Panamá
 26/11/03 20:53:30 12.930 -89.056  30 3.1 C  44 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/11/03 20:55:58 14.377 -90.106   4 3.3 C  24 Km al noreste de Cuilapa, Guatemala
+26/11/03 21:57:58 14.375 -90.110   6 2.0 C  23 Km al noreste de Cuilapa, Guatemala
