@@ -12387,3 +12387,4 @@
 26/11/03 17:12:49  6.801 -76.043  10 3.7 C  81 Km al noroeste de Medellin, Colombia
 26/11/03 18:54:51 13.161 -89.732  27 3.3 C  49 Km al sur de Acajutla, El Salvador
 26/11/03 18:54:51 13.166 -89.735  26 3.4 C  48 Km al sur de Acajutla, El Salvador
+26/11/03 20:00:25 13.975 -91.719  26 3.2 C  20 Km al sur de Tulate, Guatemala
