@@ -12410,3 +12410,4 @@
 26/11/04 06:13:02 14.375 -90.101   3 3.5 C  24 Km al noreste de Cuilapa, Guatemala
 26/11/04 07:48:07 10.996 -86.552  26 2.7 C  67 Km al oeste de Caba Santa Elena, Costa Rica
 26/11/04 07:34:04 13.635 -84.306   2 2.9 C  32 Km al sur de Rosita, Nicaragua
+26/10/27 08:06:08 10.827 -86.776  22 3.3 C  91 Km al oeste de Caba Santa Elena, Costa Rica
