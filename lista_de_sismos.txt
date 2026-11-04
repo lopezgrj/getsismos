@@ -12413,3 +12413,4 @@
 26/10/27 08:06:08 10.827 -86.776  22 3.3 C  91 Km al oeste de Caba Santa Elena, Costa Rica
 26/10/27 01:39:56 12.089 -88.232  22 3.6 C 109 Km al suroeste de Punta Cosigüina, Nicaragua
 26/10/27 17:54:57 12.080 -87.704  23 2.8 C  73 Km al suroeste de Corinto, Nicaragua
+26/10/28 17:11:55 12.494 -87.950  28 3.9 C  54 Km al suroeste de Punta Cosigüina, Nicaragua
