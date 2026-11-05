@@ -12432,3 +12432,4 @@
 26/11/05 00:55:20  7.497 -81.040   1 4.1 C  18 Km al sureste de Gobernadora, Veraguas, Panamá
 26/11/05 01:50:36  9.425 -82.704  14 2.7 C  25 Km al suroeste de Las Delicias, Panamá
 26/11/05 02:00:15  7.429 -80.087   5 4.2 A  39 Km al norte de Tonosí, Panamá
+26/11/05 02:00:14  7.411 -80.034   1 4.3 C  45 Km al norte de Tonosí, Panamá
