@@ -12427,3 +12427,4 @@
 26/11/04 20:39:22 10.231 -85.112  33 2.7 C  34 Km al noreste de Porvenir, Costa Rica
 26/11/04 22:07:28 10.612 -85.706  37 2.6 C  29 Km al oeste de Liberia, Costa Rica
 26/11/04 22:33:14 14.374 -90.102   3 2.9 C  24 Km al noreste de Cuilapa, Guatemala
+26/11/05 00:24:18 10.645 -84.960  14 2.3 C  40 Km al sureste de Cuatro Bocas, Costa Rica
