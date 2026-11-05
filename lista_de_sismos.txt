@@ -12438,3 +12438,6 @@
 26/11/05 08:48:54 11.873 -86.057  11 2.2 C  10 Km al noroeste de Volcán Mombacho, Nicaragua
 26/11/05 11:57:32 13.514 -90.569  24 3.8 C  47 Km al suroeste de Las Brisas, Guatemala
 26/11/05 17:33:50 12.699 -86.907   8 3.2 A  10 Km al norte de Volcán San Cristóbal, Nicaragua
+26/11/05 17:33:50 12.697 -86.925   6 3.5 C   8 Km al norte de Volcán San Cristóbal, Nicaragua
+26/11/05 17:39:04 14.368 -90.112   3 2.6 C  23 Km al noreste de Cuilapa, Guatemala
+26/11/05 17:42:46 14.370 -90.117   2 1.8 C  23 Km al noreste de Cuilapa, Guatemala
