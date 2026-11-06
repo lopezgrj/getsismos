@@ -12446,3 +12446,4 @@
 26/11/05 21:32:45 14.386 -90.102   5 2.3 A  25 Km al noreste de Cuilapa, Guatemala
 26/11/05 21:32:44 14.381 -90.095   1 2.3 C  24 Km al noroeste de Jutiapa, Guatemala
 26/11/05 22:03:07 12.203 -87.919  20 2.7 C  78 Km al suroeste de Jiquilillo, Nicaragua
+26/11/06 02:06:52 13.553 -92.041   5 2.9 C  76 Km al suroeste de Tulate, Guatemala
