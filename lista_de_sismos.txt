@@ -12450,3 +12450,4 @@
 26/11/06 04:32:16 13.153 -89.608  58 3.6 C  48 Km al suroeste de La Libertad, El Salvador
 26/11/06 00:30:52 14.379 -90.112   5 1.5 C  24 Km al noreste de Cuilapa, Guatemala
 26/11/06 08:21:39 11.312 -85.857 175 2.2 C   7 Km al norte de San Juan del Sur, Nicaragua
+26/11/06 09:09:37 14.252 -91.682  63 3.5 C  11 Km al norte de Tulate, Guatemala
