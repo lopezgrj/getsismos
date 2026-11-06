@@ -12457,3 +12457,4 @@
 26/11/06 12:08:46 12.612 -86.817   4 1.8 C   3 Km al norte de Volcán Telica, Nicaragua
 26/11/06 13:06:54  7.412 -79.958   5 4.8 C  53 Km al sureste de Las Tablas, Panamá
 26/11/06 12:10:36 12.591 -86.819   4 1.2 C   3 Km al sureste de Volcán Telica, Nicaragua
+26/11/06 13:19:38  8.482 -82.850  16 2.6 C   6 Km al sur de Paso Canoas, Frontera Costa Rica-Panamá
