@@ -12456,3 +12456,4 @@
 26/11/06 12:33:51 14.333 -90.109   5 2.6 C  22 Km al norte de Cuilapa, Guatemala
 26/11/06 12:08:46 12.612 -86.817   4 1.8 C   3 Km al norte de Volcán Telica, Nicaragua
 26/11/06 13:06:54  7.412 -79.958   5 4.8 C  53 Km al sureste de Las Tablas, Panamá
+26/11/06 12:10:36 12.591 -86.819   4 1.2 C   3 Km al sureste de Volcán Telica, Nicaragua
