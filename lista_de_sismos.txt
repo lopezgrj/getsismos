@@ -12447,3 +12447,4 @@
 26/11/05 21:32:44 14.381 -90.095   1 2.3 C  24 Km al noroeste de Jutiapa, Guatemala
 26/11/05 22:03:07 12.203 -87.919  20 2.7 C  78 Km al suroeste de Jiquilillo, Nicaragua
 26/11/06 02:06:52 13.553 -92.041   5 2.9 C  76 Km al suroeste de Tulate, Guatemala
+26/11/06 04:32:16 13.153 -89.608  58 3.6 C  48 Km al suroeste de La Libertad, El Salvador
