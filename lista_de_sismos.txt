@@ -12443,3 +12443,4 @@
 26/11/05 17:42:46 14.370 -90.117   2 1.8 C  23 Km al noreste de Cuilapa, Guatemala
 26/11/05 18:53:45  9.400 -84.215  16 3.6 C   7 Km al suroeste de Puerto Quepos, Costa Rica
 26/11/05 18:55:07  7.692 -81.607   3 4.4 C  17 Km al norte de Isla de Coiba, Panamá
+26/11/05 21:32:45 14.386 -90.102   5 2.3 A  25 Km al noreste de Cuilapa, Guatemala
