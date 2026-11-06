@@ -12454,3 +12454,5 @@
 26/11/06 09:09:37 14.252 -91.682  63 3.8 C  11 Km al norte de Tulate, Guatemala
 26/11/06 10:41:15 14.379 -90.103   5 2.4 C  24 Km al noreste de Cuilapa, Guatemala
 26/11/06 12:33:51 14.333 -90.109   5 2.6 C  22 Km al norte de Cuilapa, Guatemala
+26/11/06 12:08:46 12.612 -86.817   4 1.8 C   3 Km al norte de Volcán Telica, Nicaragua
+26/11/06 13:06:54  7.412 -79.958   5 4.8 C  53 Km al sureste de Las Tablas, Panamá
