@@ -12460,3 +12460,6 @@
 26/11/06 13:19:38  8.482 -82.850  16 2.6 C   6 Km al sur de Paso Canoas, Frontera Costa Rica-Panamá
 26/11/06 21:18:06  7.570 -81.475   1 4.2 C  23 Km al norte de Isla de Coiba, Panamá
 26/11/06 22:52:16  4.412 -76.926  65 3.4 C 252 Km al suroeste de Medellin, Colombia
+26/11/06 23:01:24 14.383 -87.412   1 2.4 C  26 Km al norte de Comayagua, Honduras
+26/11/07 05:25:03 12.250 -88.313  19 3.0 C 100 Km al suroeste de Punta Cosigüina, Nicaragua
+26/11/07 07:58:14  8.293 -82.690  21 3.4 C   4 Km al sur de Desembocadura de Río Chiriqui Viejo, Panamá
