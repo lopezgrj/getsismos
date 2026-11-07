@@ -12467,3 +12467,4 @@
 26/11/07 10:01:50  7.292 -79.963   1 4.5 C  54 Km al norte de Tonosí, Panamá
 26/11/07 10:20:10 12.577 -88.214  25 3.1 C  67 Km al sur de Playa El Cuco, El Salvador
 26/11/07 12:58:23 12.620 -88.883  27 3.0 C  71 Km al sur de Delta del Rio Lempa, El Salvador
+26/11/07 13:55:06 11.236 -87.373  22 4.2 C 112 Km al suroeste de Masachapa, Nicaragua
