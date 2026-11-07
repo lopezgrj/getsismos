@@ -12469,3 +12469,4 @@
 26/11/07 12:58:23 12.620 -88.883  27 3.0 C  71 Km al sur de Delta del Rio Lempa, El Salvador
 26/11/07 13:55:06 11.236 -87.373  22 4.2 C 112 Km al suroeste de Masachapa, Nicaragua
 26/11/07 13:55:06 11.300 -87.370  10 4.2 C 108 Km al suroeste de Masachapa, Nicaragua
+26/11/07 17:22:31 13.453 -91.447   5 4.2 C  59 Km al sur de Tecojate, Guatemala
