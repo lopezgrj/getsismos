@@ -12499,3 +12499,4 @@
 26/11/08 13:24:02 13.872 -89.727   6 1.8 C  14 Km al norte de Ahuachapan, El Salvador
 26/11/08 13:25:39 13.872 -89.715   5 1.6 C  15 Km al norte de Ahuachapan, El Salvador
 26/11/08 13:58:56 14.366 -90.115   5 2.7 C  23 Km al noreste de Cuilapa, Guatemala
+26/11/08 15:32:56 10.663 -86.339   7 3.3 A  49 Km al suroeste de Caba Santa Elena, Costa Rica
