@@ -12472,3 +12472,4 @@
 26/11/07 17:22:31 13.453 -91.447   5 4.2 C  59 Km al sur de Tecojate, Guatemala
 26/11/07 18:51:44 12.469 -87.849  36 3.1 C  50 Km al suroeste de Mechapa, Chinandega, Nicaragua
 26/11/07 18:51:44 12.447 -87.834  36 3.1 C  51 Km al suroeste de Mechapa, Chinandega, Nicaragua
+26/11/07 20:17:15 13.228 -89.885  23 3.0 C  41 Km al sur de Acajutla, El Salvador
