@@ -12502,3 +12502,4 @@
 26/11/08 15:32:56 10.663 -86.339   7 3.3 A  49 Km al suroeste de Caba Santa Elena, Costa Rica
 26/11/08 15:32:54 10.569 -86.405  11 3.2 C  53 Km al noroeste de Rosario, Costa Rica
 26/11/08 16:46:27 12.294 -87.688  35 2.5 C  55 Km al suroeste de Jiquilillo, Nicaragua
+26/11/08 19:29:26 12.424 -87.832  28 2.7 C  53 Km al suroeste de Mechapa, Chinandega, Nicaragua
