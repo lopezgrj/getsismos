@@ -12505,3 +12505,4 @@
 26/11/08 19:29:26 12.424 -87.832  28 2.7 C  53 Km al suroeste de Mechapa, Chinandega, Nicaragua
 26/11/08 20:00:14 14.384 -90.108   5 2.6 C  24 Km al noreste de Cuilapa, Guatemala
 26/11/08 20:26:05 12.934 -89.573  23 3.1 C  67 Km al suroeste de La Libertad, El Salvador
+26/11/08 22:18:37 14.366 -90.101   5 2.8 C  24 Km al noreste de Cuilapa, Guatemala
