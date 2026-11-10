@@ -12526,3 +12526,4 @@
 26/11/09 23:20:45 12.583 -88.283  31 3.5 C  68 Km al sur de Playa El Cuco, El Salvador
 26/11/09 23:23:14 11.275 -85.681 122 2.4 C  13 Km al sureste de La Virgen, Nicaragua
 26/11/09 23:32:16 12.578 -87.182 122 1.8 C   5 Km al noroeste de El Realejo, Nicaragua
+26/11/09 23:57:39 14.144 -92.878 107 4.1 C  82 Km al suroeste de El Gancho México
