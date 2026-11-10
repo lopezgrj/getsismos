@@ -12523,3 +12523,6 @@
 26/11/09 20:59:21 12.515 -87.901  29 2.6 C  49 Km al suroeste de Mechapa, Chinandega, Nicaragua
 26/11/09 22:10:53 14.367 -90.104   4 2.6 C  24 Km al noreste de Cuilapa, Guatemala
 26/11/09 22:46:31  9.986 -86.344  11 3.1 C  53 Km al suroeste de Rosario, Costa Rica
+26/11/09 23:20:45 12.583 -88.283  31 3.5 C  68 Km al sur de Playa El Cuco, El Salvador
+26/11/09 23:23:14 11.275 -85.681 122 2.4 C  13 Km al sureste de La Virgen, Nicaragua
+26/11/09 23:32:16 12.578 -87.182 122 1.8 C   5 Km al noroeste de El Realejo, Nicaragua
