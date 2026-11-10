@@ -12531,3 +12531,4 @@
 26/11/10 03:06:19  8.437 -83.164  13 2.0 C  28 Km al oeste de Laurel, Costa Rica
 26/11/10 03:50:12 14.193 -90.219   5 1.8 C  13 Km al sureste de Cuilapa, Guatemala
 26/11/10 08:54:15 13.455 -91.022   7 5.8 C  54 Km al sur de Sipacate, Guatemala
+26/11/10 08:54:16 13.410 -91.057  20 5.8 C  59 Km al sur de Sipacate, Guatemala
