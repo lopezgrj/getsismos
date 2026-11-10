@@ -12529,3 +12529,4 @@
 26/11/09 23:57:39 14.144 -92.878 107 4.1 C  82 Km al suroeste de El Gancho México
 26/11/10 02:25:22 12.538 -88.163  26 2.3 C  66 Km al suroeste de Punta Cosigüina, Nicaragua
 26/11/10 03:06:19  8.437 -83.164  13 2.0 C  28 Km al oeste de Laurel, Costa Rica
+26/11/10 03:50:12 14.193 -90.219   5 1.8 C  13 Km al sureste de Cuilapa, Guatemala
