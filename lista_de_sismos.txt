@@ -12538,3 +12538,4 @@
 26/11/10 09:41:49 12.375 -87.760  33 3.0 C  53 Km al suroeste de Jiquilillo, Nicaragua
 26/11/10 02:58:20 11.868 -86.063  10 0.0 1    0 al o ste de Volcán Mombacho, Nicaragua
 26/11/10 06:22:34 11.911 -88.151  16 2.7 C 119 Km al suroeste de Jiquilillo, Nicaragua
+26/11/10 02:58:20 11.868 -86.063   9 2.2 C  10 Km al oeste de Volcán Mombacho, Nicaragua
