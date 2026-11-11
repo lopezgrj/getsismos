@@ -12546,3 +12546,4 @@
 26/11/10 20:43:44 14.068 -89.825   7 2.5 C  17 Km al norte de Ahuachapan, El Salvador
 26/11/10 21:46:22 12.632 -87.394   5 1.9 A  12 Km al sureste de Jiquilillo, Nicaragua
 26/11/10 21:46:14 12.465 -87.864  32 2.2 C  51 Km al suroeste de Mechapa, Chinandega, Nicaragua
+26/11/11 01:46:33 14.377 -90.116   7 3.4 C  23 Km al noreste de Cuilapa, Guatemala
