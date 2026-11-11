@@ -12550,3 +12550,4 @@
 26/11/11 01:50:33 12.940 -89.604  20 3.8 C  68 Km al suroeste de La Libertad, El Salvador
 26/11/11 01:57:47 12.075 -86.616 171 2.4 A  10 Km al norte de El Transito, Nicaragua
 26/11/11 01:57:53 12.128 -86.720  99 2.2 C   9 Km al norte de El Transito, Nicaragua
+26/11/11 03:28:01 14.468 -90.181  22 1.9 A  25 Km al noreste de Cuilapa, Guatemala
