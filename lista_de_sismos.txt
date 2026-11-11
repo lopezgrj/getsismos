@@ -12547,3 +12547,5 @@
 26/11/10 21:46:22 12.632 -87.394   5 1.9 A  12 Km al sureste de Jiquilillo, Nicaragua
 26/11/10 21:46:14 12.465 -87.864  32 2.2 C  51 Km al suroeste de Mechapa, Chinandega, Nicaragua
 26/11/11 01:46:33 14.377 -90.116   7 3.4 C  23 Km al noreste de Cuilapa, Guatemala
+26/11/11 01:50:33 12.940 -89.604  20 3.8 C  68 Km al suroeste de La Libertad, El Salvador
+26/11/11 01:57:47 12.075 -86.616 171 2.4 A  10 Km al norte de El Transito, Nicaragua
