@@ -12570,3 +12570,4 @@
 26/11/11 18:18:30 13.191 -89.615  33 3.0 C  45 Km al suroeste de La Libertad, El Salvador
 26/11/11 18:32:57 12.585 -88.534   5 2.5 A  80 Km al suroeste de Playa El Cuco, El Salvador
 26/11/11 18:32:51 13.016 -88.437  52 1.7 C  37 Km al sur de Usulután, El Salvador
+26/11/11 20:48:38 14.387 -90.102   5 2.5 C  25 Km al noreste de Cuilapa, Guatemala
