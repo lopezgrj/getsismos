@@ -12574,3 +12574,4 @@
 26/11/11 22:08:00 13.798 -91.318  12 3.2 C  20 Km al sur de Tecojate, Guatemala
 26/11/11 22:08:01 13.821 -91.332  17 3.2 C  17 Km al sur de Tecojate, Guatemala
 26/11/11 22:21:04 13.631 -90.253  54 3.8 C  21 Km al sur de Las Brisas, Guatemala
+26/11/11 22:21:04 13.631 -90.253  54 3.9 C  21 Km al sur de Las Brisas, Guatemala
