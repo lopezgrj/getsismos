@@ -12572,3 +12572,5 @@
 26/11/11 18:32:51 13.016 -88.437  52 1.7 C  37 Km al sur de Usulután, El Salvador
 26/11/11 20:48:38 14.387 -90.102   5 2.5 C  25 Km al noreste de Cuilapa, Guatemala
 26/11/11 22:08:00 13.798 -91.318  12 3.2 C  20 Km al sur de Tecojate, Guatemala
+26/11/11 22:08:01 13.821 -91.332  17 3.2 C  17 Km al sur de Tecojate, Guatemala
+26/11/11 22:21:04 13.631 -90.253  54 3.8 C  21 Km al sur de Las Brisas, Guatemala
