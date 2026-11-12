@@ -12584,3 +12584,5 @@
 26/11/12 09:34:41 14.134 -93.149  10 4.3 C 107 Km al suroeste de El Gancho México
 26/11/12 07:48:23 12.912 -89.056  27 2.7 C  46 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/11/12 09:34:42 14.106 -93.126  10 4.3 C 107 Km al suroeste de El Gancho México
+26/11/12 13:02:19 14.219 -90.412   1 1.9 C  13 Km al suroeste de Cuilapa, Guatemala
+26/11/12 15:25:03 12.909 -90.352   3 3.1 C  94 Km al suroeste de Acajutla, El Salvador
