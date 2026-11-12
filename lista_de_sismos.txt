@@ -12571,3 +12571,4 @@
 26/11/11 18:32:57 12.585 -88.534   5 2.5 A  80 Km al suroeste de Playa El Cuco, El Salvador
 26/11/11 18:32:51 13.016 -88.437  52 1.7 C  37 Km al sur de Usulután, El Salvador
 26/11/11 20:48:38 14.387 -90.102   5 2.5 C  25 Km al noreste de Cuilapa, Guatemala
+26/11/11 22:08:00 13.798 -91.318  12 3.2 C  20 Km al sur de Tecojate, Guatemala
