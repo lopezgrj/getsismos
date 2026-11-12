@@ -12582,3 +12582,5 @@
 26/11/12 08:53:44 14.986 -89.561   2 3.2 C   4 Km al noroeste de Zacapa, Guatemala
 26/11/12 08:53:44 14.960 -89.563   2 3.4 C   3 Km al oeste de Zacapa, Guatemala
 26/11/12 09:34:41 14.134 -93.149  10 4.3 C 107 Km al suroeste de El Gancho México
+26/11/12 07:48:23 12.912 -89.056  27 2.7 C  46 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/11/12 09:34:42 14.106 -93.126  10 4.3 C 107 Km al suroeste de El Gancho México
