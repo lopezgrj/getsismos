@@ -12594,3 +12594,6 @@
 26/11/13 02:27:09 11.024 -83.589  23 3.3 A  18 Km al noreste de San juan de Nicaragua, Nicaragua
 26/11/13 02:26:21  7.129 -81.499   1 4.2 C  24 Km al sureste de Isla de Coiba, Panamá
 26/11/13 08:55:21 12.484 -87.055 128 3.7 C  12 Km al norte de Poneloya, Nicaragua
+26/11/13 08:55:20 12.476 -87.085 128 3.7 C  11 Km al norte de Corinto, Nicaragua
+26/11/13 08:56:28 13.455 -89.185   5 3.1 A  16 Km al norte de La Libertad, El Salvador
+26/11/13 09:12:39  9.679 -83.722  64 3.5 A  19 Km al norte de Tres de Junio, Costa Rica
