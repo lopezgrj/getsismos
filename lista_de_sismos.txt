@@ -12586,3 +12586,4 @@
 26/11/12 09:34:42 14.106 -93.126  10 4.3 C 107 Km al suroeste de El Gancho México
 26/11/12 13:02:19 14.219 -90.412   1 1.9 C  13 Km al suroeste de Cuilapa, Guatemala
 26/11/12 15:25:03 12.909 -90.352   3 3.1 C  94 Km al suroeste de Acajutla, El Salvador
+26/11/12 18:29:07 12.702 -87.343  99 1.6 C  11 Km al norte de Jiquilillo, Nicaragua
