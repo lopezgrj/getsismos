@@ -12616,3 +12616,7 @@
 26/11/14 03:00:29 14.367 -90.103  12 1.7 A  24 Km al noreste de Cuilapa, Guatemala
 26/11/14 03:19:21 14.290 -88.974   1 2.8 C  28 Km al sureste de Nueva Ocotepeque, Honduras
 26/11/14 05:21:09  7.406 -80.853   1 4.5 C  15 Km al noreste de Desembocadura de Rio Varadero, Panamá
+26/11/14 00:15:15  4.388 -76.630   5 3.8 C 237 Km al suroeste de Medellin, Colombia
+26/11/14 02:43:50 14.358 -90.136   9 2.9 C  20 Km al noreste de Cuilapa, Guatemala
+26/11/14 03:00:28 14.367 -90.114   5 1.8 C  23 Km al noreste de Cuilapa, Guatemala
+26/11/14 05:21:09  7.406 -80.853   1 4.6 C  15 Km al noreste de Desembocadura de Rio Varadero, Panamá
