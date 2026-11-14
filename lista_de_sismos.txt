@@ -12620,3 +12620,4 @@
 26/11/14 02:43:50 14.358 -90.136   9 2.9 C  20 Km al noreste de Cuilapa, Guatemala
 26/11/14 03:00:28 14.367 -90.114   5 1.8 C  23 Km al noreste de Cuilapa, Guatemala
 26/11/14 05:21:09  7.406 -80.853   1 4.6 C  15 Km al noreste de Desembocadura de Rio Varadero, Panamá
+26/11/14 07:28:49 11.211 -85.656 165 3.7 C  16 Km al noreste de El Ostional, San Juan del Sur, Nicaragua
