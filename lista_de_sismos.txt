@@ -12626,3 +12626,4 @@
 26/11/14 15:06:40 12.223 -87.410  35 3.0 C  39 Km al suroeste de Corinto, Nicaragua
 26/11/14 15:42:25 13.483 -91.037  30 3.5 C  51 Km al sur de Sipacate, Guatemala
 26/11/14 17:27:08 13.209 -90.581  21 3.1 C  76 Km al suroeste de Las Brisas, Guatemala
+26/11/14 17:37:42 14.067 -89.834   7 2.2 C  16 Km al norte de Ahuachapan, El Salvador
