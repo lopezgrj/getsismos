@@ -12611,3 +12611,4 @@
 26/11/13 22:07:26 11.675 -86.178 108 1.8 C  17 Km al norte de Huehuete, Nicaragua
 26/11/13 22:25:12 13.413 -90.291  20 3.6 C  45 Km al sur de Las Brisas, Guatemala
 26/11/13 22:56:37 13.481 -90.943   5 2.5 C  55 Km al sureste de Sipacate, Guatemala
+26/11/14 00:35:05 14.966 -89.547   6 3.6 C   1 Km al oeste de Zacapa, Guatemala
