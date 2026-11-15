@@ -12652,3 +12652,4 @@
 26/11/15 15:39:45 12.191 -88.178  23 2.5 C  96 Km al suroeste de Punta Cosigüina, Nicaragua
 26/11/15 15:57:02 12.528 -89.344  28 3.5 C  98 Km al suroeste de Delta del Rio Lempa, El Salvador
 26/11/15 16:37:05 12.888 -87.425  27 2.0 A   5 Km al suroeste de Desembocadura del Río Estero Real, Nicaragua
+26/11/15 16:37:05 12.888 -87.425  27 1.9 A   5 Km al suroeste de Desembocadura del Río Estero Real, Nicaragua
