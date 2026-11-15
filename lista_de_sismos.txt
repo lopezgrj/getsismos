@@ -12628,3 +12628,4 @@
 26/11/14 17:27:08 13.209 -90.581  21 3.1 C  76 Km al suroeste de Las Brisas, Guatemala
 26/11/14 17:37:42 14.067 -89.834   7 2.2 C  16 Km al norte de Ahuachapan, El Salvador
 26/11/14 18:50:19 12.046 -86.186   5 2.2 C   4 Km al noreste de Ticuantepe, Nicaragua
+26/11/14 18:50:18 12.049 -86.188   8 2.0 C   4 Km al noreste de Ticuantepe, Nicaragua
