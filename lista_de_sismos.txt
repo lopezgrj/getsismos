@@ -12649,3 +12649,4 @@
 26/11/15 15:25:56 12.601 -88.373  30 3.0 C  70 Km al suroeste de Playa El Cuco, El Salvador
 26/11/15 15:39:25  8.632 -83.426  16 2.9 C  23 Km al noreste de Playa Madrigal, Costa Rica
 26/11/15 15:43:50 12.019 -86.112   5 2.3 C   6 Km al norte de Masaya, Nicaragua
+26/11/15 15:39:45 12.191 -88.178  23 2.5 C  96 Km al suroeste de Punta Cosigüina, Nicaragua
