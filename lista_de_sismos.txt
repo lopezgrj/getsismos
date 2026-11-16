@@ -12658,3 +12658,5 @@
 26/11/15 22:24:14 13.690 -89.035   6 2.2 C   6 Km al oeste de Candelaria, El Salvador
 26/11/15 22:59:28 12.278 -87.424  54 2.6 A  36 Km al suroeste de Corinto, Nicaragua
 26/11/15 22:59:27 12.258 -87.441  38 2.6 C  39 Km al suroeste de Corinto, Nicaragua
+26/11/16 02:07:53  9.793 -83.781   5 3.6 C  17 Km al sureste de Cartago, Costa Rica
+26/11/16 02:22:06 14.368 -90.113   4 1.8 C  23 Km al noreste de Cuilapa, Guatemala
