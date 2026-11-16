@@ -12662,3 +12662,4 @@
 26/11/16 02:22:06 14.368 -90.113   4 1.8 C  23 Km al noreste de Cuilapa, Guatemala
 26/11/16 03:47:45  8.373 -83.091  15 2.6 C  21 Km al oeste de Laurel, Costa Rica
 26/11/16 04:20:13 11.877 -89.311   5 3.6 A 162 Km al sur de Delta del Rio Lempa, El Salvador
+26/11/16 06:12:58 11.865 -88.047  25 3.0 C 117 Km al suroeste de Jiquilillo, Nicaragua
