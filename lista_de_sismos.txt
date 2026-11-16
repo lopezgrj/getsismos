@@ -12672,3 +12672,4 @@
 26/11/16 11:50:14 13.275 -89.640  29 2.6 C  41 Km al sureste de Acajutla, El Salvador
 26/11/16 14:07:41  7.627 -80.097   3 3.2 C  25 Km al sureste de Las Tablas, Panamá
 26/11/16 14:36:20 14.353 -90.096   3 1.9 C  23 Km al oeste de Jutiapa, Guatemala
+26/11/16 17:38:08 11.775 -87.500  30 2.6 C  83 Km al suroeste de Las Penitas, Nicaragua
