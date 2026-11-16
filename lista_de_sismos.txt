@@ -12668,3 +12668,4 @@
 26/11/16 09:48:05 14.236 -93.164   1 3.5 C 104 Km al oeste de El Gancho México
 26/11/16 10:48:40 14.360 -90.118   4 2.8 C  22 Km al noreste de Cuilapa, Guatemala
 26/11/16 11:17:30 12.116 -87.803  52 3.1 A  79 Km al suroeste de Jiquilillo, Nicaragua
+26/11/16 11:17:23 11.794 -88.076  13 3.3 C 125 Km al suroeste de Corinto, Nicaragua
