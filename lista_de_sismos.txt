@@ -12656,3 +12656,4 @@
 26/11/15 16:36:48 12.354 -87.718  35 2.4 C  52 Km al suroeste de Jiquilillo, Nicaragua
 26/11/15 18:19:19 12.433 -87.749  31 2.8 C  47 Km al suroeste de Boca del Padre Ramos, Nicaragua
 26/11/15 22:24:14 13.690 -89.035   6 2.2 C   6 Km al oeste de Candelaria, El Salvador
+26/11/15 22:59:28 12.278 -87.424  54 2.6 A  36 Km al suroeste de Corinto, Nicaragua
