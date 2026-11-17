@@ -12679,3 +12679,4 @@
 26/11/16 20:15:18 10.598 -85.295  54 2.9 C  16 Km al norte de Liberia, Costa Rica
 26/11/16 22:13:25 13.546 -90.036  62 2.8 C  23 Km al oeste de Acajutla, El Salvador
 26/11/16 23:10:20 13.294 -89.973  36 2.4 C  36 Km al suroeste de Acajutla, El Salvador
+26/11/16 23:10:20 13.334 -89.961  36 2.7 C  32 Km al suroeste de Acajutla, El Salvador
