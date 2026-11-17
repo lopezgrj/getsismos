@@ -12676,3 +12676,4 @@
 26/11/16 17:38:08 11.749 -87.566  27 2.8 C  90 Km al suroeste de Las Penitas, Nicaragua
 26/11/16 19:38:22 12.110 -87.191  37 3.2 C  33 Km al suroeste de Las Penitas, Nicaragua
 26/11/16 20:15:18 10.620 -85.280  56 2.8 C  18 Km al norte de Liberia, Costa Rica
+26/11/16 20:15:18 10.598 -85.295  54 2.9 C  16 Km al norte de Liberia, Costa Rica
