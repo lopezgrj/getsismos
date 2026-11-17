@@ -12697,3 +12697,4 @@
 26/11/17 11:28:27  4.514 -76.748   3 2.3 C 232 Km al suroeste de Medellin, Colombia
 26/11/17 12:02:32  7.758 -80.503   1 4.9 C   6 Km al noreste de Macaracas, Panamá
 26/11/17 12:19:10  8.388 -83.098  13 2.9 C  22 Km al oeste de Laurel, Costa Rica
+26/11/17 12:19:10  8.385 -83.101  13 2.9 C  22 Km al oeste de Laurel, Costa Rica
