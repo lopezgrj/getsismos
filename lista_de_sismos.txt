@@ -12700,3 +12700,4 @@
 26/11/17 12:19:10  8.385 -83.101  13 2.9 C  22 Km al oeste de Laurel, Costa Rica
 26/11/17 06:40:29 13.128 -87.861 146 2.5 C  22 Km al norte de Intipucá, El Salvador
 26/11/17 13:43:07  5.308 -76.400  74 2.4 C 138 Km al suroeste de Medellin, Colombia
+26/11/17 15:58:39 13.421 -90.142  29 2.7 C  38 Km al suroeste de Acajutla, El Salvador
