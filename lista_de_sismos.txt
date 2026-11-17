@@ -12684,3 +12684,4 @@
 26/11/16 23:46:27 11.379 -85.980 119 2.5 C   6 Km al norte de El Gigante, Tola, Nicaragua
 26/11/17 01:40:55 11.347 -85.843 161 2.6 C  10 Km al oeste de La Virgen, Nicaragua
 26/11/17 02:06:09 13.140 -89.852  23 2.6 C  50 Km al sur de Acajutla, El Salvador
+26/11/17 06:04:36 11.387 -85.922 143 1.9 C  11 Km al suroeste de Rivas, Nicaragua
