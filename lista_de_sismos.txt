@@ -12720,3 +12720,4 @@
 26/11/18 05:30:30 11.356 -85.992  62 1.9 C   6 Km al sureste de El Gigante, Tola, Nicaragua
 26/11/18 06:11:45 10.272 -86.382  10 2.7 C  43 Km al oeste de Rosario, Costa Rica
 26/11/18 08:06:10 14.359 -90.215   1 2.8 C  13 Km al noreste de Cuilapa, Guatemala
+26/11/18 12:37:42 13.297 -90.794   4 3.2 C  71 Km al sur de Iztapa, Guatemala
