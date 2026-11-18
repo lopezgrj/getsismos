@@ -12708,3 +12708,5 @@
 26/11/17 22:58:52 10.680 -86.057  20 3.5 C  26 Km al suroeste de Caba Santa Elena, Costa Rica
 26/11/17 23:22:11 11.540 -86.264  57 2.4 C  11 Km al sureste de Huehuete, Nicaragua
 26/11/17 23:48:46 11.893 -87.255 113 2.5 A  58 Km al suroeste de Las Penitas, Nicaragua
+26/11/17 23:48:39 12.318 -86.922 178 1.5 C  12 Km al sureste de Las Penitas, Nicaragua
+26/11/18 00:18:02 12.918 -89.065  27 3.6 C  46 Km al suroeste de Delta del Rio Lempa, El Salvador
