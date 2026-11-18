@@ -12713,3 +12713,4 @@
 26/11/18 01:24:30 10.544 -86.339  15 3.5 A  45 Km al noroeste de Rosario, Costa Rica
 26/11/18 01:24:29 10.479 -86.369   7 3.6 C  45 Km al noroeste de Rosario, Costa Rica
 26/11/18 02:19:31 12.516 -88.172  17 3.6 C  68 Km al suroeste de Punta Cosigüina, Nicaragua
+26/11/18 02:33:16  8.845 -82.827  14 3.0 C   8 Km al suroeste de La Tigra, Costa Rica
