@@ -12737,3 +12737,4 @@
 26/11/19 04:30:40 12.774 -88.274  33 2.7 C  48 Km al sur de Playa El Cuco, El Salvador
 26/11/19 04:57:58 12.217 -89.775  61 3.5 C 149 Km al sur de La Libertad, El Salvador
 26/11/19 04:57:56 12.245 -89.728   9 3.5 C 145 Km al sur de La Libertad, El Salvador
+26/11/19 06:23:40  7.720 -81.622   1 4.4 C  16 Km al noreste de Isla de Coiba, Panamá
