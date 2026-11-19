@@ -12735,3 +12735,4 @@
 26/11/18 22:19:46 12.600 -88.962  27 3.0 C  74 Km al sur de Delta del Rio Lempa, El Salvador
 26/11/19 01:38:03 12.165 -87.913  21 3.2 C  81 Km al suroeste de Jiquilillo, Nicaragua
 26/11/19 04:30:40 12.774 -88.274  33 2.7 C  48 Km al sur de Playa El Cuco, El Salvador
+26/11/19 04:57:58 12.217 -89.775  61 3.5 C 149 Km al sur de La Libertad, El Salvador
