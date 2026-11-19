@@ -12731,3 +12731,5 @@
 26/11/18 19:37:38 12.929 -88.855  38 2.9 C  36 Km al sur de Delta del Rio Lempa, El Salvador
 26/11/18 19:48:46  9.483 -84.168  34 3.1 C   6 Km al norte de Puerto Quepos, Costa Rica
 26/11/18 22:16:23 12.072 -86.827 109 2.1 C  14 Km al oeste de El Transito, Nicaragua
+26/11/18 22:16:23 12.081 -86.823 107 2.1 C  13 Km al oeste de El Transito, Nicaragua
+26/11/18 22:19:46 12.600 -88.962  27 3.0 C  74 Km al sur de Delta del Rio Lempa, El Salvador
