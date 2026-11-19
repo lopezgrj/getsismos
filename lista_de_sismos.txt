@@ -12733,3 +12733,4 @@
 26/11/18 22:16:23 12.072 -86.827 109 2.1 C  14 Km al oeste de El Transito, Nicaragua
 26/11/18 22:16:23 12.081 -86.823 107 2.1 C  13 Km al oeste de El Transito, Nicaragua
 26/11/18 22:19:46 12.600 -88.962  27 3.0 C  74 Km al sur de Delta del Rio Lempa, El Salvador
+26/11/19 01:38:03 12.165 -87.913  21 3.2 C  81 Km al suroeste de Jiquilillo, Nicaragua
