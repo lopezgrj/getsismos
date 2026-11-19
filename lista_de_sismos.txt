@@ -12740,3 +12740,5 @@
 26/11/19 06:23:40  7.720 -81.622   1 4.4 C  16 Km al noreste de Isla de Coiba, Panamá
 26/11/19 10:28:43  8.578 -82.915  32 2.5 C   9 Km al noroeste de Paso Canoas, Costa Rica
 26/11/19 13:12:58 13.962 -89.892 220 2.4 C   7 Km al noroeste de Ahuachapan, El Salvador
+26/11/19 06:00:55 10.465 -86.362   5 2.5 C  44 Km al oeste de Rosario, Costa Rica
+26/11/19 13:12:57 13.619 -89.942 223 2.6 C  12 Km al oeste de Acajutla, El Salvador
