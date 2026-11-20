@@ -12744,3 +12744,5 @@
 26/11/19 13:12:57 13.619 -89.942 223 2.6 C  12 Km al oeste de Acajutla, El Salvador
 26/11/19 14:56:43 12.212 -87.181  59 3.3 A  24 Km al suroeste de Poneloya, Nicaragua
 26/11/19 14:56:42 12.153 -87.234  39 3.4 C  32 Km al suroeste de Poneloya, Nicaragua
+26/11/19 18:01:32 13.324 -89.952  26 2.7 C  32 Km al suroeste de Acajutla, El Salvador
+26/11/19 18:20:55 11.874 -87.348  24 2.5 C  65 Km al suroeste de Las Penitas, Nicaragua
