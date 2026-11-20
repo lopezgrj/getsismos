@@ -12757,3 +12757,4 @@
 26/11/20 02:17:26 12.636 -88.480  26 3.3 C  72 Km al suroeste de Playa El Cuco, El Salvador
 26/11/20 03:04:21 12.971 -89.557  18 3.5 C  62 Km al suroeste de La Libertad, El Salvador
 26/11/20 03:15:59 12.648 -88.351  28 2.4 C  64 Km al suroeste de Playa El Cuco, El Salvador
+26/11/20 03:31:03  9.742 -82.526   1 2.9 C  16 Km al norte de Las Delicias, Panamá
