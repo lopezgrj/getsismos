@@ -12755,3 +12755,4 @@
 26/11/20 01:01:22 13.218 -91.398  12 3.3 C  82 Km al sur de San Jose, Guatemala
 26/11/20 02:17:24 12.498 -88.553   5 3.5 A  89 Km al suroeste de Playa El Cuco, El Salvador
 26/11/20 02:17:26 12.636 -88.480  26 3.3 C  72 Km al suroeste de Playa El Cuco, El Salvador
+26/11/20 03:04:21 12.971 -89.557  18 3.5 C  62 Km al suroeste de La Libertad, El Salvador
