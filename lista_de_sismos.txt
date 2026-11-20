@@ -12765,3 +12765,5 @@
 26/11/20 05:02:31 13.758 -89.420   9 1.9 C  17 Km al noroeste de Santa Tecla, El Salvador
 26/11/20 08:15:32  7.591 -79.974   5 4.5 A  39 Km al sureste de Las Tablas, Panamá
 26/11/20 08:15:29  7.438 -80.007   1 4.6 C  47 Km al sureste de Las Tablas, Panamá
+26/11/20 12:00:34 14.477 -88.429   1 3.0 C  20 Km al sureste de Gracias, Lempira, Honduras
+26/11/20 12:31:53 14.137 -91.359  61 4.4 C  18 Km al norte de Tecojate, Guatemala
