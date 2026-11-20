@@ -12747,3 +12747,4 @@
 26/11/19 18:01:32 13.324 -89.952  26 2.7 C  32 Km al suroeste de Acajutla, El Salvador
 26/11/19 18:20:55 11.874 -87.348  24 2.5 C  65 Km al suroeste de Las Penitas, Nicaragua
 26/11/19 18:41:21 13.873 -91.843  28 3.7 C  35 Km al suroeste de Tulate, Guatemala
+26/11/19 18:41:20 13.898 -91.892  33 3.7 C  35 Km al suroeste de Tulate, Guatemala
