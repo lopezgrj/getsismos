@@ -12764,3 +12764,4 @@
 26/11/20 04:31:31 13.879 -91.652  39 3.1 C  23 Km al suroeste de El Semillero, Guatemala
 26/11/20 05:02:31 13.758 -89.420   9 1.9 C  17 Km al noroeste de Santa Tecla, El Salvador
 26/11/20 08:15:32  7.591 -79.974   5 4.5 A  39 Km al sureste de Las Tablas, Panamá
+26/11/20 08:15:29  7.438 -80.007   1 4.6 C  47 Km al sureste de Las Tablas, Panamá
