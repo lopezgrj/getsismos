@@ -12778,3 +12778,5 @@
 26/11/21 01:27:04 13.328 -87.961   9 1.5 C  13 Km al oeste de La Union, El Salvador
 26/11/21 03:59:53 13.706 -90.828  21 3.0 A  28 Km al suroeste de Iztapa, Guatemala
 26/11/21 04:01:20 12.627 -85.585  98 3.3 A  19 Km al noreste de Boaco, Nicaragua
+26/11/21 03:59:51 13.663 -90.937  42 3.1 C  37 Km al sureste de Sipacate, Guatemala
+26/11/21 04:01:20 12.627 -85.585  98 3.2 A  19 Km al noreste de Boaco, Nicaragua
