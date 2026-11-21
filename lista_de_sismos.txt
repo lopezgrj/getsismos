@@ -12787,3 +12787,4 @@
 26/11/21 10:15:12 12.658 -88.340  30 3.7 C  62 Km al suroeste de Playa El Cuco, El Salvador
 26/11/21 10:15:12 12.669 -88.345  33 3.7 C  62 Km al suroeste de Playa El Cuco, El Salvador
 26/11/21 11:14:19  7.724 -80.887   1 4.4 C  36 Km al oeste de Llano de Piedras, Panamá
+26/11/21 11:14:15  7.448 -80.724   1 4.8 C  28 Km al noreste de Desembocadura de Rio Varadero, Panamá
