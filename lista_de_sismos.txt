@@ -12781,3 +12781,4 @@
 26/11/21 03:59:51 13.663 -90.937  42 3.1 C  37 Km al sureste de Sipacate, Guatemala
 26/11/21 04:01:20 12.627 -85.585  98 3.2 A  19 Km al noreste de Boaco, Nicaragua
 26/11/21 05:33:47 13.993 -93.213   1 4.1 C 121 Km al suroeste de El Gancho México
+26/11/21 05:33:47 13.993 -93.213   1 4.2 C 121 Km al suroeste de El Gancho México
