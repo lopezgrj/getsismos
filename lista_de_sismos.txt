@@ -12783,3 +12783,5 @@
 26/11/21 05:33:47 13.993 -93.213   1 4.1 C 121 Km al suroeste de El Gancho México
 26/11/21 05:33:47 13.993 -93.213   1 4.2 C 121 Km al suroeste de El Gancho México
 26/11/21 09:54:30  7.419 -81.047   1 4.4 C  20 Km al noroeste de Desembocadura de Rio Varadero, Panamá
+26/11/21 09:59:48 10.896 -86.943  30 3.1 C 105 Km al suroeste de Huehuete, Nicaragua
+26/11/21 10:15:12 12.658 -88.340  30 3.7 C  62 Km al suroeste de Playa El Cuco, El Salvador
