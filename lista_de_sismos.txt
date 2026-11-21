@@ -12776,3 +12776,5 @@
 26/11/21 00:51:18 13.648 -90.876  15 4.6 C  36 Km al suroeste de Iztapa, Guatemala
 26/11/21 01:11:33  7.037 -82.471   3 3.5 C  78 Km al oeste de Isla Jicarón, Panamá
 26/11/21 01:27:04 13.328 -87.961   9 1.5 C  13 Km al oeste de La Union, El Salvador
+26/11/21 03:59:53 13.706 -90.828  21 3.0 A  28 Km al suroeste de Iztapa, Guatemala
+26/11/21 04:01:20 12.627 -85.585  98 3.3 A  19 Km al noreste de Boaco, Nicaragua
