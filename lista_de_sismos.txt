@@ -12771,3 +12771,4 @@
 26/11/20 19:38:42  9.249 -83.896  30 2.8 C   4 Km al oeste de Dominical, Costa Rica
 26/11/20 22:41:44  8.898 -83.234  25 1.8 C  49 Km al oeste de La Tigra, Costa Rica
 26/11/20 23:23:27 15.950 -93.538  88 3.6 C  14 Km al noreste de Cayetano, México
+26/11/20 23:55:16 15.571 -87.200   4 2.7 C  35 Km al sureste de Tela, Honduras
