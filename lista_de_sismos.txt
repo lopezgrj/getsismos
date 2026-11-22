@@ -12790,3 +12790,4 @@
 26/11/21 11:14:15  7.448 -80.724   1 4.8 C  28 Km al noreste de Desembocadura de Rio Varadero, Panamá
 26/11/21 11:14:15  7.448 -80.724   1 4.9 C  28 Km al noreste de Desembocadura de Rio Varadero, Panamá
 26/11/21 19:10:54  8.078 -83.412  12 3.6 C  43 Km al sur de Playa Madrigal, Costa Rica
+26/11/21 20:34:44  8.308 -82.784  19 2.7 C   0 Km al norte de Manglares de Majagual, Panamá
