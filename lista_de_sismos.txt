@@ -12804,3 +12804,4 @@
 26/11/22 04:17:51  9.414 -84.594   2 2.8 C  23 Km al sur de Jacó, Costa Rica
 26/11/22 04:41:55  9.513 -83.841  33 3.4 C  20 Km al sur de Tres de Junio, Costa Rica
 26/11/22 06:36:22 12.832 -89.678  17 2.7 C  82 Km al suroeste de La Libertad, El Salvador
+26/11/22 11:02:32 13.471 -91.138   4 3.4 C  51 Km al sur de Sipacate, Guatemala
