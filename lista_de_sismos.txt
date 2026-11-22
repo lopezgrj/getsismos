@@ -12807,3 +12807,4 @@
 26/11/22 11:02:32 13.471 -91.138   4 3.4 C  51 Km al sur de Sipacate, Guatemala
 26/11/22 09:00:12 12.428 -86.540   1 0.0 1   0 al no te de Volcán Momotombo, Nicaragua
 26/11/22 13:28:46 13.442 -90.022  28 2.9 C  26 Km al suroeste de Acajutla, El Salvador
+26/11/22 16:02:30  8.449 -83.064  29 2.6 C  17 Km al oeste de Laurel, Costa Rica
