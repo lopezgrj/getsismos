@@ -12810,3 +12810,4 @@
 26/11/22 16:02:30  8.449 -83.064  29 2.6 C  17 Km al oeste de Laurel, Costa Rica
 26/11/22 13:28:46 13.440 -90.023  28 2.9 C  27 Km al suroeste de Acajutla, El Salvador
 26/11/22 17:56:26 13.010 -89.115   1 3.0 C  41 Km al suroeste de Delta del Rio Lempa, El Salvador
+26/11/22 20:20:04 13.752 -90.622  32 2.9 C  22 Km al sureste de Iztapa, Guatemala
