@@ -12837,3 +12837,4 @@
 26/11/24 06:51:25 14.489 -93.278  24 3.6 C 110 Km al suroeste de Pueblo Nuevo, México
 26/11/24 09:00:32  8.951 -82.920  14 2.9 C  15 Km al oeste de La Tigra, Costa Rica
 26/11/24 09:11:37  9.750 -84.322  36 2.6 C   5 Km al sur de Candelarita, Puriscal, Costa Rica
+26/11/24 09:25:11 12.685 -87.259 139 2.1 C  16 Km al noroeste de Chinandega, Nicaragua
