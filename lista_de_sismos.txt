@@ -12830,3 +12830,4 @@
 26/11/24 03:46:44 12.710 -88.189  33 2.2 C  52 Km al sur de Playa El Cuco, El Salvador
 26/11/24 05:51:41 14.454 -93.358   1 5.6 C 119 Km al suroeste de Pueblo Nuevo, México
 26/11/24 05:51:41 14.480 -93.303   6 5.6 C 113 Km al suroeste de Pueblo Nuevo, México
+26/11/24 06:42:19 14.468 -93.287  12 3.9 C 112 Km al oeste de El Gancho México
