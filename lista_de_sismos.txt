@@ -12827,3 +12827,4 @@
 26/11/24 01:44:39 13.609 -88.682   7 2.6 C  12 Km al norte de San Vicente, El Salvador
 26/11/24 02:54:59 12.419 -87.613  38 2.4 C  39 Km al suroeste de Jiquilillo, Nicaragua
 26/11/24 03:46:34 12.293 -88.973   3 3.0 A 108 Km al sur de Delta del Rio Lempa, El Salvador
+26/11/24 03:46:44 12.710 -88.189  33 2.2 C  52 Km al sur de Playa El Cuco, El Salvador
