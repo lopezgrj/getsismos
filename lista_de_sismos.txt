@@ -12840,3 +12840,4 @@
 26/11/24 09:25:11 12.685 -87.259 139 2.1 C  16 Km al noroeste de Chinandega, Nicaragua
 26/11/24 09:53:03 12.769 -88.670  40 3.1 C  57 Km al sur de Delta del Rio Lempa, El Salvador
 26/11/24 10:19:18  8.687 -82.614  12 3.3 C  15 Km al norte de Salitral, Panamá
+26/11/24 12:49:15 13.633 -91.003   3 3.4 C  36 Km al sureste de Sipacate, Guatemala
