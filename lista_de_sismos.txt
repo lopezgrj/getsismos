@@ -12834,3 +12834,4 @@
 26/11/24 06:57:52 12.230 -87.192  59 2.3 C  23 Km al suroeste de Poneloya, Nicaragua
 26/11/24 07:20:08 13.443 -91.056  45 4.0 C  55 Km al sur de Sipacate, Guatemala
 26/11/24 07:20:09 13.460 -91.037  42 4.1 C  54 Km al sur de Sipacate, Guatemala
+26/11/24 06:51:25 14.489 -93.278  24 3.6 C 110 Km al suroeste de Pueblo Nuevo, México
