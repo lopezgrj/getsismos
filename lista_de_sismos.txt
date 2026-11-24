@@ -12826,3 +12826,4 @@
 26/11/24 00:42:46 13.120 -89.931  19 2.5 C  53 Km al sur de Acajutla, El Salvador
 26/11/24 01:44:39 13.609 -88.682   7 2.6 C  12 Km al norte de San Vicente, El Salvador
 26/11/24 02:54:59 12.419 -87.613  38 2.4 C  39 Km al suroeste de Jiquilillo, Nicaragua
+26/11/24 03:46:34 12.293 -88.973   3 3.0 A 108 Km al sur de Delta del Rio Lempa, El Salvador
