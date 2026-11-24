@@ -12831,3 +12831,4 @@
 26/11/24 05:51:41 14.454 -93.358   1 5.6 C 119 Km al suroeste de Pueblo Nuevo, México
 26/11/24 05:51:41 14.480 -93.303   6 5.6 C 113 Km al suroeste de Pueblo Nuevo, México
 26/11/24 06:42:19 14.468 -93.287  12 3.9 C 112 Km al oeste de El Gancho México
+26/11/24 06:57:52 12.230 -87.192  59 2.3 C  23 Km al suroeste de Poneloya, Nicaragua
