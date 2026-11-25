@@ -12854,3 +12854,6 @@
 26/11/24 21:40:40 12.060 -88.056 117 2.6 C 100 Km al suroeste de Jiquilillo, Nicaragua
 26/11/24 22:25:07 15.536 -93.768  46 3.5 C  37 Km al suroeste de Buenavista, México
 26/11/24 23:43:32 12.122 -87.900  12 2.6 A  84 Km al suroeste de Jiquilillo, Nicaragua
+26/11/24 23:43:32 12.091 -87.872  20 2.6 C  85 Km al suroeste de Jiquilillo, Nicaragua
+26/11/25 01:01:54 13.982 -93.044  14 3.9 C 107 Km al suroeste de El Gancho México
+26/11/25 01:23:26 12.583 -88.000  25 2.6 C  50 Km al suroeste de Punta Cosigüina, Nicaragua
