@@ -12849,3 +12849,4 @@
 26/11/24 16:19:10 13.915 -91.399   9 3.2 C   8 Km al suroeste de Tecojate, Guatemala
 26/11/24 18:45:18 14.108 -91.844  30 3.2 C  15 Km al oeste de Tulate, Guatemala
 26/11/24 19:45:30 11.895 -86.721  57 2.4 C  18 Km al sur de El Transito, Nicaragua
+26/11/24 21:06:31 14.231 -92.875   5 3.3 C  76 Km al suroeste de El Gancho México
