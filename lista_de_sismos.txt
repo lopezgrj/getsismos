@@ -12857,3 +12857,4 @@
 26/11/24 23:43:32 12.091 -87.872  20 2.6 C  85 Km al suroeste de Jiquilillo, Nicaragua
 26/11/25 01:01:54 13.982 -93.044  14 3.9 C 107 Km al suroeste de El Gancho México
 26/11/25 01:23:26 12.583 -88.000  25 2.6 C  50 Km al suroeste de Punta Cosigüina, Nicaragua
+26/11/25 01:46:51 11.258 -86.977  29 2.4 A  77 Km al suroeste de Pochomil, Nicaragua
