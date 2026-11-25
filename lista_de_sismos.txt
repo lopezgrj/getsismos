@@ -12872,3 +12872,4 @@
 26/11/25 12:00:32 11.072 -86.516  17 2.8 C  61 Km al suroeste de El Astillero, Nicaragua
 26/11/25 12:22:38 12.224 -87.397  36 2.9 C  38 Km al suroeste de Corinto, Nicaragua
 26/11/25 12:00:32 11.068 -86.515  17 2.8 C  61 Km al suroeste de El Astillero, Nicaragua
+26/11/25 13:18:46 12.765 -88.487  26 3.0 C  61 Km al suroeste de Playa El Cuco, El Salvador
