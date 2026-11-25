@@ -12867,3 +12867,5 @@
 26/11/25 10:14:45 10.244 -84.372   5 3.3 C  26 Km al oeste de Vara Blanca, Costa Rica
 26/11/25 11:08:31 14.249 -93.225  20 4.0 C 110 Km al oeste de El Gancho México
 26/11/25 11:13:32  7.856 -82.659  54 3.5 A  36 Km al sureste de Limones, Distrito Barú, Panamá
+26/11/25 11:08:31 14.218 -93.200  12 4.2 C 109 Km al oeste de El Gancho México
+26/11/25 11:13:26  7.767 -82.168  22 3.7 C  41 Km al noroeste de Isla de Coiba, Panamá
