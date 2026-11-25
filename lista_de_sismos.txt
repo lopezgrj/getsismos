@@ -12859,3 +12859,6 @@
 26/11/25 01:23:26 12.583 -88.000  25 2.6 C  50 Km al suroeste de Punta Cosigüina, Nicaragua
 26/11/25 01:46:51 11.258 -86.977  29 2.4 A  77 Km al suroeste de Pochomil, Nicaragua
 26/11/25 01:46:47 11.166 -87.186   9 2.9 C 100 Km al suroeste de Pochomil, Nicaragua
+26/11/25 03:52:11  7.037 -80.415  13 3.3 C  41 Km al sur de Tonosí, Panamá
+26/11/25 04:26:44  7.544 -80.617   7 3.4 C  14 Km al suroeste de Llano de Piedras, Panamá
+26/11/25 04:35:19  7.610 -80.696  10 3.0 C  16 Km al oeste de Llano de Piedras, Panamá
