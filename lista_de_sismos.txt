@@ -12847,3 +12847,4 @@
 26/11/24 14:52:07 12.279 -87.520  40 2.0 C  44 Km al suroeste de Corinto, Nicaragua
 26/11/24 16:10:48 12.557 -90.469  20 3.2 C 134 Km al suroeste de Acajutla, El Salvador
 26/11/24 16:19:10 13.915 -91.399   9 3.2 C   8 Km al suroeste de Tecojate, Guatemala
+26/11/24 18:45:18 14.108 -91.844  30 3.2 C  15 Km al oeste de Tulate, Guatemala
