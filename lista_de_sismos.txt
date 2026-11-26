@@ -12892,3 +12892,5 @@
 26/11/26 11:26:07 13.591 -88.645   8 2.5 C  12 Km al oeste de Vista Hermosa, El Salvador
 26/11/26 12:32:53  0.513 -79.551  54 4.0 A  55 Km al sur de Esmeraldas, Ecuador
 26/11/26 12:32:53  0.513 -79.551  54 4.0 C  55 Km al sur de Esmeraldas, Ecuador
+26/11/26 12:46:11 10.240 -84.369   5 2.6 C  25 Km al oeste de Vara Blanca, Costa Rica
+26/11/26 14:06:46 12.289 -87.497  37 2.3 C  41 Km al suroeste de Corinto, Nicaragua
