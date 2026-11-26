@@ -12879,3 +12879,4 @@
 26/11/25 21:30:28 14.208 -93.170   8 5.0 C 106 Km al oeste de El Gancho México
 26/11/25 21:58:39 12.863 -88.079  63 4.3 C  35 Km al sur de Playa El Cuco, El Salvador
 26/11/25 21:58:39 12.872 -88.077  66 4.3 C  34 Km al sur de Playa El Cuco, El Salvador
+26/11/25 23:27:13 10.259 -84.371   6 3.7 C  26 Km al noroeste de Vara Blanca, Costa Rica
