@@ -12886,3 +12886,4 @@
 26/11/26 06:18:26 13.096 -90.123  10 3.2 C  63 Km al suroeste de Acajutla, El Salvador
 26/11/26 06:24:48 12.908 -89.966  18 4.6 C  77 Km al sur de Acajutla, El Salvador
 26/11/26 06:24:48 12.902 -89.968  18 4.5 C  78 Km al sur de Acajutla, El Salvador
+26/11/26 08:22:32 12.895 -88.968  34 3.4 C  43 Km al sur de Delta del Rio Lempa, El Salvador
