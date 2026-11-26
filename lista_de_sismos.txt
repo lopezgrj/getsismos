@@ -12897,3 +12897,4 @@
 26/11/26 14:17:16 12.457 -87.513  42 2.3 C  31 Km al sur de Jiquilillo, Nicaragua
 26/11/26 15:04:13  0.954 -77.251   7 2.8 C 268 Km al norte de Esmeraldas, Ecuador
 26/11/26 17:25:51 12.489 -87.725  34 3.0 C  41 Km al suroeste de Boca del Padre Ramos, Nicaragua
+26/11/26 17:25:50 12.409 -87.762  34 3.1 C  50 Km al suroeste de Boca del Padre Ramos, Nicaragua
