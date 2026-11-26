@@ -12890,3 +12890,4 @@
 26/11/26 09:43:23 11.916 -86.374 155 2.5 C  11 Km al suroeste de El Crucero, Nicaragua
 26/11/26 09:43:23 11.916 -86.373 154 2.5 C  11 Km al suroeste de El Crucero, Nicaragua
 26/11/26 11:26:07 13.591 -88.645   8 2.5 C  12 Km al oeste de Vista Hermosa, El Salvador
+26/11/26 12:32:53  0.513 -79.551  54 4.0 A  55 Km al sur de Esmeraldas, Ecuador
