@@ -12888,3 +12888,4 @@
 26/11/26 06:24:48 12.902 -89.968  18 4.5 C  78 Km al sur de Acajutla, El Salvador
 26/11/26 08:22:32 12.895 -88.968  34 3.4 C  43 Km al sur de Delta del Rio Lempa, El Salvador
 26/11/26 09:43:23 11.916 -86.374 155 2.5 C  11 Km al suroeste de El Crucero, Nicaragua
+26/11/26 09:43:23 11.916 -86.373 154 2.5 C  11 Km al suroeste de El Crucero, Nicaragua
