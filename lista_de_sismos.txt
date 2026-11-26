@@ -12877,3 +12877,4 @@
 26/11/25 14:55:14 12.595 -88.249  34 4.2 C  66 Km al sur de Playa El Cuco, El Salvador
 26/11/25 20:07:53 14.214 -93.214  11 3.8 C 110 Km al oeste de El Gancho México
 26/11/25 21:30:28 14.208 -93.170   8 5.0 C 106 Km al oeste de El Gancho México
+26/11/25 21:58:39 12.863 -88.079  63 4.3 C  35 Km al sur de Playa El Cuco, El Salvador
