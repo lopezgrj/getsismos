@@ -12910,3 +12910,5 @@
 26/11/27 06:37:34 13.155 -89.596  27 3.6 C  47 Km al suroeste de La Libertad, El Salvador
 26/11/26 23:30:42 12.589 -88.120  29 2.5 C  59 Km al suroeste de Punta Cosigüina, Nicaragua
 26/11/27 04:32:21 13.575 -90.670  20 2.5 C  40 Km al sur de Iztapa, Guatemala
+26/11/26 23:30:42 12.586 -88.122  30 2.6 C  59 Km al suroeste de Punta Cosigüina, Nicaragua
+26/11/27 07:39:13 11.439 -88.166  24 3.1 C 159 Km al suroeste de Corinto, Nicaragua
