@@ -12901,3 +12901,4 @@
 26/11/26 18:09:25 12.653 -87.628  91 2.6 C  21 Km al suroeste de Boca del Padre Ramos, Nicaragua
 26/11/26 18:44:22 11.973 -87.403  33 2.9 C  60 Km al suroeste de Poneloya, Nicaragua
 26/11/26 18:44:22 11.996 -87.403  32 2.9 C  58 Km al suroeste de Poneloya, Nicaragua
+26/11/26 20:06:26 13.218 -87.775 183 2.7 C  15 Km al sureste de La Union, El Salvador
