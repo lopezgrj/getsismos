@@ -12919,3 +12919,4 @@
 26/11/27 13:03:34 13.477 -90.515  18 3.2 C  47 Km al suroeste de Las Brisas, Guatemala
 26/11/27 13:08:44 15.995 -95.048  16 4.7 C  27 Km al sureste de Salina Cruz, México
 26/11/27 14:30:00 11.789 -86.109 136 2.4 C  15 Km al oeste de Volcán Mombacho, Nicaragua
+26/11/27 17:15:06 12.718 -88.910  24 4.3 C  60 Km al sur de Delta del Rio Lempa, El Salvador
