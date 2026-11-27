@@ -12906,3 +12906,4 @@
 26/11/26 22:55:41  7.470 -79.805   1 4.3 C  62 Km al sureste de Las Tablas, Panamá
 26/11/26 23:59:08 15.702 -88.361   1 4.2 C  24 Km al norte de Puerto Barrios, Guatemala
 26/11/27 02:16:46 13.922 -91.432  49 3.2 C  10 Km al suroeste de Tecojate, Guatemala
+26/11/27 06:37:34 13.156 -89.596  27 3.6 C  47 Km al suroeste de La Libertad, El Salvador
