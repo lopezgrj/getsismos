@@ -12912,3 +12912,10 @@
 26/11/27 04:32:21 13.575 -90.670  20 2.5 C  40 Km al sur de Iztapa, Guatemala
 26/11/26 23:30:42 12.586 -88.122  30 2.6 C  59 Km al suroeste de Punta Cosigüina, Nicaragua
 26/11/27 07:39:13 11.439 -88.166  24 3.1 C 159 Km al suroeste de Corinto, Nicaragua
+26/11/27 09:41:18  8.623 -83.004  26 3.0 C  20 Km al noroeste de Paso Canoas, Costa Rica
+26/11/27 10:27:33 12.017 -87.883  20 2.6 C  93 Km al suroeste de Jiquilillo, Nicaragua
+26/11/27 10:52:36 15.149 -92.142 138 3.0 C  30 Km al noreste de Tapachula, México
+26/11/27 11:36:21  7.594 -80.680   3 2.5 C  15 Km al suroeste de Llano de Piedras, Panamá
+26/11/27 13:03:34 13.477 -90.515  18 3.2 C  47 Km al suroeste de Las Brisas, Guatemala
+26/11/27 13:08:44 15.995 -95.048  16 4.7 C  27 Km al sureste de Salina Cruz, México
+26/11/27 14:30:00 11.789 -86.109 136 2.4 C  15 Km al oeste de Volcán Mombacho, Nicaragua
