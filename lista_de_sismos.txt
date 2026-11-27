@@ -12908,3 +12908,5 @@
 26/11/27 02:16:46 13.922 -91.432  49 3.2 C  10 Km al suroeste de Tecojate, Guatemala
 26/11/27 06:37:34 13.156 -89.596  27 3.6 C  47 Km al suroeste de La Libertad, El Salvador
 26/11/27 06:37:34 13.155 -89.596  27 3.6 C  47 Km al suroeste de La Libertad, El Salvador
+26/11/26 23:30:42 12.589 -88.120  29 2.5 C  59 Km al suroeste de Punta Cosigüina, Nicaragua
+26/11/27 04:32:21 13.575 -90.670  20 2.5 C  40 Km al sur de Iztapa, Guatemala
