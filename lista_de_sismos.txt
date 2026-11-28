@@ -12927,3 +12927,4 @@
 26/11/28 02:00:37 12.707 -88.176  32 2.7 C  52 Km al sur de Playa El Cuco, El Salvador
 26/11/28 02:09:03  9.040 -84.006   8 3.3 C  28 Km al suroeste de Dominical, Costa Rica
 26/11/28 02:47:32  9.709 -84.033   7 3.0 C  15 Km al oeste de Tres de Junio, Costa Rica
+26/11/28 03:28:04 12.143 -87.422  26 3.5 C  47 Km al suroeste de Corinto, Nicaragua
