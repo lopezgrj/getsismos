@@ -12931,3 +12931,4 @@
 26/11/28 03:28:04 12.143 -87.422  26 3.4 C  47 Km al suroeste de Corinto, Nicaragua
 26/11/28 06:52:24 10.979 -86.951  29 3.5 C  98 Km al suroeste de Casares, Nicaragua
 26/11/28 07:52:48  7.773 -81.866   2 3.4 C  19 Km al noroeste de Isla de Coiba, Panamá
+26/11/28 12:09:38 13.536 -90.681  21 4.0 C  44 Km al sur de Iztapa, Guatemala
