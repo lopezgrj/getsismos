@@ -12921,3 +12921,4 @@
 26/11/27 14:30:00 11.789 -86.109 136 2.4 C  15 Km al oeste de Volcán Mombacho, Nicaragua
 26/11/27 17:15:06 12.718 -88.910  24 4.3 C  60 Km al sur de Delta del Rio Lempa, El Salvador
 26/11/27 18:18:30 12.561 -87.947  30 2.8 C  48 Km al suroeste de Punta Cosigüina, Nicaragua
+26/11/27 22:36:40 12.369 -89.175  31 3.0 C 106 Km al sur de Delta del Rio Lempa, El Salvador
