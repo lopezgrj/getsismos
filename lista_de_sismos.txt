@@ -12932,3 +12932,5 @@
 26/11/28 06:52:24 10.979 -86.951  29 3.5 C  98 Km al suroeste de Casares, Nicaragua
 26/11/28 07:52:48  7.773 -81.866   2 3.4 C  19 Km al noroeste de Isla de Coiba, Panamá
 26/11/28 12:09:38 13.536 -90.681  21 4.0 C  44 Km al sur de Iztapa, Guatemala
+26/11/28 12:09:38 13.536 -90.681  21 3.9 C  44 Km al sur de Iztapa, Guatemala
+26/11/28 13:24:02 12.446 -88.161  20 2.7 C  73 Km al suroeste de Punta Cosigüina, Nicaragua
