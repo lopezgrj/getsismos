@@ -12924,3 +12924,5 @@
 26/11/27 22:36:40 12.369 -89.175  31 3.0 C 106 Km al sur de Delta del Rio Lempa, El Salvador
 26/11/27 22:51:47 12.897 -88.088  67 2.7 C  31 Km al sur de Playa El Cuco, El Salvador
 26/11/28 01:41:11 15.733 -87.443   1 3.1 C   5 Km al sur de Tela, Honduras
+26/11/28 02:00:37 12.707 -88.176  32 2.7 C  52 Km al sur de Playa El Cuco, El Salvador
+26/11/28 02:09:03  9.040 -84.006   8 3.3 C  28 Km al suroeste de Dominical, Costa Rica
